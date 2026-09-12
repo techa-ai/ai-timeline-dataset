@@ -122,5 +122,6 @@ beyond short factual summaries.
 
 - [presentofai.com](https://presentofai.com) - the daily timeline this is drawn from
 - [Hugging Face mirror](https://huggingface.co/datasets/presentofai/ai-timeline) - same data, with a dataset viewer
+- [Kaggle mirror](https://www.kaggle.com/datasets/presentofai/ai-timeline-dataset)
 - [RSS feed](https://presentofai.com/feed.xml)
 - [The Sunny Nights](https://presentofai.com/podcast) - nightly AI news show
