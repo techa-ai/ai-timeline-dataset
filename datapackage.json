@@ -1,0 +1,124 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "ai-timeline-dataset",
+  "version": "1.0.0",
+  "title": "AI Timeline Dataset",
+  "description": "An open, dated, source-linked record of what artificial intelligence actually did from July 2025 onward. Every row is a single real-world event with a primary source attached.",
+  "homepage": "https://github.com/techa-ai/ai-timeline-dataset",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Present of AI",
+      "path": "https://presentofai.com",
+      "roles": [
+        "author",
+        "maintainer"
+      ]
+    }
+  ],
+  "keywords": [
+    "ai",
+    "artificial-intelligence",
+    "timeline",
+    "news",
+    "open-data",
+    "robotics",
+    "regulation"
+  ],
+  "resources": [
+    {
+      "name": "ai-timeline",
+      "path": "data/ai-timeline.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "bytes": 1463161,
+      "hash": "sha256:7b3886abc7063b5f366a92643398f8d31ae38021bb640f59b976c3f8c8aca253",
+      "dialect": {
+        "header": true,
+        "delimiter": ","
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Stable identifier; also the permalink slug"
+          },
+          {
+            "name": "event_date",
+            "type": "date",
+            "description": "The day the event happened, not the day it was reported",
+            "format": "%Y-%m-%d"
+          },
+          {
+            "name": "realm",
+            "type": "string",
+            "description": "virtual (software, models, chips), terrestrial (robotics, physical deployment, energy), or space"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "One-line description of the event"
+          },
+          {
+            "name": "summary",
+            "type": "string",
+            "description": "Short factual summary, model-written from the linked source"
+          },
+          {
+            "name": "actor",
+            "type": "string",
+            "description": "Primary organisation or person involved"
+          },
+          {
+            "name": "ticker",
+            "type": "string",
+            "description": "Stock ticker where the actor is listed, else empty"
+          },
+          {
+            "name": "materiality",
+            "type": "number",
+            "description": "0-1 significance estimate, model-assigned; a sort key, not a measurement"
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "The primary source the event was extracted from"
+          },
+          {
+            "name": "source_title",
+            "type": "string",
+            "description": "Title of that source document"
+          },
+          {
+            "name": "publisher",
+            "type": "string",
+            "description": "Publisher of the source"
+          },
+          {
+            "name": "permalink",
+            "type": "string",
+            "description": "The event page on presentofai.com"
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      }
+    },
+    {
+      "name": "ai-timeline-json",
+      "path": "data/ai-timeline.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}
