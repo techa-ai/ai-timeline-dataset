@@ -2,6 +2,11 @@
 license: cc-by-4.0
 language:
   - en
+  - hi
+  - ja
+  - es
+  - de
+  - fr
 tags:
   - ai
   - news
@@ -26,7 +31,7 @@ An open, dated, source-linked record of what artificial intelligence actually
 did between July 2025 and today. Every row is a single real-world event with a
 primary source attached.
 
-**2,882 events · 699 distinct publishers · 2025-07-01 to 2026-09-19**
+**2,890 events · 706 distinct publishers · 2025-07-01 to 2026-09-19**
 
 Maintained by [Present of AI](https://presentofai.com), a daily AI news site.
 Updated as the timeline grows.
@@ -45,8 +50,8 @@ versus data centres*, without re-reading a year of headlines.
 
 | File | Rows | Description |
 |------|------|-------------|
-| `data/ai-timeline.csv` | 2,882 | Full dataset, CSV with header |
-| `data/ai-timeline.json` | 2,882 | Same data as a JSON array |
+| `data/ai-timeline.csv` | 2,890 | Full dataset, CSV with header |
+| `data/ai-timeline.json` | 2,890 | Same data as a JSON array |
 
 ## Schema
 
@@ -145,5 +150,14 @@ beyond short factual summaries.
 - [presentofai.com](https://presentofai.com) - the daily timeline this is drawn from
 - [Hugging Face mirror](https://huggingface.co/datasets/presentofai/ai-timeline) - same data, with a dataset viewer
 - [Kaggle mirror](https://www.kaggle.com/datasets/presentofai/ai-timeline-dataset)
-- [RSS feed](https://presentofai.com/feed.xml)
+- [Codeberg repository](https://codeberg.org/presentofai/ai-timeline-dataset) - European open source mirror
 - [The Sunny Nights](https://presentofai.com/podcast) - nightly AI news show
+
+### Multilingual News Portals & RSS Feeds
+
+- [हिन्दी News](https://presentofai.com/hi/news) | [Hindi RSS Feed](https://presentofai.com/hi/feed.xml)
+- [日本語 News](https://presentofai.com/ja/news) | [Japanese RSS Feed](https://presentofai.com/ja/feed.xml)
+- [Español News](https://presentofai.com/es/news) | [Spanish RSS Feed](https://presentofai.com/es/feed.xml)
+- [Deutsch News](https://presentofai.com/de/news) | [German RSS Feed](https://presentofai.com/de/feed.xml)
+- [Français News](https://presentofai.com/fr/news) | [French RSS Feed](https://presentofai.com/fr/feed.xml)
+- [English RSS Feed](https://presentofai.com/feed.xml)
