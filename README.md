@@ -1,3 +1,25 @@
+---
+license: cc-by-4.0
+language:
+  - en
+tags:
+  - ai
+  - news
+  - timeline
+  - robotics
+  - current-events
+  - open-data
+pretty_name: AI Timeline Dataset
+size_categories:
+  - 1K<n<10K
+task_categories:
+  - text-classification
+  - summarization
+configs:
+  - config_name: default
+    data_files: data/ai-timeline.csv
+---
+
 # AI Timeline Dataset
 
 An open, dated, source-linked record of what artificial intelligence actually
