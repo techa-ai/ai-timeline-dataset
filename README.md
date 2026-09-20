@@ -31,7 +31,7 @@ An open, dated, source-linked record of what artificial intelligence actually
 did between July 2025 and today. Every row is a single real-world event with a
 primary source attached.
 
-**2,890 events · 706 distinct publishers · 2025-07-01 to 2026-09-19**
+**2,920 events · 725 distinct publishers · 2025-07-01 to 2026-09-20**
 
 Maintained by [Present of AI](https://presentofai.com), a daily AI news site.
 Updated as the timeline grows.
@@ -50,8 +50,8 @@ versus data centres*, without re-reading a year of headlines.
 
 | File | Rows | Description |
 |------|------|-------------|
-| `data/ai-timeline.csv` | 2,890 | Full dataset, CSV with header |
-| `data/ai-timeline.json` | 2,890 | Same data as a JSON array |
+| `data/ai-timeline.csv` | 2,920 | Full dataset, CSV with header |
+| `data/ai-timeline.json` | 2,920 | Same data as a JSON array |
 
 ## Schema
 
