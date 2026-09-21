@@ -1,5 +1,89 @@
 [
  {
+  "id": 25231,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "New York Officials Announce RAISE Act Details and Deputy Director Appointment",
+  "summary": "Gov. Hochul, AG James, and state legislators gathered on September 21 to share details about the RAISE Act, which requires frontier AI developers to register with the state starting in November ahead of full enforcement on January 1, 2027. Hochul also said she may explore additional safeguards such as AI kill switches if deemed feasible and in the best interest of the state.",
+  "actor": "New York Government",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.yahoo.com/news/politics/articles/ny-law-increases-ai-protections-171303691.html",
+  "source_title": null,
+  "publisher": "Yahoo",
+  "permalink": "https://presentofai.com/e/25231"
+ },
+ {
+  "id": 25210,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Waymo launches autonomous ride-hailing service in Las Vegas",
+  "summary": "Waymo launched its driverless ride-hailing service in Las Vegas, initially covering a limited area including the Strip, Allegiant Stadium, parts of Spring Valley, and the east side. The service uses the company's sixth-generation Ojai vehicles and is accessible through the Waymo app.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://lasvegassun.com/news/2026/sep/21/the-machine-at-the-wheel-learns-to-maneuver-las-ve",
+  "source_title": null,
+  "publisher": "Lasvegassun",
+  "permalink": "https://presentofai.com/e/25210"
+ },
+ {
+  "id": 25194,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Hyundai E&C breaks ground on Korea's first AI-dedicated data center",
+  "summary": "Hyundai Engineering & Construction began construction of South Korea's first data center built exclusively for AI workloads in Pohang, using liquid cooling and targeting a 16.5-month build timeline.",
+  "actor": "Hyundai E&C",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://dbr.donga.com/kfocus/view/en/article_no/1662",
+  "source_title": null,
+  "publisher": "동아비즈니스리뷰",
+  "permalink": "https://presentofai.com/e/25194"
+ },
+ {
+  "id": 25187,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Meta's Iris AI Chip Enters Mass Production at TSMC 3nm",
+  "summary": "Meta's MTIA Iris AI chip cleared six weeks of validation testing and entered production at TSMC's 3nm facility, ending Meta's dependency on third-party GPUs for serving four billion daily users across Facebook and Instagram.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://easternherald.com/2026/09/21/meta-iris-ai-chip-production-nvidia-tsmc-broadcom/",
+  "source_title": null,
+  "publisher": "Easternherald",
+  "permalink": "https://presentofai.com/e/25187"
+ },
+ {
+  "id": 25150,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Neuralink VOICE trial: ALS patient speaks via brain implant with Grok AI",
+  "summary": "Neuralink's VOICE trial video showing an ALS patient named Terry speaking in his own voice via a brain implant integrated with Grok AI reached 5.4 million views in two days, marking a public milestone for the BCI-AI voice restoration program.",
+  "actor": "Neuralink",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://blockchain.news/ainews/neuralink-voice-trial-showcases-grok-voice-breakthrough",
+  "source_title": null,
+  "publisher": "Blockchain News",
+  "permalink": "https://presentofai.com/e/25150"
+ },
+ {
+  "id": 25149,
+  "event_date": "2026-09-21",
+  "realm": "virtual",
+  "title": "GPT-6 Astra claims proof of weak Liouville form of Goldbach Conjecture in Lean 4",
+  "summary": "GPT-6 Astra, working with project author Captain Sude, reportedly produced an unconditional proof of the weak Liouville form of the Goldbach Conjecture, covering all even numbers greater than 2, with the proof passing formal verification in Lean 4.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://eu.36kr.com/en/p/3992525310802946",
+  "source_title": null,
+  "publisher": "36氪_让一部分人先看到未来",
+  "permalink": "https://presentofai.com/e/25149"
+ },
+ {
   "id": 25129,
   "event_date": "2026-09-21",
   "realm": "terrestrial",
@@ -7,7 +91,7 @@
   "summary": "New York Governor announced next steps for implementing the RAISE Act, the state's landmark AI safety legislation set to take effect in January, including the first major hire for the office overseeing the law.",
   "actor": "New York State",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 72,
   "source_url": "https://www.jonesday.com/en/insights/2026/08/vital-signs-digital-health-law-update--springsummer-2026--(26)",
   "source_title": null,
   "publisher": "Jones Day",
@@ -350,18 +434,74 @@
   "permalink": "https://presentofai.com/e/24419"
  },
  {
-  "id": 25093,
+  "id": 25232,
+  "event_date": "2026-09-19",
+  "realm": "terrestrial",
+  "title": "Anthropic Opens Physical Wet Lab for AI Biology Research",
+  "summary": "Anthropic established a wet laboratory in the San Francisco Bay Area to conduct AI-driven biology experiments and drug discovery research for rare diseases, marking its first physical research infrastructure beyond software.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/",
+  "source_title": null,
+  "publisher": "CBS News",
+  "permalink": "https://presentofai.com/e/25232"
+ },
+ {
+  "id": 25182,
   "event_date": "2026-09-19",
   "realm": "virtual",
-  "title": "China, Iran, Israel deploy AI bots in influence campaigns",
-  "summary": "An NYT investigation revealed that groups in China, Iran, and Israel used open-source AI to autonomously operate thousands of fake social media accounts, representing first-of-their-kind AI-powered influence operations at scale.",
+  "title": "China, Iran, Israel Deploy AI Bots in Social Media Influence Ops",
+  "summary": "An NYT investigation revealed that groups in China, Iran, and Israel used Chinese open-source AI models to autonomously operate thousands of social media bots in coordinated influence campaigns, marking one of the first times AI agents handled every stage of an online influence operation.",
   "actor": "",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 70,
   "source_url": "https://www.jpost.com/business-and-innovation/article-909100",
   "source_title": null,
   "publisher": "Middle East and Israel News | All Breaking News | The Jerusalem Post",
-  "permalink": "https://presentofai.com/e/25093"
+  "permalink": "https://presentofai.com/e/25182"
+ },
+ {
+  "id": 25181,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "AI Chatbot Fabricated Nuclear Cargo Claim, Nearly Triggering US Boarding",
+  "summary": "An AI chatbot fused open-source and classified intelligence to falsely assert a Chinese ship carried nuclear weapon parts, nearly prompting a US military boarding, a documented first-of-its-kind AI-driven near-incident in national security operations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://pasqualepillitteri.it/en/news/16976/chatbot-nuclear-cargo-chinese-ship",
+  "source_title": null,
+  "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
+  "permalink": "https://presentofai.com/e/25181"
+ },
+ {
+  "id": 25173,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "OpenAI Acquires iPhone Portrait Mode Core Team for AI Vision",
+  "summary": "OpenAI reportedly acquired Glass Imaging, the camera technology company founded by the core team behind iPhone Portrait Mode, for more than 300 million US dollars, according to the Wall Street Journal. The transaction has not been publicly confirmed by OpenAI, but the acquisition is seen as giving AI agents more accurate visual input from cameras for real-world action.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://eu.36kr.com/en/p/3989793664121609",
+  "source_title": null,
+  "publisher": "36氪_让一部分人先看到未来",
+  "permalink": "https://presentofai.com/e/25173"
+ },
+ {
+  "id": 25162,
+  "event_date": "2026-09-19",
+  "realm": "terrestrial",
+  "title": "Sony & Universal sue Suno over v6 model, seek up to $9B damages",
+  "summary": "Sony Music Entertainment and Universal Music Group filed a 45-page lawsuit against Suno on September 18, 2026, in the U.S. District Court for the District of Massachusetts, alleging the v6 model was built on outputs from earlier infringing models and naming 60,202 specific recordings. The complaint seeks a theoretical maximum of just over $9 billion in statutory damages based on the U.S. copyright ceiling of $150,000 per work for willful infringement.",
+  "actor": "Suno",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://startupfortune.com/sony-music-and-universal-music-sue-suno-again-over-its-new-v6-model/",
+  "source_title": null,
+  "publisher": "Startup Fortune",
+  "permalink": "https://presentofai.com/e/25162"
  },
  {
   "id": 25088,
@@ -371,7 +511,7 @@
   "summary": "From August 2, 2026, the EU AI Act requires LLM providers operating in the EU to label AI-generated content, effectively mandating watermarks on AI-generated text. However, analysts note that text watermarking technology faces fundamental vulnerabilities, as methods like SynthID can be removed by paraphrasing and homoglyph-based approaches can be reversed by simple character substitution.",
   "actor": "",
   "ticker": null,
-  "materiality": 68,
+  "materiality": 75,
   "source_url": "https://gigazine.net/gsc_news/en/20260919-text-ai-watermarks/",
   "source_title": null,
   "publisher": "GIGAZINE",
@@ -726,6 +866,20 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/24012"
+ },
+ {
+  "id": 25235,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "California Governor Issues Executive Order on AI",
+  "summary": "California Governor Gavin Newsom signed an executive order on AI, which EFF welcomed as a starting point for addressing real harms such as biased algorithmic decision-making, AI-powered surveillance, and personalized pricing. EFF urged the governor to develop thoughtful policies in collaboration with those most at risk, and cautioned against government-controlled kill switches that could be used to retaliate against protected speech.",
+  "actor": "California Governor",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
+  "source_title": null,
+  "publisher": "Eff",
+  "permalink": "https://presentofai.com/e/25235"
  },
  {
   "id": 25118,
@@ -1232,20 +1386,6 @@
   "permalink": "https://presentofai.com/e/24411"
  },
  {
-  "id": 24397,
-  "event_date": "2026-09-18",
-  "realm": "virtual",
-  "title": "Mastercard to launch AI agent virtual payment cards via Alchemy AgentCard",
-  "summary": "Mastercard announced a partnership with startup Alchemy to launch AgentCard, which will issue one-time-use virtual Mastercard credentials to AI agents for autonomous shopping and payments. The announcement comes ahead of a formal unveiling later in the week, with Alchemy describing the tool as giving agents a dedicated email, phone number, stablecoin wallet, and single-use payment credentials.",
-  "actor": "Mastercard",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://gizmodo.com/mastercard-is-giving-ai-agents-virtual-cards-to-handle-your-shopping-2000813310",
-  "source_title": null,
-  "publisher": "Gizmodo",
-  "permalink": "https://presentofai.com/e/24397"
- },
- {
   "id": 24394,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
@@ -1426,20 +1566,6 @@
   "source_title": null,
   "publisher": "VCU News",
   "permalink": "https://presentofai.com/e/24104"
- },
- {
-  "id": 24089,
-  "event_date": "2026-09-18",
-  "realm": "terrestrial",
-  "title": "Universal and Sony sue Suno over AI music generation",
-  "summary": "Universal Music Group and Sony Music Entertainment filed a federal lawsuit in Massachusetts against generative AI music platform Suno on September 18, 2026, targeting its AI music generation capabilities including the v6 model.",
-  "actor": "Suno",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://t2online.in/tech/tech-news/sony-sues-udio-again--this-time-over-30-000-songs/2006659",
-  "source_title": null,
-  "publisher": "t2ONLINE",
-  "permalink": "https://presentofai.com/e/24089"
  },
  {
   "id": 24085,
@@ -1750,6 +1876,20 @@
   "permalink": "https://presentofai.com/e/23760"
  },
  {
+  "id": 25204,
+  "event_date": "2026-09-17",
+  "realm": "terrestrial",
+  "title": "First naval engagement between two uncrewed sea drones",
+  "summary": "A Ukrainian robot boat, identified as a Sargan-3000, sank a Russian Orcan-type uncrewed surface vessel in the Black Sea, in what naval expert H. I. Sutton describes as the first-known combat engagement between two uncrewed vessels in naval history. The action took place earlier in September 2026, with video released by the Ukrainian Navy showing the Sargan firing a 12.7-millimetre heavy machine gun at the Russian vessel until it sank.",
+  "actor": "Ukrainian Navy",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/",
+  "source_title": null,
+  "publisher": "Newscientist",
+  "permalink": "https://presentofai.com/e/25204"
+ },
+ {
   "id": 25078,
   "event_date": "2026-09-17",
   "realm": "virtual",
@@ -1888,20 +2028,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/24708"
- },
- {
-  "id": 24631,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "First naval engagement between two uncrewed remote-controlled sea drones",
-  "summary": "Ukraine's Navy used a remote-controlled uncrewed surface vessel (Sargan-3000) to attack and sink a Russian uncrewed vessel (Orcan type) in the Black Sea, marking the first known combat engagement between two uncrewed naval craft in history.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://www.newscientist.com/article/2589842-robots-clash-in-first-ever-naval-engagement-between-uncrewed-crafts/",
-  "source_title": null,
-  "publisher": "Newscientist",
-  "permalink": "https://presentofai.com/e/24631"
  },
  {
   "id": 24617,
@@ -2504,20 +2630,6 @@
   "source_title": null,
   "publisher": "Foxnews",
   "permalink": "https://presentofai.com/e/23431"
- },
- {
-  "id": 25143,
-  "event_date": "2026-09-16",
-  "realm": "space",
-  "title": "UAE-based Marlan Space and Loft Orbital launch $1B 50-satellite orbital AI network",
-  "summary": "Marlan Space and Loft Orbital announced a $1 billion initiative to deploy a 50-satellite constellation processing sensor data with AI directly in orbit, billed as the world's largest AI infrastructure in space. French AI company Mistral will supply the onboard models, and the first 10 satellites are already in production in Abu Dhabi with an initial launch planned for October.",
-  "actor": "Marlan Space",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://militaryai.ai/ai-satellite-space-constellation",
-  "source_title": null,
-  "publisher": "Militaryai",
-  "permalink": "https://presentofai.com/e/25143"
  },
  {
   "id": 25094,
@@ -4760,20 +4872,6 @@
   "permalink": "https://presentofai.com/e/22779"
  },
  {
-  "id": 22770,
-  "event_date": "2026-09-11",
-  "realm": "terrestrial",
-  "title": "Meta Iris AI Chip Enters Production, Targets 14GW by 2027",
-  "summary": "Meta's Iris AI chip, developed in partnership with Broadcom and produced by TSMC, was scheduled to enter production in September 2026, with Meta targeting 14 gigawatts of AI compute capacity by 2027.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262026010-meta-platforms-meta-stock-outlook-july-2026-meta-compute-iris-chip-tradingkey",
-  "source_title": null,
-  "publisher": "TradingKey",
-  "permalink": "https://presentofai.com/e/22770"
- },
- {
   "id": 22769,
   "event_date": "2026-09-11",
   "realm": "terrestrial",
@@ -4926,20 +5024,6 @@
   "source_title": null,
   "publisher": "India Today",
   "permalink": "https://presentofai.com/e/22574"
- },
- {
-  "id": 22569,
-  "event_date": "2026-09-11",
-  "realm": "terrestrial",
-  "title": "DARPA deploys AI cloud platform for biological research",
-  "summary": "DARPA launched a dedicated AI and high-performance computing cloud platform built on Parallel Works and CoreWeave infrastructure to accelerate biological research programs.",
-  "actor": "DARPA",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://thedefensepost.com/2026/09/11/darpa-nodes-ai-cloud-platform/",
-  "source_title": null,
-  "publisher": "The Defense Post",
-  "permalink": "https://presentofai.com/e/22569"
  },
  {
   "id": 22562,
@@ -13877,8 +13961,8 @@
   "id": 16527,
   "event_date": "2026-08-26",
   "realm": "virtual",
-  "title": "Prometheus Physics-Native AI Model Launches via Amazon/Bezos",
-  "summary": "A new AI model called Prometheus, backed by Jeff Bezos and Amazon, launched with a physics-first architecture trained to predict physical outcomes rather than text, described as capable of processing the equivalent of War and Peace 5 million times in a single pass, representing a first-of-its-kind physics-native foundation model.",
+  "title": "Accelerated Understanding Launches Prometheus-Rivaling Physics-Native AI Model",
+  "summary": "Anima Anandkumar and Benedikt Jenik, who declined an offer to lead Jeff Bezos-backed Project Prometheus, launched their own company Accelerated Understanding Inc with a physics-native AI model that processed 5 trillion data points in a single prompt, roughly 5 million times the capacity of leading language models, using neural operator technology instead of the standard Transformer architecture.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -14278,20 +14362,6 @@
   "source_title": null,
   "publisher": "디지털투데이 (DigitalToday)",
   "permalink": "https://presentofai.com/e/16614"
- },
- {
-  "id": 16604,
-  "event_date": "2026-08-25",
-  "realm": "space",
-  "title": "Starlink deploys Grok Voice for 15,000 daily customer support calls",
-  "summary": "Starlink has deployed xAI's Grok Voice to handle more than 15,000 customer support calls per day, resolving about 70% of issues autonomously and completing over 3,000 orders per week through voice and chat channels. Elon Musk highlighted the deployment as operating at scale for both support and sales, with Grok Voice converting roughly 20% of inbound inquiries into orders.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cryptobriefing.com/starlink-grok-voice-customer-support/",
-  "source_title": null,
-  "publisher": "Crypto Briefing",
-  "permalink": "https://presentofai.com/e/16604"
  },
  {
   "id": 16590,
@@ -14866,20 +14936,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/16557"
- },
- {
-  "id": 16530,
-  "event_date": "2026-08-24",
-  "realm": "virtual",
-  "title": "Australian Administrative Review Tribunal issues Generative AI Practice Direction",
-  "summary": "On 20 August 2026, President Justice Emilios Kyrou AO signed a new practice direction governing the use of generative AI in proceedings of the Australian Administrative Review Tribunal, covering the Tribunal's expectations of users, instances requiring extra caution, and disclosure obligations.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.miragenews.com/generative-ai-practice-direction-released-1731985/",
-  "source_title": null,
-  "publisher": "Mirage News",
-  "permalink": "https://presentofai.com/e/16530"
  },
  {
   "id": 16512,
@@ -24610,20 +24666,6 @@
   "source_title": null,
   "publisher": "Tech Times",
   "permalink": "https://presentofai.com/e/7906"
- },
- {
-  "id": 7899,
-  "event_date": "2026-07-30",
-  "realm": "virtual",
-  "title": "Microsoft to merge Copilot, GitHub Copilot and agents into one app",
-  "summary": "Microsoft CEO Satya Nadella confirmed on an earnings call that the company is building a single app unifying Copilot chat, GitHub Copilot, Copilot Cowork, and its Autopilot agent system, set to launch sometime in 2026 for both consumers and business customers.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://techweez.com/2026/07/30/microsoft-unified-copilot-app-2026/",
-  "source_title": null,
-  "publisher": null,
-  "permalink": "https://presentofai.com/e/7899"
  },
  {
   "id": 7793,
@@ -38462,7 +38504,7 @@
   "event_date": "2025-11-29",
   "realm": "virtual",
   "title": "DeepSeek releases first open-source IMO gold-level math AI",
-  "summary": "DeepSeek released its Math-V2 model under a permissive open-source licence on Hugging Face and GitHub, making it the world's first open AI model to achieve gold-medal-level performance at the International Mathematical Olympiad, matching proprietary systems from Google DeepMind and OpenAI.",
+  "summary": "DeepSeek released its Math-V2 model under a permissive open-source licence on Hugging Face and GitHub, making it the world's first open AI model to achieve gold-medal-level performance at the International Mathematical Olympiad.",
   "actor": "DeepSeek",
   "ticker": null,
   "materiality": 78,
@@ -41023,14 +41065,14 @@
   "id": 779,
   "event_date": "2025-07-14",
   "realm": "virtual",
-  "title": "DoD Awards $200M AI Contracts to xAI, Google, Anthropic, OpenAI",
-  "summary": "The U.S. Department of Defense awarded $200 million in contracts making Grok and models from Google, Anthropic, and OpenAI available across all federal agencies.",
+  "title": "DoD Awards AI Contracts Worth Up to $200M Each to Anthropic, Google, OpenAI, and xAI",
+  "summary": "The US Department of Defense's Chief Digital and Artificial Intelligence Office awarded contracts worth up to $200 million each to Anthropic, Google, OpenAI, and xAI. Forrester describes the structure as a multi-vendor portfolio approach that lets the DoD draw on different providers' capabilities rather than committing to a single vendor.",
   "actor": "xAI",
   "ticker": null,
   "materiality": 75,
-  "source_url": "https://www.washingtonpost.com/technology/2025/07/14/elon-musk-grok-defense-department/",
+  "source_url": "https://www.marketscale.com/industries/software-and-technology/dods-200-million-ai-contracts-are-changing-how-governments-buy-software",
   "source_title": null,
-  "publisher": null,
+  "publisher": "MarketScale",
   "permalink": "https://presentofai.com/e/779"
  },
  {
