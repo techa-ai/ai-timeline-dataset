@@ -1,5 +1,61 @@
 [
  {
+  "id": 25129,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "New York begins implementing RAISE Act AI safety law",
+  "summary": "New York Governor announced next steps for implementing the RAISE Act, the state's landmark AI safety legislation set to take effect in January, including the first major hire for the office overseeing the law.",
+  "actor": "New York State",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.jonesday.com/en/insights/2026/08/vital-signs-digital-health-law-update--springsummer-2026--(26)",
+  "source_title": null,
+  "publisher": "Jones Day",
+  "permalink": "https://presentofai.com/e/25129"
+ },
+ {
+  "id": 25121,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Aurora Targets 1,000-Unit Annual Run Rate for Driverless Trucks",
+  "summary": "Aurora Innovation CEO Chris Urmson said at the Morgan Stanley Laguna conference that the Roush-supported operation is expected to reach an annualized run rate of about 1,000 units. Urmson also noted that Volvo has publicly indicated plans to launch autonomous VNL trucks in the first quarter of next year and have more than 300 trucks on the road next year, with those vehicles expected to be powered predominantly by Aurora's technology.",
+  "actor": "Aurora Innovation",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.themarketsdaily.com/2026/09/20/aurora-innovation-targets-20-driverless-trucks-a-week-as-daas-shift-takes-shape.html",
+  "source_title": null,
+  "publisher": "Themarketsdaily",
+  "permalink": "https://presentofai.com/e/25121"
+ },
+ {
+  "id": 25117,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "NHTSA and SAE International launch ASCEND consortium for AV safety standards",
+  "summary": "NHTSA and SAE International launched a consortium called ASCEND to develop data-based federal performance standards for autonomous-driving systems, aiming to address gaps in existing vehicle safety rules and reduce diverging state and local requirements as robotaxi services expand.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.digitaltoday.co.kr/en/view/105932/us-government-moves-to-develop-safety-performance-standards-for-self-driving-cars",
+  "source_title": null,
+  "publisher": "Digitaltoday",
+  "permalink": "https://presentofai.com/e/25117"
+ },
+ {
+  "id": 25098,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Hygon launches CPU1000-series chip for robotics and physical AI",
+  "summary": "Hygon launched its CPU1000-series chip in Shenzhen, targeting robotics, machine vision, and intelligent manufacturing, marking the company's expansion beyond data centres into physical AI applications.",
+  "actor": "Hygon",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.indexbox.io/blog/hygon-to-launch-new-chip-for-robotics-and-physical-ai-on-tuesday/",
+  "source_title": null,
+  "publisher": "IndexBox, Inc.",
+  "permalink": "https://presentofai.com/e/25098"
+ },
+ {
   "id": 25054,
   "event_date": "2026-09-21",
   "realm": "space",
@@ -54,6 +110,20 @@
   "source_title": null,
   "publisher": "En",
   "permalink": "https://presentofai.com/e/24944"
+ },
+ {
+  "id": 25124,
+  "event_date": "2026-09-20",
+  "realm": "terrestrial",
+  "title": "First autonomous cross-country US flight completed",
+  "summary": "A self-flying Cessna Caravan completed the first-ever fully autonomous flight across the United States, covering 3,199 miles without human pilot input.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/from-self-driving-cars-to-self-flying-planes-autonomous-aircraft-completes-first-ever-flight-across-america-honours-wright-brothers/articleshow/134367411.cms",
+  "source_title": null,
+  "publisher": "The Times of India",
+  "permalink": "https://presentofai.com/e/25124"
  },
  {
   "id": 25000,
@@ -280,6 +350,48 @@
   "permalink": "https://presentofai.com/e/24419"
  },
  {
+  "id": 25093,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "China, Iran, Israel deploy AI bots in influence campaigns",
+  "summary": "An NYT investigation revealed that groups in China, Iran, and Israel used open-source AI to autonomously operate thousands of fake social media accounts, representing first-of-their-kind AI-powered influence operations at scale.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.jpost.com/business-and-innovation/article-909100",
+  "source_title": null,
+  "publisher": "Middle East and Israel News | All Breaking News | The Jerusalem Post",
+  "permalink": "https://presentofai.com/e/25093"
+ },
+ {
+  "id": 25088,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "EU AI Act Watermarking Obligation Takes Effect August 2026",
+  "summary": "From August 2, 2026, the EU AI Act requires LLM providers operating in the EU to label AI-generated content, effectively mandating watermarks on AI-generated text. However, analysts note that text watermarking technology faces fundamental vulnerabilities, as methods like SynthID can be removed by paraphrasing and homoglyph-based approaches can be reversed by simple character substitution.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://gigazine.net/gsc_news/en/20260919-text-ai-watermarks/",
+  "source_title": null,
+  "publisher": "GIGAZINE",
+  "permalink": "https://presentofai.com/e/25088"
+ },
+ {
+  "id": 25079,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "Stanford deploys AI agent swarm to discover new drug therapies",
+  "summary": "Stanford researchers deployed a swarm of autonomous AI agents organized into research teams to analyze roughly 50,000 clinical trials in under a week, identifying biological markers predictive of drug success and proposing a cancer therapy concept later independently validated by an FDA breakthrough designation.",
+  "actor": "Stanford University",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.businesstoday.in/technology/artificial-intelligence/story/ai-biotech-without-humans-stanford-deploys-37000-agents-to-hunt-new-therapies-556615-2026-09-20",
+  "source_title": null,
+  "publisher": "Business Today",
+  "permalink": "https://presentofai.com/e/25079"
+ },
+ {
   "id": 25004,
   "event_date": "2026-09-19",
   "realm": "virtual",
@@ -348,20 +460,6 @@
   "source_title": null,
   "publisher": "The Express Tribune",
   "permalink": "https://presentofai.com/e/24903"
- },
- {
-  "id": 24901,
-  "event_date": "2026-09-19",
-  "realm": "virtual",
-  "title": "Stanford Deploys 37,000 AI Agents to Hunt New Drug Therapies",
-  "summary": "Stanford researchers deployed a swarm of 37,000 autonomous AI agents organized into research teams to autonomously divide and tackle complex drug-discovery problems, marking a shift from AI-as-assistant to fully autonomous scientific research at scale.",
-  "actor": "Stanford University",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.businesstoday.in/technology/artificial-intelligence/story/ai-biotech-without-humans-stanford-deploys-37000-agents-to-hunt-new-therapies-556615-2026-09-20",
-  "source_title": null,
-  "publisher": "Business Today",
-  "permalink": "https://presentofai.com/e/24901"
  },
  {
   "id": 24899,
@@ -630,6 +728,34 @@
   "permalink": "https://presentofai.com/e/24012"
  },
  {
+  "id": 25118,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Waymo autonomous vehicles begin mapping Pittsburgh streets",
+  "summary": "Waymo vehicles began operating on Pittsburgh roads, with the company awaiting Pennsylvania state permission to run driverless commercial service, marking the company's entry into a new major US city.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://wpxi.com/news/local/waymos-autonomous-vehicles-now-making-their-way-around-pittsburgh/FQVL6EWIWRCABKAIH22R6A2GCI",
+  "source_title": null,
+  "publisher": "Wpxi",
+  "permalink": "https://presentofai.com/e/25118"
+ },
+ {
+  "id": 25099,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Huawei Unveils 4096-Accelerator AI Server with HBM",
+  "summary": "Huawei announced a massive AI server packing 4,096 Ascend 960 accelerators with High Bandwidth Memory, representing a significant scale-up in Chinese domestic AI compute infrastructure competing with Nvidia clusters.",
+  "actor": "Huawei",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.heise.de/en/news/Huawei-packs-4096-AI-accelerators-into-a-massive-server-11458882.html",
+  "source_title": null,
+  "publisher": "Heise",
+  "permalink": "https://presentofai.com/e/25099"
+ },
+ {
   "id": 25012,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
@@ -637,7 +763,7 @@
   "summary": "Huawei announced its next-generation Ascend 960DT AI accelerator, designed to rival current Nvidia models, targeting release as early as Q1 2027 as China moves to reduce dependence on restricted foreign hardware.",
   "actor": "Huawei",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://newatlas.com/ai-humanoids/nvidia-rival-chip-huawei",
   "source_title": null,
   "publisher": "Newatlas",
@@ -670,20 +796,6 @@
   "source_title": null,
   "publisher": "Pymnts",
   "permalink": "https://presentofai.com/e/24995"
- },
- {
-  "id": 24994,
-  "event_date": "2026-09-18",
-  "realm": "virtual",
-  "title": "Google announces CC, an AI agent with its own Google account for families",
-  "summary": "Google announced CC, an experimental AI agent that holds its own Google account within a family or group, shares data across members, and sends daily briefings to coordinate plans and tasks.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/24994"
  },
  {
   "id": 24945,
@@ -1638,6 +1750,48 @@
   "permalink": "https://presentofai.com/e/23760"
  },
  {
+  "id": 25078,
+  "event_date": "2026-09-17",
+  "realm": "virtual",
+  "title": "Mastercard to Partner with Alchemy to Give AI Agents Virtual Payment Cards",
+  "summary": "Mastercard announced a partnership with startup Alchemy to provide AI agents with virtual payment credentials, allowing cardholders to authorize agents to independently make purchases within set parameters. Visa already has a similar partnership with Alchemy, and Mastercard, Visa, and Ant International have also been working together on common standards to verify trusted AI agents in online purchases.",
+  "actor": "Mastercard",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://gizmodo.com/mastercard-is-giving-ai-agents-virtual-cards-to-handle-your-shopping-2000813310",
+  "source_title": null,
+  "publisher": "Gizmodo",
+  "permalink": "https://presentofai.com/e/25078"
+ },
+ {
+  "id": 25076,
+  "event_date": "2026-09-17",
+  "realm": "virtual",
+  "title": "Google Expands CC AI Agent to Family Groups",
+  "summary": "Google Labs expanded its CC AI agent to families and households, giving the agent its own Google account within a family group, enabling shared data access for planning and task completion, and delivering daily briefings to all members.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+  "source_title": null,
+  "publisher": null,
+  "permalink": "https://presentofai.com/e/25076"
+ },
+ {
+  "id": 25066,
+  "event_date": "2026-09-17",
+  "realm": "terrestrial",
+  "title": "FAA launches $875M AI system for US airspace management",
+  "summary": "The FAA will soon launch SMART, an AI-enhanced cloud-based software platform costing $875 million over 12 years, designed to help air traffic controllers manage workflows and flight routes more safely. The system, built by Air Space Intelligence, will roll out first in the Washington DC metropolitan area before expanding to other regions.",
+  "actor": "FAA",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/25066"
+ },
+ {
   "id": 24896,
   "event_date": "2026-09-17",
   "realm": "terrestrial",
@@ -1762,20 +1916,6 @@
   "source_title": null,
   "publisher": "Aljazeera",
   "permalink": "https://presentofai.com/e/24617"
- },
- {
-  "id": 24589,
-  "event_date": "2026-09-17",
-  "realm": "virtual",
-  "title": "Mastercard issues virtual cards for AI agent shopping",
-  "summary": "Mastercard partnered with Alchemy to issue virtual payment cards that AI agents can use autonomously for agentic commerce, joining Visa in building financial infrastructure for AI-driven transactions.",
-  "actor": "Mastercard",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/24589"
  },
  {
   "id": 24527,
@@ -2058,20 +2198,6 @@
   "permalink": "https://presentofai.com/e/23918"
  },
  {
-  "id": 23917,
-  "event_date": "2026-09-17",
-  "realm": "virtual",
-  "title": "Meta Muse and Instinct AI agents gain phone-call capability",
-  "summary": "Instinct launched a calling feature called Instinct Concierge, letting its AI agent place calls to book restaurants, join cancellation lists, or resolve billing issues, with early access rolling out to some users. Meta's Muse AI assistant also gained the ability to place calls to U.S. businesses, rolling out first to users who ask Muse to make a call.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/23917"
- },
- {
   "id": 23914,
   "event_date": "2026-09-17",
   "realm": "terrestrial",
@@ -2282,20 +2408,6 @@
   "permalink": "https://presentofai.com/e/23629"
  },
  {
-  "id": 23613,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "New York begins AI monitoring program for utilities",
-  "summary": "New York State initiated a program to monitor utilities' use of AI, citing risks including privacy issues, model misconfigurations, and the potential for AI-generated fabricated information in critical infrastructure.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://wamc.org/2026-09-17/new-york-to-begin-monitoring-utilities-use-of-ai",
-  "source_title": null,
-  "publisher": "Wamc",
-  "permalink": "https://presentofai.com/e/23613"
- },
- {
   "id": 23547,
   "event_date": "2026-09-17",
   "realm": "terrestrial",
@@ -2392,6 +2504,34 @@
   "source_title": null,
   "publisher": "Foxnews",
   "permalink": "https://presentofai.com/e/23431"
+ },
+ {
+  "id": 25143,
+  "event_date": "2026-09-16",
+  "realm": "space",
+  "title": "UAE-based Marlan Space and Loft Orbital launch $1B 50-satellite orbital AI network",
+  "summary": "Marlan Space and Loft Orbital announced a $1 billion initiative to deploy a 50-satellite constellation processing sensor data with AI directly in orbit, billed as the world's largest AI infrastructure in space. French AI company Mistral will supply the onboard models, and the first 10 satellites are already in production in Abu Dhabi with an initial launch planned for October.",
+  "actor": "Marlan Space",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://militaryai.ai/ai-satellite-space-constellation",
+  "source_title": null,
+  "publisher": "Militaryai",
+  "permalink": "https://presentofai.com/e/25143"
+ },
+ {
+  "id": 25094,
+  "event_date": "2026-09-16",
+  "realm": "virtual",
+  "title": "CoreWeave First to Activate Nvidia Vera Rubin NVL72 Cluster",
+  "summary": "CoreWeave announced it brought the first multi-rack Nvidia Vera Rubin NVL72 cluster online on its cloud platform, marking the first commercial deployment of Vera Rubin-generation AI compute at scale.",
+  "actor": "CoreWeave",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/c70a18af-d42d-4d69-b12f-a3ff699bc04f",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/25094"
  },
  {
   "id": 24941,
@@ -8666,20 +8806,6 @@
   "permalink": "https://presentofai.com/e/20679"
  },
  {
-  "id": 20652,
-  "event_date": "2026-09-04",
-  "realm": "virtual",
-  "title": "Sam Altman Confirms OpenAI Is Developing Its Own Humanoid Robot",
-  "summary": "OpenAI CEO Sam Altman confirmed in a podcast interview that the company plans to develop its own humanoid robot as well as robots of other form factors. No prototype, specifications, cost, or release timeline for the humanoid robot has been disclosed, and the company has been rebuilding its robotics team since early 2025 after closing its previous division in 2021.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://mobidevices.com/en/openai-humanoid-robot-plan",
-  "source_title": null,
-  "publisher": "MobiDevices-Интересно про мобильные устройства!",
-  "permalink": "https://presentofai.com/e/20652"
- },
- {
   "id": 20639,
   "event_date": "2026-09-04",
   "realm": "virtual",
@@ -11648,20 +11774,6 @@
   "permalink": "https://presentofai.com/e/18337"
  },
  {
-  "id": 18336,
-  "event_date": "2026-08-30",
-  "realm": "virtual",
-  "title": "AWS open-sources Kiro Crew multi-agent coding system",
-  "summary": "Amazon released Kiro Crew as open source, enabling developers to run multiple asynchronous Kiro coding agents across sessions, tools, and tasks in a unified workspace.",
-  "actor": "Amazon",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/",
-  "source_title": null,
-  "publisher": "InfoQ",
-  "permalink": "https://presentofai.com/e/18336"
- },
- {
   "id": 18283,
   "event_date": "2026-08-30",
   "realm": "terrestrial",
@@ -14242,7 +14354,7 @@
   "event_date": "2026-08-25",
   "realm": "terrestrial",
   "title": "China moves to clarify AV liability in Road Traffic Safety Law amendment",
-  "summary": "China is amending its Road Traffic Safety Law to establish clear liability standards for autonomous vehicles, potentially holding carmakers legally responsible for traffic violations when self-driving systems are active. The amendments would also clarify definitions of autonomous vehicles and driver-assistance functions, with analysts expecting dozens of new autonomous models to reach market once the law is enacted.",
+  "summary": "China is amending its Road Traffic Safety Law to establish clear liability standards for autonomous vehicles, potentially holding carmakers legally responsible for traffic violations and accidents when self-driving systems are active. The amendments would also clarify definitions of autonomous vehicles and driver-assistance functions, while existing rules would continue to apply when self-driving systems are switched off.",
   "actor": "",
   "ticker": null,
   "materiality": 78,
@@ -14788,7 +14900,7 @@
   "event_date": "2026-08-24",
   "realm": "terrestrial",
   "title": "UK and Ukraine sign AI defence battlefield partnership",
-  "summary": "Britain signed a formal partnership with Ukraine to jointly develop AI tools for defence and security, granting British researchers access to Ukraine's battlefield data platform used to train military AI systems, covering AI-enabled sensors and low-power chips for drones.",
+  "summary": "Britain signed a partnership with Ukraine to jointly develop AI tools for defence and security, giving British researchers access to Ukraine's Avengers AI Labs battlefield data platform used to train military AI systems. The deal covers pilot projects including fibre-optic cable sensors for military facilities and low-power AI chips for drones and autonomous systems.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
@@ -14815,7 +14927,7 @@
   "id": 16473,
   "event_date": "2026-08-24",
   "realm": "virtual",
-  "title": "Databricks AI SRE scales to 2,000+ daily incident investigations",
+  "title": "Databricks AI SRE automates incident investigations across microservices and clusters",
   "summary": "Databricks' AI Site Reliability Engineer system handles incident investigations across 100s of microservices on 1,500+ Kubernetes clusters spanning 70+ regions and three clouds, automatically triaging incidents and guiding on-call engineers to root cause faster.",
   "actor": "Databricks",
   "ticker": null,
