@@ -1,5 +1,47 @@
 [
  {
+  "id": 25054,
+  "event_date": "2026-09-21",
+  "realm": "space",
+  "title": "Musk: NVIDIA Vera Rubin AI chips heading to orbit on SpaceX Starmind AI1",
+  "summary": "In a September 13 post on X, Elon Musk said he is 'highly confident' that SpaceX's Starmind AI1 satellite will carry a space-optimized NVIDIA Vera Rubin NVL72 rack-scale AI system, with launch planned for Q4 2027, marking the first announced orbital AI data-center deployment under the Starmind concept.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.yahoo.com/technology/ai/articles/musk-says-nvidia-nvda-ai-162008359.html",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/25054"
+ },
+ {
+  "id": 24997,
+  "event_date": "2026-09-21",
+  "realm": "virtual",
+  "title": "Jev launches: fast-decision AI model without chat interface",
+  "summary": "TypeSafe AI, whose founder Diogo Almeida worked on RLHF research at OpenAI that shaped ChatGPT, released Jev, a model designed for machine-to-machine automation that makes decisions in roughly 0.1 seconds at a fraction of a cent per call, explicitly rejecting the LLM chat paradigm.",
+  "actor": "TypeSafe AI",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techspot.com/article/3172-meet-jev",
+  "source_title": null,
+  "publisher": "Techspot",
+  "permalink": "https://presentofai.com/e/24997"
+ },
+ {
+  "id": 24982,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "US and China agree to launch formal AI dialogue",
+  "summary": "US Treasury Secretary Scott Bessent announced 'very successful' talks with Chinese counterparts resulting in an agreement to launch a bilateral AI dialogue, ahead of the Trump-Xi summit, marking the first formal US-China AI governance channel.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/24982"
+ },
+ {
   "id": 24944,
   "event_date": "2026-09-21",
   "realm": "terrestrial",
@@ -14,18 +56,32 @@
   "permalink": "https://presentofai.com/e/24944"
  },
  {
-  "id": 24920,
+  "id": 25000,
   "event_date": "2026-09-20",
   "realm": "virtual",
-  "title": "Alibaba RADAR AI screens 146 diseases in single CT scan",
-  "summary": "Alibaba's DAMO RADAR open-source radiology AI can screen contrast-enhanced abdominal CT scans for 146 diseases across 18 organs, outperforming 23 of 26 radiologists in a published study.",
-  "actor": "Alibaba",
+  "title": "China unveils first multimodal AI input method for Tibetan language",
+  "summary": "China unveiled what was described as the country's first multilingual, fully multimodal AI input method for the Tibetan language on Sunday in Xining, Qinghai Province. The Zhida AI Input Method, developed by the State Key Laboratory of Tibetan Intelligence and powered by its proprietary large language models, was launched at an event marking the 70th anniversary of Qinghai Normal University.",
+  "actor": "",
   "ticker": null,
-  "materiality": 68,
-  "source_url": "https://ascendants.in/business-stories/alibaba-radar-ai-146-diseases-outperforms-radiologists/",
+  "materiality": 55,
+  "source_url": "https://www.globaltimes.cn/page/202609/1370962.shtml",
   "source_title": null,
-  "publisher": "Ascendants",
-  "permalink": "https://presentofai.com/e/24920"
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/25000"
+ },
+ {
+  "id": 24996,
+  "event_date": "2026-09-20",
+  "realm": "virtual",
+  "title": "Plugin4Shell flaw hits all four major AI coding assistants",
+  "summary": "A single vulnerability dubbed Plugin4Shell allows malicious plugin updates to execute arbitrary code without user interaction across Claude Code, OpenAI Codex, GitHub Copilot, and Gemini CLI by bypassing fingerprint checks; two of the four remain unpatched as of the report date.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://wionews.com/world/one-flaw-hit-all-four-major-ai-coding-assistants-two-are-still-unpatched-1789912209121",
+  "source_title": null,
+  "publisher": "Wionews",
+  "permalink": "https://presentofai.com/e/24996"
  },
  {
   "id": 24914,
@@ -222,6 +278,20 @@
   "source_title": null,
   "publisher": "Apnews",
   "permalink": "https://presentofai.com/e/24419"
+ },
+ {
+  "id": 25004,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "Alibaba open-sources DAMO RADAR: screens 146 diseases in one CT scan",
+  "summary": "Alibaba's DAMO Academy publicly released DAMO RADAR, an open-source AI model that screens contrast-enhanced abdominal CT scans for 146 diseases across 18 organs, outperforming 23 of 26 radiologists in a published study.",
+  "actor": "Alibaba",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://ascendants.in/business-stories/alibaba-radar-ai-146-diseases-outperforms-radiologists/",
+  "source_title": null,
+  "publisher": "Ascendants",
+  "permalink": "https://presentofai.com/e/25004"
  },
  {
   "id": 24954,
@@ -560,6 +630,62 @@
   "permalink": "https://presentofai.com/e/24012"
  },
  {
+  "id": 25012,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Huawei Ascend 960DT AI Chip Targets Early 2027 Release",
+  "summary": "Huawei announced its next-generation Ascend 960DT AI accelerator, designed to rival current Nvidia models, targeting release as early as Q1 2027 as China moves to reduce dependence on restricted foreign hardware.",
+  "actor": "Huawei",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://newatlas.com/ai-humanoids/nvidia-rival-chip-huawei",
+  "source_title": null,
+  "publisher": "Newatlas",
+  "permalink": "https://presentofai.com/e/25012"
+ },
+ {
+  "id": 25009,
+  "event_date": "2026-09-18",
+  "realm": "virtual",
+  "title": "AI agents run ransomware end-to-end without human operators",
+  "summary": "The JADEPUFFER ransomware strain, driven entirely by AI agents, autonomously stole credentials, encrypted victim data, and targeted AI models using exposed services, the first documented fully autonomous AI-operated ransomware campaign with no human operator in the loop.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cybersecuritynews.com/ai-agents-3",
+  "source_title": null,
+  "publisher": "Cybersecuritynews",
+  "permalink": "https://presentofai.com/e/25009"
+ },
+ {
+  "id": 24995,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Ant International gives AI agents their own business bank accounts",
+  "summary": "Ant International launched Account for Agent inside its WorldFirst brand, a business bank account for AI agents running on know your agent smart contracts with live monitoring and intervention capabilities. The launch also included AgentSafePay, which carries a 100% fund guarantee against agent-specific losses, and the Agentic Mobile Protocol for agent-to-agent payments as small as $0.000001, all unveiled at Ant's VOYAGE merchant event in Shanghai.",
+  "actor": "Ant International",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://pymnts.com/news/artificial-intelligence/2026/ai-agents-are-getting-their-own-bank-accounts",
+  "source_title": null,
+  "publisher": "Pymnts",
+  "permalink": "https://presentofai.com/e/24995"
+ },
+ {
+  "id": 24994,
+  "event_date": "2026-09-18",
+  "realm": "virtual",
+  "title": "Google announces CC, an AI agent with its own Google account for families",
+  "summary": "Google announced CC, an experimental AI agent that holds its own Google account within a family or group, shares data across members, and sends daily briefings to coordinate plans and tasks.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/24994"
+ },
+ {
   "id": 24945,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
@@ -868,20 +994,6 @@
   "permalink": "https://presentofai.com/e/24501"
  },
  {
-  "id": 24498,
-  "event_date": "2026-09-18",
-  "realm": "virtual",
-  "title": "Plugin4Shell: first supply-chain RCE across AI coding agents",
-  "summary": "AIR Security disclosed Plugin4Shell, a supply-chain RCE vulnerability affecting all four major AI coding agents by exploiting how agents fetch plugins without verifying the code matches the locked commit hash. Anthropic patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, while GitHub Copilot has no fix and Google will not patch the retiring Gemini CLI.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-  "source_title": null,
-  "publisher": "The Hacker News",
-  "permalink": "https://presentofai.com/e/24498"
- },
- {
   "id": 24493,
   "event_date": "2026-09-18",
   "realm": "virtual",
@@ -1006,20 +1118,6 @@
   "source_title": null,
   "publisher": "Ars Technica",
   "permalink": "https://presentofai.com/e/24411"
- },
- {
-  "id": 24399,
-  "event_date": "2026-09-18",
-  "realm": "virtual",
-  "title": "Google CC launches as AI agent with its own Google account for families",
-  "summary": "Google has launched an experimental AI product called CC, an agentic platform with its own Google account that up to six family members can share information with. It creates a shared calendar and task list, sends all participants a daily briefing, and can handle logistics like filling out forms, with a wait list open for new users.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-  "source_title": null,
-  "publisher": "Engadget",
-  "permalink": "https://presentofai.com/e/24399"
  },
  {
   "id": 24397,
@@ -8571,14 +8669,14 @@
   "id": 20652,
   "event_date": "2026-09-04",
   "realm": "virtual",
-  "title": "Sam Altman Confirms OpenAI Humanoid Robot Development",
-  "summary": "Sam Altman publicly confirmed OpenAI is developing a humanoid robot, marking the company's first declared entry into physical robotics hardware alongside its Titan chip and Stargate data center expansion.",
+  "title": "Sam Altman Confirms OpenAI Is Developing Its Own Humanoid Robot",
+  "summary": "OpenAI CEO Sam Altman confirmed in a podcast interview that the company plans to develop its own humanoid robot as well as robots of other form factors. No prototype, specifications, cost, or release timeline for the humanoid robot has been disclosed, and the company has been rebuilding its robotics team since early 2025 after closing its previous division in 2021.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 65,
-  "source_url": "https://pasqualepillitteri.it/en/news/14374/openai-goes-hardware-chips-robots",
+  "source_url": "https://mobidevices.com/en/openai-humanoid-robot-plan",
   "source_title": null,
-  "publisher": "Pasquale Pillitteri",
+  "publisher": "MobiDevices-Интересно про мобильные устройства!",
   "permalink": "https://presentofai.com/e/20652"
  },
  {
@@ -27312,20 +27410,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/5847"
- },
- {
-  "id": 5846,
-  "event_date": "2026-07-22",
-  "realm": "terrestrial",
-  "title": "China weighs export controls on advanced AI models and training data",
-  "summary": "China's Ministry of Commerce is considering restricting exports of advanced AI models, training data, and overseas acquisitions of strategic AI companies, and may ban domestic firms from using foreign semiconductor fabs like TSMC.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-considering-export-controls-on-ai-technologies-including-banning-local-companies-from-using-tsmc-report-claims-restrictions-would-also-advanced-ai-models-training-data-and-overseas-acquisitions",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/5846"
  },
  {
   "id": 5818,
