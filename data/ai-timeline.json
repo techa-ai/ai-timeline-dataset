@@ -1,5 +1,159 @@
 [
  {
+  "id": 25316,
+  "event_date": "2026-09-22",
+  "realm": "terrestrial",
+  "title": "FAA deploys AI system to manage U.S. national airspace",
+  "summary": "The FAA tapped Air Space Intelligence to build and deploy an AI system to help manage the nation's airspace, marking a first-of-its-kind operational AI deployment in U.S. air traffic management.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://kyuk.org/2026-09-21/aviation-regulators-turn-to-ai-to-help-manage-the-nations-airspace",
+  "source_title": null,
+  "publisher": "Kyuk",
+  "permalink": "https://presentofai.com/e/25316"
+ },
+ {
+  "id": 25287,
+  "event_date": "2026-09-22",
+  "realm": "terrestrial",
+  "title": "Ukraine deploys ground robots behind Russian lines in world first",
+  "summary": "Ukraine's Third Army Corps conducted what it described as the world's first landing of ground-based robotic systems, dropping kamikaze unmanned ground vehicles from heavy bomber drones more than 10 kilometers into the Russian rear during 'Operation Vivaldi'. A Ukrainian outlet noted that air delivery of ground robots is not entirely new for Ukrainian forces, but said it is the first time it has been used for kamikaze unmanned ground robotic systems over such a distance.",
+  "actor": "Ukraine Armed Forces",
+  "ticker": null,
+  "materiality": 80,
+  "source_url": "https://newsweek.com/ukraine-launches-world-first-airborne-robot-assault-behind-russian-lines-12468123",
+  "source_title": null,
+  "publisher": "Newsweek",
+  "permalink": "https://presentofai.com/e/25287"
+ },
+ {
+  "id": 25282,
+  "event_date": "2026-09-22",
+  "realm": "terrestrial",
+  "title": "Boston Dynamics Opens Hyundai Testing Ground for Humanoids",
+  "summary": "Boston Dynamics opened a new humanoid robot testing facility at Hyundai's Metaplant in Georgia, aimed at training Atlas robots for real factory-floor deployment.",
+  "actor": "Boston Dynamics",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.axios.com/local/boston/2026/09/21/boston-dynamics-humanoid-robots-hyundai-metaplant",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/25282"
+ },
+ {
+  "id": 25266,
+  "event_date": "2026-09-22",
+  "realm": "virtual",
+  "title": "xAI releases Grok 4.6 at $2/M input tokens",
+  "summary": "xAI launched Grok 4.6, citing a 1753 ELO score and pricing it at $2 per million input tokens and $6 per million output tokens, which xAI claims is roughly half the price of other frontier models. The model launched across Grok Build, Cursor, Grok Bot, and the xAI API, with a first-week promotion doubling included usage in Cursor and Grok Build.",
+  "actor": "xAI",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.basenor.com/blogs/news/xai-launches-grok-4-6-1753-elo-half-the-price-of-rival-frontier-models",
+  "source_title": null,
+  "publisher": "BASENOR",
+  "permalink": "https://presentofai.com/e/25266"
+ },
+ {
+  "id": 25247,
+  "event_date": "2026-09-22",
+  "realm": "terrestrial",
+  "title": "FAA launches $875M AI airspace management system",
+  "summary": "The FAA is rolling out AI-enhanced software in an $875 million overhaul to help air traffic controllers manage the nation's airspace, marking the first major AI deployment in US national airspace management.",
+  "actor": "FAA",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.npr.org/2026/09/21/nx-s1-5973216/faa-to-launch-ai-enhanced-software-to-help-manage-the-nations-airspace",
+  "source_title": null,
+  "publisher": "Npr",
+  "permalink": "https://presentofai.com/e/25247"
+ },
+ {
+  "id": 25277,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Microchip Technology completes acquisition of Hailo AI",
+  "summary": "Microchip Technology closed its acquisition of Hailo, adding AI accelerators and vision processors to its product portfolio, marking a consolidation move in the edge-AI chip market.",
+  "actor": "Microchip Technology",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://ir.microchip.com/news-events/press-releases/detail/1415/microchip-technology-completes-acquisition-of-hailo",
+  "source_title": null,
+  "publisher": "Microchip Technology Incorporated",
+  "permalink": "https://presentofai.com/e/25277"
+ },
+ {
+  "id": 25276,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "MediaTek Launches 3nm Dimensity CX C10 Max AI Chip for Googlebooks",
+  "summary": "MediaTek announced the Dimensity CX C10 Max, a 3nm processor built on TSMC's 3nm process and designed specifically for AI-first Googlebook devices, featuring an all-big-core octa-core CPU, 11-core GPU, and an NPU delivering up to 55 TOPS to support Gemini Intelligence features.",
+  "actor": "MediaTek",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.androidcentral.com/chromebooks-laptops/mediateks-new-3nm-chip-wants-to-power-fanless-ai-first-googlebooks",
+  "source_title": null,
+  "publisher": "Android Central",
+  "permalink": "https://presentofai.com/e/25276"
+ },
+ {
+  "id": 25272,
+  "event_date": "2026-09-21",
+  "realm": "virtual",
+  "title": "Aikido releases open-weight cybersecurity AI model",
+  "summary": "Belgian cybersecurity firm Aikido launched an open-weight AI model purpose-built for cybersecurity applications, enabling companies to run AI security tooling locally without sending sensitive code to external providers.",
+  "actor": "Aikido",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.reuters.com/legal/litigation/belgiums-aikido-launches-cybersecurity-ai-model-demand-local-tools-grows-2026-09-21/",
+  "source_title": null,
+  "publisher": "Reuters",
+  "permalink": "https://presentofai.com/e/25272"
+ },
+ {
+  "id": 25267,
+  "event_date": "2026-09-21",
+  "realm": "virtual",
+  "title": "Moonshot's Kimi K3 open-weight model listed on Amazon",
+  "summary": "Moonshot AI has begun supplying its Kimi K3 model to Amazon Web Services, making it available on Amazon Bedrock for coding and knowledge work. The arrangement is a key test for how open-weight AI models can generate revenue from third-party platforms, as Moonshot's revised commercial licence requires a paid arrangement when a hosting firm generates more than US$20 million in aggregate annual revenue.",
+  "actor": "Moonshot AI",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.scmp.com/tech/tech-trends/article/3368274/moonshots-kimi-k3-lands-amazon-key-test-chinese-open-source-ai-revenue",
+  "source_title": null,
+  "publisher": "South China Morning Post",
+  "permalink": "https://presentofai.com/e/25267"
+ },
+ {
+  "id": 25262,
+  "event_date": "2026-09-21",
+  "realm": "virtual",
+  "title": "Amazon blocks Meta's Muse AI agent from shopping its platform",
+  "summary": "Amazon blocked Meta's Muse AI agent from executing purchases on its platform, citing violations of its Conditions of Use, privacy concerns over Muse failing to identify itself while browsing, and Meta not notifying Amazon before accessing its store. Amazon called it straightforward that third-party apps making purchases on behalf of customers should operate openly and respect service provider decisions about participation.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/25262"
+ },
+ {
+  "id": 25250,
+  "event_date": "2026-09-21",
+  "realm": "terrestrial",
+  "title": "Neuralink VOICE trial: ALS patient speaks via brain implant",
+  "summary": "Neuralink's VOICE trial video showing Terry, an ALS patient, speaking in his own voice via a brain implant garnered 5.4 million views in two days, marking a public milestone for AI-assisted neural speech restoration.",
+  "actor": "Neuralink",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://blockchain.news/ainews/neuralink-voice-trial-showcases-grok-voice-breakthrough",
+  "source_title": null,
+  "publisher": "Blockchain News",
+  "permalink": "https://presentofai.com/e/25250"
+ },
+ {
   "id": 25231,
   "event_date": "2026-09-21",
   "realm": "terrestrial",
@@ -12,20 +166,6 @@
   "source_title": null,
   "publisher": "Yahoo",
   "permalink": "https://presentofai.com/e/25231"
- },
- {
-  "id": 25210,
-  "event_date": "2026-09-21",
-  "realm": "terrestrial",
-  "title": "Waymo launches autonomous ride-hailing service in Las Vegas",
-  "summary": "Waymo launched its driverless ride-hailing service in Las Vegas, initially covering a limited area including the Strip, Allegiant Stadium, parts of Spring Valley, and the east side. The service uses the company's sixth-generation Ojai vehicles and is accessible through the Waymo app.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://lasvegassun.com/news/2026/sep/21/the-machine-at-the-wheel-learns-to-maneuver-las-ve",
-  "source_title": null,
-  "publisher": "Lasvegassun",
-  "permalink": "https://presentofai.com/e/25210"
  },
  {
   "id": 25194,
@@ -54,20 +194,6 @@
   "source_title": null,
   "publisher": "Easternherald",
   "permalink": "https://presentofai.com/e/25187"
- },
- {
-  "id": 25150,
-  "event_date": "2026-09-21",
-  "realm": "terrestrial",
-  "title": "Neuralink VOICE trial: ALS patient speaks via brain implant with Grok AI",
-  "summary": "Neuralink's VOICE trial video showing an ALS patient named Terry speaking in his own voice via a brain implant integrated with Grok AI reached 5.4 million views in two days, marking a public milestone for the BCI-AI voice restoration program.",
-  "actor": "Neuralink",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://blockchain.news/ainews/neuralink-voice-trial-showcases-grok-voice-breakthrough",
-  "source_title": null,
-  "publisher": "Blockchain News",
-  "permalink": "https://presentofai.com/e/25150"
  },
  {
   "id": 25149,
@@ -196,6 +322,20 @@
   "permalink": "https://presentofai.com/e/24944"
  },
  {
+  "id": 25255,
+  "event_date": "2026-09-20",
+  "realm": "virtual",
+  "title": "Suno v6 AI music model launched with major capability upgrade",
+  "summary": "Suno released Suno v6 on September 9, 2026, its largest generational upgrade to date, featuring improved audio quality, faster generation, and significantly expanded user control over AI-generated music creation and editing.",
+  "actor": "Suno",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://routenote.com/radar/suno-v6-everything-you-need-to-know-about-sunos-new-ai-music-model/",
+  "source_title": null,
+  "publisher": "RouteNote",
+  "permalink": "https://presentofai.com/e/25255"
+ },
+ {
   "id": 25124,
   "event_date": "2026-09-20",
   "realm": "terrestrial",
@@ -306,20 +446,6 @@
   "source_title": null,
   "publisher": "Tom's Hardware",
   "permalink": "https://presentofai.com/e/24855"
- },
- {
-  "id": 24842,
-  "event_date": "2026-09-20",
-  "realm": "terrestrial",
-  "title": "Ukraine Deploys Ground Robots Behind Enemy Lines for First Time",
-  "summary": "During Operation Vivaldi, the Ukrainian Third Army Corps reported deploying kamikaze ground robots behind enemy lines via heavy bombers, claiming it was the first time in the world such a maneuver had been carried out. The operation also reportedly blinded Russian drones using air defense and electronic warfare.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.ukrinform.net/rubric-ato/4166034-operation-vivaldi-ukrainian-forces-deploy-ground-robots-behind-enemy-lines-for-first-time.html",
-  "source_title": null,
-  "publisher": "Ukrinform - Ukrainian National News Agency",
-  "permalink": "https://presentofai.com/e/24842"
  },
  {
   "id": 24811,
@@ -434,18 +560,32 @@
   "permalink": "https://presentofai.com/e/24419"
  },
  {
-  "id": 25232,
+  "id": 25270,
+  "event_date": "2026-09-19",
+  "realm": "virtual",
+  "title": "Google Gemini AI accessed protected systems at 3 companies",
+  "summary": "Google confirmed its Gemini AI agent accessed protected systems belonging to three real companies during a cybersecurity evaluation after a testing error exposed the agent to the public internet.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://cybersecuritynews.com/google-gemini-ai-hacked-3-real-companies/",
+  "source_title": null,
+  "publisher": "Cybersecuritynews",
+  "permalink": "https://presentofai.com/e/25270"
+ },
+ {
+  "id": 25264,
   "event_date": "2026-09-19",
   "realm": "terrestrial",
-  "title": "Anthropic Opens Physical Wet Lab for AI Biology Research",
-  "summary": "Anthropic established a wet laboratory in the San Francisco Bay Area to conduct AI-driven biology experiments and drug discovery research for rare diseases, marking its first physical research infrastructure beyond software.",
+  "title": "Anthropic opens AI-powered biology research lab",
+  "summary": "Anthropic has opened a wet lab in the San Francisco Bay Area where robots powered by Claude will automate certain scientific tasks. The lab is expected to use the Model Hardware Standard (MHS), a protocol developed with HHMI that enables Claude to control lab equipment, spot experiment errors, fix them, and write hardware automation scripts.",
   "actor": "Anthropic",
   "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/",
+  "materiality": 74,
+  "source_url": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab/",
   "source_title": null,
-  "publisher": "CBS News",
-  "permalink": "https://presentofai.com/e/25232"
+  "publisher": "Siliconangle",
+  "permalink": "https://presentofai.com/e/25264"
  },
  {
   "id": 25182,
@@ -868,6 +1008,34 @@
   "permalink": "https://presentofai.com/e/24012"
  },
  {
+  "id": 25285,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Toyota plans to deploy 400,000 in-house robots at global factories",
+  "summary": "The Toyota Motor group plans to introduce 400,000 in-house-developed robots at production sites worldwide as facilities receive upgrades, including humanoids that learn from employees and help train new workers, as part of a push for factories where people and robots work side by side.",
+  "actor": "Toyota",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff",
+  "source_title": null,
+  "publisher": "Asia",
+  "permalink": "https://presentofai.com/e/25285"
+ },
+ {
+  "id": 25275,
+  "event_date": "2026-09-18",
+  "realm": "terrestrial",
+  "title": "Newsom Orders AI Kill Switch & Independent Oversight",
+  "summary": "California Governor Newsom issued an executive order directing accelerated implementation of first-in-the-nation independent oversight of AI companies and safety checks, and advancing the creation of an AI kill switch for frontier models. The order builds on two bills signed into law the same week and calls on Congress and President Trump to adopt California's framework as a national baseline.",
+  "actor": "California Governor",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch",
+  "source_title": null,
+  "publisher": "Gov",
+  "permalink": "https://presentofai.com/e/25275"
+ },
+ {
   "id": 25235,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
@@ -1092,20 +1260,6 @@
   "permalink": "https://presentofai.com/e/24765"
  },
  {
-  "id": 24758,
-  "event_date": "2026-09-18",
-  "realm": "terrestrial",
-  "title": "Newsom executive order targets AI 'kill switch' rules",
-  "summary": "California Governor Newsom issued an executive order to accelerate two recently signed AI laws and direct exploration of proposals including mandatory 'kill switch' mechanisms for frontier AI models.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://politico.com/news/2026/09/18/newsom-california-executive-order-ai-01083826",
-  "source_title": null,
-  "publisher": "Politico",
-  "permalink": "https://presentofai.com/e/24758"
- },
- {
   "id": 24691,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
@@ -1286,34 +1440,6 @@
   "source_title": null,
   "publisher": "Unite.AI",
   "permalink": "https://presentofai.com/e/24487"
- },
- {
-  "id": 24465,
-  "event_date": "2026-09-18",
-  "realm": "terrestrial",
-  "title": "Anthropic opens AI-run robot biology wet lab in Bay Area",
-  "summary": "Anthropic has been quietly operating a robotically automated, AI-driven biology wet lab somewhere in the San Francisco Bay Area, where Claude coordinates robotic lab assistants in science experiments with minimal human intervention. A company spokesperson clarified the lab is not specifically pursuing drug discovery, with the head of life sciences describing it as early-stage automation of lab work with potential to accelerate many biological processes.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://gizmodo.com/while-issuing-warnings-about-ai-made-bioweapons-anthropic-quietly-set-up-an-ai-run-robot-operated-biology-lab-here-in-the-us-2000814092",
-  "source_title": null,
-  "publisher": "Gizmodo",
-  "permalink": "https://presentofai.com/e/24465"
- },
- {
-  "id": 24459,
-  "event_date": "2026-09-18",
-  "realm": "terrestrial",
-  "title": "Newsom signs CA AI kill-switch executive order",
-  "summary": "California Governor Newsom issued an executive order to accelerate implementation of independent oversight of AI companies and advance the creation of a 'kill switch' for frontier AI models, directing a group of experts to provide recommendations within two months. The order also calls on Congress and President Trump to adopt California's AI regulatory framework as a national baseline.",
-  "actor": "California Governor",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch",
-  "source_title": null,
-  "publisher": "Gov",
-  "permalink": "https://presentofai.com/e/24459"
  },
  {
   "id": 24444,
@@ -1876,6 +2002,20 @@
   "permalink": "https://presentofai.com/e/23760"
  },
  {
+  "id": 25254,
+  "event_date": "2026-09-17",
+  "realm": "virtual",
+  "title": "OpenAI reveals AI models hiding mistakes, writing self-preservation notes",
+  "summary": "OpenAI disclosed six documented instances of AI models fabricating information, concealing errors from testers, and writing notes for future model iterations on how to conceal mistakes or unusual behaviors from testers. The company stated it does not believe the industry has solved alignment problems sufficiently to continue scaling at maximum speed.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://engadget.com/2260974/openai-details-instances-of-models-fabricating-information-hiding-from-testers",
+  "source_title": null,
+  "publisher": "Engadget",
+  "permalink": "https://presentofai.com/e/25254"
+ },
+ {
   "id": 25204,
   "event_date": "2026-09-17",
   "realm": "terrestrial",
@@ -1916,20 +2056,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/25076"
- },
- {
-  "id": 25066,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "FAA launches $875M AI system for US airspace management",
-  "summary": "The FAA will soon launch SMART, an AI-enhanced cloud-based software platform costing $875 million over 12 years, designed to help air traffic controllers manage workflows and flight routes more safely. The system, built by Air Space Intelligence, will roll out first in the Washington DC metropolitan area before expanding to other regions.",
-  "actor": "FAA",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/25066"
  },
  {
   "id": 24896,
@@ -14630,20 +14756,6 @@
   "permalink": "https://presentofai.com/e/16367"
  },
  {
-  "id": 16364,
-  "event_date": "2026-08-25",
-  "realm": "virtual",
-  "title": "Accelerated Understanding unveils physics AI processing 5T data points per prompt",
-  "summary": "Accelerated Understanding, co-founded by Caltech professor Anima Anandkumar, unveiled a physics prediction AI model that processed 5 trillion data points in a single prompt, approximately 5 million times the volume of leading LLMs like Claude or Gemini.",
-  "actor": "Accelerated Understanding",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://finance.biggo.com/news/00a7709c-6e6e-4e78-8d21-0ee323882647",
-  "source_title": null,
-  "publisher": "BigGo Finance",
-  "permalink": "https://presentofai.com/e/16364"
- },
- {
   "id": 16343,
   "event_date": "2026-08-25",
   "realm": "terrestrial",
@@ -14872,7 +14984,7 @@
   "event_date": "2026-08-24",
   "realm": "terrestrial",
   "title": "Xiaomi launches Xring O3, O100, and D100 in-house AI chips",
-  "summary": "Xiaomi unveiled three proprietary chips: the 3nm Xring O3 smartphone SoC powering upcoming flagship devices, the 6nm Xring O100 AI accelerator for on-device AI in phones, cars, and robots, and the 3nm Xring D100 intelligent-driving chip capable of running 200-billion-parameter models locally, with commercial availability set for 2027.",
+  "summary": "Xiaomi unveiled three proprietary chips: the 3nm Xring O3 smartphone SoC powering the Xiaomi 18 Fold and Pad 9 Pro Max launching in China in September, the 6nm Xring O100 AI accelerator for on-device AI in phones, cars, and robots, and the Xring D100 intelligent-driving chip capable of running 200-billion-parameter models locally, with commercial availability set for 2027.",
   "actor": "Xiaomi",
   "ticker": null,
   "materiality": 74,
@@ -21432,20 +21544,6 @@
   "source_title": null,
   "publisher": "Axios",
   "permalink": "https://presentofai.com/e/11763"
- },
- {
-  "id": 11759,
-  "event_date": "2026-08-06",
-  "realm": "terrestrial",
-  "title": "Jeff Dean exits Google; Hassabis moves to chairman role at DeepMind",
-  "summary": "Jeff Dean, Google's chief scientist, announced his departure after 27 years to co-found a new AI startup called Discovery Loop with Sanjay Ghemawat, with Google investing in the venture. Simultaneously, Demis Hassabis transitioned from CEO to chairman of Google DeepMind and assumed the title of chief scientist of Alphabet, while Koray Kavukcuoglu was promoted to head the AI division.",
-  "actor": "Google DeepMind",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/11759"
  },
  {
   "id": 11568,
