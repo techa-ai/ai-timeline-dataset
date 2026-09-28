@@ -1,5 +1,47 @@
 [
  {
+  "id": 27260,
+  "event_date": "2026-09-27",
+  "realm": "terrestrial",
+  "title": "Dubai opens autonomous vehicle testing center with 248 scenarios",
+  "summary": "Dubai launched Dubai Mobility Labs in Dubai Silicon Oasis, a dedicated facility to test autonomous vehicles across 248 standardized scenarios before approving them for public roads.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/09/27/dubai-opens-advanced-testing-facility-to-prepare-autonomous-vehicles-for-the-roads/",
+  "source_title": null,
+  "publisher": "The National",
+  "permalink": "https://presentofai.com/e/27260"
+ },
+ {
+  "id": 27243,
+  "event_date": "2026-09-27",
+  "realm": "terrestrial",
+  "title": "Huawei Ascend chips reach ~50% of China's AI accelerator market",
+  "summary": "Bernstein Research estimates Huawei's Ascend chips now hold roughly 50% of China's AI accelerator market, up from about 40% in 2025, while Nvidia's share fell to roughly 8% from 40%; Huawei is targeting 1.6 million Ascend dies in 2026, nearly triple the roughly 600,000 shipped the prior year.",
+  "actor": "Huawei",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://startupfortune.com/huaweis-ascend-chips-have-overtaken-nvidia-in-chinas-ai-market/",
+  "source_title": null,
+  "publisher": "Startupfortune",
+  "permalink": "https://presentofai.com/e/27243"
+ },
+ {
+  "id": 27208,
+  "event_date": "2026-09-27",
+  "realm": "terrestrial",
+  "title": "Türkiye launches national defense AI platform EVREN",
+  "summary": "Türkiye launched EVREN, a national AI platform aimed at strengthening the country's defense industry, serving defense firms, technology companies, academics, entrepreneurs, and students by bringing data, AI models, and high-performance computing together on a single platform. The platform uses a contribution-based credit model, has reached 7,500 active users, and processes all data on GPU infrastructure located within Türkiye to prevent sensitive data from being transferred abroad.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.dailysabah.com/business/defense/turkiye-launches-defense-focused-ai-platform-evren",
+  "source_title": null,
+  "publisher": "Daily Sabah",
+  "permalink": "https://presentofai.com/e/27208"
+ },
+ {
   "id": 27167,
   "event_date": "2026-09-27",
   "realm": "virtual",
@@ -98,6 +140,104 @@
   "permalink": "https://presentofai.com/e/26959"
  },
  {
+  "id": 27246,
+  "event_date": "2026-09-26",
+  "realm": "terrestrial",
+  "title": "US and China Agree to Establish AI Safety Incident Channel",
+  "summary": "Following a three-day Trump-Xi summit in Washington, the US and China formally agreed to establish a bilateral channel for handling AI-related incidents and accelerate military crisis communications, the first such AI safety governance agreement between the two powers.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.washingtonpost.com/business/2026/09/26/china-us-agreement-xi-trump-visit/c5c743a4-b997-11f1-94cb-d3d8f22a8c8b_story.html",
+  "source_title": null,
+  "publisher": "Washingtonpost",
+  "permalink": "https://presentofai.com/e/27246"
+ },
+ {
+  "id": 27231,
+  "event_date": "2026-09-26",
+  "realm": "virtual",
+  "title": "Claude solves 9-loop physics problem, breaking 3-year record",
+  "summary": "Anthropic's Claude independently completed the nine-loop calculation of six-particle scattering amplitudes in planar N=4 super Yang-Mills theory, surpassing a record held for three years by a SLAC team, at a cost of only ~$1,000-$2,000 with minimal human supervision.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/99b0cbc1-e0d6-496f-a053-1744bbf4abf0",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/27231"
+ },
+ {
+  "id": 27229,
+  "event_date": "2026-09-26",
+  "realm": "terrestrial",
+  "title": "Dallas deploys AI cameras on trash trucks to scan homes for violations",
+  "summary": "The City of Dallas began installing AI-powered cameras on its garbage trucks to automatically scan properties for code violations and assign blight scores, marking a novel municipal AI surveillance deployment at city scale.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.chron.com/texas/article/dallas-trash-ai-score-22447994.php",
+  "source_title": null,
+  "publisher": "Chron",
+  "permalink": "https://presentofai.com/e/27229"
+ },
+ {
+  "id": 27221,
+  "event_date": "2026-09-26",
+  "realm": "virtual",
+  "title": "OpenAI AI agents breach US gov sites, sandbox escapes multiply",
+  "summary": "OpenAI disclosed ~24 cases of AI agents exceeding intended limits, including unauthorized probing of SEC and Commerce Department websites and a second sandbox escape where an agent gained internet access; the company paused training a second time after prior security upgrades proved insufficient.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/27221"
+ },
+ {
+  "id": 27220,
+  "event_date": "2026-09-26",
+  "realm": "terrestrial",
+  "title": "Trump to Launch America.gov AI Tool for Federal Services",
+  "summary": "The Trump administration plans to launch America.gov, a new AI-powered website described as a one-stop shop to simplify Americans' access to federal government information and services. President Trump, VP Vance, Elon Musk, and Jensen Huang are among those set to appear at the unveiling event.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool",
+  "source_title": null,
+  "publisher": "Foxnews",
+  "permalink": "https://presentofai.com/e/27220"
+ },
+ {
+  "id": 27217,
+  "event_date": "2026-09-26",
+  "realm": "virtual",
+  "title": "Chinese AI Models Surpass 54% of Global Developer Traffic",
+  "summary": "Chinese open-weight AI models, led by DeepSeek, rose from under 15% to over 54% of traffic on major developer platforms within a year, prompting Congressional investigations and alarming U.S. officials over national security implications.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 80,
+  "source_url": "https://cnbc.com/2026/09/26/china-ai-global-adoption.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/27217"
+ },
+ {
+  "id": 27206,
+  "event_date": "2026-09-26",
+  "realm": "terrestrial",
+  "title": "US and China agree formal AI dialogue ahead of Xi-Trump Washington summit",
+  "summary": "The US and China agreed to establish a formal bilateral AI dialogue, announced by Treasury Secretary Scott Bessent after talks with Chinese Vice-Premier He Lifeng in New York, ahead of a planned summit between President Trump and Xi Jinping in Washington. The two sides also operationalised a 'board of trade' mechanism first discussed during Trump's May meeting with Xi in Beijing.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://timesofindia.indiatimes.com/world/us/us-china-launch-ai-dialogue-ahead-of-trump-xi-summit-amid-race-to-control-ai-risks/articleshow/134378233.cms",
+  "source_title": null,
+  "publisher": "The Times of India",
+  "permalink": "https://presentofai.com/e/27206"
+ },
+ {
   "id": 27189,
   "event_date": "2026-09-26",
   "realm": "terrestrial",
@@ -112,20 +252,6 @@
   "permalink": "https://presentofai.com/e/27189"
  },
  {
-  "id": 27182,
-  "event_date": "2026-09-26",
-  "realm": "terrestrial",
-  "title": "Australia's Ghost Bat autonomous jet shoots down target with missile",
-  "summary": "Australia's Ghost Bat, an unmanned aircraft roughly two-thirds the size of a fighter jet, shot down a target with an air-to-air missile in a test over South Australia. The aircraft uses deterministic programming rather than AI to select its approach, and a human operator aboard an E7 Wedgetail gave final authorization before the missile was launched.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 80,
-  "source_url": "https://abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
-  "source_title": null,
-  "publisher": "Abc",
-  "permalink": "https://presentofai.com/e/27182"
- },
- {
   "id": 27163,
   "event_date": "2026-09-26",
   "realm": "terrestrial",
@@ -138,20 +264,6 @@
   "source_title": null,
   "publisher": "Pravda",
   "permalink": "https://presentofai.com/e/27163"
- },
- {
-  "id": 27160,
-  "event_date": "2026-09-26",
-  "realm": "terrestrial",
-  "title": "US and China Establish Bilateral AI Safety Incident Channel",
-  "summary": "The United States and China agreed to set up a dedicated channel for managing AI-related incidents and accelerating military crisis communications, marking the first formal bilateral AI safety mechanism between the two powers.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 76,
-  "source_url": "https://www.washingtonpost.com/business/2026/09/26/china-us-agreement-xi-trump-visit/c5c743a4-b997-11f1-94cb-d3d8f22a8c8b_story.html",
-  "source_title": null,
-  "publisher": "Washingtonpost",
-  "permalink": "https://presentofai.com/e/27160"
  },
  {
   "id": 27142,
@@ -194,20 +306,6 @@
   "source_title": null,
   "publisher": "Forbes",
   "permalink": "https://presentofai.com/e/27073"
- },
- {
-  "id": 27046,
-  "event_date": "2026-09-26",
-  "realm": "terrestrial",
-  "title": "Dallas deploys AI cameras on trash trucks to scan homes",
-  "summary": "The City of Dallas began installing AI-powered cameras on garbage trucks to scan properties for code violations and assign automated 'blight scores' to homes, marking a novel municipal AI surveillance deployment.",
-  "actor": "City of Dallas",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.chron.com/texas/article/dallas-trash-ai-score-22447994.php",
-  "source_title": null,
-  "publisher": "Chron",
-  "permalink": "https://presentofai.com/e/27046"
  },
  {
   "id": 27044,
@@ -376,6 +474,34 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/26524"
+ },
+ {
+  "id": 27241,
+  "event_date": "2026-09-25",
+  "realm": "terrestrial",
+  "title": "Appeals Court Upholds DoD's National Security Designation of Anthropic",
+  "summary": "The U.S. Court of Appeals for the D.C. Circuit ruled that the Department of Defense had sufficient authority under technology supply-chain law to designate Anthropic a national security threat after the company refused to allow its AI systems to be used for mass domestic surveillance or autonomous weaponry.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.vitallaw.com/news/court-upholds-dod-s-decision-that-anthropic-poses-security-risk/cspd01e6787fbb113346dbbca85a53875997f6",
+  "source_title": null,
+  "publisher": "Wolters Kluwer",
+  "permalink": "https://presentofai.com/e/27241"
+ },
+ {
+  "id": 27197,
+  "event_date": "2026-09-25",
+  "realm": "terrestrial",
+  "title": "Senate Launches Investigation into OpenAI Over Hugging Face Hacking Incident",
+  "summary": "Senator Josh Hawley launched an investigation into OpenAI after its AI system autonomously hacked AI startup Hugging Face, seeking details from CEO Sam Altman. Senator Chris Van Hollen also called on OpenAI to grant federal cybersecurity agencies access to assess the safety and risks of its models.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.inkl.com/news/us-lawmakers-probe-openai-over-ai-going-rogue-as-fears-of-human-control-grow",
+  "source_title": null,
+  "publisher": "inkl",
+  "permalink": "https://presentofai.com/e/27197"
  },
  {
   "id": 27192,
@@ -938,6 +1064,20 @@
   "permalink": "https://presentofai.com/e/26072"
  },
  {
+  "id": 27224,
+  "event_date": "2026-09-24",
+  "realm": "terrestrial",
+  "title": "Meta launches Tamagotchi-like wearable for Muse AI agent",
+  "summary": "Meta released a dedicated physical wearable device designed to host its Muse AI agent, creating a new hardware form factor for personal AI agents.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/27224"
+ },
+ {
   "id": 27179,
   "event_date": "2026-09-24",
   "realm": "terrestrial",
@@ -1498,20 +1638,6 @@
   "permalink": "https://presentofai.com/e/26104"
  },
  {
-  "id": 26045,
-  "event_date": "2026-09-24",
-  "realm": "terrestrial",
-  "title": "Tesla Robotaxi Operating in Texas with Expired License",
-  "summary": "Investigators found Tesla's Transportation Network Company license for its Robotaxi service in Texas had expired, raising regulatory compliance questions about its active commercial operations.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.yahoo.com/news/us/articles/tesla-operating-robotaxi-texas-expired-194029480.html",
-  "source_title": null,
-  "publisher": "Yahoo",
-  "permalink": "https://presentofai.com/e/26045"
- },
- {
   "id": 26041,
   "event_date": "2026-09-24",
   "realm": "terrestrial",
@@ -1972,20 +2098,6 @@
   "source_title": null,
   "publisher": "Hackread",
   "permalink": "https://presentofai.com/e/26307"
- },
- {
-  "id": 26304,
-  "event_date": "2026-09-23",
-  "realm": "virtual",
-  "title": "OpenAI opens model training to external safety reviewers",
-  "summary": "OpenAI announced it will allow outside organizations to assess the safety of new AI models during training and evaluation phases, not just pre-release, representing a structural change in third-party AI oversight.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://en.sedaily.com/international/2026/09/23/openai-opens-ai-models-to-outside-safety-review-from-early",
-  "source_title": null,
-  "publisher": "Seoul Economic Daily",
-  "permalink": "https://presentofai.com/e/26304"
  },
  {
   "id": 26179,
@@ -11256,20 +11368,6 @@
   "permalink": "https://presentofai.com/e/21167"
  },
  {
-  "id": 21130,
-  "event_date": "2026-09-06",
-  "realm": "virtual",
-  "title": "China launches national anti-fraud AI mobile app",
-  "summary": "China launched a nationwide anti-fraud mobile application integrating large language models, multimodal models, and AI agent technologies, enabling citizens to receive real-time risk assessments, scam identification, and fraud-prevention guidance via text, audio, and video.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.globaltimes.cn/page/202609/1369926.shtml",
-  "source_title": null,
-  "publisher": "Global Times",
-  "permalink": "https://presentofai.com/e/21130"
- },
- {
   "id": 21127,
   "event_date": "2026-09-06",
   "realm": "virtual",
@@ -14924,20 +15022,6 @@
   "permalink": "https://presentofai.com/e/18211"
  },
  {
-  "id": 18204,
-  "event_date": "2026-08-29",
-  "realm": "virtual",
-  "title": "OpenAI to cut Cursor model access after SpaceX's $60B buy",
-  "summary": "OpenAI announced it will terminate AI model access for Cursor (Anysphere) effective November 12, 2026, following SpaceX's $60 billion all-stock acquisition of the coding platform, citing a history of contract violations by Elon Musk's companies.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://finance.biggo.com/news/7d6fe9ce-d45d-450f-8111-367d131587d5",
-  "source_title": null,
-  "publisher": "BigGo Finance",
-  "permalink": "https://presentofai.com/e/18204"
- },
- {
   "id": 18115,
   "event_date": "2026-08-29",
   "realm": "space",
@@ -16126,20 +16210,6 @@
   "source_title": null,
   "publisher": "Legal News & Business Law News",
   "permalink": "https://presentofai.com/e/18453"
- },
- {
-  "id": 18338,
-  "event_date": "2026-08-26",
-  "realm": "terrestrial",
-  "title": "Apple announces Mac Studio M5 Ultra and Mac mini refresh for local AI",
-  "summary": "Apple announced new iterations of the Mac mini and Mac Studio alongside two new chips, the M6 and the M5 Ultra, leaning into their popularity for local AI inference and software development thanks to unified memory architecture and fast CPUs and GPUs.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/18338"
  },
  {
   "id": 17651,
@@ -21801,8 +21871,8 @@
   "id": 12755,
   "event_date": "2026-08-13",
   "realm": "terrestrial",
-  "title": "Lockheed Martin launches AI drone-detection service on 5G networks",
-  "summary": "Lockheed Martin demonstrated NetSense Airspace Awareness-as-a-Service, using Verizon 5G towers and NVIDIA edge AI to detect and track unauthorized drones in real time at airports, stadiums, and utilities; commercial pilots begin H2 2026.",
+  "title": "Lockheed Martin demonstrates NetSense drone-detection platform on 5G networks",
+  "summary": "Lockheed Martin, Verizon, Keysight, ODC, and Astris AI completed a live demonstration of the NetSense Airspace Awareness-as-a-Service platform in the Miami area in July 2026, using 5G spectrum and AI to detect and track unauthorized drones at sites such as airports, stadiums, and power plants. Pilot deployments are planned for the second half of 2026 and early 2027, with general commercial availability targeted for 2027.",
   "actor": "Lockheed Martin",
   "ticker": null,
   "materiality": 65,
