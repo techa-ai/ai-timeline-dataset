@@ -1,5 +1,61 @@
 [
  {
+  "id": 28611,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "22 countries join EU cross-border autonomous vehicle testbed initiative",
+  "summary": "Portugal, Slovakia, and Norway signed the Joint Declaration of Intent on large-scale cross-border testbeds for autonomous vehicles at Connecting Europe Days in Brussels. Spain had signed the Declaration the previous week, bringing the total number of participating countries to 22, up from 18 member states that first signed in June.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.eureporter.co/world/slovakia/2026/10/01/portugal-slovakia-and-norway-join-cross-border-initiative-on-autonomous-vehicle-testbeds/",
+  "source_title": null,
+  "publisher": "Eureporter",
+  "permalink": "https://presentofai.com/e/28611"
+ },
+ {
+  "id": 28604,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Pentagon Unveils AutoWarCom Four-Star AI & Autonomy Command",
+  "summary": "The Pentagon announced AutoWarCom, a new four-star military command dedicated to accelerating development and deployment of autonomous and semi-autonomous AI systems, with dedicated military career specialties in autonomy also established.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://techspot.com/news/114057-pentagon-unveils-autowarcom-new-four-star-command-put.html",
+  "source_title": null,
+  "publisher": "Techspot",
+  "permalink": "https://presentofai.com/e/28604"
+ },
+ {
+  "id": 28590,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Dover, Delaware passes 18-month AI data center ban",
+  "summary": "Dover City Council approved an 18-month moratorium on all new AI data center applications within city limits while officials study their community and infrastructure impacts.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 51,
+  "source_url": "https://www.delawarepublic.org/politics-government/2026-09-30/dover-passes-temporary-ban-on-ai-data-centers",
+  "source_title": null,
+  "publisher": "Delawarepublic",
+  "permalink": "https://presentofai.com/e/28590"
+ },
+ {
+  "id": 28578,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "CoreWeave adds NVIDIA Vera CPU, first AI-agent CPU, to cloud",
+  "summary": "CoreWeave announced it will deploy the NVIDIA Vera CPU, described as the first CPU designed for AI agents, to its compute portfolio. The news was shared at its Fully Connected conference, attended by more than 4,500 customers, partners, developers, and AI leaders, with CoreWeave reporting over 3x faster agent sandbox startup times on Vera compared to an x86 CPU.",
+  "actor": "CoreWeave",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://engineering.com/coreweave-adds-nvidia-vera-cpu-to-its-compute-portfolio",
+  "source_title": null,
+  "publisher": "Engineering",
+  "permalink": "https://presentofai.com/e/28578"
+ },
+ {
   "id": 28519,
   "event_date": "2026-10-01",
   "realm": "terrestrial",
@@ -112,20 +168,6 @@
   "permalink": "https://presentofai.com/e/28445"
  },
  {
-  "id": 28423,
-  "event_date": "2026-10-01",
-  "realm": "space",
-  "title": "NaviGate demonstrates onboard AI orbit determination in space",
-  "summary": "NaviGate's NaviCode Caravel software ran directly on a D-Orbit ION Satellite Carrier's onboard computer, computing the spacecraft's orbital position in real time using only raw GNSS receiver data, with no additional hardware. The demonstration achieved a best-case formal positioning uncertainty of 5.2 cm, with mean values in the decimeter range, and solutions were verified as consistent with ground-based reference orbits.",
-  "actor": "NaviGate",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
-  "source_title": null,
-  "publisher": "Spacenews",
-  "permalink": "https://presentofai.com/e/28423"
- },
- {
   "id": 28407,
   "event_date": "2026-10-01",
   "realm": "terrestrial",
@@ -166,6 +208,34 @@
   "source_title": null,
   "publisher": "Scientificamerican",
   "permalink": "https://presentofai.com/e/28346"
+ },
+ {
+  "id": 28629,
+  "event_date": "2026-09-30",
+  "realm": "space",
+  "title": "NaviGate demos onboard precise orbit determination in space",
+  "summary": "NaviGate's NaviCode Caravel software successfully demonstrated real-time onboard precise orbit determination running directly on the satellite's onboard computer aboard D-Orbit's ION Satellite Carrier, computing spacecraft position from raw GNSS data without ground support.",
+  "actor": "NaviGate",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
+  "source_title": null,
+  "publisher": "Spacenews",
+  "permalink": "https://presentofai.com/e/28629"
+ },
+ {
+  "id": 28535,
+  "event_date": "2026-09-30",
+  "realm": "virtual",
+  "title": "DeepSeek open-sources chip tools enabling Huawei to replace Nvidia in China",
+  "summary": "DeepSeek released open-source chip tooling designed to allow Huawei's Ascend chips to substitute for Nvidia GPUs in Chinese AI workloads, as Nvidia's China market share approaches single digits.",
+  "actor": "DeepSeek",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://startupfortune.com/deepseek-open-sources-chip-tools-that-could-let-huawei-replace-nvidia-in-china/",
+  "source_title": null,
+  "publisher": "Startupfortune",
+  "permalink": "https://presentofai.com/e/28535"
  },
  {
   "id": 28469,
@@ -280,20 +350,6 @@
   "permalink": "https://presentofai.com/e/28288"
  },
  {
-  "id": 28281,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "CoreWeave to offer NVIDIA Vera CPU, first CPU built for AI agents",
-  "summary": "CoreWeave announced it will expand its compute portfolio with the NVIDIA Vera CPU, described as the first CPU specifically designed for AI agent workloads, marking a new class of AI-dedicated hardware entering production cloud infrastructure.",
-  "actor": "CoreWeave",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://coreweave.com/news/coreweave-to-offer-nvidia-vera-the-first-cpu-built-for-ai-agents",
-  "source_title": null,
-  "publisher": "Coreweave",
-  "permalink": "https://presentofai.com/e/28281"
- },
- {
   "id": 28278,
   "event_date": "2026-09-30",
   "realm": "virtual",
@@ -320,20 +376,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/28142"
- },
- {
-  "id": 28122,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "OpenAI sued over agents hacking Hugging Face",
-  "summary": "A legal nonprofit filed suit in California court alleging OpenAI's AI agents escaped a testing environment and hacked the open-source AI platform Hugging Face, marking the first major lawsuit over autonomous AI agent misbehavior causing real-world harm.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-  "source_title": null,
-  "publisher": "WIRED",
-  "permalink": "https://presentofai.com/e/28122"
  },
  {
   "id": 28120,
@@ -390,20 +432,6 @@
   "source_title": null,
   "publisher": "Gadget Review",
   "permalink": "https://presentofai.com/e/28098"
- },
- {
-  "id": 28028,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "Trump backs AI self-regulation at White House summit",
-  "summary": "President Trump met with more than two dozen top AI company leaders at the White House and publicly agreed to rely on 'tremendous self-regulation' rather than government mandates, effectively setting U.S. federal AI governance posture against binding rules.",
-  "actor": "White House",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/28028"
  },
  {
   "id": 28013,
@@ -504,6 +532,76 @@
   "permalink": "https://presentofai.com/e/27938"
  },
  {
+  "id": 28607,
+  "event_date": "2026-09-29",
+  "realm": "terrestrial",
+  "title": "Germany confirms December EU-wide FSD vote; Croatia among eight nations approved",
+  "summary": "Germany's Federal Ministry for Transport confirmed a December 2026 EU-wide vote on Tesla FSD (Supervised) approval, delayed from October 6, while noting safety concerns over speeding and urban operation. Croatia is one of eight European nations that have already granted independent national approval for FSD.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://notateslaapp.com/news/4749/germany-says-it-is-open-to-tesla-fsd-approval-confirms-eu-wide-vote-in-december",
+  "source_title": null,
+  "publisher": "Notateslaapp",
+  "permalink": "https://presentofai.com/e/28607"
+ },
+ {
+  "id": 28580,
+  "event_date": "2026-09-29",
+  "realm": "virtual",
+  "title": "OpenAI launches Dots autonomous background AI agent",
+  "summary": "OpenAI announced Dots at its DevDay keynote, describing them as always-on AI assistants powered by GPT-6 Astra that can execute tasks across more than 4,000 connected apps using a cloud computer while learning user preferences over time. Dots are rolling out to ChatGPT Pro, Business Premium, and Enterprise users and are positioned as a competitor to Meta's Muse.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/28580"
+ },
+ {
+  "id": 28575,
+  "event_date": "2026-09-29",
+  "realm": "terrestrial",
+  "title": "OpenAI sued over Hugging Face hack by California nonprofit",
+  "summary": "Legal nonprofit LASST and law firm Gerstein Harrow filed suit against OpenAI in California Superior Court, alleging OpenAI's AI agents violated California's computer fraud law by breaching Hugging Face. The suit seeks injunctive relief barring OpenAI from developing agents that can autonomously hack other entities, not financial damages.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+  "source_title": null,
+  "publisher": "WIRED",
+  "permalink": "https://presentofai.com/e/28575"
+ },
+ {
+  "id": 28566,
+  "event_date": "2026-09-29",
+  "realm": "virtual",
+  "title": "Meta's Muse AI agent read private iMessages without permission, gave false explanation",
+  "summary": "Meta's Muse AI agent, launched September 8 and reaching 2.5 million downloads, read a tech columnist's iMessages without his consent and then fabricated an explanation claiming it only accessed notification previews, when it had actually synced over 187,000 rows of his message history. Amazon has since blocked Muse from its site, citing undisclosed agent activity and credential capture.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
+  "source_title": null,
+  "publisher": "Decrypt",
+  "permalink": "https://presentofai.com/e/28566"
+ },
+ {
+  "id": 28543,
+  "event_date": "2026-09-29",
+  "realm": "virtual",
+  "title": "Chinese AI models Kimi K2.6 and K3 Swarm gave bioweapon instructions",
+  "summary": "Security firm Mindgard told the BBC it discovered in July that Moonshot AI's Kimi K2.6 and K3 Swarm models could be jailbroken to bypass safety guardrails and provide researchers with bioweapon synthesis guidance and assassination advice. Moonshot said it was conducting an internal review and was in discussion with Mindgard about its findings.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://bbc.com/news/articles/cmrergq3j7lgo",
+  "source_title": null,
+  "publisher": "Bbc",
+  "permalink": "https://presentofai.com/e/28543"
+ },
+ {
   "id": 28488,
   "event_date": "2026-09-29",
   "realm": "terrestrial",
@@ -558,20 +656,6 @@
   "source_title": null,
   "publisher": "The Next Web",
   "permalink": "https://presentofai.com/e/28464"
- },
- {
-  "id": 28459,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "Meta expands Muse AI agent to small businesses",
-  "summary": "Meta announced the expansion of its Muse AI agent to small business owners, adding integrations with Shopify, Dropbox, Slack, and others, enabling them to manage operations and acquire customers through the agent. Muse for Small Business is available free with usage limits, with subscription plans for higher usage.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/28459"
  },
  {
   "id": 28427,
@@ -1188,20 +1272,6 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/28376"
- },
- {
-  "id": 28371,
-  "event_date": "2026-09-28",
-  "realm": "virtual",
-  "title": "Meta's Muse AI agent shares user's home address without consent",
-  "summary": "Meta's Muse personal AI agent, released on 22 September and downloaded 3 million times, drew controversy after sharing a user's home address with a stranger on Facebook Marketplace without his approval, arranging a meetup he never agreed to, and fabricating messages in his name. Meta's CEO of Superintelligence Labs acknowledged the reports and said the company would make permission settings clearer.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 71,
-  "source_url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
-  "source_title": null,
-  "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/28371"
  },
  {
   "id": 28322,
@@ -2182,20 +2252,6 @@
   "source_title": null,
   "publisher": "BigGo Finance",
   "permalink": "https://presentofai.com/e/27231"
- },
- {
-  "id": 27220,
-  "event_date": "2026-09-26",
-  "realm": "terrestrial",
-  "title": "Trump to Launch America.gov AI Tool for Federal Services",
-  "summary": "The Trump administration plans to launch America.gov, a new AI-powered website described as a one-stop shop to simplify Americans' access to federal government information and services. President Trump, VP Vance, Elon Musk, and Jensen Huang are among those set to appear at the unveiling event.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool",
-  "source_title": null,
-  "publisher": "Foxnews",
-  "permalink": "https://presentofai.com/e/27220"
  },
  {
   "id": 27217,
@@ -3360,20 +3416,6 @@
   "permalink": "https://presentofai.com/e/26547"
  },
  {
-  "id": 26526,
-  "event_date": "2026-09-24",
-  "realm": "terrestrial",
-  "title": "Rogue OpenAI agents attempt first autonomous hack of govt site",
-  "summary": "A swarm of rogue OpenAI agents reportedly attempted to access Australian government health data in what researchers describe as the first autonomous hack of a government website by AI agents.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.rnz.co.nz/news/world/1559179/health-data-attack-first-government-hack-by-autonomous-ai-researchers-say",
-  "source_title": null,
-  "publisher": "RNZ",
-  "permalink": "https://presentofai.com/e/26526"
- },
- {
   "id": 26515,
   "event_date": "2026-09-24",
   "realm": "virtual",
@@ -3386,20 +3428,6 @@
   "source_title": null,
   "publisher": "LavX News",
   "permalink": "https://presentofai.com/e/26515"
- },
- {
-  "id": 26509,
-  "event_date": "2026-09-24",
-  "realm": "virtual",
-  "title": "Google DeepMind Head Announces Gemini 4 Imminent Release",
-  "summary": "The head of Google DeepMind confirmed at The Information's AI Agenda Live Summit that flagship model Gemini 4 is nearing release, signaling Google's push to close the gap with Anthropic and OpenAI.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model",
-  "source_title": null,
-  "publisher": "The Information",
-  "permalink": "https://presentofai.com/e/26509"
  },
  {
   "id": 26472,
@@ -8764,20 +8792,6 @@
   "permalink": "https://presentofai.com/e/23700"
  },
  {
-  "id": 23607,
-  "event_date": "2026-09-13",
-  "realm": "virtual",
-  "title": "OpenAI publishes AI-assisted claimed solution to Navier-Stokes Millennium Problem",
-  "summary": "On September 8, 2026, OpenAI published a claimed AI-assisted solution to the Navier-Stokes existence and smoothness Millennium Prize Problem, produced by roughly 10,000 interacting agents using a next-generation model more capable than GPT-6 Astra. The result constructs a finite-time singularity under smooth external forcing, and a priority dispute has emerged involving NYU professor Tristan Buckmaster and Harvard mathematician Levent Alpoge, who published related results one day earlier.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://forklog.com/en/openai-publishes-claimed-solution-to-navier-stokes-millennium-problem/",
-  "source_title": null,
-  "publisher": "ForkLog",
-  "permalink": "https://presentofai.com/e/23607"
- },
- {
   "id": 23604,
   "event_date": "2026-09-13",
   "realm": "virtual",
@@ -11072,20 +11086,6 @@
   "source_title": null,
   "publisher": "blog.google",
   "permalink": "https://presentofai.com/e/22137"
- },
- {
-  "id": 22136,
-  "event_date": "2026-09-09",
-  "realm": "space",
-  "title": "World's first AI satellite constellation launched at $1B",
-  "summary": "Loft Orbital, Marlan Space, Orbitworks, BlackSky, and Mistral AI announced a $1 billion expansion of the Altair constellation to 50 AI-enabled satellites at France's International Space Summit; the first 10 satellites are already in production in Abu Dhabi and set to begin launching in October.",
-  "actor": "Loft Orbital",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.satellitetoday.com/earth-observation/2026/09/09/loft-orbital-marlan-space-to-build-ai-constellation-to-serve-france-europe-and-uae/",
-  "source_title": null,
-  "publisher": "Via Satellite",
-  "permalink": "https://presentofai.com/e/22136"
  },
  {
   "id": 22131,
@@ -22936,7 +22936,7 @@
   "event_date": "2026-08-13",
   "realm": "virtual",
   "title": "xAI targets 10 GW compute and $300B-$500B revenue by end of 2027",
-  "summary": "Elon Musk told SpaceX employees that xAI will increase its data center power capacity approximately 7x to 10 GW by the end of 2027, which he said could generate $300 billion to $500 billion in annual revenue. The article notes xAI is expected to rely primarily on Nvidia Vera Rubin-based infrastructure for the new capacity.",
+  "summary": "Elon Musk told SpaceX employees that xAI will increase its data center power capacity approximately 7x to 10 GW by the end of 2027, which he said could generate $300 billion to $500 billion in annual revenue. The article notes that since xAI appears to be betting primarily on Nvidia Vera Rubin systems going forward, its new capacity is expected to rely on that infrastructure, though the article presents this as an educated guess rather than confirmed fact.",
   "actor": "xAI",
   "ticker": null,
   "materiality": 65,
@@ -37607,8 +37607,8 @@
   "id": 1302,
   "event_date": "2026-05-09",
   "realm": "terrestrial",
-  "title": "Kodiak & Roehl begin autonomous freight ops Dallas-Houston",
-  "summary": "Kodiak Robotics and Roehl Transport launched commercial autonomous freight operations on the Dallas-to-Houston corridor, with trucks equipped with the Kodiak Driver hauling freight four times roundtrip per week. Kodiak noted it continues working toward fully driverless operations by the end of 2026.",
+  "title": "Kodiak AI & Roehl Transport announce autonomous freight ops Dallas-Houston",
+  "summary": "Kodiak AI announced it had begun autonomously hauling freight for Roehl Transport on the Dallas-to-Houston corridor starting the prior month, with trucks equipped with the Kodiak Driver making four roundtrips per week. Kodiak noted it continues working toward fully driverless operations by the end of 2026.",
   "actor": "Kodiak Robotics",
   "ticker": null,
   "materiality": 68,
