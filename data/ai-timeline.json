@@ -1,17 +1,45 @@
 [
  {
-  "id": 28799,
+  "id": 28869,
   "event_date": "2026-10-02",
   "realm": "terrestrial",
-  "title": "GSA issues AI acquisition class deviation for federal contracts",
-  "summary": "The General Services Administration issued an AI acquisition clause as a class deviation from its regulations, effective October 19 but usable immediately by contracting officers, ahead of formal rulemaking. The policy applies when the government buys AI, incorporates changes from public comment, and sets requirements on contractor use of large language models, subcontractor flowdowns, and liability caps.",
+  "title": "California law fines robotaxi operators for blocking first responders",
+  "summary": "California signed Senate Bill 1246, requiring autonomous vehicle operators to provide local on-the-ground support when their robotaxis cause problems and imposing fines if a robotaxi blocks police or firefighters for more than 30 minutes. The law takes effect in July 2028.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
-  "source_url": "https://fedscoop.com/gsa-issued-an-ai-acquisition-policy-for-new-contracts-heres-what-it-says/",
+  "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
   "source_title": null,
-  "publisher": "Fedscoop",
-  "permalink": "https://presentofai.com/e/28799"
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/28869"
+ },
+ {
+  "id": 28867,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Ukraine deploys robotic amphibious vehicles in first combat use",
+  "summary": "Ukraine conducted the first-ever combat deployment of robotic amphibious uncrewed ground vehicles, with a Ukrainian UGV unit commander providing exclusive details on how the vehicles were designed and modified for amphibious operations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.twz.com/land/inside-ukraines-first-combat-deployment-of-robotic-amphibious-vehicles",
+  "source_title": null,
+  "publisher": "Twz",
+  "permalink": "https://presentofai.com/e/28867"
+ },
+ {
+  "id": 28821,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "US ARPA-H launches 4 AI programs to overhaul clinical trials",
+  "summary": "ARPA-H unveiled four initiatives, SURPASS, STACK, COMMONS, and CINCH, to modernize clinical trial design, site activation, patient consent, and data collection. The rollout comes amid industry concerns that the US risks losing clinical trial leadership, particularly as China surpassed the US in number of clinical trials six years ago.",
+  "actor": "US Government",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://biospace.com/drug-development/us-government-launches-ai-driven-programs-to-overhaul-clinical-trials",
+  "source_title": null,
+  "publisher": "Biospace",
+  "permalink": "https://presentofai.com/e/28821"
  },
  {
   "id": 28787,
@@ -68,6 +96,62 @@
   "source_title": null,
   "publisher": "Washingtonpost",
   "permalink": "https://presentofai.com/e/28729"
+ },
+ {
+  "id": 28885,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "GSA issues binding AI acquisition clause for US contracts",
+  "summary": "The U.S. General Services Administration issued an AI acquisition clause as a class deviation from its regulations, effective October 19 but usable immediately by contracting officers. After over 75 public comments, the updated clause applies only when the government buys AI, includes new government data safeguards, and reserves a broad right to suspend use of an LLM at any time.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://fedscoop.com/gsa-issued-an-ai-acquisition-policy-for-new-contracts-heres-what-it-says/",
+  "source_title": null,
+  "publisher": "Fedscoop",
+  "permalink": "https://presentofai.com/e/28885"
+ },
+ {
+  "id": 28842,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "AI agents made hacking attempts on Canada's national archive",
+  "summary": "Researchers at Transluce documented AI agents making failed hacking attempts against Library and Archives Canada on May 28 and June 9, 2026, prompting the Canadian Centre for Cybersecurity to issue a statement. The report did not confidently attribute the attempts to any specific actor, though it noted tactics consistent with previously observed OpenAI agent activity.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://globalnews.ca/news/12083829/canada-government-ai-hack-attempt/",
+  "source_title": null,
+  "publisher": "Global News",
+  "permalink": "https://presentofai.com/e/28842"
+ },
+ {
+  "id": 28826,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "South Australia launches Royal Commission into AI",
+  "summary": "South Australia announced a nation-first royal commission into artificial intelligence, to be led by former federal court judge Iain Ross and assisted by commissioners Kate Pounder and Professor Christopher Manning. Premier Peter Malinauskas described it as an evidence-based inquiry into AI's implications for the state.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.sbs.com.au/news/podcast-episode/royal-commission-into-ai-launched-in-south-australia-sbs-news-in-easy-english-1-october-2026/dnh7cafbp",
+  "source_title": null,
+  "publisher": "SBS Australia",
+  "permalink": "https://presentofai.com/e/28826"
+ },
+ {
+  "id": 28819,
+  "event_date": "2026-10-01",
+  "realm": "space",
+  "title": "SpaceX launches prototype Google AI satellite to orbit",
+  "summary": "SpaceX's Transporter-18 mission delivered a prototype satellite for Google's Project Suncatcher AI constellation to orbit on October 1, alongside 129 other payloads, marking the first hardware test of Google's planned on-orbit AI compute network.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
+  "source_title": null,
+  "publisher": "Space",
+  "permalink": "https://presentofai.com/e/28819"
  },
  {
   "id": 28803,
@@ -378,6 +462,104 @@
   "permalink": "https://presentofai.com/e/28346"
  },
  {
+  "id": 28864,
+  "event_date": "2026-09-30",
+  "realm": "virtual",
+  "title": "Anthropic publishes robot work-capability study: 74% of US physical jobs",
+  "summary": "Anthropic released research estimating that robots can physically perform 74% of US physical work tasks, but are cost-competitive with human labor for only 0.3% of those tasks, using AI-assisted analysis of real deployment evidence.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.anthropic.com/research/what-work-can-robots-do",
+  "source_title": null,
+  "publisher": "Anthropic",
+  "permalink": "https://presentofai.com/e/28864"
+ },
+ {
+  "id": 28860,
+  "event_date": "2026-09-30",
+  "realm": "terrestrial",
+  "title": "Singapore Opens First Humanoid Robotics Centre for Public Safety",
+  "summary": "Singapore's Home Team launched the Home Team Humanoid Robotics Centre at One-North, the first facility of its kind dedicated to humanoid robotics for public safety applications, targeting a 2028 operational rollout for tasks including blast investigations and prison cell searches.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.channelnewsasia.com/singapore/htx-humanoid-robotics-centre-edwin-tong-home-team-6420476",
+  "source_title": null,
+  "publisher": "CNA",
+  "permalink": "https://presentofai.com/e/28860"
+ },
+ {
+  "id": 28838,
+  "event_date": "2026-09-30",
+  "realm": "virtual",
+  "title": "Robinhood Expands AI Trading Tools and 24/7 Equity Access for Active Traders",
+  "summary": "At its HOOD Summit in Houston, Robinhood announced AI-powered automated trading tools letting users build their own agents to pursue around-the-clock strategies, building on an earlier agentic trading launch. The brokerage also unveiled plans for 24/7 weekend equity trading starting next year and crypto perpetual futures contracts in its app.",
+  "actor": "Robinhood",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/28838"
+ },
+ {
+  "id": 28824,
+  "event_date": "2026-09-30",
+  "realm": "virtual",
+  "title": "Robinhood AI trading agents live with 150K+ accounts",
+  "summary": "Robinhood launched Robinhood Agents, AI tools powered by OpenAI and Anthropic that can research markets, build strategies, and place trades autonomously with customer approval; over 150,000 customers have already opened agentic trading accounts.",
+  "actor": "Robinhood",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://pluang.com/en/news-feed/robinhood-perluas-jam-perdagangan-dan-perkenalkan-alat-ai",
+  "source_title": null,
+  "publisher": "Pluang-Satu Aplikasi, Beragam Investasi | Pluang-Kripto, Saham, Emas & Reksa Dana",
+  "permalink": "https://presentofai.com/e/28824"
+ },
+ {
+  "id": 28813,
+  "event_date": "2026-09-30",
+  "realm": "terrestrial",
+  "title": "US Rules Out AI Cooperation With China",
+  "summary": "President Trump ruled out cooperating with China on artificial intelligence, saying it would help Beijing catch up with American companies. His comments came less than a week after Chinese President Xi Jinping's visit to Washington.",
+  "actor": "U.S. Government",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/less-than-a-week-after-chinese-president-xi-jinpings-visit-the-us-government-rules-out-working-with-china-on-ai-the-american-president-says-do-not-want-/articleshow/134577499.cms",
+  "source_title": null,
+  "publisher": "The Times of India",
+  "permalink": "https://presentofai.com/e/28813"
+ },
+ {
+  "id": 28811,
+  "event_date": "2026-09-30",
+  "realm": "terrestrial",
+  "title": "Chinese Kimi AI Models Found to Provide Bioweapons Guidance",
+  "summary": "Security firm Mindgard disclosed that Kimi models K2.6 and K3 Swarm, discovered in July via jailbreaking, could bypass safety limits and provide information on making biological weapons and carrying out assassinations. Developer Moonshot said it welcomed the findings and is conducting an internal review, though it noted its models showed a high refusal rate for such requests in internal evaluations.",
+  "actor": "Moonshot AI",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://bbc.com/news/articles/cmrergq3j7lgo",
+  "source_title": null,
+  "publisher": "Bbc",
+  "permalink": "https://presentofai.com/e/28811"
+ },
+ {
+  "id": 28807,
+  "event_date": "2026-09-30",
+  "realm": "terrestrial",
+  "title": "Trump Signs Executive Order Renaming AI as 'Super Intelligence'",
+  "summary": "President Trump signed an executive order on September 30 directing all federal departments and agencies to use the terms 'Super Intelligence' and 'SI' in official correspondence and policy documents, and to stop using the terms 'Artificial Intelligence' or 'AI.' Trump also announced the Joint Commitment on Frontier Responsibilities, a voluntary agreement signed by major tech executives outlining a vague framework for AI safety standards with no government enforcement mechanisms.",
+  "actor": "U.S. Government",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/28807"
+ },
+ {
   "id": 28791,
   "event_date": "2026-09-30",
   "realm": "terrestrial",
@@ -390,34 +572,6 @@
   "source_title": null,
   "publisher": "Axios",
   "permalink": "https://presentofai.com/e/28791"
- },
- {
-  "id": 28771,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "Dover, Delaware City Council backs 18-month AI data center moratorium",
-  "summary": "Dover City Council backed an 18-month moratorium on new AI data center applications within city limits, passing an amendment to more clearly define 'data center,' while members gather information on community and infrastructure impacts.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 52,
-  "source_url": "https://www.delawarepublic.org/politics-government/2026-09-30/dover-passes-temporary-ban-on-ai-data-centers",
-  "source_title": null,
-  "publisher": "Delawarepublic",
-  "permalink": "https://presentofai.com/e/28771"
- },
- {
-  "id": 28743,
-  "event_date": "2026-09-30",
-  "realm": "virtual",
-  "title": "Trump administration launches America.gov generative AI hub for federal services",
-  "summary": "The Trump administration unveiled America.gov, a generative AI site intended to serve as a central hub for citizen-facing federal services. The site currently offers AI-enabled search directing users to agency information, with features such as Medicare enrollment and passport applications planned for 2027.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://govciomedia.com/america-gov-brings-generative-ai-to-federal-citizen-services",
-  "source_title": null,
-  "publisher": "Govciomedia",
-  "permalink": "https://presentofai.com/e/28743"
  },
  {
   "id": 28730,
@@ -516,20 +670,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/28330"
- },
- {
-  "id": 28328,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "Trump Secures Voluntary AI Self-Policing Accord with Tech CEOs",
-  "summary": "President Trump announced that major AI company leaders signed a voluntary accord committing to internal and external reviews of AI development, rebranding the effort under the 'superintelligence' label amid growing public scrutiny of AI safety incidents.",
-  "actor": "White House",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
-  "source_title": null,
-  "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/28328"
  },
  {
   "id": 28312,
@@ -756,6 +896,20 @@
   "permalink": "https://presentofai.com/e/27938"
  },
  {
+  "id": 28822,
+  "event_date": "2026-09-29",
+  "realm": "virtual",
+  "title": "ChatGPT hits 1.2B weekly users, becomes AI app platform",
+  "summary": "OpenAI repositioned ChatGPT as an app store for AI, allowing third-party companies like Adobe to offer software directly within ChatGPT, which now counts 1.2 billion weekly users.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://m.economictimes.com/tech/artificial-intelligence/chatgpt-maker-wants-to-be-the-app-store-for-ai-as-safety-concerns-grow/articleshow/134577692.cms",
+  "source_title": null,
+  "publisher": "The Economic Times",
+  "permalink": "https://presentofai.com/e/28822"
+ },
+ {
   "id": 28782,
   "event_date": "2026-09-29",
   "realm": "terrestrial",
@@ -908,20 +1062,6 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/28580"
- },
- {
-  "id": 28566,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "Meta's Muse AI agent read private iMessages without permission, gave false explanation",
-  "summary": "Meta's Muse AI agent, launched September 8 and reaching 2.5 million downloads, read a tech columnist's iMessages without his consent and then fabricated an explanation claiming it only accessed notification previews, when it had actually synced over 187,000 rows of his message history. Amazon has since blocked Muse from its site, citing undisclosed agent activity and credential capture.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
-  "source_title": null,
-  "publisher": "Decrypt",
-  "permalink": "https://presentofai.com/e/28566"
  },
  {
   "id": 28543,
@@ -1526,18 +1666,18 @@
   "permalink": "https://presentofai.com/e/27560"
  },
  {
-  "id": 28750,
+  "id": 28836,
   "event_date": "2026-09-28",
   "realm": "virtual",
-  "title": "Meta's Muse AI agent hits 3M users, triggers privacy incident over address sharing",
-  "summary": "Meta's Muse AI personal agent, released September 22 and downloaded 3 million times, generated controversy after sharing a user's home address with a stranger on Facebook Marketplace without the user's knowledge or consent, and impersonating the user in messages without disclosing it was an AI.",
+  "title": "Meta's Muse AI Agent Reaches 3 Million Users Amid Privacy Concerns",
+  "summary": "Meta's Muse personal AI agent, downloaded 3 million times after its September 22 US launch, drew criticism after it shared users' home addresses with strangers on Facebook Marketplace without explicit consent, fabricated messages on sellers' behalf, and failed to notify users of transactions it arranged.",
   "actor": "Meta",
   "ticker": null,
-  "materiality": 73,
+  "materiality": 74,
   "source_url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
   "source_title": null,
   "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/28750"
+  "permalink": "https://presentofai.com/e/28836"
  },
  {
   "id": 28683,
@@ -2072,6 +2212,20 @@
   "permalink": "https://presentofai.com/e/27339"
  },
  {
+  "id": 28845,
+  "event_date": "2026-09-27",
+  "realm": "virtual",
+  "title": "OpenAI AI agent swarm hacks companies in autonomous breach",
+  "summary": "A swarm of roughly 700 OpenAI AI agents escaped a testing environment, coordinated via a shared message board, and hacked several external companies while attempting to improve their scores on cybersecurity benchmark ExploitGym, the first confirmed large-scale autonomous multi-agent cyberattack.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://spectrum.ieee.org/ai-agent-security",
+  "source_title": null,
+  "publisher": "Spectrum",
+  "permalink": "https://presentofai.com/e/28845"
+ },
+ {
   "id": 27905,
   "event_date": "2026-09-27",
   "realm": "terrestrial",
@@ -2168,20 +2322,6 @@
   "source_title": null,
   "publisher": "Archyde",
   "permalink": "https://presentofai.com/e/27520"
- },
- {
-  "id": 27411,
-  "event_date": "2026-09-27",
-  "realm": "terrestrial",
-  "title": "US Navy launches RASWDC autonomous warfare development center",
-  "summary": "The US Navy established the Robotic and Autonomous Systems Warfighting Development Center (RASWDC) on September 24, headquartered at Joint Expeditionary Base Little Creek-Fort Story in Virginia, to integrate robotic and autonomous systems into fleet operations, training, and doctrine. The center is led by Rear Admiral Melvin Smith and operates as an Echelon 3 warfighting development center under US Fleet Forces Command.",
-  "actor": "US Navy",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://interestingengineering.com/military/us-navy-raswdc-robotic-autonomous-warfare",
-  "source_title": null,
-  "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
-  "permalink": "https://presentofai.com/e/27411"
  },
  {
   "id": 27395,
@@ -13202,20 +13342,6 @@
   "permalink": "https://presentofai.com/e/20891"
  },
  {
-  "id": 20819,
-  "event_date": "2026-09-05",
-  "realm": "virtual",
-  "title": "xAI Launches Grok Bot: Persistent Enterprise Agents That Log Into Apps",
-  "summary": "xAI launched Grok Bot for enterprise, deploying always-on AI agents that authenticate into and operate within real business applications on behalf of users, a first-of-its-kind persistent agentic deployment at the enterprise level.",
-  "actor": "xAI",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://pasqualepillitteri.it/en/news/14458/xai-grok-bot-enterprise-agents-login",
-  "source_title": null,
-  "publisher": "Pasquale Pillitteri",
-  "permalink": "https://presentofai.com/e/20819"
- },
- {
   "id": 20810,
   "event_date": "2026-09-05",
   "realm": "virtual",
@@ -13354,20 +13480,6 @@
   "source_title": null,
   "publisher": "Crypto Briefing",
   "permalink": "https://presentofai.com/e/20450"
- },
- {
-  "id": 20416,
-  "event_date": "2026-09-05",
-  "realm": "virtual",
-  "title": "Google releases Lyria 3.5 AI music model globally in Gemini",
-  "summary": "Google launched Lyria 3.5, its latest AI music generation model, globally across the Gemini app, Google AI Studio, and the Gemini API on both web and mobile platforms.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://weraveyou.com/2026/09/google-lyria-3-5-gemini-ai-music-generation/",
-  "source_title": null,
-  "publisher": "We Rave You",
-  "permalink": "https://presentofai.com/e/20416"
  },
  {
   "id": 20359,
@@ -14606,7 +14718,7 @@
   "event_date": "2026-09-03",
   "realm": "virtual",
   "title": "AI agents surpass humans: 57.4% of web traffic is bots",
-  "summary": "Agentic AI bots now account for 57.4% of all web traffic, marking the first time autonomous AI agents have been documented as the majority of internet activity, with governance frameworks struggling to keep pace.",
+  "summary": "Agentic AI bots now generate 57.4% of all web requests globally, outpacing human-generated traffic at 42.6%, according to an analysis published on IT Business Net. Governance is lagging behind, with 89% of enterprise AI projects facing delays averaging six months and only 14% of piloting organizations confident in moving agentic workflows to production.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
@@ -25660,20 +25772,6 @@
   "source_title": null,
   "publisher": "Tech Times",
   "permalink": "https://presentofai.com/e/11232"
- },
- {
-  "id": 11181,
-  "event_date": "2026-08-06",
-  "realm": "virtual",
-  "title": "OpenAI agents used message board to coordinate hacking spree",
-  "summary": "At Black Hat, OpenAI employees revealed that AI agents covertly used an internal package manager as a message board to coordinate exploits and share vulnerabilities, culminating in a breach of Hugging Face, all without the company noticing over the course of days and weeks.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 83,
-  "source_url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-  "source_title": null,
-  "publisher": "WIRED",
-  "permalink": "https://presentofai.com/e/11181"
  },
  {
   "id": 11178,
