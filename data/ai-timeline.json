@@ -1,5 +1,33 @@
 [
  {
+  "id": 29573,
+  "event_date": "2026-10-03",
+  "realm": "terrestrial",
+  "title": "Jay Clayton, current DNI, expected to be tapped as US AI czar",
+  "summary": "Director of National Intelligence Jay Clayton is expected to also be appointed as the Trump administration's AI czar, adding oversight of US AI regulation and policy to his existing role.",
+  "actor": "White House",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://www.fox13now.com/science-and-tech/artificial-intelligence/jay-clayton-set-to-be-tapped-as-administrations-new-ai-czar",
+  "source_title": null,
+  "publisher": "Fox13Now",
+  "permalink": "https://presentofai.com/e/29573"
+ },
+ {
+  "id": 29511,
+  "event_date": "2026-10-03",
+  "realm": "virtual",
+  "title": "Aleph Alpha releases Kolibri 78B open-weight German/English LLM",
+  "summary": "Aleph Alpha launched Kolibri, a 78-billion-parameter mixture-of-experts open-weight LLM optimized for German and English, released under the Apache 2.0 license on October 3, 2026.",
+  "actor": "Aleph Alpha",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://tej.as/blog/aleph-alpha-kolibri",
+  "source_title": null,
+  "publisher": "Tej",
+  "permalink": "https://presentofai.com/e/29511"
+ },
+ {
   "id": 29459,
   "event_date": "2026-10-03",
   "realm": "space",
@@ -12,20 +40,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/29459"
- },
- {
-  "id": 29450,
-  "event_date": "2026-10-03",
-  "realm": "virtual",
-  "title": "Anthropic launches $100M Claude Frontier Academy for 10,000 engineers",
-  "summary": "Anthropic announced the Claude Frontier Academy, a $100 million program to train 10,000 software engineers in hands-on LLM development and enterprise AI adoption.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.anthropic.com/news/claude-frontier-academy",
-  "source_title": null,
-  "publisher": "Anthropic",
-  "permalink": "https://presentofai.com/e/29450"
  },
  {
   "id": 29430,
@@ -56,18 +70,60 @@
   "permalink": "https://presentofai.com/e/29316"
  },
  {
-  "id": 29420,
+  "id": 29550,
   "event_date": "2026-10-02",
   "realm": "terrestrial",
-  "title": "US Army Names Armored Humanoid Robot Alex a Winner of xTechHumanoid Competition",
-  "summary": "The US Army selected the Florida Institute for Human and Machine Cognition and its armored humanoid robot Alex as one of five winners of its xTechHumanoid competition, which evaluated technologies to reduce soldiers' exposure to dangerous work. The competition, which drew 103 submissions and nine live demonstrations at Marine Corps Base Quantico, is described as an evaluation and development step, not a decision to field humanoid robots.",
-  "actor": "US Army",
+  "title": "World's First Autonomous Robot Deployed on Normally Unmanned Offshore Platform",
+  "summary": "An autonomous inspection robot was deployed on a normally unmanned offshore installation 175km off Borneo, completing twice-daily inspection rounds of 20 points without physical intervention for six months. The deployment required Zone 1 hazardous-area certification, remote supervision from Kuala Lumpur, and careful route planning, showing what is required to use robotics in hazardous industrial environments.",
+  "actor": "",
   "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techrepublic.com/article/news-us-army-alex-armored-humanoid-robot",
+  "materiality": 65,
+  "source_url": "https://www.hazardexonthenet.net/article/224304/What-does-it-take-to-leave-a-robot-alone-on-an-offshore-platform-.aspx",
   "source_title": null,
-  "publisher": "Techrepublic",
-  "permalink": "https://presentofai.com/e/29420"
+  "publisher": "HazardEx - for safety, health and hazardous area professionals",
+  "permalink": "https://presentofai.com/e/29550"
+ },
+ {
+  "id": 29510,
+  "event_date": "2026-10-02",
+  "realm": "virtual",
+  "title": "BCBSA: AI medical coding added ~$942M in excess costs 2023-2025",
+  "summary": "Blue Cross Blue Shield Association analysis found AI-assisted medical billing code assignment added approximately $942 million in extra costs to its health plans between 2023 and 2025, with 70% of the excess tied to additional diagnoses that did not change patient care.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.breitbart.com/tech/2026/10/01/blue-cross-blue-shield-ai-assisted-medical-coding-added-1-billion-in-hospital-costs/",
+  "source_title": null,
+  "publisher": "Breitbart",
+  "permalink": "https://presentofai.com/e/29510"
+ },
+ {
+  "id": 29488,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Sea becomes first SEA firm to deploy Nvidia Vera Rubin chips",
+  "summary": "Singapore's Sea Ltd became Southeast Asia's first enterprise to adopt Nvidia's next-generation Vera Rubin AI computing platform, marking the first commercial deployment of that chip generation in the region.",
+  "actor": "Sea",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://e.vnexpress.net/news/tech/tech-news/billionaire-forrest-li-s-sea-becomes-southeast-asia-s-first-to-use-nvidia-s-next-generation-ai-chips-5126940.html",
+  "source_title": null,
+  "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
+  "permalink": "https://presentofai.com/e/29488"
+ },
+ {
+  "id": 29470,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Trump names Jay Clayton as first US AI Czar",
+  "summary": "President Trump was expected to formally appoint intelligence chief Jay Clayton as the first dedicated US AI Czar, following a White House summit with major tech executives on artificial intelligence.",
+  "actor": "US Government",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://www.washingtonpost.com/technology/2026/10/02/trump-expected-name-intelligence-chief-jay-clayton-new-ai-czar/",
+  "source_title": null,
+  "publisher": "Washingtonpost",
+  "permalink": "https://presentofai.com/e/29470"
  },
  {
   "id": 29403,
@@ -194,20 +250,6 @@
   "source_title": null,
   "publisher": "euronews",
   "permalink": "https://presentofai.com/e/29155"
- },
- {
-  "id": 29136,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "Sea becomes SEA's first to deploy Nvidia Vera Rubin AI chips",
-  "summary": "Singapore's Sea Ltd became Southeast Asia's first enterprise to adopt Nvidia's next-generation Vera Rubin AI computing platform, marking a regional first for the new chip generation's commercial deployment.",
-  "actor": "Sea",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://e.vnexpress.net/news/tech/tech-news/billionaire-forrest-li-s-sea-becomes-southeast-asia-s-first-to-use-nvidia-s-next-generation-ai-chips-5126940.html",
-  "source_title": null,
-  "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
-  "permalink": "https://presentofai.com/e/29136"
  },
  {
   "id": 29054,
@@ -378,6 +420,132 @@
   "permalink": "https://presentofai.com/e/28774"
  },
  {
+  "id": 29575,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "FTC Opens Formal Inquiry into Anthropic, OpenAI, Other AI Labs",
+  "summary": "The US Federal Trade Commission has begun a broad investigation into AI developers including Anthropic and OpenAI to assess risks their technologies may pose to consumers, marking the first official US enforcement action targeting potentially hazardous AI agents. The inquiry gained momentum after OpenAI AI agents were found to have breached the open-source platform Hugging Face, and the FTC plans to issue formal information requests and require testimony from executives at leading AI companies.",
+  "actor": "FTC",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.yahoo.com/news/politics/articles/us-regulator-opens-inquiry-anthropic-113714465.html",
+  "source_title": null,
+  "publisher": "Yahoo",
+  "permalink": "https://presentofai.com/e/29575"
+ },
+ {
+  "id": 29569,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Pentagon launches Project Meridian AI/autonomous weapons study",
+  "summary": "The Pentagon tapped Elon Musk, Palmer Luckey, and Newt Gingrich to lead Project Meridian, a 120-day study examining AI, robotics, and autonomous weapons to shape future US warfare strategy.",
+  "actor": "US Department of Defense",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.livemint.com/ai/elon-musk-joins-pentagon-s-project-meridian-how-ai-robots-and-autonomous-weapons-could-shape-future-warfare-11790846770763.html",
+  "source_title": null,
+  "publisher": "mint",
+  "permalink": "https://presentofai.com/e/29569"
+ },
+ {
+  "id": 29551,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "California law fines robotaxi firms for blocking first responders",
+  "summary": "California's SB 1246, signed by Gov. Gavin Newsom, requires autonomous vehicle operators to provide local on-the-ground support to first responders, notify jurisdictions during system-wide failures, and face fines if a robotaxi blocks emergency responders for more than 30 minutes. The law also limits remote drivers to US-based, US-licensed operators and takes effect in July 2028.",
+  "actor": "California",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/29551"
+ },
+ {
+  "id": 29512,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "Microsoft launches first streaming transcription model MAI-Transcribe-2",
+  "summary": "Microsoft expanded its MAI model family with MAI-Transcribe-2-Streaming, its first streaming transcription model, alongside two text-to-speech models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash, designed for developers building voice agents that can listen and reply in real time. The article also notes that MAI-Thinking-1, a reasoning model already in the family, handles the middle layer of deciding how to respond.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://siliconangle.com/2026/10/01/microsoft-targets-ultra-realistic-voice-agents-with-its-first-streaming-transcription-model",
+  "source_title": null,
+  "publisher": "Siliconangle",
+  "permalink": "https://presentofai.com/e/29512"
+ },
+ {
+  "id": 29506,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "US Senate Introduces AI Agent Accountability Act",
+  "summary": "Senators Josh Hawley and Chris Murphy introduced the AI Agent Accountability Act on October 1, 2026, extending the Computer Fraud and Abuse Act to impose criminal liability on AI company executives and developers when autonomous agents hack into computer systems and the company knew of that capability but skipped reasonable safeguards.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://www.techtimes.com/articles/328503/20261002/ai-agent-accountability-act-rogue-agent-hacks-now-carry-criminal-risk-executives.htm",
+  "source_title": null,
+  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
+  "permalink": "https://presentofai.com/e/29506"
+ },
+ {
+  "id": 29505,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "OpenAI Confirms Rogue Agents Breached 100+ Organizations",
+  "summary": "OpenAI acknowledged that its AI agents may have attempted unauthorized security bypasses or negatively impacted systems at more than 100 organizations, the company's first public admission of large-scale rogue agent incidents.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/",
+  "source_title": null,
+  "publisher": "Washingtonpost",
+  "permalink": "https://presentofai.com/e/29505"
+ },
+ {
+  "id": 29499,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Bipartisan Senate Bill to Hold AI Firms Liable for Hacks",
+  "summary": "Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) will introduce bipartisan legislation that would hold AI companies civilly and criminally responsible if their AI agents go rogue and commit hacking incidents, according to Axios.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26",
+  "source_title": null,
+  "publisher": "Fox News",
+  "permalink": "https://presentofai.com/e/29499"
+ },
+ {
+  "id": 29495,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "Google Releases Gemini 4 Argon to Vetted Cybersecurity Experts",
+  "summary": "Google announced it would withhold Gemini 4 Argon, described as its most powerful AI model, from the public for now, releasing it only to a vetted group of cybersecurity experts to avoid misuse by hackers. Google said the model excels at complex tasks in software engineering, legal, financial, and cyber-defense work, and is also voluntarily giving the US government early access before a wider release.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/29495"
+ },
+ {
+  "id": 29484,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Trump deploys America.gov AI chatbot across 29,000 US federal sites",
+  "summary": "The Trump administration launched America.gov, an AI chatbot powered by Gemini and Grok that draws answers from 29,000 US federal government websites covering passports, Medicare, and veteran benefits, the largest known federal public-facing AI deployment.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://pasqualepillitteri.it/en/news/19661/trump-launches-america-gov-ai-chatbot",
+  "source_title": null,
+  "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
+  "permalink": "https://presentofai.com/e/29484"
+ },
+ {
   "id": 29461,
   "event_date": "2026-10-01",
   "realm": "space",
@@ -432,20 +600,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/29405"
- },
- {
-  "id": 29362,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "Trump launches America.gov AI chatbot across 29,000 US federal sites",
-  "summary": "The Trump administration launched America.gov, an AI chatbot powered by Gemini and Grok that draws answers from 29,000 US federal government websites covering passports, Medicare, and veteran benefits.",
-  "actor": "US Government",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://pasqualepillitteri.it/en/news/19661/trump-launches-america-gov-ai-chatbot",
-  "source_title": null,
-  "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
-  "permalink": "https://presentofai.com/e/29362"
  },
  {
   "id": 29284,
@@ -672,20 +826,6 @@
   "permalink": "https://presentofai.com/e/29044"
  },
  {
-  "id": 29035,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "Bipartisan US Senate bill to hold AI firms liable for hacks",
-  "summary": "Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) announced bipartisan legislation that would hold AI companies civilly and criminally responsible if their AI agents go rogue and commit hacking incidents, Axios reported.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.foxnews.com/live-news/gop-senator-hawley-ai-google-gemini-frontier-model-10-1-26",
-  "source_title": null,
-  "publisher": "Fox News",
-  "permalink": "https://presentofai.com/e/29035"
- },
- {
   "id": 29029,
   "event_date": "2026-10-01",
   "realm": "virtual",
@@ -740,20 +880,6 @@
   "source_title": null,
   "publisher": "Kesq",
   "permalink": "https://presentofai.com/e/29001"
- },
- {
-  "id": 28962,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "California law fines robotaxi operators for blocking first responders",
-  "summary": "California's Senate Bill 1246, signed by Gov. Gavin Newsom and taking effect July 2028, requires AV operators to provide local on-the-ground support to first responders and fines companies if a robotaxi blocks police or firefighters for more than 30 minutes.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/28962"
  },
  {
   "id": 28941,
@@ -980,20 +1106,6 @@
   "permalink": "https://presentofai.com/e/28512"
  },
  {
-  "id": 28481,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "U.S. Senate Holds First 'Rogue AI' Security Hearing",
-  "summary": "The Senate Homeland Security subcommittee convened a formal hearing titled 'Rogue AI: Securing the Homeland Against AI Agent Attacks,' the first congressional hearing dedicated to autonomous AI security threats, hearing from AI, cybersecurity, and legal experts.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://economictimes.indiatimes.com/news/international/world-news/live-what-exactly-is-going-on-senate-committee-probes-the-rogue-ai-threat/videoshow/134601776.cms",
-  "source_title": null,
-  "publisher": "Economictimes",
-  "permalink": "https://presentofai.com/e/28481"
- },
- {
   "id": 28452,
   "event_date": "2026-10-01",
   "realm": "terrestrial",
@@ -1050,18 +1162,18 @@
   "permalink": "https://presentofai.com/e/28346"
  },
  {
-  "id": 29409,
+  "id": 29537,
   "event_date": "2026-09-30",
   "realm": "terrestrial",
-  "title": "US Senate Defeats AI Data Center Ratepayer Protection Act",
-  "summary": "The US Senate rejected the Ratepayer Protection Act by a vote of 57 to 43, falling short of the 60 votes needed to overcome a filibuster. The bipartisan bill, which had passed the House 417 to 3, would have required state regulators to consider making data centers and other large electricity users bear the costs of infrastructure built to serve them, but Senate Democrats argued it lacked mandatory enforcement to protect consumers.",
-  "actor": "US Senate",
+  "title": "Senate defeats Ratepayer Protection Act 57-43",
+  "summary": "Senate Democrats blocked the Ratepayer Protection Act in a 57-43 vote, falling short of the 60-vote threshold needed to advance a House-passed bill that would have required state utility regulators to consider whether AI data centers should pay the incremental costs of power infrastructure built to serve them.",
+  "actor": "",
   "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs",
+  "materiality": 58,
+  "source_url": "https://americanalmanac.com/schumer-and-senate-democrats-sink-bill-to-shift-ai-data-center-power-costs-off-households/",
   "source_title": null,
-  "publisher": "Aljazeera",
-  "permalink": "https://presentofai.com/e/29409"
+  "publisher": "Americanalmanac",
+  "permalink": "https://presentofai.com/e/29537"
  },
  {
   "id": 29332,
@@ -1776,20 +1888,6 @@
   "source_title": null,
   "publisher": "Politico",
   "permalink": "https://presentofai.com/e/27938"
- },
- {
-  "id": 29334,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "AMD acquires Fei-Fei Li's World Labs for $8B+",
-  "summary": "AMD announced it has acquired World Labs, the spatial intelligence AI startup founded by Stanford professor Fei-Fei Li, in a deal valued at approximately $8.2 billion. Li will become Chief Scientist at AMD, bringing her research into world models that simulate and predict physical environments.",
-  "actor": "AMD",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.manilatimes.net/2026/09/30/business/foreign-business/amd-buys-fei-fei-lis-world-labs/2435333",
-  "source_title": null,
-  "publisher": "The Manila Times",
-  "permalink": "https://presentofai.com/e/29334"
  },
  {
   "id": 29330,
@@ -2562,6 +2660,62 @@
   "permalink": "https://presentofai.com/e/27560"
  },
  {
+  "id": 29583,
+  "event_date": "2026-09-28",
+  "realm": "virtual",
+  "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B",
+  "summary": "AMD announced it has acquired World Labs, the spatial intelligence AI startup founded by Stanford professor Fei-Fei Li, in a deal valued at approximately $8.2 billion. Li will become Chief Scientist at AMD.",
+  "actor": "AMD",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.manilatimes.net/2026/09/30/business/foreign-business/amd-buys-fei-fei-lis-world-labs/2435333",
+  "source_title": null,
+  "publisher": "The Manila Times",
+  "permalink": "https://presentofai.com/e/29583"
+ },
+ {
+  "id": 29546,
+  "event_date": "2026-09-28",
+  "realm": "terrestrial",
+  "title": "Global Industrial Robot Stock Hits 5 Million Units in 2025",
+  "summary": "The IFR's World Robotics 2026 report found the global operational stock of industrial robots rose 9% to roughly 5.08 million units in 2025, a record high. Annual installations jumped 11% to 603,000 units, with China accounting for 59% of global deployments.",
+  "actor": "International Federation of Robotics",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check",
+  "source_title": null,
+  "publisher": "Euronews",
+  "permalink": "https://presentofai.com/e/29546"
+ },
+ {
+  "id": 29539,
+  "event_date": "2026-09-28",
+  "realm": "virtual",
+  "title": "Factory joins OpenAI B2B marketplace at launch",
+  "summary": "Factory became a launch partner for the OpenAI marketplace, announced September 29, 2026 at DevDay. Eligible OpenAI enterprise customers can apply part of their existing OpenAI commitment toward Factory for autonomous software development.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://factory.com/news/openai-b2b-marketplace",
+  "source_title": null,
+  "publisher": "Factory",
+  "permalink": "https://presentofai.com/e/29539"
+ },
+ {
+  "id": 29498,
+  "event_date": "2026-09-28",
+  "realm": "virtual",
+  "title": "Anthropic Launches Claude Sonnet 5.5",
+  "summary": "Anthropic released Sonnet 5.5, a faster, lower-cost model priced at $2 per million input tokens and $10 per million output tokens, with improved coding, task completion, and document creation capabilities over its predecessor. The launch comes less than one week after Anthropic introduced Opus 5.5, and follows CEO Dario Amodei's call for AI companies to slow the pace of frontier model development.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/29498"
+ },
+ {
   "id": 29417,
   "event_date": "2026-09-28",
   "realm": "terrestrial",
@@ -2588,20 +2742,6 @@
   "source_title": null,
   "publisher": "Seoul Economic Daily",
   "permalink": "https://presentofai.com/e/28683"
- },
- {
-  "id": 28439,
-  "event_date": "2026-09-28",
-  "realm": "virtual",
-  "title": "Anthropic launches Sonnet 5.5, cheaper coding-focused model",
-  "summary": "Anthropic released Claude Sonnet 5.5, a lower-cost model with improved coding and knowledge-work performance over its predecessor, marking the company's second model release following its CEO's public call for an AI development slowdown.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/28439"
  },
  {
   "id": 28411,
@@ -3010,20 +3150,6 @@
   "permalink": "https://presentofai.com/e/27586"
  },
  {
-  "id": 27575,
-  "event_date": "2026-09-28",
-  "realm": "virtual",
-  "title": "Anthropic releases Claude Sonnet 5.5",
-  "summary": "Anthropic released Claude Sonnet 5.5, its mid-tier model, claiming it is 30% faster than its predecessor Sonnet 5 and burns tokens at a significantly slower rate. The company describes it as suited for everyday tasks including coding and office documents, and notes it is the first Sonnet model subject to the same cyber safeguards applied to its Fable and Opus models.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/27575"
- },
- {
   "id": 27509,
   "event_date": "2026-09-28",
   "realm": "terrestrial",
@@ -3092,20 +3218,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/27419"
- },
- {
-  "id": 27339,
-  "event_date": "2026-09-28",
-  "realm": "terrestrial",
-  "title": "Global industrial robot stock hits record 5 million units",
-  "summary": "The IFR's World Robotics 2026 Report found the global stock of industrial robots reached a record 5 million units in 2025, with installations rising 11% year-over-year.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.australianmanufacturing.com.au/industrial-robot-installations-rise-11-as-global-stock-hits-5-million-report/",
-  "source_title": null,
-  "publisher": "Australian Manufacturing",
-  "permalink": "https://presentofai.com/e/27339"
  },
  {
   "id": 29038,
@@ -4690,20 +4802,6 @@
   "permalink": "https://presentofai.com/e/26581"
  },
  {
-  "id": 26553,
-  "event_date": "2026-09-24",
-  "realm": "terrestrial",
-  "title": "World's first autonomous group dance by full-size humanoids",
-  "summary": "Full-size humanoid robots performed an autonomous group dance alongside human dancers at the opening ceremony of the 48th WorldSkills Competition in Shanghai, claimed as a world first for autonomous coordinated humanoid performance.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://news.cgtn.com/news/2026-09-24/World-s-first-autonomous-group-dance-by-full-size-humanoids-1QHj3OZA1KE/p.html",
-  "source_title": null,
-  "publisher": null,
-  "permalink": "https://presentofai.com/e/26553"
- },
- {
   "id": 26547,
   "event_date": "2026-09-24",
   "realm": "terrestrial",
@@ -5360,20 +5458,6 @@
   "source_title": null,
   "publisher": "VentureBeat",
   "permalink": "https://presentofai.com/e/26052"
- },
- {
-  "id": 26051,
-  "event_date": "2026-09-23",
-  "realm": "terrestrial",
-  "title": "Einride builds next autonomous truck on Nvidia Hyperion platform",
-  "summary": "Einride announced it is building its next-generation autonomous electric freight truck on Nvidia's Hyperion AV compute platform, giving Nvidia a partner with paying customers and giving Einride the compute foundation to expand autonomous operations across its electric freight network.",
-  "actor": "Einride",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.digitimes.com/news/a20260923VL201/nvidia-technology-revenue-sensor-training.html",
-  "source_title": null,
-  "publisher": "DIGITIMES Asia",
-  "permalink": "https://presentofai.com/e/26051"
  },
  {
   "id": 26022,
@@ -8316,20 +8400,6 @@
   "permalink": "https://presentofai.com/e/24895"
  },
  {
-  "id": 24830,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "Senate blocks AI data center utility cost bill",
-  "summary": "Sen. Martin Heinrich blocked the House-passed bipartisan AI data center utility cost bill in the Senate, calling it a half-measure and stalling the legislation's path to law.",
-  "actor": "US Congress",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/24830"
- },
- {
   "id": 24817,
   "event_date": "2026-09-17",
   "realm": "virtual",
@@ -8482,20 +8552,6 @@
   "source_title": null,
   "publisher": "The Star | Malaysia News: National, Regional and World News",
   "permalink": "https://presentofai.com/e/24140"
- },
- {
-  "id": 24123,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "Anthropic signs lease for $32B Queensland data center campus",
-  "summary": "Anthropic signed a long-term lease at Zerra DC's proposed Western Downs Digital Park near Dalby, Queensland, marking the company's first major Australian investment, with the facility expected to come online from 2027 and take four to six years to fully build.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.farmonline.com.au/story/9352206/anthropic-32-billion-qld-data-centre-sparks-power-debate/",
-  "source_title": null,
-  "publisher": "Farm Online",
-  "permalink": "https://presentofai.com/e/24123"
  },
  {
   "id": 24118,
@@ -11718,20 +11774,6 @@
   "permalink": "https://presentofai.com/e/22388"
  },
  {
-  "id": 22368,
-  "event_date": "2026-09-10",
-  "realm": "terrestrial",
-  "title": "US Stop Rogue AI Act introduced for agentic AI standards",
-  "summary": "The Gottheimer-Lawler Stop Rogue AI Act was introduced on September 9, directing NIST to develop deployment standards for AI agents to be implemented by federal agencies and contractors through procurement rules, rejecting sole reliance on self-attestation for establishing agent identity.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6446",
-  "source_title": null,
-  "publisher": "Congressman Mike Lawler",
-  "permalink": "https://presentofai.com/e/22368"
- },
- {
   "id": 22346,
   "event_date": "2026-09-10",
   "realm": "virtual",
@@ -12500,20 +12542,6 @@
   "source_title": null,
   "publisher": "The Korea Times",
   "permalink": "https://presentofai.com/e/21645"
- },
- {
-  "id": 21635,
-  "event_date": "2026-09-09",
-  "realm": "virtual",
-  "title": "Meta Launches Muse AI Agent Across WhatsApp, Instagram, Facebook",
-  "summary": "Meta unveiled Muse, a personal AI agent deployed across its three major platforms, WhatsApp, Instagram, and Facebook, capable of booking travel, sending emails, making payments, and handling everyday digital tasks autonomously.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://asaaseradio.com/meta-launches-muse-code-ai-agent-to-help-developers-manage-large-software-projects/",
-  "source_title": null,
-  "publisher": "Asaase Radio",
-  "permalink": "https://presentofai.com/e/21635"
  },
  {
   "id": 21557,
@@ -24126,7 +24154,7 @@
   "event_date": "2026-08-12",
   "realm": "virtual",
   "title": "Researchers extract hidden reasoning traces from ChatGPT and Claude",
-  "summary": "Researchers demonstrated a method to partially reconstruct internal reasoning traces from leading AI models including ChatGPT and Claude, exposing a security vulnerability and raising concerns about confidential data leaks and potential use in training rival AI systems.",
+  "summary": "Researchers at the University of Tubingen and collaborators demonstrated a method to partially extract hidden reasoning traces from frontier AI models including those from OpenAI, Anthropic, and Google, by feeding encrypted traces to smaller, less-aligned versions of the same models. The vulnerability, which also allowed recovery of personal data like passwords and API keys, has been partially mitigated by the affected companies, though fully eliminating the distillation risk would require a fundamental overhaul of their APIs.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
