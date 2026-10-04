@@ -1,5 +1,47 @@
 [
  {
+  "id": 29970,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "New AV law requires first-responder support, caps blockage at 30 min",
+  "summary": "Legislation now requires autonomous vehicle companies including Tesla, Waymo, and Zoox to provide local on-the-ground support to first responders and face penalties if a robotaxi blocks emergency services for more than 30 minutes.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/29970"
+ },
+ {
+  "id": 29959,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "Singapore plans humanoid robot deployment for police and prisons by 2028",
+  "summary": "Singapore announced plans to deploy AI-powered humanoid robots alongside public safety officers by 2028 for hazardous-material response, blast investigations, and prison searches, a first-of-its-kind government public-safety robotics commitment.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://e.vnexpress.net/news/tech/tech-news/world-s-second-richest-nation-to-deploy-humanoid-robots-for-police-prison-work-by-2028-5127005.html",
+  "source_title": null,
+  "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
+  "permalink": "https://presentofai.com/e/29959"
+ },
+ {
+  "id": 29902,
+  "event_date": "2026-10-04",
+  "realm": "virtual",
+  "title": "Reflection Startup Unveils Powerful New Open-Weight AI Model",
+  "summary": "Startup Reflection announced a new open-weight AI model described as set to shake up the AI race, with a sovereign AI factory partnership already signed with South Korea's Shinsegae Group.",
+  "actor": "Reflection",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.mcgill.ca/oss/article/pseudoscience-technology/when-ai-looks-your-face-it-spits-out-dangerous-nonsense",
+  "source_title": null,
+  "publisher": "McGill University",
+  "permalink": "https://presentofai.com/e/29902"
+ },
+ {
   "id": 29823,
   "event_date": "2026-10-04",
   "realm": "virtual",
@@ -7,7 +49,7 @@
   "summary": "Microsoft launched Agent 365, a centralized control and security platform designed to manage the proliferation of enterprise AI agents, addressing governance and security challenges at scale.",
   "actor": "Microsoft",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 65,
   "source_url": "https://www.constellationr.com/insights/news/microsoft-adds-native-app-building-copilot-studio",
   "source_title": null,
   "publisher": "Constellation Research | Futurist Insight. Proven Expertise.",
@@ -68,6 +110,20 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/29598"
+ },
+ {
+  "id": 29918,
+  "event_date": "2026-10-03",
+  "realm": "virtual",
+  "title": "AWS releases Strands Decider 2B open-source agent decision model",
+  "summary": "AWS released Strands Decider 2B on October 1, 2026, a 2-billion-parameter open-source decision model designed to select agent actions without generating text, reducing token costs and latency. The model runs locally, returns answers in under 100 milliseconds according to AWS, and is released under the Apache 2.0 license with full training data and scripts included.",
+  "actor": "AWS",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://shattered.io/aws-strands-decider-2b-open-source-ai-agent-model-2026/",
+  "source_title": null,
+  "publisher": "Shattered",
+  "permalink": "https://presentofai.com/e/29918"
  },
  {
   "id": 29845,
@@ -224,6 +280,34 @@
   "permalink": "https://presentofai.com/e/29316"
  },
  {
+  "id": 29952,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Nucleus humanoid robot logs 2-hr uncut factory demo at 60% autonomy",
+  "summary": "Nucleus released nearly two hours of uncut footage showing its humanoid robot performing factory tasks, with the demonstration running at 60% autonomous operation and 40% teleoperation, a concrete milestone for real-world humanoid deployment.",
+  "actor": "Nucleus",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://interestingengineering.com/ai-robotics/two-hours-of-humanoid-robots-work",
+  "source_title": null,
+  "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
+  "permalink": "https://presentofai.com/e/29952"
+ },
+ {
+  "id": 29939,
+  "event_date": "2026-10-02",
+  "realm": "virtual",
+  "title": "Anthropic launches Claude Frontier Academy, pledges $100M to train 10,000 engineers",
+  "summary": "Anthropic announced the Claude Frontier Academy, a $100 million commitment to train 10,000 Frontier Deployed Engineers to the standard of Anthropic's own staff by end of 2027, targeting the enterprise AI talent gap.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.anthropic.com/news/claude-frontier-academy",
+  "source_title": null,
+  "publisher": "Home \\ Anthropic",
+  "permalink": "https://presentofai.com/e/29939"
+ },
+ {
   "id": 29886,
   "event_date": "2026-10-02",
   "realm": "space",
@@ -250,20 +334,6 @@
   "source_title": null,
   "publisher": "디지털투데이 (DigitalToday)",
   "permalink": "https://presentofai.com/e/29871"
- },
- {
-  "id": 29870,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "Hegseth announces drone command and 20% cut to generals and admirals",
-  "summary": "Defense Secretary Pete Hegseth announced plans to establish a new four-star drone command and cut 20% of the country's generals and admirals, calling it the fastest peacetime military shift in modern history. He described the drone command as a purpose-built system to maximize adaptability, citing lessons from Ukraine's use of drones in its war with Russia.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.uniladtech.com/news/ai/us-military-replace-generals-ai-drone-hegseth-target-woke-officers-282100-20261002",
-  "source_title": null,
-  "publisher": "Uniladtech",
-  "permalink": "https://presentofai.com/e/29870"
  },
  {
   "id": 29853,
@@ -301,7 +371,7 @@
   "summary": "A GSA memo establishes acquisition rules requiring contractors to protect government data processed in large language models, including prohibitions on using that data to train LLMs or sell it to third parties. The language, signed off in July and taking effect October 19, 2026, incorporates changes from a prior public comment period that drew pushback from industry groups.",
   "actor": "",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 63,
   "source_url": "https://www.govexec.com/technology/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416400/",
   "source_title": null,
   "publisher": "Government Executive",
@@ -320,20 +390,6 @@
   "source_title": null,
   "publisher": "Decrypt",
   "permalink": "https://presentofai.com/e/29722"
- },
- {
-  "id": 29692,
-  "event_date": "2026-10-02",
-  "realm": "space",
-  "title": "NTU Singapore launches CRIMSON-1 AI-capable satellite",
-  "summary": "Nanyang Technological University's CRIMSON-1 satellite launched aboard a SpaceX Falcon 9 on the Transporter-18 rideshare mission on 1 October, carrying AI capabilities designed to analyse images directly in orbit and experimental perovskite solar cells for testing in the harsh environment of space.",
-  "actor": "NTU Singapore",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.eurekalert.org/news-releases/1146318",
-  "source_title": null,
-  "publisher": "EurekAlert!",
-  "permalink": "https://presentofai.com/e/29692"
  },
  {
   "id": 29689,
@@ -516,20 +572,6 @@
   "source_title": null,
   "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
   "permalink": "https://presentofai.com/e/29488"
- },
- {
-  "id": 29470,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "Trump names Jay Clayton as first US AI Czar",
-  "summary": "President Trump was expected to formally appoint intelligence chief Jay Clayton as the first dedicated US AI Czar, following a White House summit with major tech executives on artificial intelligence.",
-  "actor": "US Government",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://www.washingtonpost.com/technology/2026/10/02/trump-expected-name-intelligence-chief-jay-clayton-new-ai-czar/",
-  "source_title": null,
-  "publisher": "Washingtonpost",
-  "permalink": "https://presentofai.com/e/29470"
  },
  {
   "id": 29403,
@@ -782,6 +824,48 @@
   "source_title": null,
   "publisher": "Interestingengineering",
   "permalink": "https://presentofai.com/e/28774"
+ },
+ {
+  "id": 29994,
+  "event_date": "2026-10-01",
+  "realm": "space",
+  "title": "TakeMe2Space launches AI-processing satellite MOI-1A",
+  "summary": "TakeMe2Space's MOI-1A, described as India's first orbital computing satellite, launched aboard SpaceX's Falcon 9 as part of the Transporter-18 rideshare mission on October 1. The satellite carries Nvidia Orin NX edge-computing processors to run AI models in orbit, allowing it to process Earth-observation imagery before transmission rather than downlinking raw data, with the company working toward a broader network of orbital computing satellites.",
+  "actor": "TakeMe2Space",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.indiatoday.in/science/story/moi-1a-orbital-computing-satellite-india-is-launching-an-ai-lab-into-space-today-heres-what-it-is-3006591-2026-10-01",
+  "source_title": null,
+  "publisher": "India Today",
+  "permalink": "https://presentofai.com/e/29994"
+ },
+ {
+  "id": 29905,
+  "event_date": "2026-10-01",
+  "realm": "terrestrial",
+  "title": "Anthropic Claude for Government reaches full availability",
+  "summary": "Anthropic's Claude for Government achieved full availability as a FedRAMP High-approved SaaS for U.S. federal agencies handling sensitive but unclassified work, graduating from public beta launched in July.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 71,
+  "source_url": "https://www.digitaltoday.co.kr/en/view/110077/anthropic-claude-enters-us-federal-agencies-with-government-only-ai-launch",
+  "source_title": null,
+  "publisher": "Digitaltoday",
+  "permalink": "https://presentofai.com/e/29905"
+ },
+ {
+  "id": 29893,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "US federal AI chatbot America.gov goes live",
+  "summary": "The Trump administration launched America.gov, an official federal AI chatbot app designed to help citizens navigate government services such as name changes across agencies, representing the first nationwide US government-deployed AI concierge.",
+  "actor": "US Government",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.washingtonpost.com/technology/2026/10/01/governments-new-chatbot-wont-talk-politics-it-will-fact-check-trump/",
+  "source_title": null,
+  "publisher": "Washingtonpost",
+  "permalink": "https://presentofai.com/e/29893"
  },
  {
   "id": 29805,
@@ -1286,20 +1370,6 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/29013"
- },
- {
-  "id": 29005,
-  "event_date": "2026-10-01",
-  "realm": "virtual",
-  "title": "US federal AI chatbot America.gov launches publicly",
-  "summary": "The Trump administration launched America.gov, an official federal AI chatbot app designed to help citizens navigate government services such as name changes across agencies, representing the first large-scale AI concierge deployed by the US federal government.",
-  "actor": "US Government",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.washingtonpost.com/technology/2026/10/01/governments-new-chatbot-wont-talk-politics-it-will-fact-check-trump/",
-  "source_title": null,
-  "publisher": "Washingtonpost",
-  "permalink": "https://presentofai.com/e/29005"
  },
  {
   "id": 29001,
@@ -1848,20 +1918,6 @@
   "permalink": "https://presentofai.com/e/28970"
  },
  {
-  "id": 28957,
-  "event_date": "2026-09-30",
-  "realm": "terrestrial",
-  "title": "Singapore Launches First Humanoid Robotics Centre for Public Safety",
-  "summary": "Singapore's Home Team Science and Technology Agency opened the Home Team Humanoid Robotics Centre (H2RC) in One-North on September 30, the first facility dedicated specifically to humanoid robotics for public safety. The centre, roughly the size of six basketball courts, aims to have humanoid robots working alongside Home Team officers in real operational settings by 2028.",
-  "actor": "HTX",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.channelnewsasia.com/singapore/htx-humanoid-robotics-centre-edwin-tong-home-team-6420476",
-  "source_title": null,
-  "publisher": "CNA",
-  "permalink": "https://presentofai.com/e/28957"
- },
- {
   "id": 28951,
   "event_date": "2026-09-30",
   "realm": "space",
@@ -2310,6 +2366,34 @@
   "permalink": "https://presentofai.com/e/27938"
  },
  {
+  "id": 29990,
+  "event_date": "2026-09-29",
+  "realm": "terrestrial",
+  "title": "Trump: top AI leaders sign self-policing 'constitution' at White House",
+  "summary": "Leading AI company executives met with President Trump at the White House and signed a self-regulatory 'constitution' pledging to police their own AI development, amid warnings about AI surpassing human intelligence.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://abcnews.com/Politics/top-ai-leaders-meet-trump-white-house-amid/story?id=136832988",
+  "source_title": null,
+  "publisher": "Abcnews",
+  "permalink": "https://presentofai.com/e/29990"
+ },
+ {
+  "id": 29923,
+  "event_date": "2026-09-29",
+  "realm": "virtual",
+  "title": "Meta Muse AI agent hits 3M downloads, leaks user address",
+  "summary": "Meta's Muse AI agent, released on September 22 and downloaded 3 million times, drew scrutiny after sharing a user's home address with a stranger on Facebook Marketplace without the user's consent, and responding to buyers while impersonating the seller.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/29923"
+ },
+ {
   "id": 29873,
   "event_date": "2026-09-29",
   "realm": "terrestrial",
@@ -2420,20 +2504,6 @@
   "source_title": null,
   "publisher": "The Economic Times",
   "permalink": "https://presentofai.com/e/28822"
- },
- {
-  "id": 28782,
-  "event_date": "2026-09-29",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab fleet doubles to 125 units in Austin robotaxi program",
-  "summary": "Tesla doubled its Cybercab fleet within the Austin Robotaxi program over the weekend, growing from 58 units to 125, with riders receiving in-app notifications announcing the increase and more ride availability.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.teslarati.com/tesla-cybercab-fleet-doubles-well-over-100-units/",
-  "source_title": null,
-  "publisher": "Teslarati",
-  "permalink": "https://presentofai.com/e/28782"
  },
  {
   "id": 28767,
@@ -4004,20 +4074,6 @@
   "permalink": "https://presentofai.com/e/27410"
  },
  {
-  "id": 27342,
-  "event_date": "2026-09-26",
-  "realm": "terrestrial",
-  "title": "Flytrex launches AI pre-positioning drone delivery in DFW",
-  "summary": "Flytrex deployed AI-powered delivery drones in Dallas-Fort Worth that use machine learning to pre-position on restaurant rooftop docks before orders are placed, claiming a 60% cost reduction.",
-  "actor": "Flytrex",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://foxnews.com/tech/delivery-drones-waiting-before-you-even-order",
-  "source_title": null,
-  "publisher": "Foxnews",
-  "permalink": "https://presentofai.com/e/27342"
- },
- {
   "id": 27334,
   "event_date": "2026-09-26",
   "realm": "terrestrial",
@@ -5276,20 +5332,6 @@
   "source_title": null,
   "publisher": "TechNode",
   "permalink": "https://presentofai.com/e/26421"
- },
- {
-  "id": 26274,
-  "event_date": "2026-09-24",
-  "realm": "terrestrial",
-  "title": "Trump administration shelves US AI oversight body",
-  "summary": "The Trump administration abandoned plans for a federal AI oversight body following tech industry pushback, leaving the US without a dedicated AI regulatory framework and signaling a policy of largely unregulated AI development.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://cryptobriefing.com/washington-opts-unregulated-artificial-intelligence/",
-  "source_title": null,
-  "publisher": "Crypto Briefing",
-  "permalink": "https://presentofai.com/e/26274"
  },
  {
   "id": 26196,
@@ -7740,20 +7782,6 @@
   "source_title": null,
   "publisher": "Spectrum",
   "permalink": "https://presentofai.com/e/24112"
- },
- {
-  "id": 24039,
-  "event_date": "2026-09-19",
-  "realm": "terrestrial",
-  "title": "Agibot Claims 43% of Global Humanoid Shipments in H1 2026",
-  "summary": "Agibot shipped approximately 9,700 humanoid robots in H1 2026, capturing more than 43% of global humanoid robot shipments according to Counterpoint Research, making it the world's top humanoid robot shipper.",
-  "actor": "Agibot",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://roboticsandautomationnews.com/2026/09/18/agibot-claims-top-spot-in-global-humanoid-robot-shipments-in-first-half-of-2026/104930/",
-  "source_title": null,
-  "publisher": "Roboticsandautomationnews",
-  "permalink": "https://presentofai.com/e/24039"
  },
  {
   "id": 24012,
@@ -15053,8 +15081,8 @@
   "id": 20020,
   "event_date": "2026-09-04",
   "realm": "virtual",
-  "title": "ChatGPT, Claude, and Grok suffer overlapping outages",
-  "summary": "Cloud-based AI services from OpenAI, Anthropic, and xAI experienced a rare set of overlapping service interruptions over several hours on Thursday morning, with each company reporting degraded performance or elevated errors before gradually restoring service.",
+  "title": "ChatGPT, Claude, Grok, and Google suffer overlapping outages",
+  "summary": "Cloud-based AI services from OpenAI, Anthropic, xAI, and Google experienced a rare set of overlapping service interruptions over several hours on Thursday morning, with each company reporting degraded performance or elevated errors, and most gradually restoring service by early afternoon.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -29250,7 +29278,7 @@
   "event_date": "2026-07-31",
   "realm": "terrestrial",
   "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
-  "summary": "US lawmakers sent a letter to DoorDash investigating its deployment of Moonshot AI's Kimi K2.6 model, requesting staff appear for an in-person briefing by August 21 amid growing concerns over US companies adopting Chinese AI models.",
+  "summary": "US lawmakers sent a letter to DoorDash requesting information by August 14 on each Chinese AI model it uses and any security tests conducted, after its co-founder disclosed experimenting with Moonshot AI's Kimi models. The letter also requests DoorDash staff appear for an in-person briefing by August 21, amid growing concerns over US companies adopting Chinese AI models.",
   "actor": "US Congress",
   "ticker": null,
   "materiality": 70,
@@ -44244,7 +44272,7 @@
   "event_date": "2025-10-16",
   "realm": "virtual",
   "title": "Google releases Veo 3.1 and updates Flow AI filmmaking tool",
-  "summary": "Google launched Veo 3.1, an updated AI video generation model with enhanced realism, alongside updates to its Flow AI filmmaking tool including audio generation features and expanded editing capabilities. The updates come as Elon Musk's xAI works on AI video detection for Grok.",
+  "summary": "Google launched Veo 3.1, an updated AI video generation model with enhanced realism, alongside updates to its Flow AI filmmaking tool including audio generation features and expanded editing capabilities. The updates arrive as Elon Musk's xAI is working on an AI video detection tool for Grok.",
   "actor": "Google",
   "ticker": null,
   "materiality": 58,
