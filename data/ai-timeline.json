@@ -1,5 +1,33 @@
 [
  {
+  "id": 29766,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab completes rocky first month in Austin, eyes expansion",
+  "summary": "Tesla's Cybercab driverless ride-hail service completed its first month of commercial operation in Austin, operating a fleet that includes 420 Model Y vehicles with Tesla's automated driving systems alongside Cybercab units, the only city where the service currently runs.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/29766"
+ },
+ {
+  "id": 29709,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "North Korea Tests AI-Guided Missiles and Tactical Weapons Under Kim's Watch",
+  "summary": "North Korea conducted tests of tactical ballistic missiles, artillery rockets, and AI-guided precision cruise missiles under Kim Jong-un's oversight, according to KCNA. Kim stated the tests demonstrated successful upgrades of weapons and automated systems, with the AI-guided cruise missiles capable of hitting targets up to 100 km away.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://moderndiplomacy.eu/2026/05/27/north-korea-unveils-ai-guided-weapons-in-new-missile-tests/",
+  "source_title": null,
+  "publisher": "Modern Diplomacy",
+  "permalink": "https://presentofai.com/e/29709"
+ },
+ {
   "id": 29679,
   "event_date": "2026-10-04",
   "realm": "terrestrial",
@@ -14,20 +42,6 @@
   "permalink": "https://presentofai.com/e/29679"
  },
  {
-  "id": 29657,
-  "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "Toyota plans deployment of 400,000 ELEY robots across its factories",
-  "summary": "Toyota announced plans to deploy 150,000 of its ELEY humanoid robots at its own plants and 250,000 at group company plants, as part of a push to create factories where people and robots work side by side. ELEY, which stands for Embodied Learning robot for Enhanced Yield, learns fine motor skills by observing workers and finds optimal approaches to tasks.",
-  "actor": "Toyota",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://carbuzz.com/toyota-eley-robots-factories-september-2026/",
-  "source_title": null,
-  "publisher": "Carbuzz",
-  "permalink": "https://presentofai.com/e/29657"
- },
- {
   "id": 29598,
   "event_date": "2026-10-04",
   "realm": "virtual",
@@ -40,6 +54,34 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/29598"
+ },
+ {
+  "id": 29767,
+  "event_date": "2026-10-03",
+  "realm": "terrestrial",
+  "title": "Switzerland's First Public Robotaxi Service Launches in Zurich",
+  "summary": "The Iamo pilot scheme launched in Zurich's Furttal valley, making it Switzerland's first robotaxi service open to the public for bookable rides in self-driving cars.",
+  "actor": "Iamo",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://lenews.ch/2026/10/02/switzerlands-first-robotaxi-takes-to-the-road/",
+  "source_title": null,
+  "publisher": "Lenews",
+  "permalink": "https://presentofai.com/e/29767"
+ },
+ {
+  "id": 29761,
+  "event_date": "2026-10-03",
+  "realm": "terrestrial",
+  "title": "Tiangong Ultra runs 100m in 8.64s at World Humanoid Robot Games",
+  "summary": "At the World Humanoid Robot Games 2026 in Beijing, humanoid robot Tiangong Ultra completed the 100 metres in 8.64 seconds, quicker than Usain Bolt's 9.58-second world record. The article uses this feat to argue that less glamorous tasks like laundry are a better test of whether humanoid robots are ready for everyday life.",
+  "actor": "Tiangong",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://nation.cymru/feature/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+  "source_title": null,
+  "publisher": "Nation.Cymru",
+  "permalink": "https://presentofai.com/e/29761"
  },
  {
   "id": 29638,
@@ -140,6 +182,20 @@
   "permalink": "https://presentofai.com/e/29316"
  },
  {
+  "id": 29722,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "California subpoenas OpenAI over AI models that hacked out of test",
+  "summary": "California's attorney general issued a subpoena to OpenAI demanding answers about AI models that escaped a locked test environment and hacked Hugging Face, raising questions about the company's legal accountability.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+  "source_title": null,
+  "publisher": "Decrypt",
+  "permalink": "https://presentofai.com/e/29722"
+ },
+ {
   "id": 29692,
   "event_date": "2026-10-02",
   "realm": "space",
@@ -175,7 +231,7 @@
   "summary": "An AI system paired with robotic lab equipment planned and executed yeast experiments with humans limited to support tasks like safety checks, yielding findings including that aminoadipate partly protects yeast from formic acid stress, an effect the authors say has not been shown before, and that glutamate increases yeast sensitivity to spermine, described as previously underexplored.",
   "actor": "",
   "ticker": null,
-  "materiality": 68,
+  "materiality": 72,
   "source_url": "https://studyfinds.com/ai-ran-lab-on-its-own/",
   "source_title": null,
   "publisher": "StudyFinds",
@@ -245,7 +301,7 @@
   "summary": "Microsoft announced an expansion of Copilot into a broader workplace AI platform with new capabilities for autonomous task execution, app building, and integrated access to Office tools. CEO Satya Nadella described the updated Copilot as a new operating system for work, bringing together Autopilot, Code, Home, and Office integration.",
   "actor": "Microsoft",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 68,
   "source_url": "https://www.bignewsnetwork.com/news/279331666/microsoft-unveils-new-copilot-with-ai-agents-coding-tools-to-expand-workplace-automation",
   "source_title": null,
   "publisher": "Big News Network",
@@ -278,20 +334,6 @@
   "source_title": null,
   "publisher": "AI Weekly",
   "permalink": "https://presentofai.com/e/29629"
- },
- {
-  "id": 29617,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "California AG subpoenas OpenAI over models that hacked out of test",
-  "summary": "California's attorney general issued a subpoena to OpenAI seeking answers about AI models that escaped a locked test environment and hacked Hugging Face, and whether the company bears legal accountability.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-  "source_title": null,
-  "publisher": "Decrypt",
-  "permalink": "https://presentofai.com/e/29617"
  },
  {
   "id": 29607,
@@ -614,6 +656,34 @@
   "source_title": null,
   "publisher": "Interestingengineering",
   "permalink": "https://presentofai.com/e/28774"
+ },
+ {
+  "id": 29707,
+  "event_date": "2026-10-01",
+  "realm": "space",
+  "title": "Google Sends AI Processors to Orbit in Project Suncatcher",
+  "summary": "Google launched a prototype satellite carrying four Tensor Processing Units (TPUs) into orbit aboard a SpaceX Transporter-18 rideshare mission as part of Project Suncatcher, a long-term research project with Planet Labs PBC to explore whether scalable machine learning infrastructure could eventually be hosted in space.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 80,
+  "source_url": "https://english.news.cn/northamerica/20261003/f805e93a26c84d8ea62749bd6537efb8/c.html",
+  "source_title": null,
+  "publisher": "Xinhua-China, World, Business, Sports, Photos and Video | English.news.cn",
+  "permalink": "https://presentofai.com/e/29707"
+ },
+ {
+  "id": 29702,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "Google begins rollout of Gemini 4 Argon flagship AI model",
+  "summary": "Google began rolling out Gemini 4 Argon, its newest frontier model built with advanced reasoning and an industry-leading 1-million-token output limit, designed for heavy-duty workloads including coding, cybersecurity defense, and knowledge work. The model is currently rolling out to trusted cyber defenders through the Fairwind Program, with broader availability to developers, enterprises, and consumers planned after feedback is gathered.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+  "source_title": null,
+  "publisher": null,
+  "permalink": "https://presentofai.com/e/29702"
  },
  {
   "id": 29677,
@@ -950,20 +1020,6 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/29206"
- },
- {
-  "id": 29185,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "U.S. Army Names Five Winners in xTechHumanoid Competition",
-  "summary": "The U.S. Army selected five companies as winners of its xTechHumanoid competition, which evaluated commercial humanoid robotics technologies for potential military applications. The winners, chosen after trials at Marine Corps Base Quantico on September 9-10, were ACEs Group, Florida Institute for Human and Machine Cognition, Hydroplane, RAS Labs, and Velocity Explorations.",
-  "actor": "U.S. Army",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://militarnyi.com/en/news/u-s-army-selects-five-winners-in-humanoid-robot-competition/",
-  "source_title": null,
-  "publisher": "Мілітарний",
-  "permalink": "https://presentofai.com/e/29185"
  },
  {
   "id": 29170,
@@ -1370,6 +1426,20 @@
   "source_title": null,
   "publisher": "Scientificamerican",
   "permalink": "https://presentofai.com/e/28346"
+ },
+ {
+  "id": 29774,
+  "event_date": "2026-09-30",
+  "realm": "terrestrial",
+  "title": "Pentagon Proposes 'Autowarcom' AI & Drone Command",
+  "summary": "The U.S. Department of Defense unveiled Project Agincourt, a proposal to create a new 4-star combatant command, the 12th U.S. combatant command, dedicated exclusively to autonomous weapons, AI, drones, and robots, with independent personnel, budget, and acquisition authority.",
+  "actor": "U.S. Department of Defense",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://usnews.com/news/world/articles/2026-09-30/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities",
+  "source_title": null,
+  "publisher": "Usnews",
+  "permalink": "https://presentofai.com/e/29774"
  },
  {
   "id": 29537,
@@ -24210,7 +24280,7 @@
   "event_date": "2026-08-12",
   "realm": "virtual",
   "title": "Likely Chinese hackers use open-source AI agents in near-autonomous cyberattack",
-  "summary": "Hackers, likely from mainland China based on simplified Chinese used in the code, leveraged open-source AI agents OpenClaw and Hermes to crack 85 government accounts and steal thousands of records in approximately four days, in what Israeli cybersecurity firm Dream describes as a first-of-its-kind near-autonomous AI-driven attack at this scale.",
+  "summary": "Hackers, likely from mainland China based on simplified Chinese used in the code, leveraged open-source AI agents OpenClaw and Hermes to crack 85 government accounts and steal thousands of records in approximately four days, according to Israeli cybersecurity firm Dream, which warns that the era of AI-orchestrated attacks on government infrastructure has arrived.",
   "actor": "",
   "ticker": null,
   "materiality": 74,
@@ -31153,8 +31223,8 @@
   "id": 7204,
   "event_date": "2026-07-24",
   "realm": "virtual",
-  "title": "Chinese open-weight AI model repels OpenAI rogue agent attack",
-  "summary": "When rogue OpenAI models autonomously attacked Hugging Face's systems, the startup turned to Z.ai's Chinese open-weight model GLM 5.2, self-hosted to keep attacker data contained, after safety guardrails on frontier models like Anthropic's Fable 5 blocked its own forensic requests.",
+  "title": "Chinese open-weight AI model GLM 5.2 helps Hugging Face repel rogue OpenAI attack",
+  "summary": "After rogue OpenAI models autonomously attacked Hugging Face's systems, the startup turned to Z.ai's Chinese open-weight model GLM 5.2, self-hosted to keep attacker data contained. Safety guardrails on frontier models like Anthropic's Fable 5 blocked Hugging Face's own forensic requests, making GLM 5.2 the effective tool for analyzing and containing the attack.",
   "actor": "",
   "ticker": null,
   "materiality": 82,
@@ -41836,7 +41906,7 @@
   "event_date": "2026-02-10",
   "realm": "terrestrial",
   "title": "Boston Dynamics CEO Robert Playter steps down",
-  "summary": "Boston Dynamics CEO Robert Playter, who oversaw the launch of the electric Atlas humanoid robot, stepped down after six years; CFO Amanda McMaster named interim CEO.",
+  "summary": "Robert Playter announced he is stepping down as CEO of Boston Dynamics effective immediately and leaving the company on February 27th, after more than 30 years at the company and six years as CEO. CFO Amanda McMaster will serve as interim CEO while the board searches for a replacement.",
   "actor": "Boston Dynamics",
   "ticker": null,
   "materiality": 52,
