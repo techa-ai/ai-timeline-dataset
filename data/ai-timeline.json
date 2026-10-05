@@ -1,17 +1,31 @@
 [
  {
-  "id": 30133,
+  "id": 30206,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
-  "title": "Kodiak AI targets year-end driverless Dallas-Houston trucking with IKEA",
-  "summary": "Kodiak AI announced a planned year-end launch of fully driverless commercial trucking on the Dallas-Houston corridor with IKEA as its named launch partner, after more than four years and 750,000 miles of collaboration. The company reported its Autonomy Readiness Measure stood at 93% at the end of August and said it faces no current regulatory barriers to deploying and scaling its driverless trucks.",
+  "title": "Kodiak AI targets driverless Dallas-Houston trucking launch with IKEA",
+  "summary": "Kodiak AI announced a year-end target for fully driverless commercial trucking on the Dallas-Houston corridor, with IKEA named as its driverless launch partner after more than four years of collaboration covering over 750,000 miles and 1,300 loads.",
   "actor": "Kodiak AI",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://www.defenseworld.net/2026/10/04/kodiak-ai-targets-year-end-driverless-dallas-houston-trucking-launch-with-ikea.html",
   "source_title": null,
   "publisher": "Defenseworld",
-  "permalink": "https://presentofai.com/e/30133"
+  "permalink": "https://presentofai.com/e/30206"
+ },
+ {
+  "id": 30187,
+  "event_date": "2026-10-05",
+  "realm": "virtual",
+  "title": "Anthropic launches Claude in-country inference in India via AWS",
+  "summary": "Anthropic introduced in-country inference for Claude models in India through Amazon Bedrock, allowing sensitive AI workloads to be processed on servers located within India to meet local data-residency requirements for financial and regulated-sector enterprises.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://m.economictimes.com/ai/ai-insights/claude-comes-closer-to-indias-data-anthropic-brings-in-country-inference-to-aws/articleshow/134688317.cms",
+  "source_title": null,
+  "publisher": "The Economic Times",
+  "permalink": "https://presentofai.com/e/30187"
  },
  {
   "id": 30125,
@@ -35,7 +49,7 @@
   "summary": "The RP1 robot was showcased as the world's first fully open-source bipedal humanoid, designed to be used, modified, trained, and extended in real development workflows.",
   "actor": "",
   "ticker": null,
-  "materiality": 60,
+  "materiality": 62,
   "source_url": "https://interestingengineering.com/innovation/world-first-open-source-bipedal-humanoid-robot",
   "source_title": null,
   "publisher": "Interestingengineering",
@@ -70,18 +84,46 @@
   "permalink": "https://presentofai.com/e/30025"
  },
  {
-  "id": 30055,
+  "id": 30224,
   "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "Elon Musk defends Cybercab rollout as Austin fleet grows to 169",
-  "summary": "Tesla's Austin Cybercab fleet grew from 45 to 169 registered vehicles according to Texas DMV records, with no major safety incidents reported. CEO Elon Musk defended the deliberate pace, saying Tesla is being extremely careful with autonomous safety, while CNBC noted rider complaints about wait times and wrong-place pickups.",
-  "actor": "Tesla",
+  "realm": "space",
+  "title": "SpaceX reveals Starlink Gen3 specs: 250 kW, 10 Tbps, onboard AI edge compute",
+  "summary": "On October 1, 2026, SpaceX disclosed technical specifications for its next-generation Starlink Gen3 satellites, featuring 250 kW power payloads, 10 Tbps bidirectional throughput per spacecraft, and onboard SpaceX-designed Nvidia Vera Rubin NVL72 compute hardware for orbital data processing and digital beamforming. Elon Musk confirmed a path to scaling beyond 100 Tbps per satellite in future iterations, with deployment tied to Starship launch cadence and pending FCC regulatory approvals.",
+  "actor": "SpaceX",
   "ticker": null,
   "materiality": 72,
+  "source_url": "https://satnews.com/2026/10/04/spacex-unveils-250-kw-starlink-gen3-ai-satellites-featuring-10-tbps-throughput-and-onboard-edge-compute/",
+  "source_title": null,
+  "publisher": "SatNews-Satellite Industry Intelligence Since 1983",
+  "permalink": "https://presentofai.com/e/30224"
+ },
+ {
+  "id": 30204,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "Elon Musk defends careful Cybercab rollout as Austin fleet grows to 169",
+  "summary": "Tesla CEO Elon Musk defended the company's deliberate pace with its Austin Cybercab robotaxi rollout after CNBC called the first month rocky, while Sawyer Merritt noted the registered fleet had nearly quadrupled from 45 to 169 per Texas DMV records with no major incidents. CNBC reported some rider complaints about wait times and wrong drop-offs, and Musk said next steps include expansion across Texas, Nevada, and Florida.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 75,
   "source_url": "https://teslanorth.com/2026/10/04/elon-musk-touts-careful-cybercab-rollout-austin-fleet-169/",
   "source_title": null,
   "publisher": "Tesla North",
-  "permalink": "https://presentofai.com/e/30055"
+  "permalink": "https://presentofai.com/e/30204"
+ },
+ {
+  "id": 30169,
+  "event_date": "2026-10-04",
+  "realm": "virtual",
+  "title": "Reflection open-weight AI model set to challenge US and China giants",
+  "summary": "Nvidia-backed startup Reflection announced a powerful open-weight AI model described as capable of threatening both Chinese AI businesses and major US AI labs in the global AI race.",
+  "actor": "Reflection",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/30169"
  },
  {
   "id": 30017,
@@ -196,6 +238,34 @@
   "permalink": "https://presentofai.com/e/29598"
  },
  {
+  "id": 30229,
+  "event_date": "2026-10-03",
+  "realm": "terrestrial",
+  "title": "SpaceX Alphabet Data Center AI Compute Partnership Goes Live",
+  "summary": "As of early October, SpaceX's multibillion-dollar data center partnership with Google parent Alphabet became operational, and combined with an existing Anthropic contract worth $1.25 billion per month, the company now generates roughly $2.2 billion in monthly AI-related revenue, marking its emergence as a major AI cloud infrastructure provider.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/spacex-s-ai-compute-bet-takes-off-as-google-deal-kicks-in-and-analysts-chase-300-targets/70221025",
+  "source_title": null,
+  "publisher": "NEWS & AKTIENKURSE | AD HOC NEWS",
+  "permalink": "https://presentofai.com/e/30229"
+ },
+ {
+  "id": 30164,
+  "event_date": "2026-10-03",
+  "realm": "virtual",
+  "title": "Meta Muse Spark AI helps mathematicians solve 6 math problems",
+  "summary": "Meta announced that its Muse Spark AI models helped mathematicians solve six research problems across fields including probability, differential equations, group theory, and optimisation, with five described as open questions. Separately, Meta launched Muse Gadgets, an open-source platform for developers to build Muse-compatible hardware, alongside its own Muse Home Link device.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.thehansindia.com/tech/metas-muse-spark-solves-6-major-math-problems-ai-hardware-project-launched-1128401",
+  "source_title": null,
+  "publisher": "The Hans India",
+  "permalink": "https://presentofai.com/e/30164"
+ },
+ {
   "id": 30141,
   "event_date": "2026-10-03",
   "realm": "terrestrial",
@@ -250,20 +320,6 @@
   "source_title": null,
   "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
   "permalink": "https://presentofai.com/e/30029"
- },
- {
-  "id": 30026,
-  "event_date": "2026-10-03",
-  "realm": "terrestrial",
-  "title": "Apple tightens macOS Full Disk Access to curb app misuse of message data",
-  "summary": "Apple announced changes to macOS privacy settings to stop third-party app developers from misusing Full Disk Access permissions to read users' message histories. The announcement came two weeks after a controversy over Meta's AI agent Muse allegedly accessing Apple Messages content without a user's explicit awareness.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/30026"
  },
  {
   "id": 30010,
@@ -434,6 +490,34 @@
   "permalink": "https://presentofai.com/e/29316"
  },
  {
+  "id": 30203,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "California signs law fining robotaxis that block emergency responders",
+  "summary": "California Governor Gavin Newsom signed SB 1246, establishing fines for robotaxi operators whose vehicles block police or firefighters for more than 30 minutes and requiring companies to provide on-the-ground incident technicians.",
+  "actor": "California",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://finance.biggo.com/news/feb5c1c1-30f8-42a9-b20b-10b847a150f7",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/30203"
+ },
+ {
+  "id": 30173,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Apple tightens macOS full-disk access to block AI agents",
+  "summary": "Apple announced changes to macOS privacy settings to stop third-party app developers from misusing full-disk access to read message histories. The move follows a disputed incident in which tech columnist Jason Aten alleged Meta's AI agent Muse sent him a notification referencing private Apple Messages he said he never granted it permission to read, a claim Meta contested.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/30173"
+ },
+ {
   "id": 30143,
   "event_date": "2026-10-02",
   "realm": "terrestrial",
@@ -460,20 +544,6 @@
   "source_title": null,
   "publisher": "Roboticsandautomationnews",
   "permalink": "https://presentofai.com/e/30136"
- },
- {
-  "id": 30134,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "Hegseth announces drone command, cutting 20% of generals and admirals",
-  "summary": "Defense Secretary Pete Hegseth announced a new four-star drone command that will cut 20% of the country's generals and admirals, describing it as the fastest peacetime military shift in modern history. He also said the planned reduction in senior officers doubles the 10% cut he ordered in spring 2025.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.uniladtech.com/news/ai/us-military-replace-generals-ai-drone-hegseth-target-woke-officers-282100-20261002",
-  "source_title": null,
-  "publisher": "Uniladtech",
-  "permalink": "https://presentofai.com/e/30134"
  },
  {
   "id": 30076,
@@ -1022,18 +1092,18 @@
   "permalink": "https://presentofai.com/e/28774"
  },
  {
-  "id": 30097,
+  "id": 30170,
   "event_date": "2026-10-01",
   "realm": "virtual",
-  "title": "Google Gemini 4 Argon released to trusted cyber defenders via Fairwind Program",
-  "summary": "Google released Gemini 4 Argon, its latest frontier model, to a limited set of trusted cyber defenders through its Fairwind Program to comply with US government voluntary safety testing processes before general availability. The model features an expanded output token limit of 1 million tokens for complex enterprise workloads, with benchmark results showing competitive but mixed performance against rivals.",
-  "actor": "Google",
+  "title": "arXiv Caps Submissions at 2 Papers/Month Amid AI Surge",
+  "summary": "arXiv implemented its strictest-ever submission limits on October 1, capping each account at 2 papers per month and no more than 3 simultaneously under moderation, directly in response to an AI-driven explosion in preprint volume straining its moderation system.",
+  "actor": "",
   "ticker": null,
-  "materiality": 62,
-  "source_url": "https://infoworld.com/article/4229615/google-makes-gemini-4-ai-model-available-to-a-trusted-few.html",
+  "materiality": 60,
+  "source_url": "https://www.kucoin.com/news/flash/arxiv-implements-strict-monthly-paper-submission-limits-amid-ai-driven-surge",
   "source_title": null,
-  "publisher": "Infoworld",
-  "permalink": "https://presentofai.com/e/30097"
+  "publisher": "KuCoin",
+  "permalink": "https://presentofai.com/e/30170"
  },
  {
   "id": 30074,
@@ -1048,20 +1118,6 @@
   "source_title": null,
   "publisher": "Fedscoop",
   "permalink": "https://presentofai.com/e/30074"
- },
- {
-  "id": 30024,
-  "event_date": "2026-10-01",
-  "realm": "virtual",
-  "title": "arXiv caps submissions at 2 papers/month amid AI-driven surge",
-  "summary": "arXiv implemented its strictest-ever submission limits on October 1, capping each account at 2 papers per month and no more than 3 simultaneously under moderation, directly in response to an AI-driven explosion in preprint volume straining its moderation system.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.kucoin.com/news/flash/arxiv-implements-strict-monthly-paper-submission-limits-amid-ai-driven-surge",
-  "source_title": null,
-  "publisher": "KuCoin",
-  "permalink": "https://presentofai.com/e/30024"
  },
  {
   "id": 29905,
@@ -1202,20 +1258,6 @@
   "source_title": null,
   "publisher": "mint",
   "permalink": "https://presentofai.com/e/29569"
- },
- {
-  "id": 29551,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "California law fines robotaxi firms for blocking first responders",
-  "summary": "California's SB 1246, signed by Gov. Gavin Newsom, requires autonomous vehicle operators to provide local on-the-ground support to first responders, notify jurisdictions during system-wide failures, and face fines if a robotaxi blocks emergency responders for more than 30 minutes. The law also limits remote drivers to US-based, US-licensed operators and takes effect in July 2028.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/29551"
  },
  {
   "id": 29512,
@@ -15152,7 +15194,7 @@
   "event_date": "2026-09-04",
   "realm": "terrestrial",
   "title": "NHTSA Opens Probe into Tesla Cybercab Self-Certification",
-  "summary": "The U.S. National Highway Traffic Safety Administration opened a formal investigation, designated as an Audit Query and opened on Sept. 3, into whether Tesla properly self-certified an estimated 1,000 Cybercab robotaxis as meeting all applicable Federal Motor Vehicle Safety Standards. The probe will examine the process and technical data Tesla relied upon when certifying the Cybercab, which lacks conventional manual controls such as a steering wheel, brake pedal, and mirrors.",
+  "summary": "The U.S. National Highway Traffic Safety Administration opened a formal investigation, designated as an Audit Query and opened on Sept. 3, into whether Tesla properly self-certified an estimated 1,000 Cybercab robotaxis as meeting all applicable Federal Motor Vehicle Safety Standards. The probe will examine the process and technical data Tesla relied upon when certifying the Cybercab, which lacks permanently attached conventional manual controls such as a steering wheel, brake pedal, gas pedal, and mirrors.",
   "actor": "NHTSA",
   "ticker": null,
   "materiality": 75,
@@ -15557,8 +15599,8 @@
   "id": 20332,
   "event_date": "2026-09-03",
   "realm": "virtual",
-  "title": "OpenAI launches Project Daybreak with $1B cyberdefense pledge",
-  "summary": "OpenAI announced 'Daybreak for Frontline Defenders,' committing $1 billion in subsidized access to its AI cybersecurity tools, training, and technical support for organizations protecting critical infrastructure globally.",
+  "title": "OpenAI launches Daybreak for Frontline Defenders with $1B cyberdefense pledge",
+  "summary": "OpenAI announced 'Daybreak for Frontline Defenders,' committing $1 billion in subsidized access to its AI cybersecurity tools, training, and technical support for organizations protecting critical services, initially focusing on U.S. operators of essential services with plans to expand to partner countries.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 72,
@@ -44734,7 +44776,7 @@
   "event_date": "2025-10-03",
   "realm": "virtual",
   "title": "Google makes Gemini 2.5 Flash widely available with Nano Banana",
-  "summary": "Google released Gemini 2.5 Flash to general availability, including the viral Nano Banana image-editing and GIF-generation tool, which also received support for additional aspect ratios. CEO Sundar Pichai hyped the release on social media, urging developers to 'go bananas' with the new model.",
+  "summary": "Google released Gemini 2.5 Flash to general availability, including the Nano Banana image editing and generation tool, which also received support for additional aspect ratios. CEO Sundar Pichai reposted the release announcement on X and shared banana emojis, which the article describes as perhaps a reference to Nano Banana.",
   "actor": "Google",
   "ticker": null,
   "materiality": 65,
@@ -45266,7 +45308,7 @@
   "event_date": "2025-09-17",
   "realm": "terrestrial",
   "title": "Figure & Brookfield partner to build world's largest humanoid training dataset",
-  "summary": "Robotics firm Figure announced a strategic partnership with $1 trillion asset manager Brookfield to create the world's largest humanoid AI pretraining dataset across 100,000 residential units, with Brookfield also investing in Figure's Series C and committing to scale robot deployment across its commercial properties.",
+  "summary": "Robotics firm Figure announced a strategic partnership with Brookfield, a global alternative asset manager with over $1 trillion in assets, to create the world's largest humanoid AI pretraining dataset by collecting human video data across Brookfield's real estate portfolio including 100,000 residential units. Brookfield also participated in Figure's Series C funding round, and the partnership will explore GPU data center development, robotic training facilities, and potential humanoid robot deployment across Brookfield's global operations.",
   "actor": "Figure",
   "ticker": null,
   "materiality": 68,
