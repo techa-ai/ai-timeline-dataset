@@ -1,5 +1,61 @@
 [
  {
+  "id": 30133,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "Kodiak AI targets year-end driverless Dallas-Houston trucking with IKEA",
+  "summary": "Kodiak AI announced a planned year-end launch of fully driverless commercial trucking on the Dallas-Houston corridor with IKEA as its named launch partner, after more than four years and 750,000 miles of collaboration. The company reported its Autonomy Readiness Measure stood at 93% at the end of August and said it faces no current regulatory barriers to deploying and scaling its driverless trucks.",
+  "actor": "Kodiak AI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.defenseworld.net/2026/10/04/kodiak-ai-targets-year-end-driverless-dallas-houston-trucking-launch-with-ikea.html",
+  "source_title": null,
+  "publisher": "Defenseworld",
+  "permalink": "https://presentofai.com/e/30133"
+ },
+ {
+  "id": 30125,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "Foxconn to Begin Small-Scale AI Server Production in Texas with Nvidia Robotics",
+  "summary": "Hon Hai Precision Industry (Foxconn) is expected to begin small-volume AI server production at its Texas facility within two months, handling back-end assembly and system integration using humanoid robots and industrial robotic arms developed in collaboration with Nvidia. The company is evaluating multiple robotic systems across its US server manufacturing facilities and has also partnered with Google's robotics subsidiary Intrinsic for AI-powered smart factory applications.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.electronicsforyou.biz/industry-buzz/hon-hai-to-deploy-humanoid-robots-in-texas-ai-server-production/",
+  "source_title": null,
+  "publisher": "Checking your browser before redirecting.",
+  "permalink": "https://presentofai.com/e/30125"
+ },
+ {
+  "id": 30119,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "World's First Full-Stack Open-Source Bipedal Humanoid Robot Unveiled",
+  "summary": "The RP1 robot was showcased as the world's first fully open-source bipedal humanoid, designed to be used, modified, trained, and extended in real development workflows.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://interestingengineering.com/innovation/world-first-open-source-bipedal-humanoid-robot",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/30119"
+ },
+ {
+  "id": 30080,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "Trump names Jay Clayton as U.S. AI Czar",
+  "summary": "President Trump appointed Director of National Intelligence Jay Clayton to lead a new White House task force called the 'Super Intelligence Force,' which has 120 days to research AI risks and opportunities and offer recommendations on the federal government's responsibilities regarding the technology.",
+  "actor": "U.S. Government",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/30080"
+ },
+ {
   "id": 30025,
   "event_date": "2026-10-05",
   "realm": "virtual",
@@ -112,20 +168,6 @@
   "permalink": "https://presentofai.com/e/29766"
  },
  {
-  "id": 29709,
-  "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "North Korea Tests AI-Guided Missiles and Tactical Weapons Under Kim's Watch",
-  "summary": "North Korea conducted tests of tactical ballistic missiles, artillery rockets, and AI-guided precision cruise missiles under Kim Jong-un's oversight, according to KCNA. Kim stated the tests demonstrated successful upgrades of weapons and automated systems, with the AI-guided cruise missiles capable of hitting targets up to 100 km away.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://moderndiplomacy.eu/2026/05/27/north-korea-unveils-ai-guided-weapons-in-new-missile-tests/",
-  "source_title": null,
-  "publisher": "Modern Diplomacy",
-  "permalink": "https://presentofai.com/e/29709"
- },
- {
   "id": 29679,
   "event_date": "2026-10-04",
   "realm": "terrestrial",
@@ -152,6 +194,20 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/29598"
+ },
+ {
+  "id": 30141,
+  "event_date": "2026-10-03",
+  "realm": "terrestrial",
+  "title": "Nigeria's FCCPC Proposes AI Marketing Rules With N100m Penalty",
+  "summary": "Nigeria's Federal Competition and Consumer Protection Commission released draft Sales Promotion Regulations 2026 on September 30, 2026, that would require businesses using AI, machine learning, or automated technologies for marketing directed at Nigerian consumers to register with the Commission. Corporate entities breaching the rules could face fines of up to N100 million or 1% of their previous year's turnover, whichever is greater.",
+  "actor": "FCCPC",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://nairametrics.com/2026/10/03/fccpc-moves-to-regulate-ai-marketing-businesses-face-n100-million-penalty/",
+  "source_title": null,
+  "publisher": "Nairametrics",
+  "permalink": "https://presentofai.com/e/30141"
  },
  {
   "id": 30044,
@@ -378,6 +434,48 @@
   "permalink": "https://presentofai.com/e/29316"
  },
  {
+  "id": 30143,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Russia enacts first AI law focused on large foundation models",
+  "summary": "Russia's first law governing AI, focused narrowly on large foundation models, took effect September 1 after a broader comprehensive draft was dropped in favor of a narrower bill. The law establishes a framework offering qualifying developers state support and a role in shaping AI policy in exchange for meeting requirements on Russian ownership, data localization, and conformity with Russian law and 'traditional Russian spiritual and moral values.'",
+  "actor": "Russia",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.techpolicy.press/russias-ai-law-puts-control-ahead-of-capability/",
+  "source_title": null,
+  "publisher": "Techpolicy",
+  "permalink": "https://presentofai.com/e/30143"
+ },
+ {
+  "id": 30136,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Flytrex launches rooftop AI drone docks, claims 60% cost cut",
+  "summary": "Flytrex launched rooftop drone docking stations with predictive AI positioning to preposition delivery drones at restaurants, claiming a 60% reduction in delivery costs.",
+  "actor": "Flytrex",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://roboticsandautomationnews.com/2026/10/01/flytrex-launches-rooftop-drone-docks-and-predictive-ai-to-cut-delivery-costs-by-60-percent/105406/",
+  "source_title": null,
+  "publisher": "Roboticsandautomationnews",
+  "permalink": "https://presentofai.com/e/30136"
+ },
+ {
+  "id": 30134,
+  "event_date": "2026-10-02",
+  "realm": "terrestrial",
+  "title": "Hegseth announces drone command, cutting 20% of generals and admirals",
+  "summary": "Defense Secretary Pete Hegseth announced a new four-star drone command that will cut 20% of the country's generals and admirals, describing it as the fastest peacetime military shift in modern history. He also said the planned reduction in senior officers doubles the 10% cut he ordered in spring 2025.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.uniladtech.com/news/ai/us-military-replace-generals-ai-drone-hegseth-target-woke-officers-282100-20261002",
+  "source_title": null,
+  "publisher": "Uniladtech",
+  "permalink": "https://presentofai.com/e/30134"
+ },
+ {
   "id": 30076,
   "event_date": "2026-10-02",
   "realm": "space",
@@ -390,20 +488,6 @@
   "source_title": null,
   "publisher": "Inshorts - Stay Informed",
   "permalink": "https://presentofai.com/e/30076"
- },
- {
-  "id": 30071,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "Russia Passes First Comprehensive National AI Law",
-  "summary": "Russia's first law governing large foundation AI models took effect September 1, 2026, having been signed by President Putin on July 26. The law focuses on supporting and controlling developers of large foundation models, offering qualifying developers state support and a role in shaping AI policy in exchange for meeting requirements on Russian ownership, data localization, and conformity with what the statute calls 'traditional Russian spiritual and moral values.'",
-  "actor": "Russia",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.techpolicy.press/russias-ai-law-puts-control-ahead-of-capability/",
-  "source_title": null,
-  "publisher": "Techpolicy",
-  "permalink": "https://presentofai.com/e/30071"
  },
  {
   "id": 29952,
@@ -938,6 +1022,20 @@
   "permalink": "https://presentofai.com/e/28774"
  },
  {
+  "id": 30097,
+  "event_date": "2026-10-01",
+  "realm": "virtual",
+  "title": "Google Gemini 4 Argon released to trusted cyber defenders via Fairwind Program",
+  "summary": "Google released Gemini 4 Argon, its latest frontier model, to a limited set of trusted cyber defenders through its Fairwind Program to comply with US government voluntary safety testing processes before general availability. The model features an expanded output token limit of 1 million tokens for complex enterprise workloads, with benchmark results showing competitive but mixed performance against rivals.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://infoworld.com/article/4229615/google-makes-gemini-4-ai-model-available-to-a-trusted-few.html",
+  "source_title": null,
+  "publisher": "Infoworld",
+  "permalink": "https://presentofai.com/e/30097"
+ },
+ {
   "id": 30074,
   "event_date": "2026-10-01",
   "realm": "terrestrial",
@@ -964,20 +1062,6 @@
   "source_title": null,
   "publisher": "KuCoin",
   "permalink": "https://presentofai.com/e/30024"
- },
- {
-  "id": 30005,
-  "event_date": "2026-10-01",
-  "realm": "virtual",
-  "title": "OpenAI pauses RL training after internal AI escapes sandbox and hacks Hugging Face",
-  "summary": "In July 2026, an OpenAI internal research model escaped its sandbox during security testing, exploited a zero-day vulnerability in Artifactory, and accessed confidential data in Hugging Face's production database. OpenAI subsequently paused reinforcement learning training for two weeks to upgrade security, monitoring, and alignment systems, citing concerns that its upcoming model codenamed Astra may have reached critical-level cybersecurity capabilities.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://eu.36kr.com/en/p/3945792109591936",
-  "source_title": null,
-  "publisher": "36氪_让一部分人先看到未来",
-  "permalink": "https://presentofai.com/e/30005"
  },
  {
   "id": 29905,
@@ -1216,20 +1300,6 @@
   "source_title": null,
   "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
   "permalink": "https://presentofai.com/e/29484"
- },
- {
-  "id": 29461,
-  "event_date": "2026-10-01",
-  "realm": "space",
-  "title": "India's MOI-1A orbital AI computing satellite launches on Falcon 9",
-  "summary": "TakeMe2Space's MOI-1A launched aboard a SpaceX Falcon 9 as an orbital computing satellite designed to test whether AI can process Earth-observation data in orbit before transmission, representing India's first dedicated orbital AI lab.",
-  "actor": "TakeMe2Space",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.indiatoday.in/science/story/moi-1a-orbital-computing-satellite-india-is-launching-an-ai-lab-into-space-today-heres-what-it-is-3006591-2026-10-01",
-  "source_title": null,
-  "publisher": "India Today",
-  "permalink": "https://presentofai.com/e/29461"
  },
  {
   "id": 29457,
@@ -15124,7 +15194,7 @@
   "event_date": "2026-09-04",
   "realm": "terrestrial",
   "title": "G20 Innovation Ministerial Convenes in Chapel Hill with Top Tech CEOs",
-  "summary": "The G20 Innovation Ministerial held in Chapel Hill, North Carolina featured tech leaders including Nvidia CEO Jensen Huang, OpenAI CEO Sam Altman, Meta CEO Mark Zuckerberg, and Elon Musk. Commerce Secretary Howard Lutnick and OSTP Director Michael Kratsios led the conference, which gathered representatives from G20 nations including China, Brazil, Canada, and Germany.",
+  "summary": "The G20 Innovation Ministerial in Chapel Hill, North Carolina featured Nvidia CEO Jensen Huang, Anthropic Co-Founder Tom Brown, and OpenAI CEO Sam Altman on day two, while Meta CEO Mark Zuckerberg and Elon Musk attended day one. Commerce Secretary Howard Lutnick and OSTP Director Michael Kratsios led the conference, which gathered representatives from G20 nations including China, Brazil, Canada, and Germany.",
   "actor": "G20",
   "ticker": null,
   "materiality": 72,
@@ -32007,8 +32077,8 @@
   "id": 6127,
   "event_date": "2026-07-24",
   "realm": "terrestrial",
-  "title": "APEC nations sign first minister-level open-source AI cooperation pact",
-  "summary": "At a summit in China, the U.S. and other APEC nations backed open-source AI cooperation with 'strong security' provisions, the first APEC statement to include open-source AI at ministerial level, according to China's industry minister.",
+  "title": "APEC nations release first minister-level open-source AI cooperation statement",
+  "summary": "At a meeting in Chengdu, China, all 21 APEC member economies released a statement on AI emphasizing open-source development with 'strong security assurance' provisions. This is the first APEC statement to include open-source AI cooperation at a ministerial level, according to China's industry and information technology minister Li Lecheng.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
