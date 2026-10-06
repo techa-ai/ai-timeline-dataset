@@ -1,5 +1,47 @@
 [
  {
+  "id": 30585,
+  "event_date": "2026-10-06",
+  "realm": "terrestrial",
+  "title": "US TMF awards $83.4M to four federal AI projects",
+  "summary": "The Technology Modernization Fund awarded $83.4 million across four AI-enabled projects at the Departments of State, Transportation, and Agriculture, deploying AI at scale within the US federal government.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://nextgov.com/modernization/2026/10/tmf-invests-834m-4-ai-enabled-projects/416431",
+  "source_title": null,
+  "publisher": "Nextgov",
+  "permalink": "https://presentofai.com/e/30585"
+ },
+ {
+  "id": 30576,
+  "event_date": "2026-10-06",
+  "realm": "terrestrial",
+  "title": "Ukraine AI turrets make first combat kill of unjammable Geran-5 drone",
+  "summary": "Ukraine's Lyut-Khyzhak autonomous AI gun turrets in Kyiv achieved the first confirmed combat interception of Russia's fiber-optic-guided Geran-5 jet drone (600 km/h), which electronic jamming cannot stop, marking the first operational use of autonomous kinetic turrets in a capital city.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://techtimes.com/articles/328630/20261006/ukraine-ai-turrets-shoot-down-geran-5-first-capital-city-kill-unjammable-russian-drone.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/30576"
+ },
+ {
+  "id": 30538,
+  "event_date": "2026-10-06",
+  "realm": "virtual",
+  "title": "Mistral releases Large 4, a 1-trillion-parameter multimodal model",
+  "summary": "Mistral AI released Mistral Large 4 (ML4, nicknamed 'Le Chonk'), a 1-trillion-parameter multimodal model currently accessible only via a public guardrail endpoint, with open weights planned for release after safety testing in about three weeks. Mistral hopes ML4 will be best in class among open-weight models and potentially outperform closed models in key areas including cybersecurity and finance.",
+  "actor": "Mistral AI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/30538"
+ },
+ {
   "id": 30509,
   "event_date": "2026-10-06",
   "realm": "terrestrial",
@@ -182,6 +224,76 @@
   "permalink": "https://presentofai.com/e/30304"
  },
  {
+  "id": 30575,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "Teamsters sue California over driverless truck regulations",
+  "summary": "The California Teamsters union filed suit in August challenging the state DMV's new autonomous trucking regulations on procedural grounds, arguing the DMV failed to properly estimate the economic impact of the rules. The regulations, approved in April after a two-year process, are considered the most restrictive autonomous vehicle rules in the country.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.theadvocates.org/organized-labor-takes-aim-at-californias-driverless-truck-rules/",
+  "source_title": null,
+  "publisher": "Advocates For Self Government",
+  "permalink": "https://presentofai.com/e/30575"
+ },
+ {
+  "id": 30557,
+  "event_date": "2026-10-05",
+  "realm": "virtual",
+  "title": "Dubai launches agentic AI accelerator for 33 govt entities",
+  "summary": "Dubai Future Foundation announced the agentic AI for Government Services Accelerator, organised by the Dubai Centre for Artificial Intelligence with Digital Dubai and the Dubai Electronic Security Centre. In its first phase, the programme will bring together 33 Dubai government entities and assess more than 300 public-facing use cases to identify those with the greatest potential for agentic AI development.",
+  "actor": "Dubai Future Foundation",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.thenationalnews.com/news/uae/2026/10/05/dubai-launches-agentic-ai-accelerator-to-transform-public-facing-government-services/",
+  "source_title": null,
+  "publisher": "Thenationalnews",
+  "permalink": "https://presentofai.com/e/30557"
+ },
+ {
+  "id": 30556,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "FCC robot restrictions push shift to local edge AI",
+  "summary": "In July, the FCC added foreign-produced advanced robotic devices to its list of technologies posing unacceptable national security risks, blocking their import and sale in the U.S. Analysts expect this action to accelerate adoption of on-premises AI architectures and small language models that keep sensitive operational data local.",
+  "actor": "FCC",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
+  "source_title": null,
+  "publisher": "The Robot Report",
+  "permalink": "https://presentofai.com/e/30556"
+ },
+ {
+  "id": 30551,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "Anthropic safety system flags user, leads to Florida arrest",
+  "summary": "Anthropic's AI safety systems flagged diary-style entries in Claude from a Florida woman describing alleged criminal plans; Anthropic alerted police, resulting in her arrest, a first-known instance of an AI company's safety monitoring directly triggering a law-enforcement action.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.indiatoday.in/technology/news/story/woman-used-claude-as-diary-anthropic-alerted-police-and-got-her-arrested-3009775-2026-10-05",
+  "source_title": null,
+  "publisher": "India Today",
+  "permalink": "https://presentofai.com/e/30551"
+ },
+ {
+  "id": 30549,
+  "event_date": "2026-10-05",
+  "realm": "virtual",
+  "title": "Anthropic's Claude models go live in India via Amazon Bedrock",
+  "summary": "Anthropic launched in-country inference for Claude Opus 5, Sonnet 5, and Haiku 4.5 in India through Amazon Bedrock, ensuring all requests are processed within India and data does not leave the country, fulfilling an August commitment targeting regulated sectors.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.livemint.com/videos/claude-goes-local-in-india-via-amazon-bedrock-anthropics-big-ai-move-explained-11791220254176.html",
+  "source_title": null,
+  "publisher": "mint",
+  "permalink": "https://presentofai.com/e/30549"
+ },
+ {
   "id": 30485,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
@@ -245,7 +357,7 @@
   "summary": "OpenAI began rolling out an invisible watermark, called textGrain, in ChatGPT and Codex text output within the EU to address transparency requirements under the EU AI Act, subtly altering statistical patterns in word selection to create a detectable signal.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 65,
   "source_url": "https://interestingengineering.com/ai-robotics/openai-chatgpt-invisible-watermarks-eu",
   "source_title": null,
   "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
@@ -336,20 +448,6 @@
   "permalink": "https://presentofai.com/e/30382"
  },
  {
-  "id": 30376,
-  "event_date": "2026-10-05",
-  "realm": "terrestrial",
-  "title": "Trump appoints spy chief to lead new US AI taskforce",
-  "summary": "The Trump administration selected a top intelligence official to head a new AI taskforce, a significant step in formalizing US government AI governance and national security AI coordination.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://bbc.com/news/articles/cqj6jenp26zyo",
-  "source_title": null,
-  "publisher": "Bbc",
-  "permalink": "https://presentofai.com/e/30376"
- },
- {
   "id": 30357,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
@@ -404,20 +502,6 @@
   "source_title": null,
   "publisher": "Welcome to WilmerHale",
   "permalink": "https://presentofai.com/e/30352"
- },
- {
-  "id": 30337,
-  "event_date": "2026-10-05",
-  "realm": "terrestrial",
-  "title": "Ukraine AI gun turrets score first kills of jet-powered drones",
-  "summary": "Ukraine's AI-enabled robotic gun turrets have intercepted Russian jet-powered drones, including the Geran-5, for the first time, a senior Air Force official confirmed. The turrets use AI and machine vision to target drones, and Ukrainian President Zelenskyy said more than a dozen are installed around Kyiv with more planned.",
-  "actor": "Ukraine Ministry of Defence",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.businessinsider.com/ukraine-robotic-gun-turrets-got-first-kill-fastest-russian-drones-2026-10",
-  "source_title": null,
-  "publisher": "Business Insider",
-  "permalink": "https://presentofai.com/e/30337"
  },
  {
   "id": 30325,
@@ -476,20 +560,6 @@
   "permalink": "https://presentofai.com/e/30256"
  },
  {
-  "id": 30187,
-  "event_date": "2026-10-05",
-  "realm": "virtual",
-  "title": "Anthropic launches Claude in-country inference in India via AWS",
-  "summary": "Anthropic introduced in-country inference for Claude models in India through Amazon Bedrock, allowing sensitive AI workloads to be processed on servers located within India to meet local data-residency requirements for financial and regulated-sector enterprises.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://m.economictimes.com/ai/ai-insights/claude-comes-closer-to-indias-data-anthropic-brings-in-country-inference-to-aws/articleshow/134688317.cms",
-  "source_title": null,
-  "publisher": "The Economic Times",
-  "permalink": "https://presentofai.com/e/30187"
- },
- {
   "id": 30125,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
@@ -516,20 +586,6 @@
   "source_title": null,
   "publisher": "Interestingengineering",
   "permalink": "https://presentofai.com/e/30119"
- },
- {
-  "id": 30080,
-  "event_date": "2026-10-05",
-  "realm": "terrestrial",
-  "title": "Trump names Jay Clayton as U.S. AI Czar",
-  "summary": "President Trump appointed Director of National Intelligence Jay Clayton to lead a new White House task force called the 'Super Intelligence Force,' which has 120 days to research AI risks and opportunities and offer recommendations on the federal government's responsibilities regarding the technology.",
-  "actor": "U.S. Government",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/30080"
  },
  {
   "id": 30025,
@@ -740,20 +796,6 @@
   "source_title": null,
   "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
   "permalink": "https://presentofai.com/e/29959"
- },
- {
-  "id": 29902,
-  "event_date": "2026-10-04",
-  "realm": "virtual",
-  "title": "Reflection Startup Unveils Powerful New Open-Weight AI Model",
-  "summary": "Startup Reflection announced a new open-weight AI model described as set to shake up the AI race, with a sovereign AI factory partnership already signed with South Korea's Shinsegae Group.",
-  "actor": "Reflection",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.mcgill.ca/oss/article/pseudoscience-technology/when-ai-looks-your-face-it-spits-out-dangerous-nonsense",
-  "source_title": null,
-  "publisher": "McGill University",
-  "permalink": "https://presentofai.com/e/29902"
  },
  {
   "id": 29823,
@@ -4184,20 +4226,6 @@
   "source_title": null,
   "publisher": "CNA",
   "permalink": "https://presentofai.com/e/28181"
- },
- {
-  "id": 28136,
-  "event_date": "2026-09-28",
-  "realm": "space",
-  "title": "TakeMe2Space MOI-1A AI Satellite Set to Launch on SpaceX Transporter-18",
-  "summary": "Indian startup TakeMe2Space announced its MOI-1A satellite, weighing under 50kg and using Nvidia Orin NX edge-computing chips, is scheduled to launch on 1 October aboard SpaceX's Transporter-18 rideshare mission. The Hyderabad company calls it India's first orbital computing satellite, allowing customers to load AI models that process data in orbit and return only results rather than raw files.",
-  "actor": "TakeMe2Space",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://thenextweb.com/news/takeme2space-moi-1a-orbital-computing-satellite-spacex",
-  "source_title": null,
-  "publisher": "The Next Web",
-  "permalink": "https://presentofai.com/e/28136"
  },
  {
   "id": 28130,
@@ -38812,7 +38840,7 @@
   "event_date": "2026-06-01",
   "realm": "virtual",
   "title": "WindBorne releases WeatherMesh-6, outperforming ECMWF with 400-balloon fleet",
-  "summary": "WindBorne Systems released WeatherMesh-6, the sixth version of its AI weather forecasting model, which the company says is more accurate than forecasts from the ECMWF, the leading provider of weather prediction. The improvement stems from directly ingesting sensor data from its roughly 400 balloons in flight, launched from 15 sites globally, into its transformer-based model.",
+  "summary": "WindBorne Systems released WeatherMesh-6, the sixth version of its AI weather forecasting model, which the company says is more accurate than forecasts from the ECMWF, the leading provider of weather prediction. The improvement comes from directly ingesting sensor data from its roughly 400 balloons in flight, launched from 15 sites globally, and other sources into its transformer-based model.",
   "actor": "WindBorne",
   "ticker": null,
   "materiality": 62,
@@ -41570,7 +41598,7 @@
   "event_date": "2026-03-17",
   "realm": "terrestrial",
   "title": "TIER IV & Isuzu Announce Level 4 Autonomous Buses on NVIDIA DRIVE",
-  "summary": "TIER IV and Isuzu Motors unveiled a Level 4 autonomous bus deployment at NVIDIA GTC 2026, combining NVIDIA DRIVE AGX Thor on the DRIVE Hyperion platform with TIER IV's Autoware-based software stack on Isuzu ERGA buses to address Japan's driver shortage.",
+  "summary": "TIER IV and Isuzu Motors unveiled a Level 4 autonomous bus deployment at NVIDIA GTC 2026, combining NVIDIA DRIVE AGX Thor on the DRIVE Hyperion platform with TIER IV's Autoware-based software stack on Isuzu ERGA EV and diesel bus models to address Japan's driver shortage.",
   "actor": "",
   "ticker": "NVDA",
   "materiality": 70,
