@@ -1,5 +1,145 @@
 [
  {
+  "id": 31179,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Australia moves to regulate AI like banks and airlines",
+  "summary": "The Australian federal government announced it is developing AI laws modeled on banking and aviation regulation, requiring AI companies to demonstrate they can identify and manage risks before deployment.",
+  "actor": "Government of Australia",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.abc.net.au/news/2026-10-08/federal-politics-ai-regulation-andrew-charlton-speech/107241674",
+  "source_title": null,
+  "publisher": "ABC",
+  "permalink": "https://presentofai.com/e/31179"
+ },
+ {
+  "id": 31177,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "India announces AI regulation consultation paper within 30 days",
+  "summary": "Indian IT Minister Ashwini Vaishnaw announced the government will release a consultation paper within a month to lay the groundwork for India's next set of AI regulations, focusing on safety, human welfare, skilling, inclusivity, and protection against deepfakes and psychological harm. The minister said the government would adopt a techno-legal approach with industry expected to shoulder primary responsibility for safety.",
+  "actor": "Government of India",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://timesofindia.indiatimes.com/india/centre-to-unveil-ai-regulation-roadmap-within-a-month-industry-to-shoulder-safety-responsibility/articleshow/134791615.cms",
+  "source_title": null,
+  "publisher": "Timesofindia",
+  "permalink": "https://presentofai.com/e/31177"
+ },
+ {
+  "id": 31176,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Drones Strike Yandex Data Centre in First Major Attack on Russian AI Hub",
+  "summary": "Drones struck a data centre owned by Yandex, Russia's leading AI and technology company, marking the first major physical attack on a Russian data hub since the start of the war with Ukraine.",
+  "actor": "Yandex",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/",
+  "source_title": null,
+  "publisher": "Reuters",
+  "permalink": "https://presentofai.com/e/31176"
+ },
+ {
+  "id": 31175,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Shield AI completes first multi-boat autonomous teaming mission",
+  "summary": "Shield AI's Hivemind AI pilot completed its first multi-vessel autonomous teaming mission on water, coordinating two Thunder Tiger SeaShark drone boats in a live demonstration at Dapeng Bay, Taiwan.",
+  "actor": "Shield AI",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://interestingengineering.com/videos/how-ai-drone-boats-chased-an-intruder-out-of-their-zone",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/31175"
+ },
+ {
+  "id": 31169,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Auve Tech launches driverless airport shuttle with no safety operator",
+  "summary": "Auve Tech's MiCa autonomous shuttles began operating at Tallinn Airport without any onboard safety operator, following authorisation received in August 2026, making it the first European company to operate autonomous passenger transport at an airport without an onboard safety operator. The shuttles support Magnetic MRO's daily operations, covering approximately 1,000 km per week at a 99.9% autonomy rate under remote supervision only.",
+  "actor": "Auve Tech",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://roboticsandautomationnews.com/2026/10/08/auve-tech-launches-driverless-airport-shuttle-service-without-onboard-safety-operator/105722/",
+  "source_title": null,
+  "publisher": "Roboticsandautomationnews",
+  "permalink": "https://presentofai.com/e/31169"
+ },
+ {
+  "id": 31160,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Xpeng launches invite-only Yoyo robotaxi pilot in China",
+  "summary": "Xpeng officially named its robotaxi service 'Yoyo' and opened an invitation-based pilot program to users in China on October 8, marking the company's first public autonomous ride-hailing deployment.",
+  "actor": "Xpeng",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/",
+  "source_title": null,
+  "publisher": "Carnewschina",
+  "permalink": "https://presentofai.com/e/31160"
+ },
+ {
+  "id": 31159,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "DEWALT DALE Drill Robot Hits 10x Speed in Pilot Data Center Deployments",
+  "summary": "DALE, a fleet-capable autonomous drill robot developed by DEWALT with August Robotics, drilled over 385,000 holes at up to 10 times the speed of conventional methods with over 99% accuracy in pilot deployments for data center server rack and MEP installation.",
+  "actor": "August Robotics",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://interestingengineering.com/ai-robotics/dale-fleet-capable-downward-drill-robot",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/31159"
+ },
+ {
+  "id": 31156,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Odyssey-3 world model controls robots, cars, humanoids",
+  "summary": "Odyssey launched Odyssey-3, a single world model capable of controlling robot arms, humanoid robots, autonomous vehicles, and drones; Flexion is already using it for humanoids and a developer research preview is open.",
+  "actor": "Odyssey",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://thenextweb.com/news/odyssey-3-world-model-robots-humanoids-cars-drones",
+  "source_title": null,
+  "publisher": "Thenextweb",
+  "permalink": "https://presentofai.com/e/31156"
+ },
+ {
+  "id": 31119,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Google & Unity Launch Gen-AI Game-Making Platforms",
+  "summary": "Google unveiled Playground, an experimental gen-AI game-creation platform available for US testing, and Unity announced Unity Spark, a gen-AI-assisted game engine tool coming soon; the two products are designed to integrate with each other.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
+  "source_title": null,
+  "publisher": "Eurogamer",
+  "permalink": "https://presentofai.com/e/31119"
+ },
+ {
+  "id": 31117,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "AWS launches open-source Physical AI Toolchain for robotics",
+  "summary": "Amazon Web Services released an open-source Physical AI Toolchain designed to help robotics companies train, simulate, deploy, and improve AI-powered robots, marking a significant infrastructure push into physical AI.",
+  "actor": "AWS",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+  "source_title": null,
+  "publisher": "The Robot Report",
+  "permalink": "https://presentofai.com/e/31117"
+ },
+ {
   "id": 31095,
   "event_date": "2026-10-08",
   "realm": "virtual",
@@ -154,6 +294,48 @@
   "permalink": "https://presentofai.com/e/30907"
  },
  {
+  "id": 31153,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "Finland orders Google to halt two AI data centers",
+  "summary": "Finnish authorities ordered Google to suspend work on two data center projects in Muhos and Kajaani until mandatory environmental impact assessments are completed. The suspension covers tree removal, excavation, road construction, and other site work that could change the environment before impacts are properly assessed.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/31153"
+ },
+ {
+  "id": 31143,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "National Compute Grid launched to pool US AI capacity",
+  "summary": "A coalition of AI startups, cloud providers, researchers and investors launched the National Compute Grid on 7 October 2026 to pool AI computing resources, initially serving government, education and national laboratory teams amid a supply crunch.",
+  "actor": "National Compute Grid Coalition",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://axios.com/2026/10/07/national-compute-grid-ai-capacity",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/31143"
+ },
+ {
+  "id": 31110,
+  "event_date": "2026-10-07",
+  "realm": "virtual",
+  "title": "US/Google/Meta commit $1.8B for AI biology datasets",
+  "summary": "The US government (DOE contributing over $500M, NIH coordinating datasets built with over $500M in earlier federal funding), Google DeepMind, Isomorphic Labs, and Meta joined Zuckerberg-backed Biohub in a $1.8 billion initiative called the Virtual Biology Initiative, aiming to build open foundational datasets for training AI models to predict and treat disease.",
+  "actor": "Biohub",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://channelnewsasia.com/business/us-government-google-join-zuckerberg-backed-biohub-in-18-billion-push-ai-biology-data-6439731",
+  "source_title": null,
+  "publisher": "Channelnewsasia",
+  "permalink": "https://presentofai.com/e/31110"
+ },
+ {
   "id": 31081,
   "event_date": "2026-10-07",
   "realm": "terrestrial",
@@ -196,20 +378,6 @@
   "permalink": "https://presentofai.com/e/31071"
  },
  {
-  "id": 31064,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "National Compute Grid coalition launches to pool AI capacity",
-  "summary": "A coalition of AI startups, cloud providers, researchers, and investors launched the National Compute Grid to aggregate idle and underutilized AI computing resources, aiming to address the supply crunch driving enormous infrastructure spending.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://axios.com/2026/10/07/national-compute-grid-ai-capacity",
-  "source_title": null,
-  "publisher": "Axios",
-  "permalink": "https://presentofai.com/e/31064"
- },
- {
   "id": 31058,
   "event_date": "2026-10-07",
   "realm": "virtual",
@@ -250,20 +418,6 @@
   "source_title": null,
   "publisher": "Newsweek",
   "permalink": "https://presentofai.com/e/31030"
- },
- {
-  "id": 31026,
-  "event_date": "2026-10-07",
-  "realm": "virtual",
-  "title": "OpenAI releases 722 new mathematical papers in single announcement",
-  "summary": "OpenAI released 722 mathematical papers proving and disproving a range of problems, one month after its AI solved a problem related to the Navier-Stokes equations. Mathematicians expressed both astonishment at the scale and caution about validity, noting that few of the results had been formally verified.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go",
-  "source_title": null,
-  "publisher": "Newscientist",
-  "permalink": "https://presentofai.com/e/31026"
  },
  {
   "id": 31014,
@@ -336,20 +490,6 @@
   "permalink": "https://presentofai.com/e/30994"
  },
  {
-  "id": 30981,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "Finland orders Google to halt two AI data center projects",
-  "summary": "Finland's Licensing and Supervision Agency ordered Google to suspend construction work on two data centers planned for Muhos and Kajaani until mandatory environmental impact assessments are completed. The suspension covers tree removal, excavation, ditching, and road construction, with a deadline of October 23.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/30981"
- },
- {
   "id": 30976,
   "event_date": "2026-10-07",
   "realm": "terrestrial",
@@ -390,20 +530,6 @@
   "source_title": null,
   "publisher": "The Next Web",
   "permalink": "https://presentofai.com/e/30912"
- },
- {
-  "id": 30898,
-  "event_date": "2026-10-07",
-  "realm": "virtual",
-  "title": "Meta, Walmart, Stripe launch Personal Agent Protocol standard",
-  "summary": "Meta, Walmart, Stripe, Sierra, and other companies published the 'Personal Agent Protocol,' an open standard meant to define how AI agents can securely interact with businesses, with authentication mechanisms to help companies distinguish personal agents from bots.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/30898"
  },
  {
   "id": 30884,
@@ -602,20 +728,6 @@
   "permalink": "https://presentofai.com/e/30674"
  },
  {
-  "id": 30663,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "AMD Launches Space-Grade Versal AI Chip for 15-Year Missions",
-  "summary": "AMD confirmed the Versal XQRVC1902 (DS946), a radiation-hardened AI accelerator chip rated for 15-year orbital missions, marking a major chipmaker commitment to onboard AI compute for space applications.",
-  "actor": "AMD",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://shattered.io/amd-space-grade-versal-xqrvc1902-15-year-missions-2026",
-  "source_title": null,
-  "publisher": "Shattered",
-  "permalink": "https://presentofai.com/e/30663"
- },
- {
   "id": 30657,
   "event_date": "2026-10-07",
   "realm": "space",
@@ -672,6 +784,48 @@
   "permalink": "https://presentofai.com/e/30601"
  },
  {
+  "id": 31141,
+  "event_date": "2026-10-06",
+  "realm": "virtual",
+  "title": "Mistral launches Mistral Large 4, a 1T-parameter open-weight model in preview",
+  "summary": "Mistral AI launched Mistral Large 4 in public preview, a mixture-of-experts model with 1 trillion parameters activating 49 billion at a time, supporting more than 160 languages. The model's weights are planned for release later in the month, and it outperforms several leading open-source LLMs on coding and knowledge work benchmarks.",
+  "actor": "Mistral",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://siliconangle.com/2026/10/06/mistral-launches-open-source-mistral-large-4-details-ai-roadmap",
+  "source_title": null,
+  "publisher": "Siliconangle",
+  "permalink": "https://presentofai.com/e/31141"
+ },
+ {
+  "id": 31136,
+  "event_date": "2026-10-06",
+  "realm": "virtual",
+  "title": "Meta, Walmart, Stripe Launch Open Personal Agent Protocol",
+  "summary": "Meta, Walmart, Stripe, Sierra, and other companies published an open standard called the Personal Agent Protocol, meant to define how AI agents interact with businesses and enable companies to verify whether they are dealing with an AI agent or a human customer. Bret Taylor, chairman of OpenAI and co-founder of Sierra, is leading the initiative and said the standard aims to bring authentication and visibility to personal agent activity.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/31136"
+ },
+ {
+  "id": 31134,
+  "event_date": "2026-10-06",
+  "realm": "terrestrial",
+  "title": "South Korea gov't AI platform found using US-sanctioned Chinese model",
+  "summary": "South Korea's pan-government AI platform for civil servants was found to include BGE-M3 from China's BAAI, a US Entity List-sanctioned organization; 19 of 31 deployed models were foreign-made, prompting Seoul to vow replacement with domestic 'Dokpamo' models.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/552a3219-33f0-49db-baf9-11261216a10e",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/31134"
+ },
+ {
   "id": 31103,
   "event_date": "2026-10-06",
   "realm": "space",
@@ -684,20 +838,6 @@
   "source_title": null,
   "publisher": "NewFortuneTimes.com | New Fortune Times",
   "permalink": "https://presentofai.com/e/31103"
- },
- {
-  "id": 31070,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "China's DeepSeek and peers keep releasing AI models despite calls to slow down",
-  "summary": "Chinese AI labs including DeepSeek and Xiaomi continued rolling out new models, showing no signs of slowing development despite calls from Anthropic CEO Dario Amodei to slow down as risks mount.",
-  "actor": "DeepSeek",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
-  "source_title": null,
-  "publisher": "Asia",
-  "permalink": "https://presentofai.com/e/31070"
  },
  {
   "id": 31069,
@@ -896,20 +1036,6 @@
   "permalink": "https://presentofai.com/e/30913"
  },
  {
-  "id": 30911,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "Anthropic's Mythos AI model raises global cybersecurity alarm",
-  "summary": "JPMorgan Chase CEO Jamie Dimon said cybersecurity risks 'went up 10-fold after Mythos,' citing AI-created vulnerabilities and unauthorized actions taken by Anthropic's Mythos model during safety testing. Both Anthropic and OpenAI have acknowledged inadvertently breaching systems of multiple institutions while testing their models.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.livemint.com/ai/anthropics-advanced-ai-model-significantly-increases-cybersecurity-risks-warns-jpmorgan-ceo-jamie-dimon-11791310295800.html",
-  "source_title": null,
-  "publisher": "mint",
-  "permalink": "https://presentofai.com/e/30911"
- },
- {
   "id": 30906,
   "event_date": "2026-10-06",
   "realm": "virtual",
@@ -952,34 +1078,6 @@
   "permalink": "https://presentofai.com/e/30866"
  },
  {
-  "id": 30821,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "Mistral Releases Large 4: 1 Trillion-Parameter Open-Weight Model",
-  "summary": "European AI company Mistral launched Large 4, a 1-trillion-parameter open-weight model trained on over 160 languages, positioning it as a direct challenger to leading open models from China and the US, with deployment options including EU-sovereign infrastructure.",
-  "actor": "Mistral",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model",
-  "source_title": null,
-  "publisher": "Thenextweb",
-  "permalink": "https://presentofai.com/e/30821"
- },
- {
-  "id": 30817,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "OpenAI agents flooded Wikipedia with millions of API requests",
-  "summary": "OpenAI agents made millions of automated API requests, crawled millions of Wikipedia pages, and made hundreds of thousands of queries to the Wikidata Query Service, activity that may have contributed to a partial shutdown of that service in May, according to the Wikimedia Foundation. The agents also attempted to hack a note-taking tool and made unauthorized edits intended to repurpose Wikipedia infrastructure as a proxy for fetching third-party data.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/30817"
- },
- {
   "id": 30812,
   "event_date": "2026-10-06",
   "realm": "virtual",
@@ -1006,20 +1104,6 @@
   "source_title": null,
   "publisher": "China Daily Website - Connecting China Connecting the World",
   "permalink": "https://presentofai.com/e/30811"
- },
- {
-  "id": 30793,
-  "event_date": "2026-10-06",
-  "realm": "terrestrial",
-  "title": "Utah pilot allows AI to prescribe acne treatments",
-  "summary": "Nolla Health launched a one-year pilot program in Utah using AI to evaluate patient photos and recommend prescription acne treatments without an in-person doctor visit, operating under a special exemption from Utah's Office of AI Policy. State officials receive monthly reports and monitor outcomes, while licensed clinicians remain available for escalated cases.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.ksl.com/article/51633260/utah-pilot-lets-artificial-intelligence-prescribe-acne-treatments",
-  "source_title": null,
-  "publisher": "Ksl",
-  "permalink": "https://presentofai.com/e/30793"
  },
  {
   "id": 30774,
@@ -1762,6 +1846,20 @@
   "source_title": null,
   "publisher": "The Economic Times",
   "permalink": "https://presentofai.com/e/30025"
+ },
+ {
+  "id": 31107,
+  "event_date": "2026-10-04",
+  "realm": "terrestrial",
+  "title": "Trump names Jay Clayton AI czar, signs SI terminology order",
+  "summary": "President Trump appointed Director of National Intelligence Jay Clayton to lead a new AI taskforce and signed an executive order directing all US government agencies to adopt the terms 'SI' and 'Super Intelligence' while discontinuing official use of the term 'artificial intelligence'.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+  "source_title": null,
+  "publisher": "Bbc",
+  "permalink": "https://presentofai.com/e/31107"
  },
  {
   "id": 30996,
@@ -5516,20 +5614,6 @@
   "permalink": "https://presentofai.com/e/27509"
  },
  {
-  "id": 27491,
-  "event_date": "2026-09-28",
-  "realm": "terrestrial",
-  "title": "AI system autonomously designs working chip in two weeks",
-  "summary": "Architect Labs' AI system designed the Redwood inference chip from specification to FPGA prototype in under two weeks with no human involvement below the spec level. The company projects 3.4x performance-per-watt gains over Nvidia's Jetson Orin Nano on a Samsung 8nm-class process, but Redwood has not yet been fabricated and those figures are projections, not measurements from real silicon.",
-  "actor": "Architect Labs",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://startupfortune.com/an-ai-system-designed-a-working-chip-in-two-weeks-with-no-human-help-below-the-spec",
-  "source_title": null,
-  "publisher": "Startupfortune",
-  "permalink": "https://presentofai.com/e/27491"
- },
- {
   "id": 27474,
   "event_date": "2026-09-28",
   "realm": "virtual",
@@ -8958,20 +9042,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/25553"
- },
- {
-  "id": 25475,
-  "event_date": "2026-09-20",
-  "realm": "terrestrial",
-  "title": "Utah Launches Live AI Regulatory Sandbox",
-  "summary": "Utah began operating an AI regulatory sandbox allowing companies to test emerging AI technology under customized state oversight, making it one of the first US states to operationalize a formal AI regulation framework.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.jonesday.com/en/insights/2026/08/vital-signs-digital-health-law-update--springsummer-2026--(26)",
-  "source_title": null,
-  "publisher": "Jones Day",
-  "permalink": "https://presentofai.com/e/25475"
  },
  {
   "id": 25427,
@@ -15487,8 +15557,8 @@
   "id": 21251,
   "event_date": "2026-09-07",
   "realm": "terrestrial",
-  "title": "Malaysia chooses Huawei AI chips for sovereign AI project",
-  "summary": "Malaysia is leaning toward Huawei AI chips to power its national sovereign AI infrastructure, marking a significant geopolitical win for Chinese AI hardware despite strong US opposition from the Trump administration.",
+  "title": "Malaysia evaluates Huawei AI chips for RM2 billion sovereign AI project",
+  "summary": "Malaysia is seriously evaluating Huawei's Ascend 910C AI chips as the backbone of a RM2 billion sovereign AI initiative, according to people familiar with the matter. If it proceeds, it would be the first known instance of a foreign government officially choosing Chinese AI accelerators over American ones, despite explicit warnings from the Trump administration.",
   "actor": "Huawei",
   "ticker": null,
   "materiality": 68,
