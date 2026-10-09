@@ -1,5 +1,103 @@
 [
  {
+  "id": 31355,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "US Navy and Shield AI Commit $400M to X-BAT Drone Program",
+  "summary": "The U.S. Navy and Shield AI are jointly investing $400 million into development of the X-BAT autonomous drone, marking a major scale commitment to AI-piloted naval aviation.",
+  "actor": "Shield AI",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development",
+  "source_title": null,
+  "publisher": "Breakingdefense",
+  "permalink": "https://presentofai.com/e/31355"
+ },
+ {
+  "id": 31347,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "FMCSA Clears Driverless Trucks to Use Flashing Beacons Instead of Warning Triangles",
+  "summary": "The FMCSA issued a regulatory exemption allowing driverless trucks to replace federally mandated warning triangles with flashing beacons, removing a key operational barrier for fully autonomous commercial trucking in the U.S.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://www.thetrucker.com/trucking-news/equipment-tech/fmcsa-clears-way-for-driverless-trucks-to-replace-warning-triangles-with-flashing-beacons",
+  "source_title": null,
+  "publisher": "Thetrucker",
+  "permalink": "https://presentofai.com/e/31347"
+ },
+ {
+  "id": 31346,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "Auve Tech Launches Driverless Airport Shuttle Without Safety Operator",
+  "summary": "Auve Tech's MiCa autonomous shuttles began operating at an airport airside without any onboard safety operator, covering ~1,000 km per week at a 99.9% autonomy rate under remote supervision only.",
+  "actor": "Auve Tech",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://roboticsandautomationnews.com/2026/10/08/auve-tech-launches-driverless-airport-shuttle-service-without-onboard-safety-operator/105722/",
+  "source_title": null,
+  "publisher": "Roboticsandautomationnews",
+  "permalink": "https://presentofai.com/e/31346"
+ },
+ {
+  "id": 31342,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "Pony.ai & Uber to test Gen-7 robotaxis in London",
+  "summary": "Pony.ai and Uber announced they will begin testing Pony.ai's seventh-generation robotaxis in London within weeks, marking the first expansion of their partnership beyond Zagreb into a major Western European city.",
+  "actor": "Pony.ai",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/31342"
+ },
+ {
+  "id": 31331,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "Nvidia expands Halos safety architecture to robotics",
+  "summary": "Nvidia extended its Halos safety platform to physical AI with the announcement of Nvidia Halos for Robotics in June 2026, covering autonomous mobile robots, humanoid robots in factories, and surgical robots. The expansion builds on the original Halos system launched in 2025 for self-driving cars, aiming to enable safe deployments of robots operating near people.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/31331"
+ },
+ {
+  "id": 31322,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "Upscale AI launches Token Fabric cross-vendor chip network",
+  "summary": "Upscale AI launched Token Fabric, a networking platform enabling AI chips from different manufacturers to interoperate; full rollout extends into 2027.",
+  "actor": "Upscale AI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://thenextweb.com/news/upscale-ai-token-fabric-nvidia-ai-chip-networking",
+  "source_title": null,
+  "publisher": "Thenextweb",
+  "permalink": "https://presentofai.com/e/31322"
+ },
+ {
+  "id": 31298,
+  "event_date": "2026-10-09",
+  "realm": "virtual",
+  "title": "NHC Relies Heavily on Google DeepMind AI for Hurricane Isaias Forecasts",
+  "summary": "Meteorologists at the U.S. National Hurricane Center shaped their Hurricane Isaias predictions to closely match Google DeepMind's AI hurricane model, WeatherNext 3, rather than traditional physics-based models, signaling a rapid shift toward routine use of AI guidance by human forecasters. NHC director Michael Brennan cited the model's consistency and strong performance in prior seasons, including during Hurricane Melissa, as well as NHC's partnership with Google to help train the model on hurricane-specific data.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://www.cnn.com/2026/10/08/weather/hurricane-isaias-ai-models-google",
+  "source_title": null,
+  "publisher": "Cnn",
+  "permalink": "https://presentofai.com/e/31298"
+ },
+ {
   "id": 31273,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
@@ -98,6 +196,76 @@
   "permalink": "https://presentofai.com/e/31195"
  },
  {
+  "id": 31307,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Microsoft launches Execution Containers to sandbox AI agents on Windows",
+  "summary": "Microsoft announced Microsoft Execution Containers (MXC), software that runs in a developer sandbox on Windows to identify and restrain AI agents by limiting their access to files and network resources. CEO Satya Nadella said MXC is now generally available, offering three levels of access control including a Locked Down mode that restricts agent internet and file access.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.cnet.com/tech/services-and-software/microsoft-execution-containers-ai-agent-cybersecurity-news/",
+  "source_title": null,
+  "publisher": "Cnet",
+  "permalink": "https://presentofai.com/e/31307"
+ },
+ {
+  "id": 31306,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "OpenAI unveils GPT-6.1 Sol and Dots enterprise agents",
+  "summary": "At its annual developers conference, OpenAI unveiled GPT-6.1 Sol and new Dots AI agents aimed at enterprise workers.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.hindustantimes.com/business/why-is-openais-annualized-revenue-20-billion-below-earlier-estimates-101791483899903.html",
+  "source_title": null,
+  "publisher": "Hindustantimes",
+  "permalink": "https://presentofai.com/e/31306"
+ },
+ {
+  "id": 31293,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Anthropic launches free AI security scanner for open source",
+  "summary": "Anthropic launched OSS Scanner, a free opt-in service that provides periodic, fully model-generated vulnerability reports from its strongest models, including Claude Mythos, to open-source projects at no cost. The reports are produced without human review or triage, meaning they may be incorrect or invalid, but are intended to give open-source projects a faster defensive advantage.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/31293"
+ },
+ {
+  "id": 31288,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "OpenAI release generates hundreds of new math findings in one day",
+  "summary": "A new OpenAI model release produced hundreds of AI-generated mathematical findings in a single day, with mathematicians describing the results as 'breathtaking' and 'devastating', marking a clear inflection point for AI in frontier mathematics research.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 88,
+  "source_url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/31288"
+ },
+ {
+  "id": 31285,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "ChatGPT launches new interactive visual interface",
+  "summary": "OpenAI launched a new feature called Intelligent UI alongside the GPT-6 model, integrating interactive visuals such as tappable buttons, customizable calculators, editable graphs, and diagrams into ChatGPT conversations. The rollout targets Pro, Plus, Business, and Enterprise users first, with free and Go tier users following the next day.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/31285"
+ },
+ {
   "id": 31274,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -105,7 +273,7 @@
   "summary": "The U.S. Treasury Department fined Amidi, LLC $200,000 under the Outbound Investment Security Program after its Chinese subsidiary invested in a firm developing AI, robotics, and embodied intelligence, marking the first enforcement action under the program.",
   "actor": "U.S. Treasury",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 72,
   "source_url": "https://www.kharon.com/brief/treasury-department-china-investment-amidi-fine",
   "source_title": null,
   "publisher": "Kharon",
@@ -238,20 +406,6 @@
   "permalink": "https://presentofai.com/e/31179"
  },
  {
-  "id": 31169,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Auve Tech launches driverless airport shuttle with no safety operator",
-  "summary": "Auve Tech's MiCa autonomous shuttles began operating at Tallinn Airport without any onboard safety operator, following authorisation received in August 2026, making it the first European company to operate autonomous passenger transport at an airport without an onboard safety operator. The shuttles support Magnetic MRO's daily operations, covering approximately 1,000 km per week at a 99.9% autonomy rate under remote supervision only.",
-  "actor": "Auve Tech",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://roboticsandautomationnews.com/2026/10/08/auve-tech-launches-driverless-airport-shuttle-service-without-onboard-safety-operator/105722/",
-  "source_title": null,
-  "publisher": "Roboticsandautomationnews",
-  "permalink": "https://presentofai.com/e/31169"
- },
- {
   "id": 31160,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -334,20 +488,6 @@
   "source_title": null,
   "publisher": "Eletric Vehicles",
   "permalink": "https://presentofai.com/e/31091"
- },
- {
-  "id": 31085,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Pony.ai Expands Uber Robotaxi Partnership to London",
-  "summary": "Pony.ai announced it is bringing its seventh-generation robotaxis to London in partnership with Uber, with testing set to begin within weeks, extending a deployment already live in Zagreb where Pony.ai cars are bookable on the Uber app.",
-  "actor": "Pony.ai",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://eletric-vehicles.com/uber/pony-ai-adds-london-to-uber-robotaxi-push-in-europe",
-  "source_title": null,
-  "publisher": "Eletric Vehicles",
-  "permalink": "https://presentofai.com/e/31085"
  },
  {
   "id": 31084,
@@ -460,6 +600,20 @@
   "source_title": null,
   "publisher": "Wccftech",
   "permalink": "https://presentofai.com/e/30907"
+ },
+ {
+  "id": 31291,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "GM announces Gemini AI rollout to 4 million vehicles via OTA",
+  "summary": "General Motors announced in April 2026 that it will bring Google's Gemini generative AI assistant to approximately 4 million model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles in the US through over-the-air updates, replacing Google Assistant with natural-language interaction.",
+  "actor": "General Motors",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://openpr.com/news/4653851/gen-ai-in-automotive-market-gains-momentum-as-gm-brings-gemini-ai",
+  "source_title": null,
+  "publisher": "Openpr",
+  "permalink": "https://presentofai.com/e/31291"
  },
  {
   "id": 31279,
@@ -1526,20 +1680,6 @@
   "permalink": "https://presentofai.com/e/30479"
  },
  {
-  "id": 30468,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "Reflection AI launches Beam, 501B-param open model",
-  "summary": "Reflection AI announced Beam on October 5, a 501-billion-parameter sparse mixture-of-experts open-weight model. According to Reflection's own unverified technical report, Beam matches Z.ai's GLM-5.2 on advanced reasoning benchmarks while using 3-4 times less inference compute, and scores 80.9 on SWE-Bench Verified.",
-  "actor": "Reflection AI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://startupfortune.com/reflection-ai-unveils-beam-a-501-billion-parameter-open-model-to-rival-china/",
-  "source_title": null,
-  "publisher": "Startupfortune",
-  "permalink": "https://presentofai.com/e/30468"
- },
- {
   "id": 30466,
   "event_date": "2026-10-06",
   "realm": "virtual",
@@ -1650,6 +1790,20 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/30321"
+ },
+ {
+  "id": 31332,
+  "event_date": "2026-10-05",
+  "realm": "terrestrial",
+  "title": "South Korea's Galaxy Robot Park draws scrutiny over human-controlled robots",
+  "summary": "South Korea's Galaxy Robot Park, which officially opened in August in Seoul's Gangdong district, has drawn attention after reports showed humans controlling some robots, including those used for greeting visitors and boxing demonstrations, raising questions about the gap between robotic appearance and true autonomy. More than 20,000 people visited during its pre-opening period, with attractions including humanoid robot performances, robot boxing, and interactive experiences.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.moneycontrol.com/news/trends/south-korea-s-robot-park-faces-an-awkward-reality-humans-are-still-behind-the-controls-14046977.html",
+  "source_title": null,
+  "publisher": "Login Consent - Moneycontrol",
+  "permalink": "https://presentofai.com/e/31332"
  },
  {
   "id": 31256,
@@ -1832,20 +1986,6 @@
   "source_title": null,
   "publisher": "Advocates For Self Government",
   "permalink": "https://presentofai.com/e/30575"
- },
- {
-  "id": 30557,
-  "event_date": "2026-10-05",
-  "realm": "virtual",
-  "title": "Dubai launches agentic AI accelerator for 33 govt entities",
-  "summary": "Dubai Future Foundation announced the agentic AI for Government Services Accelerator, organised by the Dubai Centre for Artificial Intelligence with Digital Dubai and the Dubai Electronic Security Centre. In its first phase, the programme will bring together 33 Dubai government entities and assess more than 300 public-facing use cases to identify those with the greatest potential for agentic AI development.",
-  "actor": "Dubai Future Foundation",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.thenationalnews.com/news/uae/2026/10/05/dubai-launches-agentic-ai-accelerator-to-transform-public-facing-government-services/",
-  "source_title": null,
-  "publisher": "Thenationalnews",
-  "permalink": "https://presentofai.com/e/30557"
  },
  {
   "id": 30556,
@@ -2128,20 +2268,6 @@
   "permalink": "https://presentofai.com/e/30125"
  },
  {
-  "id": 30025,
-  "event_date": "2026-10-05",
-  "realm": "virtual",
-  "title": "Google restricts Gemini model access for free and Plus users",
-  "summary": "Starting October 9, Google is cutting access to its most capable Gemini models for free and AI Plus tier users, with free users limited to Flash-Lite and Plus users losing Pro model access. AI Pro subscribers gain Deep Think, a reasoning feature previously reserved for higher-cost plans.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://m.economictimes.com/news/new-updates/google-gemini-sets-new-limits-for-free-users-what-changes-which-features-will-remain-available-check/articleshow/134669092.cms",
-  "source_title": null,
-  "publisher": "The Economic Times",
-  "permalink": "https://presentofai.com/e/30025"
- },
- {
   "id": 31107,
   "event_date": "2026-10-04",
   "realm": "terrestrial",
@@ -2350,20 +2476,6 @@
   "source_title": null,
   "publisher": "VnExpress International - Latest news, business, travel and analysis from Vietnam",
   "permalink": "https://presentofai.com/e/29959"
- },
- {
-  "id": 29823,
-  "event_date": "2026-10-04",
-  "realm": "virtual",
-  "title": "Microsoft launches Agent 365 for enterprise AI agent governance",
-  "summary": "Microsoft launched Agent 365, a centralized control and security platform designed to manage the proliferation of enterprise AI agents, addressing governance and security challenges at scale.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.constellationr.com/insights/news/microsoft-adds-native-app-building-copilot-studio",
-  "source_title": null,
-  "publisher": "Constellation Research | Futurist Insight. Proven Expertise.",
-  "permalink": "https://presentofai.com/e/29823"
  },
  {
   "id": 29766,
@@ -2840,20 +2952,6 @@
   "source_title": null,
   "publisher": "International Association of Privacy Professionals",
   "permalink": "https://presentofai.com/e/29840"
- },
- {
-  "id": 29829,
-  "event_date": "2026-10-02",
-  "realm": "terrestrial",
-  "title": "GSA sets AI-specific federal acquisition rules for LLMs, effective Oct 19",
-  "summary": "A GSA memo establishes acquisition rules requiring contractors to protect government data processed in large language models, including prohibitions on using that data to train LLMs or sell it to third parties. The language, signed off in July and taking effect October 19, 2026, incorporates changes from a prior public comment period that drew pushback from industry groups.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://www.govexec.com/technology/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416400/",
-  "source_title": null,
-  "publisher": "Government Executive",
-  "permalink": "https://presentofai.com/e/29829"
  },
  {
   "id": 29722,
@@ -3736,20 +3834,6 @@
   "source_title": null,
   "publisher": "Kesq",
   "permalink": "https://presentofai.com/e/29001"
- },
- {
-  "id": 28936,
-  "event_date": "2026-10-01",
-  "realm": "virtual",
-  "title": "IBM launches self-hosted Bob AI coding agent for enterprises",
-  "summary": "IBM released Bob on October 1, 2026, a fully air-gapped, self-hosted AI coding agent targeting banks and governments that require on-premises agentic AI without cloud connectivity.",
-  "actor": "IBM",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://startupfortune.com/ibm-bets-enterprises-want-their-ai-coding-agents-locked-inside-their-own-walls/",
-  "source_title": null,
-  "publisher": "Startupfortune",
-  "permalink": "https://presentofai.com/e/28936"
  },
  {
   "id": 28924,
@@ -4788,20 +4872,6 @@
   "permalink": "https://presentofai.com/e/28932"
  },
  {
-  "id": 28905,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "OpenAI releases GPT-6.1 Sol, one week after GPT-6 Sol",
-  "summary": "OpenAI rolled out GPT-6.1 Sol, described as a 'major upgrade' over GPT-6 Sol released just one week prior, with strong performance in professional work, computer use, and agentic coding.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/28905"
- },
- {
   "id": 28822,
   "event_date": "2026-09-29",
   "realm": "virtual",
@@ -5208,20 +5278,6 @@
   "permalink": "https://presentofai.com/e/28079"
  },
  {
-  "id": 28041,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "ChatGPT Space launches as shared AI workspace hub",
-  "summary": "OpenAI released ChatGPT Space, a new collaborative environment where teams can run work projects and personal AI agents together, with integrations announced for Slack and Microsoft Teams.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 67,
-  "source_url": "https://www.engadget.com/2272248/chatgpt-space-for-work/",
-  "source_title": null,
-  "publisher": "Engadget",
-  "permalink": "https://presentofai.com/e/28041"
- },
- {
   "id": 28031,
   "event_date": "2026-09-29",
   "realm": "terrestrial",
@@ -5346,20 +5402,6 @@
   "source_title": null,
   "publisher": "En",
   "permalink": "https://presentofai.com/e/27779"
- },
- {
-  "id": 27778,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "Synopsys launches AgentEngineer AI chip design agent",
-  "summary": "Synopsys launched AgentEngineer, an autonomous AI agent platform built on its new Autopilot AI platform and covering six areas of IC design including wafer verification, system verification, and physical implementation. More than 50 customers have already implemented the product, which Synopsys plans to release publicly by the end of 2026.",
-  "actor": "Synopsys",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.aroged.com/2026/09/29/ai-agents-learn-to-independently-design-and-test-chips-synopsys-launches-agentengineer/",
-  "source_title": null,
-  "publisher": "Aroged",
-  "permalink": "https://presentofai.com/e/27778"
  },
  {
   "id": 27747,
@@ -5598,20 +5640,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/28294"
- },
- {
-  "id": 28252,
-  "event_date": "2026-09-28",
-  "realm": "virtual",
-  "title": "Nvidia unveils platform to isolate rogue AI agents",
-  "summary": "Nvidia launched a new platform capable of detecting and isolating rogue AI agents in milliseconds, addressing a critical safety gap in agentic AI deployments.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://pasqualepillitteri.it/en/news/19088/nvidia-platform-stops-rogue-ai-agents",
-  "source_title": null,
-  "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
-  "permalink": "https://presentofai.com/e/28252"
  },
  {
   "id": 28236,
@@ -6914,20 +6942,6 @@
   "source_title": null,
   "publisher": "Home \\ Anthropic",
   "permalink": "https://presentofai.com/e/26955"
- },
- {
-  "id": 26947,
-  "event_date": "2026-09-25",
-  "realm": "terrestrial",
-  "title": "Meta unveils Muse Charm AI pendant at Connect 2026 conference",
-  "summary": "At Meta's annual Connect conference, CEO Mark Zuckerberg revealed the Muse Charm, a keychain-like pendant that gives users hands-free access to Meta's Muse AI agent. No price was announced, and Zuckerberg said Meta still needs to finalize materials and components before the device ships for the holidays.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/26947"
  },
  {
   "id": 26944,
@@ -15404,7 +15418,7 @@
   "event_date": "2026-09-08",
   "realm": "terrestrial",
   "title": "China targets 4x AI computing capacity increase by 2030",
-  "summary": "China's Ministry of Industry and Information Technology released a five-year plan targeting 9,800 eflops of intelligent computing capacity by 2030, more than quadrupling the June 2026 level of 2,185 eflops, which was already up 177% year-over-year. The plan also calls for 3.8 trillion yuan in cumulative information infrastructure investment over 2026-2030 and orderly deployment of large accelerator-card computing clusters.",
+  "summary": "China's Ministry of Industry and Information Technology released a five-year industry plan targeting 9,800 eflops of intelligent computing capacity by 2030, more than quadrupling the end-of-June 2026 level of 2,185 eflops, which was already up 177% year-over-year. The plan also calls for 3.8 trillion yuan in cumulative information infrastructure investment over 2026-2030 and the orderly deployment of intelligent computing clusters with 10,000 or 100,000 or more accelerator cards.",
   "actor": "China (MIIT)",
   "ticker": null,
   "materiality": 72,
@@ -17064,20 +17078,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/19490"
- },
- {
-  "id": 21250,
-  "event_date": "2026-09-03",
-  "realm": "terrestrial",
-  "title": "Nvidia RTX Spark AI PCs Unveiled at IFA 2026 with Up to 128 GB Memory",
-  "summary": "At IFA 2026 in Berlin, Nvidia RTX Spark 'Superchip' laptops and mini desktop PCs were announced and previewed, with configurations offering up to 128 GB of unified memory designed to run agentic AI models locally. Lenovo also announced an AMD-powered ThinkCentre X Ultra with 128 GB of memory, with RTX Spark laptops from multiple vendors expected to arrive in fall 2026.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://wired.com/story/nvidia-rtx-spark-laptops-first-look",
-  "source_title": null,
-  "publisher": "WIRED",
-  "permalink": "https://presentofai.com/e/21250"
  },
  {
   "id": 21198,
@@ -36880,7 +36880,7 @@
   "event_date": "2026-07-15",
   "realm": "terrestrial",
   "title": "Boston Dynamics Atlas debuts live at FIFA World Cup 2026",
-  "summary": "Production-model Atlas humanoid robot made its first public appearance at halftime of the Norway-Brazil FIFA World Cup 2026 round-of-16 match at New York New Jersey Stadium, the first robotic halftime activation in World Cup history.",
+  "summary": "On July 5, 2026, the production-model Atlas humanoid robot made its first public appearance at halftime of the Norway-Brazil FIFA World Cup 2026 round-of-16 match at New York New Jersey Stadium, presenting the ceremonial match ball to the referee and performing goal celebrations as part of Hyundai Motor Company's 'Next Starts Now' campaign, marking the first robotic halftime activation in World Cup history.",
   "actor": "Boston Dynamics",
   "ticker": null,
   "materiality": 72,
@@ -37594,7 +37594,7 @@
   "event_date": "2026-07-13",
   "realm": "terrestrial",
   "title": "US eliminates export license requirements for UAE AI chips and tech",
-  "summary": "The US removed export license requirements for the UAE government and approved companies, including G42, Core42, and MGX, to purchase Nvidia AI chips, military equipment, and commercial satellites, marking a major shift in advanced technology access.",
+  "summary": "The US eliminated export license requirements for the UAE government and approved companies, including G42, Core42, and MGX, as well as some US firms operating in the UAE such as OpenAI, to purchase Nvidia AI chips, military equipment, and commercial satellites, marking a major shift in advanced technology access.",
   "actor": "",
   "ticker": null,
   "materiality": 68,
