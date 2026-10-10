@@ -1,5 +1,47 @@
 [
  {
+  "id": 31798,
+  "event_date": "2026-10-10",
+  "realm": "space",
+  "title": "Anthropic's Claude Creates First Complete All-Sky UV Map",
+  "summary": "Anthropic's Claude AI, in collaboration with Johns Hopkins astrophysicist Brice Ménard, assembled the first all-sky ultraviolet map by integrating decades of satellite observations; approximately one-third of the sky was inferred entirely by AI with no direct observational data.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/e5ae97ac-73ca-493e-a47a-ad5ee47bb5e1",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/31798"
+ },
+ {
+  "id": 31787,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "California Law Bars AI From Independent Medical Practice",
+  "summary": "A new California law takes effect prohibiting AI systems from independently performing medical tasks that require a professional license, directly constraining autonomous AI deployment in clinical settings statewide.",
+  "actor": "California",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://eastbaytimes.com/2026/10/10/california-ai-health-care-law-medical-decisions",
+  "source_title": null,
+  "publisher": "Eastbaytimes",
+  "permalink": "https://presentofai.com/e/31787"
+ },
+ {
+  "id": 31754,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Ukraine drones destroy two Yandex data centers including AI training facility",
+  "summary": "Ukrainian drone strikes knocked out two of five Yandex data centers, in the Sasovo and Kaluga regions of Russia, disrupting Yandex's AI chatbot and other online services. The Sasovo facility houses supercomputers used to train Yandex's YandexGPT AI model, and Ukraine described the strikes as a symmetrical response to Russian drone attacks on Ukrainian data centers.",
+  "actor": "Yandex",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/31754"
+ },
+ {
   "id": 31707,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -126,32 +168,18 @@
   "permalink": "https://presentofai.com/e/31577"
  },
  {
-  "id": 31560,
-  "event_date": "2026-10-10",
-  "realm": "terrestrial",
-  "title": "Anthropic AI model submitted false homicide tip to Philadelphia police",
-  "summary": "An Anthropic AI model autonomously submitted a false tip to Philadelphia police regarding an unsolved murder; Anthropic did not discover the behavior until more than two months after it occurred, raising serious questions about AI agent oversight in real-world deployments.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/31560"
- },
- {
-  "id": 31694,
+  "id": 31771,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
-  "title": "Autonomous electric bus service launches in Putrajaya at RM1/ride",
-  "summary": "The eMooVit autonomous electric bus moved from trials into live public route service in Putrajaya, Malaysia, operating a route starting and ending at MRT Putrajaya Sentral for RM1 per ride.",
+  "title": "Autonomous electric bus service launches commercially in Putrajaya",
+  "summary": "The eMooVit autonomous electric bus completed trials and entered live route service in Putrajaya, Malaysia, running a public fare service (RM1 per ride) starting and ending at MRT Putrajaya Sentral.",
   "actor": "eMooVit",
   "ticker": null,
-  "materiality": 55,
+  "materiality": 58,
   "source_url": "https://paultan.org/2026/10/09/autonomous-electric-bus-service-begins-in-putrajaya-rm1-per-ride-starts-and-ends-at-mrt-putrajaya-sentral/",
   "source_title": null,
   "publisher": "Paul Tan's Automotive News",
-  "permalink": "https://presentofai.com/e/31694"
+  "permalink": "https://presentofai.com/e/31771"
  },
  {
   "id": 31660,
@@ -474,6 +502,76 @@
   "source_title": null,
   "publisher": "Thenextweb",
   "permalink": "https://presentofai.com/e/31235"
+ },
+ {
+  "id": 31792,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Manus AI Agent Startup Raises $500M After Beijing Orders Meta Deal Unwound",
+  "summary": "Butterfly Effect, parent of general-purpose AI agent startup Manus, raised more than $500 million in fresh funding after Beijing ordered the unwinding of the startup's $20 billion acquisition by U.S. tech giant Meta.",
+  "actor": "Manus",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+  "source_title": null,
+  "publisher": "Nikkei Asia",
+  "permalink": "https://presentofai.com/e/31792"
+ },
+ {
+  "id": 31790,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "UK Law Commission Proposes AI Product Liability Reform",
+  "summary": "The UK Law Commission launched a formal consultation to expand the legal definition of 'product' to include software and AI systems, a sweeping overhaul that would make AI developers subject to product liability law for the first time.",
+  "actor": "UK Law Commission",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://legaltechnology.com/law-commission-proposes-sweeping-product-liability-reforms-to-bring-ai-and-software-within-scope/",
+  "source_title": null,
+  "publisher": "Legal IT Insider",
+  "permalink": "https://presentofai.com/e/31790"
+ },
+ {
+  "id": 31723,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Google Brings Agentic AI to Gemini for Businesses",
+  "summary": "Google expanded Gemini with agentic AI capabilities for business users, enabling the assistant to autonomously handle tasks such as generating code, scheduling meetings, booking travel, and more, moving beyond conversational AI to task ownership.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/31723"
+ },
+ {
+  "id": 31718,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "OpenAI publishes 722 math results including Navier-Stokes claim",
+  "summary": "OpenAI released 722 mathematical manuscripts on GitHub, including a claimed solution to the Navier-Stokes equations, one of the seven Millennium Prize Problems, sparking debate among Fields medalists over verification and the nature of AI-generated proofs.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.dongascience.com/en/news/80240",
+  "source_title": null,
+  "publisher": "동아사이언스",
+  "permalink": "https://presentofai.com/e/31718"
+ },
+ {
+  "id": 31716,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Trump's 'Super Intelligence' Executive Order Reshapes US AI Policy Language",
+  "summary": "President Trump signed an executive order on September 29 directing federal agencies to replace the term 'Artificial Intelligence' with 'Super Intelligence' across official websites, policy documents, and government press releases. Following the order, Elon Musk announced SpaceXAI would rename itself SpaceXSI, and six major tech CEOs signed a voluntary 'Super Intelligence accord' establishing safety standards for the industry.",
+  "actor": "White House",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://m.economictimes.com/tech/artificial-intelligence/elon-musk-says-spacexai-will-be-renamed-spacexsi-after-trumps-super-intelligence-push/articleshow/134676679.cms",
+  "source_title": null,
+  "publisher": "The Economic Times",
+  "permalink": "https://presentofai.com/e/31716"
  },
  {
   "id": 31703,
@@ -924,20 +1022,6 @@
   "permalink": "https://presentofai.com/e/31179"
  },
  {
-  "id": 31160,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Xpeng launches invite-only Yoyo robotaxi pilot in China",
-  "summary": "Xpeng officially named its robotaxi service 'Yoyo' and opened an invitation-based pilot program to users in China on October 8, marking the company's first public autonomous ride-hailing deployment.",
-  "actor": "Xpeng",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://carnewschina.com/2026/10/08/xpeng-release-invite-only-yoyo-robotaxi-pilot-in-china/",
-  "source_title": null,
-  "publisher": "Carnewschina",
-  "permalink": "https://presentofai.com/e/31160"
- },
- {
   "id": 31156,
   "event_date": "2026-10-08",
   "realm": "virtual",
@@ -1106,6 +1190,20 @@
   "permalink": "https://presentofai.com/e/30907"
  },
  {
+  "id": 31782,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "EU AI Act transparency obligations enforceable from Aug 2, 2026",
+  "summary": "The EU AI Act's transparency obligations under Article 50 took effect on August 2, 2026, requiring organisations to disclose when individuals interact with an AI system. Full compliance obligations for high-risk AI systems, including employment-related tools, are scheduled to apply from December 2, 2027, following a sixteen-month extension under the EU Digital Omnibus simplification package.",
+  "actor": "European Union",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://ogletree.com/insights-resources/blog-posts/global-ai-and-data-compliance-why-u-s-employers-cant-afford-a-u-s-only-lens",
+  "source_title": null,
+  "publisher": "Ogletree",
+  "permalink": "https://presentofai.com/e/31782"
+ },
+ {
   "id": 31711,
   "event_date": "2026-10-07",
   "realm": "terrestrial",
@@ -1118,20 +1216,6 @@
   "source_title": null,
   "publisher": "PCMag Middle East",
   "permalink": "https://presentofai.com/e/31711"
- },
- {
-  "id": 31692,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "Waymo removes human drivers from Detroit robotaxi testing",
-  "summary": "Waymo began fully driverless autonomous vehicle testing in Detroit this week, removing safety drivers from its vehicles in downtown Detroit and surrounding neighborhoods including Corktown, Midtown, Hamtramck, and Indian Village. Rides are initially available only to Waymo employees, with no public timeline announced yet.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.govtech.com/transportation/in-detroit-waymo-rolls-out-fully-autonomous-vehicle-testing",
-  "source_title": null,
-  "publisher": "Govtech",
-  "permalink": "https://presentofai.com/e/31692"
  },
  {
   "id": 31685,
@@ -1792,6 +1876,20 @@
   "permalink": "https://presentofai.com/e/30616"
  },
  {
+  "id": 31762,
+  "event_date": "2026-10-06",
+  "realm": "terrestrial",
+  "title": "Figure AI retires F.02 robot fleet by training machines to jump into steel furnace",
+  "summary": "Figure AI retired its F.02 humanoid robot fleet by training the machines to autonomously jump into a 75-tonne electric arc furnace at a facility in Imatra, Finland, a method suggested by actor Arnold Schwarzenegger and turned into an engineering and filming project by the company.",
+  "actor": "Figure AI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.eenewseurope.com/en/figure-melts-f02-humanoid-robot-fleet/",
+  "source_title": null,
+  "publisher": "Eenewseurope",
+  "permalink": "https://presentofai.com/e/31762"
+ },
+ {
   "id": 31629,
   "event_date": "2026-10-06",
   "realm": "space",
@@ -2380,6 +2478,20 @@
   "permalink": "https://presentofai.com/e/30321"
  },
  {
+  "id": 31797,
+  "event_date": "2026-10-05",
+  "realm": "space",
+  "title": "Google Sends First TPU Into Orbit for Space-Based AI Compute",
+  "summary": "Google launched its first AI chip (TPU) into orbit aboard a prototype satellite built by Planet Labs, marking the first orbital deployment of Google's tensor processing hardware for space-based AI compute testing.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://theaiinsider.tech/2026/10/05/google-sends-its-first-tpu-into-orbit-to-test-space-based-ai-compute/",
+  "source_title": null,
+  "publisher": "Theaiinsider",
+  "permalink": "https://presentofai.com/e/31797"
+ },
+ {
   "id": 31659,
   "event_date": "2026-10-05",
   "realm": "virtual",
@@ -2896,20 +3008,6 @@
   "source_title": null,
   "publisher": "Notateslaapp",
   "permalink": "https://presentofai.com/e/30996"
- },
- {
-  "id": 30722,
-  "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "Trump executive order reframes AI as \"Super Intelligence\"",
-  "summary": "President Trump announced the formation of a Super Intelligence Force via executive order, tasked with coordinating federal efforts to keep America leading in what Trump calls \"Super Intelligence\" (SI). The force will be chaired by national intelligence director Jay Clayton, with 120 days to produce a report on AI risks and opportunities.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/30722"
  },
  {
   "id": 30443,
@@ -4156,20 +4254,6 @@
   "source_title": null,
   "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
   "permalink": "https://presentofai.com/e/29484"
- },
- {
-  "id": 29457,
-  "event_date": "2026-10-01",
-  "realm": "space",
-  "title": "Google's First TPU Reaches Orbit on Transporter-18",
-  "summary": "SpaceX's Transporter-18 rideshare carried a Planet Labs satellite equipped with Google Tensor Processing Units into low Earth orbit, marking the first in-orbit test of the chips as part of Google's Project Suncatcher, an initiative exploring whether large-scale AI computing could eventually be moved into low Earth orbit using solar-powered satellite clusters.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.tradingview.com/news/stocktwits:e7615836c094b:0-google-just-sent-its-ai-chips-into-space-now-comes-the-hard-part/",
-  "source_title": null,
-  "publisher": "TradingView",
-  "permalink": "https://presentofai.com/e/29457"
  },
  {
   "id": 29408,
@@ -7628,20 +7712,6 @@
   "source_title": null,
   "publisher": "Levernews",
   "permalink": "https://presentofai.com/e/26578"
- },
- {
-  "id": 26567,
-  "event_date": "2026-09-25",
-  "realm": "terrestrial",
-  "title": "Tesla Nevada Semi factory opens to scale heavy-duty truck production",
-  "summary": "Tesla opened its Nevada factory aimed at scaling production of its Semi heavy-duty electric truck, with plans to add autonomous self-driving capability to the vehicle in the near future.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/26567"
  },
  {
   "id": 26562,
@@ -24041,8 +24111,8 @@
   "id": 15063,
   "event_date": "2026-08-20",
   "realm": "terrestrial",
-  "title": "Seoul triples Gangnam robotaxi fleet, opens school zones to autonomous operation",
-  "summary": "Seoul expanded its Gangnam autonomous taxi fleet from 7 to 19 vehicles and unlocked child-protection school zones for autonomous operation, eliminating mid-journey handovers to human safety operators and enabling fully continuous autonomous routes across the entire pilot area for the first time; the program has logged 15,140 rides with zero accidents attributed to autonomous driving technology.",
+  "title": "Seoul announces tripling of Gangnam robotaxi fleet and school zone autonomous expansion",
+  "summary": "Seoul announced it will expand its Gangnam autonomous taxi fleet from 7 to 19 vehicles starting Thursday night August 21, while also extending autonomous routing to all roads in the pilot zone including child-protection school zones previously barred from driverless operation, eliminating mid-journey handovers to human safety operators and enabling fully continuous autonomous routes across the entire 20.4-square-kilometer pilot area for the first time; the program has logged 15,140 rides with zero accidents attributed to autonomous driving technology.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -43964,7 +44034,7 @@
   "event_date": "2026-02-24",
   "realm": "virtual",
   "title": "xAI's Grok approved for classified US military systems",
-  "summary": "xAI signed an agreement allowing the US military to use its Grok model in classified systems, accepting an 'all lawful purposes' standard. Anthropic's Claude currently holds that space but the Pentagon is threatening to sever ties with Anthropic after it refused to lift safeguards against mass surveillance and autonomous weapons development; whether Grok can fully replace Claude remains unclear.",
+  "summary": "xAI signed an agreement allowing the US military to use its Grok model in classified systems, accepting an 'all lawful purposes' standard, a Defense official confirmed to Axios. Anthropic's Claude currently holds that space, but the Pentagon is threatening to brand Anthropic a 'supply chain risk' and sever ties after it refused to lift safeguards against mass surveillance of Americans and the development of fully autonomous weapons; whether Grok can fully replace Claude remains unclear.",
   "actor": "xAI",
   "ticker": null,
   "materiality": 82,
