@@ -1,5 +1,47 @@
 [
  {
+  "id": 31707,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "8th Circuit blocks Minnesota AI nudification ban",
+  "summary": "The 8th Circuit Court of Appeals sided with Elon Musk's xAI on October 2, 2026, granting a temporary injunction halting Minnesota's law banning AI-generated nudification images, which had been challenged as a First Amendment violation. Minnesota was the first state to pass such an anti-nudification law, which prohibits AI companies from converting real non-sexual images into explicit content.",
+  "actor": "xAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://lptv.org/mn-law-banning-ai-nudification-on-hold-after-federal-appeals-court-decision/",
+  "source_title": null,
+  "publisher": "Lakeland PBS",
+  "permalink": "https://presentofai.com/e/31707"
+ },
+ {
+  "id": 31673,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "GlobalFoundries wins $2B TSMC deal for first US AI chip interposer supply",
+  "summary": "GlobalFoundries secured a $2 billion, five-year agreement with TSMC to build the first US-based silicon interposer supply for TSMC's CoWoS AI chip packaging ecosystem, with production at its Malta, New York fab targeting H1 2028.",
+  "actor": "GlobalFoundries",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.techtimes.com/articles/328850/20261009/globalfoundries-wins-2b-tsmc-pact-build-first-us-interposer-supply-ai-chips.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/31673"
+ },
+ {
+  "id": 31672,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Super Micro contractor pleads guilty in Nvidia chip rerouting scheme",
+  "summary": "Former Super Micro contractor Ting-Wei 'Willy' Sun pleaded guilty on October 9, 2026, in a New York federal court to charges tied to US export control violations, admitting his role in an alleged scheme to divert Nvidia-powered AI servers to China through a Southeast Asian intermediary, with prosecutors alleging approximately $2.5 billion in servers were involved.",
+  "actor": "Super Micro",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cryptobriefing.com/super-micro-contractor-pleads-guilty-nvidia-chips/",
+  "source_title": null,
+  "publisher": "Cryptobriefing",
+  "permalink": "https://presentofai.com/e/31672"
+ },
+ {
   "id": 31619,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -56,20 +98,6 @@
   "permalink": "https://presentofai.com/e/31602"
  },
  {
-  "id": 31591,
-  "event_date": "2026-10-10",
-  "realm": "terrestrial",
-  "title": "Ukraine drones destroy two Yandex data centers in Russia",
-  "summary": "Ukrainian drone strikes knocked out two of five data centers belonging to Yandex, known as Russia's Google, disrupting its AI chatbot and other online services. Ukraine said the strikes on October 8 and 9 were a direct response to Russian drone attacks targeting Ukrainian data centers since late September.",
-  "actor": "Yandex",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/31591"
- },
- {
   "id": 31586,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -112,18 +140,46 @@
   "permalink": "https://presentofai.com/e/31560"
  },
  {
-  "id": 31542,
-  "event_date": "2026-10-10",
+  "id": 31694,
+  "event_date": "2026-10-09",
   "realm": "terrestrial",
-  "title": "Supermicro consultant pleads guilty in AI server China diversion scheme",
-  "summary": "A third-party consultant to tech company Supermicro pleaded guilty to his role in a scheme to divert billions of dollars' worth of servers integrated with Nvidia AI technology to China, according to newly unsealed court documents.",
-  "actor": "",
+  "title": "Autonomous electric bus service launches in Putrajaya at RM1/ride",
+  "summary": "The eMooVit autonomous electric bus moved from trials into live public route service in Putrajaya, Malaysia, operating a route starting and ending at MRT Putrajaya Sentral for RM1 per ride.",
+  "actor": "eMooVit",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://paultan.org/2026/10/09/autonomous-electric-bus-service-begins-in-putrajaya-rm1-per-ride-starts-and-ends-at-mrt-putrajaya-sentral/",
+  "source_title": null,
+  "publisher": "Paul Tan's Automotive News",
+  "permalink": "https://presentofai.com/e/31694"
+ },
+ {
+  "id": 31660,
+  "event_date": "2026-10-09",
+  "realm": "virtual",
+  "title": "GitHub Rewrites 800K Lines of Copilot Runtime in Rust via AI",
+  "summary": "GitHub migrated over 800,000 lines of Copilot runtime code from TypeScript/Node.js to Rust in approximately 14.5 weeks using AI-assisted development, marking a large-scale production use of AI for codebase migration.",
+  "actor": "GitHub",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/",
+  "source_title": null,
+  "publisher": "InfoQ: Software Development News, Trends & Best Practices",
+  "permalink": "https://presentofai.com/e/31660"
+ },
+ {
+  "id": 31646,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "NYC Bans Generative AI in Preschool Through 8th Grade for 2026-27",
+  "summary": "New York City Mayor Zohran K. Mamdani enacted a one-year suspension of generative AI use in NYC public schools for preschool through 8th grade, effective September 2, 2026, affecting approximately 600,000 students during the 2026-2027 school year.",
+  "actor": "New York City",
   "ticker": null,
   "materiality": 65,
-  "source_url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536559/supermicro-consultant-pleads-guilty-in-us-to-role-in-ai-server-diversion-scheme",
+  "source_url": "https://www.theknightnews.com/2026/10/09/mayor-mamdani-bans-the-use-of-generative-ai-in-elementary-school-education/",
   "source_title": null,
-  "publisher": "Mlex",
-  "permalink": "https://presentofai.com/e/31542"
+  "publisher": "The Knight News",
+  "permalink": "https://presentofai.com/e/31646"
  },
  {
   "id": 31623,
@@ -420,18 +476,60 @@
   "permalink": "https://presentofai.com/e/31235"
  },
  {
-  "id": 31195,
-  "event_date": "2026-10-09",
-  "realm": "virtual",
-  "title": "Google launches unified agentic Gemini agent for enterprise customers",
-  "summary": "At a Google Cloud event, Google announced a unified Gemini agent that can take actions on users' behalf, not just answer questions, operating from a single interface. Google said it will initially focus on businesses before later rolling out the agent to consumers, citing the need to solve harder problems around security, scale, and performance.",
-  "actor": "Google",
+  "id": 31703,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Yandex Data Center Hit by Ukrainian Drone Strike",
+  "summary": "Ukrainian drones struck a Yandex data center at its Sasovo hub in the first major attack on a Russian data hub since the start of the war with Ukraine. The attack caused a fire and forced Yandex to suspend operations at the site, which hosts tens of thousands of servers, though the company said its core consumer services were not affected.",
+  "actor": "Yandex",
   "ticker": null,
   "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+  "source_url": "https://uk.news.yahoo.com/drones-hit-yandex-data-centre-061948086.html",
   "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/31195"
+  "publisher": "Latest news and today’s top stories | Yahoo News UK",
+  "permalink": "https://presentofai.com/e/31703"
+ },
+ {
+  "id": 31702,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "FMCSA Grants Autonomous Trucks Safety Device Exemption",
+  "summary": "The U.S. Federal Motor Carrier Safety Administration granted an exemption allowing self-driving trucks to use cab-mounted warning beacons in place of traditional triangle warning devices, a regulatory first for autonomous trucking operations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://cdllife.com/2026/fmcsa-to-allow-self-driving-trucks-to-use-cab-mounted-warning-beacons-in-place-of-triangles/",
+  "source_title": null,
+  "publisher": "CDLLife | The World’s Largest Truck Driving Community",
+  "permalink": "https://presentofai.com/e/31702"
+ },
+ {
+  "id": 31656,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Microsoft unveils on-device AI coding model for PCs",
+  "summary": "Microsoft announced a new AI coding model designed to run locally on personal computers, paired with new security tools to prevent AI agents from accessing data without authorization, as part of a broader push to make Windows the leading platform for on-device AI agents.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.emirates247.com/world/microsoft-unveils-ai-coding-model-for-personal-computers/6479",
+  "source_title": null,
+  "publisher": "Emirates24|7",
+  "permalink": "https://presentofai.com/e/31656"
+ },
+ {
+  "id": 31655,
+  "event_date": "2026-10-08",
+  "realm": "virtual",
+  "title": "Google launches Gemini universal AI agent for the workplace",
+  "summary": "Google launched a Gemini-powered workplace AI agent capable of writing and running code, integrating with Gmail and other apps, and autonomously completing everyday work tasks, intensifying competition with OpenAI, Anthropic, and Microsoft for enterprise customers.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-10-08/google-launches-universal-gemini-ai-agent-for-workplace",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/31655"
  },
  {
   "id": 31610,
@@ -460,20 +558,6 @@
   "source_title": null,
   "publisher": "The Quantum Insider",
   "permalink": "https://presentofai.com/e/31593"
- },
- {
-  "id": 31590,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "GlobalFoundries to Manufacture AI Chip Silicon Interposers for TSMC in NY",
-  "summary": "GlobalFoundries agreed to produce silicon interposers, a critical component in advanced AI chip packages, for TSMC at its Malta, New York facility, expanding the US-based AI semiconductor supply chain.",
-  "actor": "GlobalFoundries",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://newsaffinity.com/globalfoundries-to-make-advanced-ai-chip-component-for-tsmc-in-new-york/",
-  "source_title": null,
-  "publisher": "NewsAffinity-Latest Top Stories, Blockchain and Technology News | NewsAffinity",
-  "permalink": "https://presentofai.com/e/31590"
  },
  {
   "id": 31575,
@@ -784,20 +868,6 @@
   "permalink": "https://presentofai.com/e/31265"
  },
  {
-  "id": 31249,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "DALE fleet-capable drill robot hits 10x speed, 99% accuracy",
-  "summary": "DEWALT's DALE, developed with August Robotics, is a fleet-capable concrete drilling robot that completed pilot deployments punching over 385,000 holes at up to 10 times conventional speed with over 99% accuracy for data center server rack and MEP installation.",
-  "actor": "August Robotics",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://interestingengineering.com/ai-robotics/dale-fleet-capable-downward-drill-robot",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/31249"
- },
- {
   "id": 31248,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -838,20 +908,6 @@
   "source_title": null,
   "publisher": "Axios",
   "permalink": "https://presentofai.com/e/31193"
- },
- {
-  "id": 31190,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Utah pilot program allows AI to prescribe acne treatments",
-  "summary": "Nolla Health launched a one-year pilot program in Utah using AI to evaluate patient photos and recommend prescription acne treatments without an in-person doctor visit. The program operates under Utah's Office of AI Policy, which requires monthly reports, and initially has physicians review AI recommendations before prescriptions are sent to pharmacies.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.ksl.com/article/51633260/utah-pilot-lets-artificial-intelligence-prescribe-acne-treatments",
-  "source_title": null,
-  "publisher": "Ksl",
-  "permalink": "https://presentofai.com/e/31190"
  },
  {
   "id": 31179,
@@ -1048,6 +1104,48 @@
   "source_title": null,
   "publisher": "Wccftech",
   "permalink": "https://presentofai.com/e/30907"
+ },
+ {
+  "id": 31711,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "Nvidia RTX Spark silicon & Windows 11 AI sandboxing launched",
+  "summary": "Microsoft and Nvidia unveiled RTX Spark chips and 'Builder PCs' with Windows features including OS-level sandboxing designed to run AI agents locally and securely, marking a new hardware platform era for on-device AI.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://me.pcmag.com/en/laptops/38272/with-rtx-spark-and-builder-pcs-microsoft-and-nvidia-usher-personal-computing-into-its-agentic-era",
+  "source_title": null,
+  "publisher": "PCMag Middle East",
+  "permalink": "https://presentofai.com/e/31711"
+ },
+ {
+  "id": 31692,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "Waymo removes human drivers from Detroit robotaxi testing",
+  "summary": "Waymo began fully driverless autonomous vehicle testing in Detroit this week, removing safety drivers from its vehicles in downtown Detroit and surrounding neighborhoods including Corktown, Midtown, Hamtramck, and Indian Village. Rides are initially available only to Waymo employees, with no public timeline announced yet.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.govtech.com/transportation/in-detroit-waymo-rolls-out-fully-autonomous-vehicle-testing",
+  "source_title": null,
+  "publisher": "Govtech",
+  "permalink": "https://presentofai.com/e/31692"
+ },
+ {
+  "id": 31685,
+  "event_date": "2026-10-07",
+  "realm": "terrestrial",
+  "title": "DALE Fleet Drill Robot Hits 10x Speed, 99% Accuracy in Pilot",
+  "summary": "DEWALT's DALE, developed with August Robotics as the world's first fleet-capable autonomous drill robot, completed pilot deployments achieving up to 10 times the drilling speed of conventional methods at over 99% accuracy, drilling more than 385,000 holes and cutting over 300 weeks from 44 data center construction phases.",
+  "actor": "August Robotics",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://interestingengineering.com/ai-robotics/dale-fleet-capable-downward-drill-robot",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/31685"
  },
  {
   "id": 31489,
@@ -2072,20 +2170,6 @@
   "permalink": "https://presentofai.com/e/30735"
  },
  {
-  "id": 30728,
-  "event_date": "2026-10-06",
-  "realm": "virtual",
-  "title": "OpenAI releases batch of AI-generated math breakthroughs",
-  "summary": "OpenAI published results and data from a new AI model that it says resolves many long-standing open mathematics problems, releasing the findings and underlying data on GitHub.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/30728"
- },
- {
   "id": 30714,
   "event_date": "2026-10-06",
   "realm": "terrestrial",
@@ -2294,6 +2378,20 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/30321"
+ },
+ {
+  "id": 31659,
+  "event_date": "2026-10-05",
+  "realm": "virtual",
+  "title": "Chinese AI agent fleet found targeting Alibaba's Amap service",
+  "summary": "Independent researchers posted preliminary findings about a fleet of AI agents running on Tencent's infrastructure and querying Alibaba's mapping service Amap for directions to public places. Researchers explicitly rejected the term 'swarm,' noting the agents showed no sign of coordination, and said the behavior appeared to involve side-stepping Alibaba's API rules rather than anything more nefarious.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/31659"
  },
  {
   "id": 31332,
@@ -9744,20 +9842,6 @@
   "permalink": "https://presentofai.com/e/25121"
  },
  {
-  "id": 25117,
-  "event_date": "2026-09-21",
-  "realm": "terrestrial",
-  "title": "NHTSA and SAE International launch ASCEND consortium for AV safety standards",
-  "summary": "NHTSA and SAE International launched a consortium called ASCEND to develop data-based federal performance standards for autonomous-driving systems, aiming to address gaps in existing vehicle safety rules and reduce diverging state and local requirements as robotaxi services expand.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.digitaltoday.co.kr/en/view/105932/us-government-moves-to-develop-safety-performance-standards-for-self-driving-cars",
-  "source_title": null,
-  "publisher": "Digitaltoday",
-  "permalink": "https://presentofai.com/e/25117"
- },
- {
   "id": 24944,
   "event_date": "2026-09-21",
   "realm": "terrestrial",
@@ -15250,7 +15334,7 @@
   "event_date": "2026-09-09",
   "realm": "terrestrial",
   "title": "Apple Unveils iPhone Duo Foldable With A20 Pro AI Chip",
-  "summary": "Apple revealed the iPhone Duo, its first foldable iPhone, starting at $1,999, powered by the A20 Pro chip, at its 'Surprise and shine' event hosted by new CEO John Ternus.",
+  "summary": "Apple revealed the iPhone Duo, its first foldable iPhone, starting at $1,999 and powered by the A20 Pro chip, at its annual fall launch event hosted by new CEO John Ternus.",
   "actor": "Apple",
   "ticker": null,
   "materiality": 72,
@@ -24266,7 +24350,7 @@
   "event_date": "2026-08-19",
   "realm": "terrestrial",
   "title": "Türkiye officially launches 2026-2030 AI Action Plan",
-  "summary": "Türkiye formally launched its national 2026-2030 AI Action Plan, a four-stage government framework covering AI awareness, adoption, domestic technology development, and governance.",
+  "summary": "President Erdogan signed the 2026-2030 Türkiye AI Action Plan, published in the Official Gazette on Tuesday, establishing a four-stage framework titled notice, utilize, produce, and manage. Goals include AI literacy training for five million citizens, one gigawatt of data center computing power by 2030, and attracting at least $10 billion in private sector AI and data center investments.",
   "actor": "",
   "ticker": null,
   "materiality": 55,
@@ -24518,7 +24602,7 @@
   "event_date": "2026-08-18",
   "realm": "terrestrial",
   "title": "State Farm lawyers apologize for AI-hallucinated fake cases in LA court",
-  "summary": "Lawyers for State Farm apologized to a Los Angeles court after opposing counsel discovered AI-generated hallucinations in their filings, including seven case citations that did not exist, incorrect case titles, and fabricated quotes. The attorney who used the AI tool, Jacquelene Robinson, said she mistakenly believed the tool was linked to a verified legal research service.",
+  "summary": "Lawyers for State Farm apologized to a Los Angeles court after opposing counsel discovered AI-generated hallucinations in their filings, including seven case citations that did not exist, incorrect case titles, and fabricated quotes. The attorney who used the AI tool, Jacquelene Robinson, said she incorrectly believed the tool, called Irys, was tied to her firm's Westlaw subscription and that Westlaw performed an internal cite check.",
   "actor": "State Farm",
   "ticker": null,
   "materiality": 62,
@@ -27942,20 +28026,6 @@
   "source_title": null,
   "publisher": "Tom's Hardware",
   "permalink": "https://presentofai.com/e/11809"
- },
- {
-  "id": 12377,
-  "event_date": "2026-08-09",
-  "realm": "virtual",
-  "title": "AI models from OpenAI, Anthropic, Meta breached real companies via shared testing vendor",
-  "summary": "Over roughly two weeks, OpenAI, Anthropic, and Meta each disclosed that their AI models reached the public internet during safety testing and compromised outside organisations. All three incidents were traced to a misconfiguration at the same third-party evaluation partner, Israeli startup Irregular, which left its testing environment connected to the public internet.",
-  "actor": "Irregular",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://thenextweb.com/news/irregular-ai-testing-vendor-openai-anthropic-meta-breaches",
-  "source_title": null,
-  "publisher": "The Next Web",
-  "permalink": "https://presentofai.com/e/12377"
  },
  {
   "id": 12260,
