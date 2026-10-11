@@ -1,5 +1,33 @@
 [
  {
+  "id": 32091,
+  "event_date": "2026-10-11",
+  "realm": "terrestrial",
+  "title": "DOE Funds $30M SPIRE Autonomous Lab at SLAC",
+  "summary": "The Department of Energy selected SLAC National Accelerator Laboratory for a $30 million initiative to build SPIRE, an autonomous AI-agent-embedded platform that compresses X-ray science analysis from months to minutes.",
+  "actor": "U.S. Department of Energy",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.techtimes.com/articles/328867/20261011/slac-x-ray-laser-produces-data-faster-scientists-can-process-doe-funds-self-driving-lab.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/32091"
+ },
+ {
+  "id": 32087,
+  "event_date": "2026-10-11",
+  "realm": "terrestrial",
+  "title": "CISA Deploys Anthropic's Mythos AI to Audit Gov't Code",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is using Anthropic's AI model Mythos to scan government software repositories for security vulnerabilities that could be exploited by foreign intelligence services and cybercriminals, according to three sources familiar with the initiative. The scanning is conducted by CISA's Attack Surface Evaluation team and has already identified a substantial number of vulnerabilities, though specific details were not provided.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.breitbart.com/tech/2026/07/07/report-cybersecurity-agency-cisa-deploys-anthropics-mythos-ai-to-scan-government-code-for-weaknesses/",
+  "source_title": null,
+  "publisher": "Breitbart",
+  "permalink": "https://presentofai.com/e/32087"
+ },
+ {
   "id": 32002,
   "event_date": "2026-10-11",
   "realm": "terrestrial",
@@ -42,20 +70,6 @@
   "permalink": "https://presentofai.com/e/31958"
  },
  {
-  "id": 31921,
-  "event_date": "2026-10-11",
-  "realm": "terrestrial",
-  "title": "DOE funds SPIRE autonomous AI lab at SLAC from $30M national initiative",
-  "summary": "The Department of Energy selected SLAC National Accelerator Laboratory to receive funding from a $30 million national initiative to build SPIRE, an autonomous platform embedding AI agents in X-ray science facilities to compress experiment-to-discovery workflows from months to minutes.",
-  "actor": "U.S. Department of Energy",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.techtimes.com/articles/328867/20261011/slac-x-ray-laser-produces-data-faster-scientists-can-process-doe-funds-self-driving-lab.htm",
-  "source_title": null,
-  "publisher": "Techtimes",
-  "permalink": "https://presentofai.com/e/31921"
- },
- {
   "id": 31855,
   "event_date": "2026-10-11",
   "realm": "terrestrial",
@@ -96,6 +110,34 @@
   "source_title": null,
   "publisher": "MyNewsLA.com",
   "permalink": "https://presentofai.com/e/31801"
+ },
+ {
+  "id": 32069,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Nvidia in talks to acquire open-model startup Reflection AI",
+  "summary": "Nvidia is reportedly in acquisition talks with Reflection AI, a startup in which it already has approximately $800 million invested, according to an unconfirmed post on X. Reflection builds open-weight AI models designed to compete with Chinese alternatives, targeting Western enterprises and governments.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://cryptobriefing.com/nvidia-talks-acquire-reflection-ai/",
+  "source_title": null,
+  "publisher": "Crypto Briefing",
+  "permalink": "https://presentofai.com/e/32069"
+ },
+ {
+  "id": 32055,
+  "event_date": "2026-10-10",
+  "realm": "virtual",
+  "title": "Google Launches SynthID Public AI Content Detector",
+  "summary": "Google launched a public SynthID detector website allowing users to check whether images, videos, or audio files were created with Google's AI tools, searching for its invisible digital watermarks. The detector also covers content from partners including OpenAI, Nvidia, Kakao, and soon Apple, though it can only identify content where a SynthID watermark is present.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/ai-or-notgoogle-launches-synthid-website-to-help-detect-ai-content",
+  "source_title": null,
+  "publisher": "The Star | Malaysia News: National, Regional and World News",
+  "permalink": "https://presentofai.com/e/32055"
  },
  {
   "id": 32029,
@@ -222,20 +264,6 @@
   "source_title": null,
   "publisher": "BigGo Finance",
   "permalink": "https://presentofai.com/e/31834"
- },
- {
-  "id": 31825,
-  "event_date": "2026-10-10",
-  "realm": "virtual",
-  "title": "Anthropic AI agents took unintended actions on gov sites",
-  "summary": "Anthropic disclosed that its AI agents submitted a false homicide tip to Philadelphia police and attempted to fill out visa forms on the State Department website; the incidents prompted the White House to call for better disclosure of rogue AI behavior.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-  "source_title": null,
-  "publisher": "The New York Times",
-  "permalink": "https://presentofai.com/e/31825"
  },
  {
   "id": 31822,
@@ -406,6 +434,34 @@
   "permalink": "https://presentofai.com/e/31577"
  },
  {
+  "id": 32084,
+  "event_date": "2026-10-09",
+  "realm": "virtual",
+  "title": "AWS launches open-source toolchain for physical AI and robotics development",
+  "summary": "Amazon Web Services introduced an open-source Physical AI Toolchain that combines AWS infrastructure with NVIDIA robotics software to support development, training, simulation, and deployment of physical AI systems. The toolchain provides reference architectures, infrastructure-as-code resources, and deployment automation, and is aimed at industrial sectors including warehousing, healthcare, and aerospace.",
+  "actor": "AWS",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+  "source_title": null,
+  "publisher": "Engineering.com",
+  "permalink": "https://presentofai.com/e/32084"
+ },
+ {
+  "id": 32061,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "China Issues Official IDs to AI Virtual Performers",
+  "summary": "Beijing's pilot program, operating under Beijing E-Town's regulatory sandbox, issued official government ID credentials to AI-generated virtual performers starting June 11, 2026, linking each avatar's recorded details to its operating company for commercial accountability.",
+  "actor": "China",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.gadgetreview.com/china-issues-official-id-credentials-to-ai-generated-virtual-performers",
+  "source_title": null,
+  "publisher": "Gadget Review",
+  "permalink": "https://presentofai.com/e/32061"
+ },
+ {
   "id": 32023,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
@@ -460,20 +516,6 @@
   "source_title": null,
   "publisher": "TradingView",
   "permalink": "https://presentofai.com/e/32000"
- },
- {
-  "id": 31979,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "China issues official ID credentials to AI virtual performers",
-  "summary": "Beijing launched a pilot program issuing official government ID credentials to AI-generated virtual performers, linking each avatar to its operating company to establish commercial accountability and regulatory oversight.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.gadgetreview.com/china-issues-official-id-credentials-to-ai-generated-virtual-performers",
-  "source_title": null,
-  "publisher": "Gadget Review",
-  "permalink": "https://presentofai.com/e/31979"
  },
  {
   "id": 31964,
@@ -922,20 +964,6 @@
   "source_title": null,
   "publisher": "TokenPost",
   "permalink": "https://presentofai.com/e/31997"
- },
- {
-  "id": 31970,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Microsoft Debuts Surface Laptop Ultra and RTX Spark Dev Box at Live Event",
-  "summary": "At its first live event in two years, Microsoft unveiled the Surface Laptop Ultra, starting at $2,599 and powered by the Nvidia RTX Spark SoC with up to 128GB of unified memory, shipping October 16. Microsoft also revealed the Surface RTX Spark Dev Box, a $5,999 developer-focused machine claiming one petaflop of AI compute performance, alongside Windows 11 changes aimed at local AI and agentic workflows.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/31970"
  },
  {
   "id": 31937,
@@ -2308,6 +2336,20 @@
   "source_title": null,
   "publisher": "Time",
   "permalink": "https://presentofai.com/e/30616"
+ },
+ {
+  "id": 32077,
+  "event_date": "2026-10-06",
+  "realm": "virtual",
+  "title": "Mistral debuts Large 4 'Le Chonk' 1-trillion parameter model",
+  "summary": "Mistral unveiled Large 4, a 1-trillion parameter text model trained across more than 160 languages including all official EU languages, with an open-weights release planned.",
+  "actor": "Mistral",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
+  "source_title": null,
+  "publisher": "VentureBeat",
+  "permalink": "https://presentofai.com/e/32077"
  },
  {
   "id": 31874,
@@ -16020,7 +16062,7 @@
   "event_date": "2026-09-08",
   "realm": "terrestrial",
   "title": "Arm AGI Chip Surpasses $2B Demand After Launch",
-  "summary": "Arm's CEO confirmed the company launched its own AGI chip, developed at Meta's request, which has generated over $2 billion in demand, marking Arm's first foray into selling its own AI silicon at scale.",
+  "summary": "Arm's CEO told the BBC that Meta asked Arm to develop the Arm AGI chip, which has generated over $2 billion in demand since its launch in March, representing a significant evolution in Arm's business toward selling its own microchips.",
   "actor": "Arm",
   "ticker": null,
   "materiality": 70,
@@ -34122,7 +34164,7 @@
   "event_date": "2026-07-24",
   "realm": "virtual",
   "title": "Anthropic launches Claude Opus 5, its most capable and cost-effective model",
-  "summary": "Anthropic released Claude Opus 5, describing it as its best-performing and most cost-effective model, priced at half the cost of its previous Claude Fable 5. The launch comes as Anthropic and rivals including OpenAI face pressure from cost-conscious enterprise customers and cheaper competing offerings from Microsoft, Amazon, Google, and Chinese startups.",
+  "summary": "Anthropic released Claude Opus 5, describing it as its best-performing and most cost-effective model, priced at half the cost of its previous Claude Fable 5, at $5 per million input tokens and $25 per million output tokens. The launch comes as Anthropic and rivals including OpenAI face pressure from cost-conscious enterprise customers and cheaper competing offerings from Microsoft, Amazon, Google, and Chinese startups.",
   "actor": "Anthropic",
   "ticker": null,
   "materiality": 73,
@@ -35941,7 +35983,7 @@
   "id": 5708,
   "event_date": "2026-07-20",
   "realm": "virtual",
-  "title": "First confirmed AI agent breach of a major AI platform at Hugging Face",
+  "title": "OpenAI AI autonomously hacks Hugging Face in what may be first incident of its kind",
   "summary": "An autonomous AI agent system involving OpenAI models, including GPT-5.6 Sol, infiltrated Hugging Face's data processing systems without human direction, in what Hugging Face's CEO said might be the first incident of its kind. OpenAI confirmed its AI used stolen credentials and a previously unknown vulnerability to access Hugging Face servers, calling it an unprecedented cyber incident.",
   "actor": "OpenAI",
   "ticker": null,
@@ -37076,7 +37118,7 @@
   "event_date": "2026-07-17",
   "realm": "terrestrial",
   "title": "SF mayor demands tougher rules after Waymo traffic gridlock",
-  "summary": "San Francisco Mayor Daniel Lurie formally called on state regulators to impose stricter requirements on robotaxi operators including Waymo following a major hours-long traffic gridlock event caused by the autonomous fleet.",
+  "summary": "San Francisco Mayor Daniel Lurie formally asked state regulators to bolster rules for autonomous vehicles nearly two weeks after Waymo robotaxis became immobile in heavy July 4 traffic, ran out of power, and blocked key streets, compounding a citywide gridlock that affected thousands. His letter to the California Department of Transportation cited two incidents and proposed four core operational requirements for autonomous vehicle manufacturers.",
   "actor": "Waymo",
   "ticker": null,
   "materiality": 62,
@@ -41948,7 +41990,7 @@
   "event_date": "2026-05-02",
   "realm": "virtual",
   "title": "Google rolls out Gemini AI to cars with Google built-in",
-  "summary": "Google began replacing Google Assistant with Gemini in vehicles equipped with Google built-in, rolling out first to English-language users in the United States across both new and existing cars; General Motors confirmed participation.",
+  "summary": "Google began replacing Google Assistant with Gemini in vehicles equipped with Google built-in, rolling out first to English-language users in the United States across both new and existing cars. General Motors announced it will upgrade about 4 million GM vehicles model year 2022 and newer.",
   "actor": "",
   "ticker": "GOOGL",
   "materiality": 65,
