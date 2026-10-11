@@ -1,5 +1,33 @@
 [
  {
+  "id": 31958,
+  "event_date": "2026-10-11",
+  "realm": "virtual",
+  "title": "NVIDIA in Talks to Acquire or Further Invest in Reflection AI",
+  "summary": "NVIDIA is reportedly in preliminary discussions to acquire Reflection AI or increase its existing investment in the startup, according to a report from October 10, 2026. No binding agreement has been announced, and the negotiations may conclude without a deal.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.datastudios.org/post/nvidia-reportedly-explores-acquiring-reflection-ai",
+  "source_title": null,
+  "publisher": "Datastudios",
+  "permalink": "https://presentofai.com/e/31958"
+ },
+ {
+  "id": 31921,
+  "event_date": "2026-10-11",
+  "realm": "terrestrial",
+  "title": "DOE funds SPIRE autonomous AI lab at SLAC from $30M national initiative",
+  "summary": "The Department of Energy selected SLAC National Accelerator Laboratory to receive funding from a $30 million national initiative to build SPIRE, an autonomous platform embedding AI agents in X-ray science facilities to compress experiment-to-discovery workflows from months to minutes.",
+  "actor": "U.S. Department of Energy",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.techtimes.com/articles/328867/20261011/slac-x-ray-laser-produces-data-faster-scientists-can-process-doe-funds-self-driving-lab.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/31921"
+ },
+ {
   "id": 31855,
   "event_date": "2026-10-11",
   "realm": "terrestrial",
@@ -40,6 +68,34 @@
   "source_title": null,
   "publisher": "MyNewsLA.com",
   "permalink": "https://presentofai.com/e/31801"
+ },
+ {
+  "id": 31962,
+  "event_date": "2026-10-10",
+  "realm": "virtual",
+  "title": "Anthropic Claude Completes First All-Sky Ultraviolet Map",
+  "summary": "Anthropic's Claude Science, in collaboration with Johns Hopkins University, produced the first complete all-sky ultraviolet map by integrating decades of multi-mission observations; approximately one-third of the sky had never been directly observed and was inferred entirely by AI.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://finance.biggo.com/news/e5ae97ac-73ca-493e-a47a-ad5ee47bb5e1",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/31962"
+ },
+ {
+  "id": 31945,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Germany Clears Tesla FSD for EU Launch With Name Change",
+  "summary": "Germany's Transport Ministry approved Tesla's Full Self-Driving system for EU deployment on condition it be renamed 'Tesla Assisted Driving,' ruling the original name misleading, a first regulatory green-light for FSD in Europe.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.pcmag.com/news/germany-tesla-can-launch-fsd-in-eu-but-must-drop-the-misleading-name",
+  "source_title": null,
+  "publisher": "PCMag",
+  "permalink": "https://presentofai.com/e/31945"
  },
  {
   "id": 31853,
@@ -266,6 +322,20 @@
   "permalink": "https://presentofai.com/e/31577"
  },
  {
+  "id": 31931,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "Deep Robotics conducts DR02 humanoid field trials for traffic control in Hangzhou",
+  "summary": "DEEP Robotics conducted field trials of its DR02 humanoid robots in early October in Hangzhou's Xihu District, testing whether the robots could assist with traffic direction, pedestrian safety, and visitor information in real urban conditions including heavy rain. The trials were presented as product testing rather than a completed commercial deployment or replacement for human traffic officers.",
+  "actor": "Deep Robotics",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://techrepublic.com/article/news-china-deep-robotics-humanoid-robots-traffic-control-apac",
+  "source_title": null,
+  "publisher": "Techrepublic",
+  "permalink": "https://presentofai.com/e/31931"
+ },
+ {
   "id": 31862,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
@@ -278,20 +348,6 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/31862"
- },
- {
-  "id": 31848,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Deep Robotics deploys DR02 humanoids for traffic direction in Hangzhou",
-  "summary": "Deep Robotics deployed DR02 humanoid robots in Hangzhou's Xihu District in early October to test traffic direction, public guidance, and other support functions under real-world conditions including heavy crowds, vehicle traffic, and sustained rain. The trials collected data to refine the robot for additional public-service applications.",
-  "actor": "Deep Robotics",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://theaiinsider.tech/2026/10/09/deep-robotics-tests-dr02-humanoids-in-hangzhou-traffic-and-tourist-areas/",
-  "source_title": null,
-  "publisher": "AI Insider",
-  "permalink": "https://presentofai.com/e/31848"
  },
  {
   "id": 31830,
@@ -602,20 +658,6 @@
   "permalink": "https://presentofai.com/e/31346"
  },
  {
-  "id": 31342,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Pony.ai & Uber to test Gen-7 robotaxis in London",
-  "summary": "Pony.ai and Uber announced they will begin testing Pony.ai's seventh-generation robotaxis in London within weeks, marking the first expansion of their partnership beyond Zagreb into a major Western European city.",
-  "actor": "Pony.ai",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/31342"
- },
- {
   "id": 31331,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
@@ -684,6 +726,34 @@
   "source_title": null,
   "publisher": "Thenextweb",
   "permalink": "https://presentofai.com/e/31235"
+ },
+ {
+  "id": 31937,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "XPENG YOYO robotaxi opens public registration in China",
+  "summary": "XPENG officially named its robotaxi service YOYO and opened invitation-based public registration in China, bringing its Level 4 autonomous-driving platform with a 3,000-TOPS AI system closer to commercial deployment.",
+  "actor": "XPENG",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://technode.com/2026/10/10/xpeng-names-robotaxi-service-yoyo-and-opens-invitation-based-registration-in-china/",
+  "source_title": null,
+  "publisher": "TechNode",
+  "permalink": "https://presentofai.com/e/31937"
+ },
+ {
+  "id": 31888,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Uber & Pony.ai to launch robotaxis in London",
+  "summary": "Uber and Chinese autonomous vehicle maker Pony.ai announced they will begin testing Pony.ai Gen-7 robotaxis in London in the coming weeks, as part of an expanded partnership to bring driverless cars to Europe. The London service will follow a similar model to their Zagreb deployment, though the companies have not said who will own and operate the fleet.",
+  "actor": "Pony.ai",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/31888"
  },
  {
   "id": 31872,
@@ -1020,20 +1090,6 @@
   "source_title": null,
   "publisher": "The Tech Buzz",
   "permalink": "https://presentofai.com/e/31445"
- },
- {
-  "id": 31424,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Uber and Pony.ai announce London robotaxi trials",
-  "summary": "Uber and Pony.ai announced they will begin testing Pony.ai's Gen-7 robotaxis in London within weeks, marking the first planned autonomous ride-hailing deployment in the UK.",
-  "actor": "Pony.ai",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/31424"
  },
  {
   "id": 31368,
@@ -1440,20 +1496,6 @@
   "source_title": null,
   "publisher": "Fox40",
   "permalink": "https://presentofai.com/e/31411"
- },
- {
-  "id": 31409,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "Google ordered to halt two Finland data centers",
-  "summary": "Finland's Licensing and Supervision Agency ordered Google subsidiary Tuike Finland Oy to suspend building work at data center projects in Muhos and Kajaani until environmental impact assessments are completed. The halt, effective no later than Oct. 23, covers tree removal, excavation, road construction, and related activities, and comes about a month after Google committed to a $15 billion AI infrastructure investment in Finland.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/31409"
  },
  {
   "id": 31400,
@@ -30594,7 +30636,7 @@
   "event_date": "2026-08-04",
   "realm": "virtual",
   "title": "Suno loses copyright infringement case to GEMA",
-  "summary": "The Munich Regional Court ruled on July 31, 2026 that AI music generator Suno unlawfully obtained, processed, and reproduced music from GEMA's repertoire without licenses, breaching German and US copyright law. Suno must pay damages to GEMA, though the sum has not been confirmed, and the ruling requires other AI companies to pay to license music from GEMA's repertoire going forward.",
+  "summary": "The Munich Regional Court ruled on July 31, 2026 that AI music generator Suno unlawfully obtained, processed, and reproduced music from GEMA's repertoire without licenses, breaching German and US copyright law. Suno must pay damages to GEMA, though the sum has not yet been confirmed, and the ruling means other AI companies must now pay to license music from GEMA's repertoire going forward.",
   "actor": "Suno",
   "ticker": null,
   "materiality": 72,
@@ -34598,7 +34640,7 @@
   "event_date": "2026-07-23",
   "realm": "terrestrial",
   "title": "China demonstrates single-electron AI memory chip",
-  "summary": "Researchers at Fudan University in Shanghai published a paper in Science on July 16 detailing a working 2D flash memory chip called Guiyi that traps and reads a single electron at room temperature, reducing the charge needed per bit from roughly 200,000 electrons to one. The technology could enable large language models to run on mobile phones with minimal power without losing conversational memory.",
+  "summary": "Researchers in China developed a chip that stores a single bit of data using just one electron, down from roughly 200,000 electrons required by current DRAM chips from Samsung and SK Hynix. The technology could enable AI chat models to run on mobile phones with minimal power without losing conversational memory.",
   "actor": "",
   "ticker": null,
   "materiality": 68,
@@ -41052,7 +41094,7 @@
   "event_date": "2026-05-19",
   "realm": "virtual",
   "title": "Google releases Android CLI 1.0 for AI coding agents",
-  "summary": "Google released Android CLI 1.0 at I/O 2026, the first command-line interface enabling AI coding agents such as Claude Code and OpenAI Codex to directly invoke Android Studio tools and build Android apps autonomously.",
+  "summary": "Google announced at Google I/O 2026 that its Android CLI (command-line interface) is now stable at version 1.0, allowing AI coding agents such as Claude Code, OpenAI Codex, and its own Antigravity or Gemini in Android Studio to access Android Studio capabilities and tools for building Android apps.",
   "actor": "",
   "ticker": "GOOGL",
   "materiality": 58,
@@ -43459,8 +43501,8 @@
   "id": 1155,
   "event_date": "2026-03-16",
   "realm": "terrestrial",
-  "title": "Nvidia signs BYD, Geely, Uber, and Lyft onto robotaxi platform",
-  "summary": "Nvidia announced that Chinese automakers BYD and Geely, along with ride-hailing giants Uber and Lyft, will adopt its Hyperion robotaxi platform, significantly expanding the commercial footprint of Nvidia's automotive AI stack.",
+  "title": "Nvidia signs BYD, Geely, Nissan, Isuzu, and Lyft onto Drive Hyperion platform",
+  "summary": "At its GTC conference, Nvidia announced that BYD, Geely, Nissan, and Isuzu would use its Drive Hyperion platform for Level 4 autonomous vehicle development, and that Lyft would also adopt the platform for robotaxi development. Nvidia also provided an update on its existing Uber partnership, expanding it to 28 markets across four continents by 2028.",
   "actor": "",
   "ticker": "NVDA",
   "materiality": 65,
@@ -46862,7 +46904,7 @@
   "event_date": "2025-10-09",
   "realm": "terrestrial",
   "title": "Chinese Humanoid and Quadruped Robots Briefly Listed on Walmart US",
-  "summary": "Two Unitree Robotics models, the G1 humanoid robot priced at $21,600 and the Go2 Robot Dog priced at $2,399, briefly appeared for sale on Walmart's US website via a third-party vendor, marking the first time Chinese humanoid and quadruped robots were featured on a major US retail platform. The listings have since been removed.",
+  "summary": "Two Unitree Robotics models, the G1 humanoid robot priced at $21,600 and the Go2 Robot Dog priced at $2,399, briefly appeared for sale on Walmart's US website via a third-party vendor called Futurology, marking the first time Chinese humanoid and quadruped robots were featured on a major US retail platform. The listings have since been removed.",
   "actor": "Unitree Robotics",
   "ticker": null,
   "materiality": 65,
