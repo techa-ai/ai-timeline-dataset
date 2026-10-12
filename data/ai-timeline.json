@@ -1,5 +1,47 @@
 [
  {
+  "id": 32292,
+  "event_date": "2026-10-12",
+  "realm": "virtual",
+  "title": "OpenAI to Watermark ChatGPT Text in EU",
+  "summary": "OpenAI announced it will embed invisible watermarks in ChatGPT and Codex-generated text for EU users to comply with the EU AI Act's transparency rules, using a method called textGrain that shapes word choices to leave a detectable statistical pattern. The feature is not a global default at launch, though developers worldwide can opt in via the API, and detector access will initially be limited to approved researchers and expert organisations.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.malaymail.com/news/tech-gadgets/2026/10/12/openai-to-put-invisible-watermark-on-chatgpt-text-in-the-eu-malaysians-wont-get-it-by-default/238784",
+  "source_title": null,
+  "publisher": "Malay Mail",
+  "permalink": "https://presentofai.com/e/32292"
+ },
+ {
+  "id": 32291,
+  "event_date": "2026-10-12",
+  "realm": "virtual",
+  "title": "CyberXero Uses Claude Code to Steal 628K Ukrainian Records",
+  "summary": "Threat actor CyberXero, a Russian-speaking financially motivated initial access broker, used Anthropic's Claude Code with 51 specialized agents alongside commodity tools like Cobalt Strike to run automated and targeted cyberattack campaigns, confirming access to 429 WordPress admin panels and exfiltrating over 628,000 records from four Ukrainian organizations, according to a SOCRadar report.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+  "source_title": null,
+  "publisher": "The Hacker News",
+  "permalink": "https://presentofai.com/e/32291"
+ },
+ {
+  "id": 32290,
+  "event_date": "2026-10-12",
+  "realm": "virtual",
+  "title": "Linus Torvalds uses Claude Code to rewrite Linux file-cache code",
+  "summary": "Linux kernel creator Linus Torvalds posted a patch series to the kernel mailing list on October 12 acknowledging that Claude Code wrote the code, test programs, review, and first draft of the cover letter under his direction, with benchmarks showing throughput roughly tripling and contention events dropping dramatically, a notable first given Torvalds's historically skeptical stance on AI-assisted development.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files/",
+  "source_title": null,
+  "publisher": "Startupfortune",
+  "permalink": "https://presentofai.com/e/32290"
+ },
+ {
   "id": 32264,
   "event_date": "2026-10-12",
   "realm": "terrestrial",
@@ -68,6 +110,20 @@
   "source_title": null,
   "publisher": "Gcn",
   "permalink": "https://presentofai.com/e/32166"
+ },
+ {
+  "id": 32282,
+  "event_date": "2026-10-11",
+  "realm": "virtual",
+  "title": "Netflix Exec: AI Used in About 300 Productions to Date",
+  "summary": "A Netflix senior director disclosed at the Busan International Film Festival that AI is being used in pre-visualization, production design, editing, and VFX, and that about 300 Netflix offerings have already used the technology in the past few years. No list of specific titles was provided.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.avclub.com/netflix-used-ai-in-300-titles",
+  "source_title": null,
+  "publisher": "The A.V. Club",
+  "permalink": "https://presentofai.com/e/32282"
  },
  {
   "id": 32171,
@@ -182,6 +238,20 @@
   "permalink": "https://presentofai.com/e/31801"
  },
  {
+  "id": 32325,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Germany Clears Tesla FSD for EU Launch, Requires Name Change",
+  "summary": "Germany's Transport Ministry approved Tesla's Full Self-Driving system for deployment in the EU on condition it be renamed 'Tesla Assisted Driving,' ruling the original name misleading, a first regulatory clearance for FSD in Europe.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.pcmag.com/news/germany-tesla-can-launch-fsd-in-eu-but-must-drop-the-misleading-name",
+  "source_title": null,
+  "publisher": "PCMag",
+  "permalink": "https://presentofai.com/e/32325"
+ },
+ {
   "id": 32267,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -208,20 +278,6 @@
   "source_title": null,
   "publisher": "Ars Technica",
   "permalink": "https://presentofai.com/e/32228"
- },
- {
-  "id": 32222,
-  "event_date": "2026-10-10",
-  "realm": "virtual",
-  "title": "Netflix exec reveals AI used in about 300 productions",
-  "summary": "Netflix senior director of production for Asia-Pacific Sung Q Lee told attendees at the Busan International Film Festival that AI is being used across pre-visualization, production design, editing, and VFX, and that about 300 Netflix offerings have already used the technology in recent years. No list of specific titles was provided.",
-  "actor": "Netflix",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.avclub.com/netflix-used-ai-in-300-titles",
-  "source_title": null,
-  "publisher": "The A.V. Club",
-  "permalink": "https://presentofai.com/e/32222"
  },
  {
   "id": 32220,
@@ -273,7 +329,7 @@
   "summary": "Microsoft released its first Decision-1 model, built on the open-weight Qwen3.5-9B from a Chinese AI lab, with plans for a subsequent version using homegrown technology.",
   "actor": "Microsoft",
   "ticker": null,
-  "materiality": 55,
+  "materiality": 58,
   "source_url": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
   "source_title": null,
   "publisher": "Enterprise Technology News and Analysis",
@@ -418,20 +474,6 @@
   "source_title": null,
   "publisher": "BigGo Finance",
   "permalink": "https://presentofai.com/e/31962"
- },
- {
-  "id": 31945,
-  "event_date": "2026-10-10",
-  "realm": "terrestrial",
-  "title": "Germany Clears Tesla FSD for EU Launch With Name Change",
-  "summary": "Germany's Transport Ministry approved Tesla's Full Self-Driving system for EU deployment on condition it be renamed 'Tesla Assisted Driving,' ruling the original name misleading, a first regulatory green-light for FSD in Europe.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.pcmag.com/news/germany-tesla-can-launch-fsd-in-eu-but-must-drop-the-misleading-name",
-  "source_title": null,
-  "publisher": "PCMag",
-  "permalink": "https://presentofai.com/e/31945"
  },
  {
   "id": 31853,
@@ -642,6 +684,20 @@
   "source_title": null,
   "publisher": "Computerweekly",
   "permalink": "https://presentofai.com/e/31577"
+ },
+ {
+  "id": 32329,
+  "event_date": "2026-10-09",
+  "realm": "terrestrial",
+  "title": "White House mandates AI incident reporting for all AI firms",
+  "summary": "The White House issued an Oct. 9 statement requiring all AI companies to report and fix security incidents involving their models, marking a new federal operational requirement for the AI industry.",
+  "actor": "White House",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.heygotrade.com/en/news/ai-regulation-safety-white-house-incident-reporting-microsoft-calls-for-safeguards/",
+  "source_title": null,
+  "publisher": "Heygotrade",
+  "permalink": "https://presentofai.com/e/32329"
  },
  {
   "id": 32192,
@@ -1120,20 +1176,6 @@
   "permalink": "https://presentofai.com/e/31346"
  },
  {
-  "id": 31331,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Nvidia expands Halos safety architecture to robotics",
-  "summary": "Nvidia extended its Halos safety platform to physical AI with the announcement of Nvidia Halos for Robotics in June 2026, covering autonomous mobile robots, humanoid robots in factories, and surgical robots. The expansion builds on the original Halos system launched in 2025 for self-driving cars, aiming to enable safe deployments of robots operating near people.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/31331"
- },
- {
   "id": 31298,
   "event_date": "2026-10-09",
   "realm": "virtual",
@@ -1190,6 +1232,34 @@
   "permalink": "https://presentofai.com/e/31235"
  },
  {
+  "id": 32308,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Nvidia Halos for Robotics safety architecture launched",
+  "summary": "Nvidia announced Halos for Robotics in June 2026, expanding its existing Halos safety architecture beyond autonomous vehicles to cover autonomous mobile robots in warehouses, humanoid robots in factories, and surgical robots. Ars Technica reported details on Oct 8, 2026, including that the system starts with hardware such as the Nvidia IGX Thor computing module, which includes a dedicated processor for safety workloads.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/32308"
+ },
+ {
+  "id": 32307,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Senate investigation accuses Big Tech of misleading public on AI data center costs",
+  "summary": "A yearlong Senate investigation led by Senators Warren, Van Hollen, and Blumenthal concluded that major tech companies are obscuring the true economic and infrastructure costs of AI data centers, including permanent job counts and costs pushed onto utility ratepayers.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+  "source_title": null,
+  "publisher": "Time",
+  "permalink": "https://presentofai.com/e/32307"
+ },
+ {
   "id": 32241,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -1216,20 +1286,6 @@
   "source_title": null,
   "publisher": "Theregister",
   "permalink": "https://presentofai.com/e/32230"
- },
- {
-  "id": 32162,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Senate Report Accuses Big Tech of Misleading Public on AI Data Centers",
-  "summary": "A yearlong Senate investigation led by Senators Warren, Van Hollen, and Blumenthal concluded that major tech companies are obscuring the true economic and environmental costs of AI data centers, including permanent job counts and infrastructure costs shifted to ratepayers.",
-  "actor": "U.S. Senate",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
-  "source_title": null,
-  "publisher": "Time",
-  "permalink": "https://presentofai.com/e/32162"
  },
  {
   "id": 32004,
@@ -3612,20 +3668,6 @@
   "permalink": "https://presentofai.com/e/30386"
  },
  {
-  "id": 30357,
-  "event_date": "2026-10-05",
-  "realm": "terrestrial",
-  "title": "California signs 'Adam's Law' AI chatbot companion regulation",
-  "summary": "California enacted SB 1119 ('Adam's Law'), requiring companion chatbot operators to conduct independent child safety audits, annual risk assessments, crisis protocols for self-harm queries, and parental notifications when children disable safety settings, making it the first state law of its kind in the country.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.retailconsumerproductslaw.com/2026/10/california-signs-nation-leading-ai-chatbot-and-social-media-laws-what-businesses-need-to-know/",
-  "source_title": null,
-  "publisher": "Retail & Consumer Products Law Observer",
-  "permalink": "https://presentofai.com/e/30357"
- },
- {
   "id": 30356,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
@@ -3778,20 +3820,6 @@
   "source_title": null,
   "publisher": "news . product reviews . analyses",
   "permalink": "https://presentofai.com/e/30403"
- },
- {
-  "id": 30344,
-  "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab Austin Fleet Grows to 169 Vehicles One Month After Launch",
-  "summary": "One month after Tesla launched commercial Cybercab operations in Austin in September 2026, its registered fleet nearly quadrupled from 45 to 169 vehicles according to Texas DMV records. Elon Musk defended the careful rollout, citing autonomous safety as the reason for the deliberate pace, with expansion across Texas, Nevada, and Florida described as the next step.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://teslanorth.com/2026/10/04/elon-musk-touts-careful-cybercab-rollout-austin-fleet-169/",
-  "source_title": null,
-  "publisher": "Tesla North",
-  "permalink": "https://presentofai.com/e/30344"
  },
  {
   "id": 30276,
@@ -14754,20 +14782,6 @@
   "source_title": null,
   "publisher": "Enterprise Technology News and Analysis",
   "permalink": "https://presentofai.com/e/22273"
- },
- {
-  "id": 22263,
-  "event_date": "2026-09-11",
-  "realm": "virtual",
-  "title": "Anthropic: Claude models cross bioweapons-assistance threshold",
-  "summary": "Anthropic's 2026 threat report publicly disclosed for the first time that newer Claude models can no longer be assumed below the threshold for meaningful bioweapons assistance; the report also revealed Russia-linked actors used Claude Code to build drone kill software.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://www.techtimes.com/articles/327308/20260911/anthropic-threat-report-ai-models-near-bioweapons-threshold-drone-kill-software-emerges.htm",
-  "source_title": null,
-  "publisher": "Tech Times",
-  "permalink": "https://presentofai.com/e/22263"
  },
  {
   "id": 22201,
@@ -47015,8 +47029,8 @@
   "id": 1503,
   "event_date": "2025-10-28",
   "realm": "terrestrial",
-  "title": "Tesla Optimus Deployed at Times Square and Factory Settings",
-  "summary": "Tesla's Optimus humanoid robot has appeared in public settings including Times Square, where it handed out Halloween sweets, and has been operating at Tesla's engineering headquarters in Palo Alto, building on earlier appearances at events like We, Robot Day and the Tesla Diner in Los Angeles.",
+  "title": "Tesla Optimus Deployed at Times Square for Halloween",
+  "summary": "Tesla's Optimus humanoid robot stepped out of its manufacturing environment and appeared at Times Square, where it handed out Halloween sweets to the public.",
   "actor": "",
   "ticker": "TSLA",
   "materiality": 62,
