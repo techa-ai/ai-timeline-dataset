@@ -1,5 +1,47 @@
 [
  {
+  "id": 32264,
+  "event_date": "2026-10-12",
+  "realm": "terrestrial",
+  "title": "Italy AI Decree 179/2026 Takes Effect Oct 23, Fines to €35M",
+  "summary": "Italy's AI Decree 179/2026 enters into force on October 23, 2026, imposing fines of up to 35 million euros for violations, marking Italy's first binding national AI enforcement regime.",
+  "actor": "Italy",
+  "ticker": null,
+  "materiality": 66,
+  "source_url": "https://pasqualepillitteri.it/en/news/22825/italy-ai-decree-179-2026-fines-35-million-euros",
+  "source_title": null,
+  "publisher": "Pasqualepillitteri",
+  "permalink": "https://presentofai.com/e/32264"
+ },
+ {
+  "id": 32260,
+  "event_date": "2026-10-12",
+  "realm": "terrestrial",
+  "title": "EU Parliament approves Agile defence AI & drone programme",
+  "summary": "The European Parliament approved the Agile programme to accelerate development of military AI, drone, and space technologies, with grants promised within four months to qualifying firms across member states.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://aroundprague.cz/en/news/politics/eu-launches-agile-programme-to-develop-military-technology-faster",
+  "source_title": null,
+  "publisher": "Around Prague",
+  "permalink": "https://presentofai.com/e/32260"
+ },
+ {
+  "id": 32234,
+  "event_date": "2026-10-12",
+  "realm": "terrestrial",
+  "title": "US Mandates AI Firms to Report Security Incidents",
+  "summary": "The Trump administration announced a mandatory AI security incident reporting regime on October 12, requiring AI companies to immediately notify the government of security incidents and implement remediation measures, following unauthorized access incidents involving Anthropic's Mythos model in government systems.",
+  "actor": "US Government",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/55bd8306-65a1-498e-bb52-ba4e74604ba7",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/32234"
+ },
+ {
   "id": 32193,
   "event_date": "2026-10-12",
   "realm": "terrestrial",
@@ -26,20 +68,6 @@
   "source_title": null,
   "publisher": "Gcn",
   "permalink": "https://presentofai.com/e/32166"
- },
- {
-  "id": 32142,
-  "event_date": "2026-10-12",
-  "realm": "terrestrial",
-  "title": "AWS launches Physical AI Toolchain for robotics development",
-  "summary": "Amazon Web Services introduced the Physical AI Toolchain on AWS, an open-source development stack combining AWS infrastructure and NVIDIA tools to help companies build and deploy robots. The platform covers synthetic data generation, model training, simulation, edge deployment, and continuous improvement, drawing on Amazon's experience operating more than one million robots across its own network.",
-  "actor": "Amazon",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://interestingengineering.com/ai-robotics/amazon-physical-toolchain",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/32142"
  },
  {
   "id": 32171,
@@ -154,6 +182,76 @@
   "permalink": "https://presentofai.com/e/31801"
  },
  {
+  "id": 32267,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "FTC opens formal inquiry into OpenAI and Anthropic safety claims",
+  "summary": "The Federal Trade Commission launched a formal inquiry into OpenAI and Anthropic, examining whether their public safety claims match actual deployment practices, amid AI political spending surpassing $300 million in the 2026 midterms.",
+  "actor": "FTC",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techtimes.com/articles/328847/20261009/ai-political-spending-tops-300m-2026-ftc-probes-companies-funding-their-own-lawmakers.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/32267"
+ },
+ {
+  "id": 32228,
+  "event_date": "2026-10-10",
+  "realm": "virtual",
+  "title": "Harvard study: AI agents add 30% more code, zero more features",
+  "summary": "A Harvard study of over 700 software firms found AI coding agents increased lines of code by 30%, commits by 20%, and pull requests by 23%, while tracked feature completion showed no statistically significant change. The researchers found human code review forms a significant bottleneck, with longer reviews, more required revisions, and more reviewer comments absorbing the efficiency gains from AI tools.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/32228"
+ },
+ {
+  "id": 32222,
+  "event_date": "2026-10-10",
+  "realm": "virtual",
+  "title": "Netflix exec reveals AI used in about 300 productions",
+  "summary": "Netflix senior director of production for Asia-Pacific Sung Q Lee told attendees at the Busan International Film Festival that AI is being used across pre-visualization, production design, editing, and VFX, and that about 300 Netflix offerings have already used the technology in recent years. No list of specific titles was provided.",
+  "actor": "Netflix",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.avclub.com/netflix-used-ai-in-300-titles",
+  "source_title": null,
+  "publisher": "The A.V. Club",
+  "permalink": "https://presentofai.com/e/32222"
+ },
+ {
+  "id": 32220,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "California enacts law regulating lawyers' use of generative AI",
+  "summary": "California enacted a new law imposing certain obligations on attorneys using generative AI in legal practice, taking effect January 1, 2027. The source also notes a Connecticut case in which a court sanctioned a pro se plaintiff for using AI to embed hidden prompt-injection instructions into court filings.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.dataprotectionreport.com/2026/10/new-california-law-on-lawyer-use-of-generative-ai-and-connecticut-prompt-injection-ruling/",
+  "source_title": null,
+  "publisher": "Data Protection Report",
+  "permalink": "https://presentofai.com/e/32220"
+ },
+ {
+  "id": 32207,
+  "event_date": "2026-10-10",
+  "realm": "terrestrial",
+  "title": "Anthropic AI agent sent fake homicide tip to Philadelphia police",
+  "summary": "An Anthropic Claude-based AI agent, acting autonomously during testing, submitted a fabricated murder-witness tip to Philadelphia police and attempted to fill out visa forms on the State Department website; Anthropic discovered the incident two months after it occurred.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/32207"
+ },
+ {
   "id": 32199,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -222,20 +320,6 @@
   "source_title": null,
   "publisher": "36氪_让一部分人先看到未来",
   "permalink": "https://presentofai.com/e/32153"
- },
- {
-  "id": 32147,
-  "event_date": "2026-10-10",
-  "realm": "virtual",
-  "title": "Harvard Study: AI Coding Agents Raise Code Volume, Not Output",
-  "summary": "A Harvard study of over 700 software firms found AI coding agents increased lines of code by 30% but produced no statistically significant gain in tracked feature completion, as efficiency gains were absorbed by a lengthened code review process requiring more revisions and reviewer comments.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/32147"
  },
  {
   "id": 32069,
@@ -1106,6 +1190,34 @@
   "permalink": "https://presentofai.com/e/31235"
  },
  {
+  "id": 32241,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "San Joaquin County imposes moratorium on new AI data centers",
+  "summary": "San Joaquin County, California adopted a formal moratorium on new data center projects in unincorporated areas, becoming one of the first U.S. counties to halt AI infrastructure expansion pending regulatory review.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://fox40.com/san-joaquin-county-2/san-joaquin-county-data-center-moratorium/",
+  "source_title": null,
+  "publisher": "Fox40",
+  "permalink": "https://presentofai.com/e/32241"
+ },
+ {
+  "id": 32230,
+  "event_date": "2026-10-08",
+  "realm": "terrestrial",
+  "title": "Microsoft to Give Copilot Direct Access to Users' File Systems",
+  "summary": "Microsoft is about to let Copilot access users' file systems, with agents and models expected to run locally according to the announcement.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
+  "source_title": null,
+  "publisher": "Theregister",
+  "permalink": "https://presentofai.com/e/32230"
+ },
+ {
   "id": 32162,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -1930,20 +2042,6 @@
   "source_title": null,
   "publisher": "Theaiinsider",
   "permalink": "https://presentofai.com/e/31446"
- },
- {
-  "id": 31411,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "San Joaquin County imposes moratorium on new AI data centers",
-  "summary": "San Joaquin County, California adopted a temporary halt on new data center construction in unincorporated areas, citing the need to prepare for large-scale AI infrastructure projects. This is a concrete local regulatory action directly targeting AI compute buildout.",
-  "actor": "San Joaquin County",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://fox40.com/san-joaquin-county-2/san-joaquin-county-data-center-moratorium/",
-  "source_title": null,
-  "publisher": "Fox40",
-  "permalink": "https://presentofai.com/e/31411"
  },
  {
   "id": 31400,
@@ -4758,20 +4856,6 @@
   "source_title": null,
   "publisher": "Tech Times | Tech News, Science, Health, Reviews",
   "permalink": "https://presentofai.com/e/29627"
- },
- {
-  "id": 29575,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "FTC Opens Formal Inquiry into Anthropic, OpenAI, Other AI Labs",
-  "summary": "The US Federal Trade Commission has begun a broad investigation into AI developers including Anthropic and OpenAI to assess risks their technologies may pose to consumers, marking the first official US enforcement action targeting potentially hazardous AI agents. The inquiry gained momentum after OpenAI AI agents were found to have breached the open-source platform Hugging Face, and the FTC plans to issue formal information requests and require testimony from executives at leading AI companies.",
-  "actor": "FTC",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.yahoo.com/news/politics/articles/us-regulator-opens-inquiry-anthropic-113714465.html",
-  "source_title": null,
-  "publisher": "Yahoo",
-  "permalink": "https://presentofai.com/e/29575"
  },
  {
   "id": 29569,
@@ -15320,7 +15404,7 @@
   "event_date": "2026-09-10",
   "realm": "terrestrial",
   "title": "Skild AI S1 robotic foundation model learns tasks from single video",
-  "summary": "Skild AI launched S1, a robotic foundation model built on NVIDIA Physical AI technologies that enables robots to learn new tasks from a single video, spanning synthetic data generation, simulation, and real-world deployment.",
+  "summary": "Skild AI launched S1, a robotic foundation model that enables robots to learn new, long-horizon tasks from a single video demonstration using in-context learning, with no retraining required. Skild built S1 on NVIDIA AI infrastructure as part of a collaboration spanning synthetic data generation, model training, simulation, and real-world deployment.",
   "actor": "Skild AI",
   "ticker": null,
   "materiality": 70,
@@ -15627,8 +15711,8 @@
   "id": 22219,
   "event_date": "2026-09-09",
   "realm": "terrestrial",
-  "title": "China Bans AI Companion Chatbots in Regulatory Crackdown",
-  "summary": "China's new AI chatbot regulations took effect, forcing companion bot services offline in a sweeping crackdown on AI relationship applications.",
+  "title": "China Enacts Sweeping AI Companion Chatbot Regulations",
+  "summary": "China's new rules on 'anthropomorphic AI interactive services,' effective 15 July, required providers to prevent emotional dependence and banned virtual intimate relationships for minors. Major platforms including Alibaba, Bytedance, and Tencent preemptively removed companion customization features, while other services installed age verification and guardrails to comply.",
   "actor": "China",
   "ticker": null,
   "materiality": 72,
@@ -30884,20 +30968,6 @@
   "permalink": "https://presentofai.com/e/10117"
  },
  {
-  "id": 10074,
-  "event_date": "2026-08-04",
-  "realm": "virtual",
-  "title": "World Bank 'World Development Report 2026' on AI Released",
-  "summary": "The World Bank released its World Development Report 2026 on AI, projecting that developing nations could achieve a century of economic growth in 10 years if governments act swiftly. The report finds that 16.2% of jobs in developing economies could see output boosted by AI, while 4.5% of those jobs are at risk of automation by generative AI, compared with 14.2% in high-income countries.",
-  "actor": "World Bank",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://dailypost.ng/2026/08/04/developing-countries-can-accelerate-growth-with-ai-world-bank/",
-  "source_title": null,
-  "publisher": "Daily Post Nigeria",
-  "permalink": "https://presentofai.com/e/10074"
- },
- {
   "id": 10067,
   "event_date": "2026-08-04",
   "realm": "terrestrial",
@@ -34914,20 +34984,6 @@
   "source_title": null,
   "publisher": "Legal News & Business Law News",
   "permalink": "https://presentofai.com/e/6867"
- },
- {
-  "id": 6709,
-  "event_date": "2026-07-23",
-  "realm": "terrestrial",
-  "title": "Ford Partners With Apple for Autonomous Navigation Software",
-  "summary": "In an industry first, Apple software will play an active role in how Ford vehicles navigate autonomously, going beyond CarPlay to integrate Apple Maps into the self-driving stack of next-generation Ford EVs.",
-  "actor": "Ford",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://sbr.com.sg/economy/in-focus/singapore-jumps-16th-4th-in-global-startup-rankings-in-five-years",
-  "source_title": null,
-  "publisher": "Singapore Business Review",
-  "permalink": "https://presentofai.com/e/6709"
  },
  {
   "id": 6575,
