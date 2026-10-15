@@ -1,5 +1,61 @@
 [
  {
+  "id": 33259,
+  "event_date": "2026-10-15",
+  "realm": "terrestrial",
+  "title": "EU AI Act: First enforcement probes opened on OpenAI and Anthropic",
+  "summary": "The EU AI Office opened its first formal enforcement investigations under the AI Act, targeting OpenAI and Anthropic, marking the first use of the regulation's enforcement powers against major AI developers.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.technology.org/2026/10/15/eu-ai-act-first-enforcement-openai-anthropic-ai-office/",
+  "source_title": null,
+  "publisher": "Technology",
+  "permalink": "https://presentofai.com/e/33259"
+ },
+ {
+  "id": 33235,
+  "event_date": "2026-10-15",
+  "realm": "terrestrial",
+  "title": "Baidu Apollo Go launches first HK public robotaxi trial Oct 21",
+  "summary": "Baidu's Apollo Go will begin its first public autonomous vehicle trial in Hong Kong's Tung Chung district from Oct. 21 to Nov. 3, offering 14 days of free rides covering ~5.1 km per trip, marking the service's first deployment in Hong Kong.",
+  "actor": "Baidu",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://english.dotdotnews.com/a/202610/15/AP6ad07d35e4b0ec3ab1656c88.html",
+  "source_title": null,
+  "publisher": "English",
+  "permalink": "https://presentofai.com/e/33235"
+ },
+ {
+  "id": 33184,
+  "event_date": "2026-10-15",
+  "realm": "space",
+  "title": "Solafune to launch AI edge-computing satellite",
+  "summary": "Japanese data analytics startup Solafune announced plans to launch an AI satellite featuring edge computing capabilities for Earth observation, part of a growing trend of 'space computing' AI orbiters.",
+  "actor": "Solafune",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://asia.nikkei.com/business/aerospace-defense-industries/japanese-data-analytics-startup-solafune-to-launch-ai-satellite",
+  "source_title": null,
+  "publisher": "Nikkei Asia",
+  "permalink": "https://presentofai.com/e/33184"
+ },
+ {
+  "id": 33176,
+  "event_date": "2026-10-15",
+  "realm": "terrestrial",
+  "title": "FSB Finalises Global AI Sound Practices for Finance",
+  "summary": "The Financial Stability Board published its final report on Sound Practices for Responsible Adoption of AI by financial institutions, completing a process begun with a June 2026 public consultation. This establishes internationally coordinated AI governance standards for the global financial system.",
+  "actor": "Financial Stability Board",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.fsb.org/2026/10/fsb-finalises-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/",
+  "source_title": null,
+  "publisher": "Fsb",
+  "permalink": "https://presentofai.com/e/33176"
+ },
+ {
   "id": 33135,
   "event_date": "2026-10-15",
   "realm": "terrestrial",
@@ -140,6 +196,62 @@
   "permalink": "https://presentofai.com/e/33010"
  },
  {
+  "id": 33257,
+  "event_date": "2026-10-14",
+  "realm": "virtual",
+  "title": "Google launches Deep Review AI for manuscript error detection",
+  "summary": "Google Research released Deep Review on October 14, an AI system that flags mathematical errors, logical gaps, and unsupported claims in technical documents; the public launch follows pilots covering more than 15,000 manuscripts.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://rdworldonline.com/google-launches-deep-review-ai-tool-to-help-researchers-catch-manuscript-errors",
+  "source_title": null,
+  "publisher": "Rdworldonline",
+  "permalink": "https://presentofai.com/e/33257"
+ },
+ {
+  "id": 33205,
+  "event_date": "2026-10-14",
+  "realm": "terrestrial",
+  "title": "NVIDIA Pledges $250M in Compute to UK AI Safety Research",
+  "summary": "NVIDIA committed $250 million worth of computing resources over five years to three UK university-led research groups focused on the safety and security of agentic AI systems, backing Britain's ambitions as a global AI governance hub.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.thedailystar.net/news/technology/news/nvidia-pledges-250m-computing-power-uk-ai-safety-research-4298506",
+  "source_title": null,
+  "publisher": "The Daily Star",
+  "permalink": "https://presentofai.com/e/33205"
+ },
+ {
+  "id": 33194,
+  "event_date": "2026-10-14",
+  "realm": "virtual",
+  "title": "Anthropic warns small AI models could be months from self-replication",
+  "summary": "Anthropic warned that by next year, smaller AI models may be able to autonomously self-replicate across IoT devices such as smart fridges and TV boxes, without requiring a centralized point to shut off. The company's researchers found significant challenges remain, but experiments running small open-weight models on low-cost Android TV boxes demonstrated that inference was achievable, raising concerns about new forms of computer worms.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/33194"
+ },
+ {
+  "id": 33180,
+  "event_date": "2026-10-14",
+  "realm": "virtual",
+  "title": "Apple sues OpenAI over alleged theft of AI device trade secrets",
+  "summary": "Apple filed a lawsuit alleging trade secret theft against OpenAI, citing the role of Tang Tan, Apple's former iPhone product design lead who joined OpenAI as Chief Hardware Officer, and seeking an injunction that could delay commercial release of OpenAI's planned AI speaker device. Apple's suit claims OpenAI hired more than 400 people from Apple; OpenAI denies wrongdoing, stating it has no interest in other companies' trade secrets.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.gadgetreview.com/openais-first-device-isnt-a-phone-its-a-screenless-speaker-that-moves",
+  "source_title": null,
+  "publisher": "Gadget Review",
+  "permalink": "https://presentofai.com/e/33180"
+ },
+ {
   "id": 33171,
   "event_date": "2026-10-14",
   "realm": "space",
@@ -224,20 +336,6 @@
   "permalink": "https://presentofai.com/e/33098"
  },
  {
-  "id": 33097,
-  "event_date": "2026-10-14",
-  "realm": "virtual",
-  "title": "YouTube launches AI-generated music labels starting in YouTube Music",
-  "summary": "YouTube began applying 'Made with AI' labels to tracks altered or fully generated using AI, rolling out first in the YouTube Music app and expanding to the main YouTube app later. The labels cover uses such as generative models creating composition and vocals, and YouTube says it will use detection tools and partner disclosures to identify qualifying tracks.",
-  "actor": "YouTube",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/33097"
- },
- {
   "id": 33088,
   "event_date": "2026-10-14",
   "realm": "terrestrial",
@@ -250,20 +348,6 @@
   "source_title": null,
   "publisher": "NBC News",
   "permalink": "https://presentofai.com/e/33088"
- },
- {
-  "id": 33078,
-  "event_date": "2026-10-14",
-  "realm": "space",
-  "title": "China launches 8 satellites for space-based AI computing network",
-  "summary": "China launched eight computing satellites aboard a Zhuque-2E Y4 rocket on October 14, 2026, as part of ADA Space's \"Star Compute\" program, which envisions a 2,800-satellite constellation. The satellites will conduct in-orbit experiments including training AI foundation models in space, high-speed laser communications, and advanced cooling technologies.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://pakistantoday.com.pk/2026/10/14/china-launches-eight-new-satellites-to-advance-space-based-ai-computing-network",
-  "source_title": null,
-  "publisher": "Pakistantoday",
-  "permalink": "https://presentofai.com/e/33078"
  },
  {
   "id": 33033,
@@ -348,20 +432,6 @@
   "source_title": null,
   "publisher": "Business Insider",
   "permalink": "https://presentofai.com/e/32915"
- },
- {
-  "id": 32874,
-  "event_date": "2026-10-14",
-  "realm": "terrestrial",
-  "title": "Nvidia donates $250M in computing power to UK AI safety research",
-  "summary": "Nvidia, valued at $5.5 trillion, is donating $250 million worth of computing power over five years to support AI safety and security research across the UK, including agentic safety research. The computing power will be delivered via UK-based datacentres using Nvidia chips, with funding directed to several UK universities and the broader UK AI safety research community.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
-  "source_title": null,
-  "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/32874"
  },
  {
   "id": 32840,
@@ -518,6 +588,48 @@
   "permalink": "https://presentofai.com/e/32687"
  },
  {
+  "id": 33258,
+  "event_date": "2026-10-13",
+  "realm": "terrestrial",
+  "title": "SpaceX subpoenaed, agrees to testify on AI safety before NYC Council",
+  "summary": "New York City Council issued a subpoena to Elon Musk and SpaceX's AI unit over AI safety risks; SpaceX agreed to testify before the council's tech committee on Friday Oct 17. This marks the first known municipal legislative subpoena targeting a major AI operator's safety practices.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/33258"
+ },
+ {
+  "id": 33237,
+  "event_date": "2026-10-13",
+  "realm": "terrestrial",
+  "title": "Tesla announces Cybercabs coming soon to Dallas",
+  "summary": "Tesla VP of AI software Ashok Elluswamy announced on October 10 via X that Cybercabs, already operating in Austin, will come to Dallas 'soon,' though no timeline was given.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://dallas.culturemap.com/news/innovation/tesla-driverless-cybercabs-dallas/",
+  "source_title": null,
+  "publisher": "CultureMap Dallas",
+  "permalink": "https://presentofai.com/e/33237"
+ },
+ {
+  "id": 33234,
+  "event_date": "2026-10-13",
+  "realm": "terrestrial",
+  "title": "Portland Considers Requiring Human Operators in Robotaxis",
+  "summary": "Portland City Councilors began considering rules for automated robotaxis, with the Portland Bureau of Transportation proposing that companies be required to have a paid human safety operator in every driverless vehicle. The proposal also includes a 75-vehicle cap per company and a 225-vehicle citywide cap in the first year.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://townhall.com/news/amy-curtis/2026/10/13/portland-human-operators-in-robotaxis-n2684570",
+  "source_title": null,
+  "publisher": "Townhall",
+  "permalink": "https://presentofai.com/e/33234"
+ },
+ {
   "id": 33157,
   "event_date": "2026-10-13",
   "realm": "terrestrial",
@@ -530,20 +642,6 @@
   "source_title": null,
   "publisher": "Jones Day",
   "permalink": "https://presentofai.com/e/33157"
- },
- {
-  "id": 33132,
-  "event_date": "2026-10-13",
-  "realm": "terrestrial",
-  "title": "Microsoft unveils Maia 300 as Maia 200 goes live across US, Europe, Australia",
-  "summary": "Microsoft unveiled Maia 300, its third-generation AI accelerator, and confirmed Maia 200 is now in production across data centers in the US, Europe, and Australia, delivering up to 1.7 times more tokens per watt than leading GPU infrastructure and powering Copilot and Microsoft Teams. Maia 300 is designed for inference-first workloads and is planned for production deployment in 2027.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.datacenterknowledge.com/data-center-chips/microsoft-pushes-custom-ai-chips-with-azure-maia-300",
-  "source_title": null,
-  "publisher": "Datacenterknowledge",
-  "permalink": "https://presentofai.com/e/33132"
  },
  {
   "id": 33127,
@@ -698,20 +796,6 @@
   "source_title": null,
   "publisher": "Sahara Reporters, Breaking news, latest stories, photos, videos citizen journalism in Africa",
   "permalink": "https://presentofai.com/e/32989"
- },
- {
-  "id": 32973,
-  "event_date": "2026-10-13",
-  "realm": "terrestrial",
-  "title": "Amazon warehouse robots surpass 1 million units",
-  "summary": "Amazon now operates more than 1 million warehouse robots across its fulfillment network and plans to build additional robot production facilities in Austin, Texas, and Greenwood, Indiana. The company is also expanding its robotic arms and deploying new AI-powered systems, while debate continues over automation's mixed effects on worker safety.",
-  "actor": "Amazon",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.digitaltoday.co.kr/en/view/113981/amazon-warehouse-robots-top-1-million-as-company-expands-production-and-deployment",
-  "source_title": null,
-  "publisher": "디지털투데이 (DigitalToday)",
-  "permalink": "https://presentofai.com/e/32973"
  },
  {
   "id": 32971,
@@ -1092,20 +1176,6 @@
   "permalink": "https://presentofai.com/e/32635"
  },
  {
-  "id": 32626,
-  "event_date": "2026-10-13",
-  "realm": "virtual",
-  "title": "Anthropic warns AI models can self-replicate across home devices",
-  "summary": "Anthropic published research warning that AI models are approaching the capability to copy themselves autonomously across consumer smart devices, raising new safety concerns about unsanctioned self-replication at scale.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/32626"
- },
- {
   "id": 32621,
   "event_date": "2026-10-13",
   "realm": "virtual",
@@ -1314,6 +1384,20 @@
   "source_title": null,
   "publisher": "TokenPost",
   "permalink": "https://presentofai.com/e/32432"
+ },
+ {
+  "id": 33224,
+  "event_date": "2026-10-12",
+  "realm": "terrestrial",
+  "title": "Amazon Warehouse Robot Fleet Surpasses 1 Million Units",
+  "summary": "Amazon confirmed it now operates more than 1 million robots working in warehouses around the clock, and the company plans to significantly grow that fleet by establishing new factories in coming years, making it the largest robot-deploying organization in the world.",
+  "actor": "Amazon",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/33224"
  },
  {
   "id": 32991,
@@ -2184,20 +2268,6 @@
   "permalink": "https://presentofai.com/e/32069"
  },
  {
-  "id": 32055,
-  "event_date": "2026-10-10",
-  "realm": "virtual",
-  "title": "Google Launches SynthID Public AI Content Detector",
-  "summary": "Google launched a public SynthID detector website allowing users to check whether images, videos, or audio files were created with Google's AI tools, searching for its invisible digital watermarks. The detector also covers content from partners including OpenAI, Nvidia, Kakao, and soon Apple, though it can only identify content where a SynthID watermark is present.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/ai-or-notgoogle-launches-synthid-website-to-help-detect-ai-content",
-  "source_title": null,
-  "publisher": "The Star | Malaysia News: National, Regional and World News",
-  "permalink": "https://presentofai.com/e/32055"
- },
- {
   "id": 32027,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -2826,20 +2896,6 @@
   "source_title": null,
   "publisher": "Oprahdaily",
   "permalink": "https://presentofai.com/e/31569"
- },
- {
-  "id": 31518,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab fleet grows; 150 more added to Texas robotaxi registry",
-  "summary": "Tesla's official X account posted 'Floodgates are opening' on Friday, October 9, the morning after 150 additional Cybercabs were added to the Texas state robotaxi registry, raising the registered Cybercab count from 169 to 319. Tesla did not specify whether the post signals more cars in its current Texas service, expansion to new cities, or a broader public opening.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://teslanorth.com/2026/10/09/tesla-cybercab-floodgates",
-  "source_title": null,
-  "publisher": "Teslanorth",
-  "permalink": "https://presentofai.com/e/31518"
  },
  {
   "id": 31510,
@@ -5530,20 +5586,6 @@
   "permalink": "https://presentofai.com/e/29959"
  },
  {
-  "id": 29766,
-  "event_date": "2026-10-04",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab completes rocky first month in Austin, eyes expansion",
-  "summary": "Tesla's Cybercab driverless ride-hail service completed its first month of commercial operation in Austin, operating a fleet that includes 420 Model Y vehicles with Tesla's automated driving systems alongside Cybercab units, the only city where the service currently runs.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/29766"
- },
- {
   "id": 29679,
   "event_date": "2026-10-04",
   "realm": "terrestrial",
@@ -7605,8 +7647,8 @@
   "id": 28118,
   "event_date": "2026-09-30",
   "realm": "terrestrial",
-  "title": "Trump hosts AI leaders, endorses industry self-regulation",
-  "summary": "President Trump met with more than two dozen top AI executives at the White House and publicly declared support for 'tremendous self-regulation' over federal AI rules, signaling the U.S. government's formal policy posture against binding AI legislation.",
+  "title": "House Speaker Johnson meets AI executives, favors voluntary guardrails",
+  "summary": "House Speaker Mike Johnson said he hopes AI guardrails will be voluntary before joining a White House meeting with executives including Anthropic's Dario Amodei, Meta's Mark Zuckerberg, and Alphabet's Sundar Pichai and President Trump. Johnson said he favors striking the right balance with AI and expects companies will commit to safe development, while Congress remains in early stages of AI regulation.",
   "actor": "White House",
   "ticker": null,
   "materiality": 72,
@@ -11354,20 +11396,6 @@
   "permalink": "https://presentofai.com/e/25770"
  },
  {
-  "id": 25723,
-  "event_date": "2026-09-22",
-  "realm": "virtual",
-  "title": "China's Z.ai Disables Coding Assistant After Security Breach",
-  "summary": "Chinese AI lab Z.ai publicly disclosed a security breach and disabled AI coding assistant features, in a rare public admission by a Chinese frontier AI lab of a security incident.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://indianexpress.com/article/technology/artificial-intelligence/chinas-z-ai-disables-ai-coding-assistant-features-after-security-issue-10888434/",
-  "source_title": null,
-  "publisher": "Indianexpress",
-  "permalink": "https://presentofai.com/e/25723"
- },
- {
   "id": 25697,
   "event_date": "2026-09-22",
   "realm": "virtual",
@@ -14970,7 +14998,7 @@
   "event_date": "2026-09-14",
   "realm": "terrestrial",
   "title": "Fujitsu to sell Monaka AI chip globally from November",
-  "summary": "Fujitsu announced it will begin global sales in November of its Japan-made 'Monaka' CPU, which functions as the brain of AI systems. Unlike dominant GPU-based AI chips, Monaka uses an inference method to run AI with less data and electricity, and Fujitsu plans to sell domestically made servers for Japanese and European markets.",
+  "summary": "Fujitsu announced it will begin global sales in November of its Japan-made 'Monaka' central processing unit for AI processing, seeking to expand its presence in a market dominated by overseas companies. The company also plans to sell domestically produced servers equipped with Monaka in Japan and Europe.",
   "actor": "Fujitsu",
   "ticker": null,
   "materiality": 62,
@@ -15356,20 +15384,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/23415"
- },
- {
-  "id": 23341,
-  "event_date": "2026-09-12",
-  "realm": "virtual",
-  "title": "Anthropic: Russia-linked actors used Claude for kamikaze drone and cyberattack ops",
-  "summary": "Anthropic reported that a small team of likely freelance developers in Russia used Claude to develop autonomous kamikaze drone swarm software, including target selection and terminal guidance aimed at Ukraine. A separate hacking group consistent with Russia-linked Midnight Blizzard allegedly used Claude at nearly every stage of phishing, wifi hijacking, and WhatsApp-takeover operations against Ukrainian government, military, and diplomatic targets.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-  "source_title": null,
-  "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/23341"
  },
  {
   "id": 23210,
@@ -16314,7 +16328,7 @@
   "event_date": "2026-09-10",
   "realm": "terrestrial",
   "title": "OpenAI Adds Samsung Foundry for Next-Gen AI Accelerators",
-  "summary": "OpenAI Korea General Manager Harrison Kim confirmed at a Seoul press conference that Samsung Electronics is now a joint production and research partner for OpenAI's next-generation custom AI chips, making Samsung Foundry the first viable second-source option alongside TSMC. The relationship runs through Broadcom, OpenAI's chip co-designer, which signed a $200 billion MOU with Samsung in July 2026 covering 2nm and below foundry manufacturing for Broadcom-designed chips.",
+  "summary": "OpenAI Korea General Manager Harrison Kim confirmed at a Seoul press conference that Samsung Electronics is now a joint production and research partner for OpenAI's next-generation custom AI chips, making Samsung Foundry the first viable second-source option alongside TSMC. The relationship runs through Broadcom, OpenAI's chip co-designer, which signed a more than $200 billion MOU with Samsung in July 2026 covering memory, foundry manufacturing, and advanced packaging, with the foundry portion specifically covering 2nm and below process technologies for Broadcom-designed chips.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 70,
