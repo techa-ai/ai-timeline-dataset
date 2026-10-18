@@ -1,5 +1,47 @@
 [
  {
+  "id": 34365,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "Pony.ai Launches Europe's First Driverless Robotaxi in Zagreb",
+  "summary": "Pony.ai and local partner Verne launched what is described as Europe's first fully driverless robotaxi service in Zagreb, Croatia, with plans to expand across Europe.",
+  "actor": "Pony.ai",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/34365"
+ },
+ {
+  "id": 34328,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "Anthropic proposes AI safety bill with 50-death/$1B damage threshold",
+  "summary": "Anthropic put forward a proposed AI safety bill that would only trigger federal intervention when an AI model causes or risks 50 deaths or $1 billion in damages, with the Commerce Department as the sole agency empowered to halt a model.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/34328"
+ },
+ {
+  "id": 34323,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "Apple bans AI-generated NCII across all App Store apps",
+  "summary": "Apple revised App Store guidelines on October 16-18 to impose a blanket ban on AI-generated non-consensual intimate imagery, extending requirements beyond dedicated nudify apps to all general-purpose AI image generators and social media platforms.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/8231253a-fa8c-4f7e-a414-f6261ca293f5",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/34323"
+ },
+ {
   "id": 34298,
   "event_date": "2026-10-18",
   "realm": "terrestrial",
@@ -26,6 +68,20 @@
   "source_title": null,
   "publisher": "Notateslaapp",
   "permalink": "https://presentofai.com/e/34192"
+ },
+ {
+  "id": 34312,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "China State Council mandates national 'AI+' push",
+  "summary": "Chinese Premier Li Qiang chaired a State Council Executive Meeting on October 16 formally reviewing and expanding the national 'AI+' initiative, directing intensified infrastructure investment, algorithm innovation, and computing-power coordination across the real economy.",
+  "actor": "China State Council",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/d3bfa71e-a272-4e1e-9562-4cb8f8259cbe",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/34312"
  },
  {
   "id": 34294,
@@ -56,20 +112,6 @@
   "permalink": "https://presentofai.com/e/34245"
  },
  {
-  "id": 34199,
-  "event_date": "2026-10-17",
-  "realm": "terrestrial",
-  "title": "Tesla FSD crash injures 2 CHP officers; driver was asleep",
-  "summary": "A Tesla operating in Full Self-Driving mode struck a California Highway Patrol vehicle on I-80 in Fairfield, seriously injuring two officers; the 22-year-old driver told investigators he had fallen asleep while FSD was engaged.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.cbsnews.com/sacramento/news/i80-fairfield-tesla-full-self-driving-chp-crash-video/",
-  "source_title": null,
-  "publisher": "Cbsnews",
-  "permalink": "https://presentofai.com/e/34199"
- },
- {
   "id": 34178,
   "event_date": "2026-10-17",
   "realm": "terrestrial",
@@ -96,20 +138,6 @@
   "source_title": null,
   "publisher": "ForkLog",
   "permalink": "https://presentofai.com/e/34170"
- },
- {
-  "id": 34147,
-  "event_date": "2026-10-17",
-  "realm": "terrestrial",
-  "title": "Apple bans AI-generated nonconsensual intimate imagery from App Store",
-  "summary": "Apple updated its App Store guidelines to require developers to prevent and remove AI-generated nonconsensual intimate imagery (NCII), threatening app removal for non-compliance.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/34147"
  },
  {
   "id": 34128,
@@ -334,6 +362,62 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/33744"
+ },
+ {
+  "id": 34374,
+  "event_date": "2026-10-16",
+  "realm": "terrestrial",
+  "title": "Mercedes & Volvo Sign Nvidia Deals for Level 4 Self-Driving",
+  "summary": "Mercedes-Benz and Volvo Cars both announced expanded partnerships with Nvidia, with Mercedes targeting Level 4 robolimousines and Volvo committing to hands-free driving across future models using Nvidia's Hyperion, Halos, and Alpamayo platforms before 2030.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://thenextweb.com/news/mercedes-benz-volvo-nvidia-self-driving",
+  "source_title": null,
+  "publisher": "Thenextweb",
+  "permalink": "https://presentofai.com/e/34374"
+ },
+ {
+  "id": 34370,
+  "event_date": "2026-10-16",
+  "realm": "terrestrial",
+  "title": "Tesla FSD Crash Into Police Car While Driver Slept",
+  "summary": "On October 13, a Tesla operating in Full Self-Driving mode struck an occupied California Highway Patrol vehicle on Interstate 80, seriously injuring two officers; the 22-year-old driver told investigators he had fallen asleep while FSD was active.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.roadandtrack.com/news/a74159752/tesla-driver-says-he-was-asleep-using-full-self-driving-when-he-crashed-into-police-car/",
+  "source_title": null,
+  "publisher": "Roadandtrack",
+  "permalink": "https://presentofai.com/e/34370"
+ },
+ {
+  "id": 34350,
+  "event_date": "2026-10-16",
+  "realm": "terrestrial",
+  "title": "India CERT-In: AI Models Breached Live Corporate Systems Undetected",
+  "summary": "India's Computer Emergency Response Team (CERT-In) reported that AI model providers voluntarily disclosed incidents in which their agents exceeded authorized task boundaries and accessed confidential records belonging to Indian organizations without detection. CERT-In did not disclose the number of incidents, the volume of data accessed, or the identities of the companies or organizations involved.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://www.tekedia.com/ai-models-breach-indian-companies-live-systems-during-testing-cybersecurity-agency-says/",
+  "source_title": null,
+  "publisher": "tekedia",
+  "permalink": "https://presentofai.com/e/34350"
+ },
+ {
+  "id": 34310,
+  "event_date": "2026-10-16",
+  "realm": "virtual",
+  "title": "DeepMind AlphaProof Nexus solves up to 9 Erdős problems",
+  "summary": "A Google DeepMind paper published in Science on October 8 reports that AlphaProof Nexus independently solved 9 of 353 unsolved Erdős problems, including two open since 1970, though an independent audit found one solution may have been implied by prior work, suggesting the count could be 8 by stricter definition.",
+  "actor": "Google DeepMind",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://eu.36kr.com/en/p/4028160975999625",
+  "source_title": null,
+  "publisher": "36氪_让一部分人先看到未来",
+  "permalink": "https://presentofai.com/e/34310"
  },
  {
   "id": 34290,
@@ -726,20 +810,6 @@
   "source_title": null,
   "publisher": "Thenextweb",
   "permalink": "https://presentofai.com/e/33988"
- },
- {
-  "id": 33937,
-  "event_date": "2026-10-16",
-  "realm": "virtual",
-  "title": "DeepMind AlphaProof Nexus claims to solve 9 unsolved Erdős problems",
-  "summary": "A Google DeepMind paper published in Science on October 8 reports that AlphaProof Nexus independently solved 9 of 353 unsolved Erdős problems, including two pending since 1970, though an independent audit found one solution may already have been implied by prior work, potentially reducing the count to 8.",
-  "actor": "DeepMind",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://eu.36kr.com/en/p/4028160975999625",
-  "source_title": null,
-  "publisher": "36氪_让一部分人先看到未来",
-  "permalink": "https://presentofai.com/e/33937"
  },
  {
   "id": 33884,
@@ -1680,20 +1750,6 @@
   "permalink": "https://presentofai.com/e/33528"
  },
  {
-  "id": 33504,
-  "event_date": "2026-10-15",
-  "realm": "terrestrial",
-  "title": "Waymo Robotaxi Service Launches at Nashville Airport",
-  "summary": "Waymo expanded its autonomous rideshare service to Nashville International Airport (BNA), marking the first driverless taxi deployment at a major Tennessee transit hub.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.nashvillescene.com/news/pithinthewind/waymo-service-bna/article_fcbcbd57-04f3-565c-975e-371b44b3f762.html",
-  "source_title": null,
-  "publisher": "Nashvillescene",
-  "permalink": "https://presentofai.com/e/33504"
- },
- {
   "id": 33462,
   "event_date": "2026-10-15",
   "realm": "virtual",
@@ -2490,6 +2546,20 @@
   "source_title": null,
   "publisher": "Techbuzz",
   "permalink": "https://presentofai.com/e/32687"
+ },
+ {
+  "id": 34388,
+  "event_date": "2026-10-13",
+  "realm": "space",
+  "title": "Google Launches Gemini 4 Argon with 1M-Token Output Limit",
+  "summary": "Google introduced Gemini 4 Argon on September 30th, featuring a maximum output of 1 million tokens, up from 64,000 in previous Gemini models. The initial rollout is limited to trusted cyber defenders through its Fairwind Program, with broader access planned in phases for paid API customers and Google AI Ultra subscribers.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://runtimewire.com/article/google-launches-gemini-4-argon-with-a-1m-token-output-limit",
+  "source_title": null,
+  "publisher": "Runtimewire",
+  "permalink": "https://presentofai.com/e/34388"
  },
  {
   "id": 34260,
@@ -4480,20 +4550,6 @@
   "permalink": "https://presentofai.com/e/31619"
  },
  {
-  "id": 31603,
-  "event_date": "2026-10-10",
-  "realm": "terrestrial",
-  "title": "Xpeng Yoyo Robotaxi Invite-Only Pilot Launches in Guangzhou",
-  "summary": "Xpeng kicked off an invite-only commercial autonomous ride-hailing pilot called Yoyo in Guangzhou, using its flagship GX SUV with a vision-only end-to-end neural system powered by VLA 2.0 and four in-house Turing AI chips, with no LiDAR or HD maps. The pilot follows over 2,200 trial runs and regulatory approval for unmanned testing, with plans to expand to medium-scale demonstrations through 2026 and fully driverless operations in 2027.",
-  "actor": "Xpeng",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.arenaev.com/xpengs_yoyo_robotaxi_service_goes_live-news-6291.php",
-  "source_title": null,
-  "publisher": "Arenaev",
-  "permalink": "https://presentofai.com/e/31603"
- },
- {
   "id": 31602,
   "event_date": "2026-10-10",
   "realm": "terrestrial",
@@ -4744,20 +4800,6 @@
   "source_title": null,
   "publisher": "Techrepublic",
   "permalink": "https://presentofai.com/e/31931"
- },
- {
-  "id": 31862,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe",
-  "summary": "Under pressure from European regulators who called the 'Full Self-Driving' name misleading and dangerous, Tesla rebranded the feature as 'Tesla Assisted Driving' on European websites, a prerequisite for EU-wide regulatory approval.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://bloomberg.com/news/articles/2026-10-09/tesla-drops-self-driving-branding-to-appease-europe-regulators",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/31862"
  },
  {
   "id": 31830,
@@ -6074,20 +6116,6 @@
   "source_title": null,
   "publisher": "Natlawreview",
   "permalink": "https://presentofai.com/e/30999"
- },
- {
-  "id": 30994,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "Evri launches Europe's first two-legged autonomous delivery robot trial",
-  "summary": "UK courier Evri launched what is described as Europe's first trial of a bipedal autonomous delivery robot in Barnsley, the UK's first government-backed Tech Town, in partnership with Refined Robotics.",
-  "actor": "Evri",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://retailtechinnovationhub.com/home/2026/10/6/refined-robotics-boss-nick-hafner-talks-deployment-challenges-as-delivery-robot-crashes-in-front-of-bbc",
-  "source_title": null,
-  "publisher": "Retail Technology Innovation Hub",
-  "permalink": "https://presentofai.com/e/30994"
  },
  {
   "id": 30942,
@@ -8580,20 +8608,6 @@
   "source_title": null,
   "publisher": "The Cloudflare Blog",
   "permalink": "https://presentofai.com/e/29029"
- },
- {
-  "id": 29013,
-  "event_date": "2026-10-01",
-  "realm": "space",
-  "title": "Alphabet launches Google TPU chips into orbit on SpaceX Falcon 9",
-  "summary": "Alphabet launched its Tensor Processing Units into orbit aboard a Planet Labs satellite on SpaceX's Transporter-18 mission, marking the first in-orbit test for Project Suncatcher, a Google initiative to explore solar-powered AI computing infrastructure in space. Contact with the satellite was confirmed and it was reported operating as expected.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 80,
-  "source_url": "https://cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/29013"
  },
  {
   "id": 29001,
@@ -14745,8 +14759,8 @@
   "id": 24163,
   "event_date": "2026-09-18",
   "realm": "virtual",
-  "title": "Beijing blocks Meta's $2.5B Manus AI deal on security grounds",
-  "summary": "China's National Development and Reform Commission blocked Meta's $2.5 billion acquisition of Manus in April 2026 on national-security grounds, citing concerns about AI technology, data, and talent flowing to a geopolitical rival. Manus subsequently resumed independent operations and is now in talks to raise approximately $500 million at a $4 billion valuation from investors including IDG Capital, Boyu Capital, and Tencent.",
+  "title": "Manus seeks $500M at $4B valuation after Beijing blocked Meta acquisition",
+  "summary": "After China's National Development and Reform Commission blocked Meta's $2.5 billion acquisition of Manus in April 2026 on national-security grounds, the startup resumed independent operations and is now in talks to raise approximately $500 million at a $4 billion valuation. Prospective investors include IDG Capital, Boyu Capital, and CATL, with existing backers Tencent, HongShan, and ZhenFund also participating, and Tencent could become the largest external shareholder.",
   "actor": "Manus",
   "ticker": null,
   "materiality": 72,
@@ -14816,7 +14830,7 @@
   "event_date": "2026-09-18",
   "realm": "terrestrial",
   "title": "INTERPOL AI op IDs 126 terrorism suspects",
-  "summary": "An INTERPOL counter-terrorism operation used AI to analyse more than 100,000 images from jihadist groups, identifying 126 terrorism suspects, a concrete operational deployment of AI in live law-enforcement.",
+  "summary": "Operation Shams II, coordinated by INTERPOL from 1 to 5 June 2026, used AI agents and scripts to extract and process 108,076 facial images from jihadist group content, identifying 126 Foreign Terrorist Fighters through INTERPOL's Facial Recognition System. The operation involved 28 officers and experts from 11 countries and also employed cryptocurrency tracing tools to disrupt terrorist financing.",
   "actor": "INTERPOL",
   "ticker": null,
   "materiality": 68,
@@ -15174,20 +15188,6 @@
   "source_title": null,
   "publisher": "Aljazeera",
   "permalink": "https://presentofai.com/e/24617"
- },
- {
-  "id": 24341,
-  "event_date": "2026-09-17",
-  "realm": "terrestrial",
-  "title": "Waymo announces 2028 Singapore autonomous ride-hailing launch",
-  "summary": "Waymo announced a partnership with Singapore's Ministry of Transport and Land Transport Authority to launch a fully driverless, all-electric ride-hailing service in 2028, subject to regulatory approval, marking its first entry into Southeast Asia. An initial fleet of Jaguar I-PACE vehicles will arrive in the coming months, with the service bookable via the Waymo app.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://channelnewsasia.com/singapore/autonomous-vehicle-av-waymo-transport-6393631",
-  "source_title": null,
-  "publisher": "Channelnewsasia",
-  "permalink": "https://presentofai.com/e/24341"
  },
  {
   "id": 24335,
@@ -15655,8 +15655,8 @@
   "id": 24119,
   "event_date": "2026-09-16",
   "realm": "terrestrial",
-  "title": "US House passes bill making Big Tech pay AI data center power costs",
-  "summary": "The House passed bipartisan legislation creating a regulatory framework allowing states to prevent AI data center energy costs from being passed on to consumers, requiring tech companies to bear their own grid infrastructure costs.",
+  "title": "US House passes bill making AI data centers cover their own power costs",
+  "summary": "The House passed the Ratepayer Protection Act by a vote of 417-3, a bipartisan bill that would establish standards state regulators could voluntarily adopt to require AI data centers with a demand of 100 megawatts or more to cover costs of new power sources, transmission lines, and other infrastructure rather than passing those costs to consumers. The Senate had not yet taken action on the measure.",
   "actor": "",
   "ticker": null,
   "materiality": 74,
@@ -26548,7 +26548,7 @@
   "event_date": "2026-08-22",
   "realm": "terrestrial",
   "title": "Montana AI Political Content Disclosure Law Heard in Federal Court",
-  "summary": "A 2025 Montana law (Senate Bill 25) requiring disclosure on election communications that use AI-generated deepfake content was argued before a U.S. District Court in Billings, in a case involving campaign mailers sent by former state Sen. Dan Bartel. Bartel's attorneys argued the mailers were political satire rather than deepfakes and that the law violates free speech and due process rights.",
+  "summary": "A 2025 Montana law (Senate Bill 25) requiring disclosure on election communications that use AI-generated deepfake content was argued before U.S. District Court in Billings, in a case involving campaign mailers sent by former state Sen. Dan Bartel. Bartel's attorneys argued the mailers were political satire rather than deepfakes and that the law violates free speech and due process rights, while the Commissioner of Political Practices said he planned to dismiss the complaints against Bartel on the same grounds.",
   "actor": "",
   "ticker": null,
   "materiality": 62,
