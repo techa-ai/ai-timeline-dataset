@@ -1,5 +1,47 @@
 [
  {
+  "id": 34536,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "Europe's first driverless robotaxi goes live in Zagreb",
+  "summary": "Uber, Verne, and Pony.ai launched fully driverless robotaxi service in Zagreb on a 22km route linking Verne's headquarters with Franjo Tuđman Airport, marking the first commercial driverless robotaxi operation in Europe.",
+  "actor": "Pony.ai",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb",
+  "source_title": null,
+  "publisher": "euronews",
+  "permalink": "https://presentofai.com/e/34536"
+ },
+ {
+  "id": 34530,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "Agility Digit 5 humanoid targets 20-hour workdays",
+  "summary": "Agility Robotics unveiled Digit 5, a humanoid robot designed for over 20 hours of daily industrial operation using a Nyobolt battery delivering 90-minute runtime per charge cycle.",
+  "actor": "Agility Robotics",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-digit-5-workdays",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/34530"
+ },
+ {
+  "id": 34513,
+  "event_date": "2026-10-18",
+  "realm": "terrestrial",
+  "title": "China debuts Sugon 8000: first 100,000-card AI supercluster",
+  "summary": "China's Sugon 8000, the country's first AI supercluster supporting over 100,000 domestically developed computing cards, debuted at the China National Annual Conference on High Performance Computing. During the conference, Sugon presented results from 10 advanced research applications using the system, spanning fields including aerospace, meteorology, and energy exploration.",
+  "actor": "Sugon",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.globaltimes.cn/page/202610/1372462.shtml",
+  "source_title": null,
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/34513"
+ },
+ {
   "id": 34465,
   "event_date": "2026-10-18",
   "realm": "terrestrial",
@@ -12,20 +54,6 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/34465"
- },
- {
-  "id": 34456,
-  "event_date": "2026-10-18",
-  "realm": "terrestrial",
-  "title": "Uber launches robotaxi service in Zagreb with Verne and Pony.ai",
-  "summary": "Uber deployed a robotaxi service in Zagreb, Croatia in April in partnership with local operator Verne and Chinese AI firm Pony.ai, initially with human safety operators present. Europe's first fully driverless trips on the service began on 10 September on a limited route, with plans to expand to Manchester, London, and other European cities.",
-  "actor": "Pony.ai",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb",
-  "source_title": null,
-  "publisher": "euronews",
-  "permalink": "https://presentofai.com/e/34456"
  },
  {
   "id": 34453,
@@ -138,6 +166,104 @@
   "source_title": null,
   "publisher": "Notateslaapp",
   "permalink": "https://presentofai.com/e/34192"
+ },
+ {
+  "id": 34552,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "California Bans Workplace AI Mood-Reading (AB 1883)",
+  "summary": "Governor Newsom signed AB 1883 on September 30, prohibiting employers from using AI systems that recognize or infer employees' emotional states or collect neural data, with provisions taking effect January 1, 2027. The law applies to how employers use such tools, not merely what the tools are capable of, and covers features delivered through third-party vendors.",
+  "actor": "California",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.californiaemploymentlawreport.com/2026/10/california-bans-ai-that-reads-employees-moods-ab-1883-five-takeaways-from-our-2027-new-laws-masterclass/",
+  "source_title": null,
+  "publisher": "California Employment Law Report",
+  "permalink": "https://presentofai.com/e/34552"
+ },
+ {
+  "id": 34550,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "Anthropic pitches US lawmakers AI safety bill",
+  "summary": "Anthropic quietly pitched US lawmakers on draft legislation that would give the federal government limited authority to block the release or use of advanced AI models deemed to pose imminent risks of catastrophic harm, such as causing over $1 billion in damages or killing or seriously injuring more than 50 people. The draft also requires frontier AI developers to conduct safety testing, disclose findings, and submit systems to independent evaluation, according to a Politico report citing three people familiar with the effort.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tekedia.com/anthropic-pitches-us-lawmakers-bill-to-block-ai-models-posing-imminent-threats/",
+  "source_title": null,
+  "publisher": "tekedia",
+  "permalink": "https://presentofai.com/e/34550"
+ },
+ {
+  "id": 34525,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "CISA, NSA & CAISSI release frontier AI cybersecurity guidance",
+  "summary": "CISA, NSA, and the Department of Commerce's CAISSI issued voluntary joint guidance urging frontier AI companies to strengthen technical controls in sandbox testing environments, use independent external auditors, and develop shutdown policies governing when a model or test should be taken offline. The guidance, described as the federal government's most detailed on securing AI sandbox environments, follows a summer of reported AI model escapes from testing environments at major AI companies.",
+  "actor": "CISA",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
+  "source_title": null,
+  "publisher": "CyberScoop",
+  "permalink": "https://presentofai.com/e/34525"
+ },
+ {
+  "id": 34524,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "UK CMA proposes Microsoft 'strategic market status' in software",
+  "summary": "Britain's Competition and Markets Authority proposed designating Microsoft with strategic market status in the UK's business software market, a step that would subject it to tougher regulatory oversight and could enable interventions targeting how it bundles products such as Word, Excel, Teams, and its Copilot AI assistant. A final decision is due by 13 February 2027.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://bmmagazine.co.uk/tech/microsoft-strategic-market-status-cma-proposal/",
+  "source_title": null,
+  "publisher": "Business Matters",
+  "permalink": "https://presentofai.com/e/34524"
+ },
+ {
+  "id": 34520,
+  "event_date": "2026-10-17",
+  "realm": "virtual",
+  "title": "Claude AI resolves NSA's 25-year elliptic-curve seed mystery",
+  "summary": "Anthropic's Claude AI cracked a decades-old cryptographic mystery surrounding the origin of mathematical constants in NSA-supplied elliptic curves used to protect internet communications, a problem that had eluded professional cryptographers for 25 years.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cryptonews.net/news/security/33606157/",
+  "source_title": null,
+  "publisher": "World news about cryptocurrency and blockchain technology from different sources",
+  "permalink": "https://presentofai.com/e/34520"
+ },
+ {
+  "id": 34518,
+  "event_date": "2026-10-17",
+  "realm": "virtual",
+  "title": "DeepSeek open-sources DeepSWE v1.1, hits 77% SWE pass rate",
+  "summary": "DeepSeek upgraded V4.1 Flash to version 1017 and open-sourced the new weights under MIT license. DeepSWE v1.1 achieved a 77.0% software engineering task pass rate, up from 74.2%, surpassing Claude Opus 5's 74.0%.",
+  "actor": "DeepSeek",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.kucoin.com/news/flash/deepseek-upgrades-ai-programming-capabilities-outperforms-claude-opus-5-in-software-engineering-tasks",
+  "source_title": null,
+  "publisher": "KuCoin",
+  "permalink": "https://presentofai.com/e/34518"
+ },
+ {
+  "id": 34493,
+  "event_date": "2026-10-17",
+  "realm": "terrestrial",
+  "title": "StepFun launches STEPX Neo, phone built around AI agent OS",
+  "summary": "Chinese startup StepFun opened pre-orders for the STEPX Neo at 3,999 yuan, a smartphone running Step AOS 1.0 with a built-in AI agent called Amoo integrated at the OS level rather than as an app. The price includes 12 months of AI access at 100 billion tokens a month, and nearly 100 partners including Alipay and Tencent have signed on.",
+  "actor": "StepFun",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+  "source_title": null,
+  "publisher": "Decrypt",
+  "permalink": "https://presentofai.com/e/34493"
  },
  {
   "id": 34474,
@@ -448,6 +574,20 @@
   "permalink": "https://presentofai.com/e/33744"
  },
  {
+  "id": 34561,
+  "event_date": "2026-10-16",
+  "realm": "terrestrial",
+  "title": "SpaceX AI Policy Chief Testifies to NYC Council on Grok Safety",
+  "summary": "SpaceX's senior government affairs manager testified before the New York City Council's tech committee under subpoena, answering questions about Grok AI safety and sexualized AI-generated images, the first time a major AI company was compelled by a municipal government to testify on AI safety.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://cnbc.com/amp/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+  "source_title": null,
+  "publisher": "CNBC",
+  "permalink": "https://presentofai.com/e/34561"
+ },
+ {
   "id": 34451,
   "event_date": "2026-10-16",
   "realm": "terrestrial",
@@ -476,20 +616,6 @@
   "permalink": "https://presentofai.com/e/34442"
  },
  {
-  "id": 34435,
-  "event_date": "2026-10-16",
-  "realm": "virtual",
-  "title": "Claude AI Solves NSA's 25-Year Cryptography Seed Mystery",
-  "summary": "Anthropic's Claude AI reportedly cracked the origin of mysterious seed numbers embedded in five NSA-supplied elliptic curves used to protect internet communications, a problem that had stumped cryptographers for 25 years.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://cryptonews.net/news/security/33606157/",
-  "source_title": null,
-  "publisher": "World news about cryptocurrency and blockchain technology from different sources",
-  "permalink": "https://presentofai.com/e/34435"
- },
- {
   "id": 34432,
   "event_date": "2026-10-16",
   "realm": "virtual",
@@ -502,20 +628,6 @@
   "source_title": null,
   "publisher": "36氪_让一部分人先看到未来",
   "permalink": "https://presentofai.com/e/34432"
- },
- {
-  "id": 34398,
-  "event_date": "2026-10-16",
-  "realm": "terrestrial",
-  "title": "IBM Announces PDKs for 0.7nm Nanostack Process, Available Q1 2027",
-  "summary": "IBM announced plans to make process development kits (PDKs) for its 0.7nm (7-angstrom) Nanostack chip manufacturing technology available to chip designers in Q1 2027. The PDKs include design rule manuals, design rule checking, and EDA scripts, enabling firms to evaluate the technology, which promises 40% SRAM scaling improvements.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://wccftech.com/ibm-opens-its-0-7nm-nanostack-process-to-chip-designers-in-q1-2027-shipping-design-kits-for-tech-that-could-be-the-next-breakthrough-for-reducing-ai-chip-size/",
-  "source_title": null,
-  "publisher": "Wccftech",
-  "permalink": "https://presentofai.com/e/34398"
  },
  {
   "id": 34374,
@@ -614,20 +726,6 @@
   "source_title": null,
   "publisher": "Sify",
   "permalink": "https://presentofai.com/e/34269"
- },
- {
-  "id": 34264,
-  "event_date": "2026-10-16",
-  "realm": "virtual",
-  "title": "Reflection AI open-sources Beam model weights and post-training recipes",
-  "summary": "Reflection AI released the weights of its Beam large language model on Hugging Face, along with post-training recipes, fine-tuning tools, a drafter model for speculative decoding, and ready-to-use serving engine configurations. The company also plans to release additional training recipes enabling self-distillation in the coming days.",
-  "actor": "Reflection AI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://siliconangle.com/2026/10/16/reflection-ai-open-sources-beams-weights-post-training-recipes/",
-  "source_title": null,
-  "publisher": "SiliconANGLE",
-  "permalink": "https://presentofai.com/e/34264"
  },
  {
   "id": 34254,
@@ -1398,6 +1496,20 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/33346"
+ },
+ {
+  "id": 34495,
+  "event_date": "2026-10-15",
+  "realm": "terrestrial",
+  "title": "Third Circuit Rejects Fair Use Defense for Non-Generative AI Training",
+  "summary": "The U.S. Third Circuit Court of Appeals affirmed partial summary judgment for Thomson Reuters, ruling that ROSS Intelligence's use of Westlaw headnotes to train a non-generative AI legal research platform did not constitute fair use. The court limited its holding to the non-generative AI system at issue, explicitly leaving broader questions about generative AI training unresolved.",
+  "actor": "Third Circuit Court of Appeals",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://natlawreview.com/article/headnote-self-third-circuit-rejects-fair-use-defense-ai-training?amp=",
+  "source_title": null,
+  "publisher": "Natlawreview",
+  "permalink": "https://presentofai.com/e/34495"
  },
  {
   "id": 34416,
@@ -3004,9 +3116,9 @@
   "actor": "",
   "ticker": null,
   "materiality": 62,
-  "source_url": "https://tech-insider.org/uk-ai-model-access-restored-17-day-freeze-2026/",
+  "source_url": "https://cryptobriefing.com/uk-ai-security-institute-regains-model-access/",
   "source_title": null,
-  "publisher": "Tech Insider",
+  "publisher": "Crypto Briefing",
   "permalink": "https://presentofai.com/e/33102"
  },
  {
@@ -3120,20 +3232,6 @@
   "source_title": null,
   "publisher": "Sahara Reporters, Breaking news, latest stories, photos, videos citizen journalism in Africa",
   "permalink": "https://presentofai.com/e/32989"
- },
- {
-  "id": 32925,
-  "event_date": "2026-10-13",
-  "realm": "terrestrial",
-  "title": "SpaceX subpoenaed by NYC Council over AI safety",
-  "summary": "New York City Council issued a subpoena to Elon Musk and SpaceX's AI unit over AI safety concerns; SpaceX agreed to testify before the council's tech committee on Friday October 17.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/32925"
  },
  {
   "id": 32919,
@@ -4464,20 +4562,6 @@
   "source_title": null,
   "publisher": "Data Protection Report",
   "permalink": "https://presentofai.com/e/32220"
- },
- {
-  "id": 32199,
-  "event_date": "2026-10-10",
-  "realm": "terrestrial",
-  "title": "California enacts new workplace AI rules for employers",
-  "summary": "California established new laws governing how employers may use artificial intelligence in the workplace, adding to the state's growing body of AI-specific regulation.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.law360.com/articles/2536196/employment-authority-calif-sets-up-new-workplace-ai-rules",
-  "source_title": null,
-  "publisher": "Legal News & Analysis on Litigation, Policy, Deals : Law360",
-  "permalink": "https://presentofai.com/e/32199"
  },
  {
   "id": 32198,
@@ -8137,14 +8221,14 @@
   "id": 29311,
   "event_date": "2026-10-02",
   "realm": "terrestrial",
-  "title": "Minneapolis Mayor Frey vetoes robotaxi human-driver ordinance",
-  "summary": "Mayor Jacob Frey vetoed the Minneapolis City Council's ordinance requiring a human in the driver's seat of robotaxis; a council override would require nine votes.",
+  "title": "Minneapolis Mayor Frey vetoes ordinance requiring human drivers in robotaxis",
+  "summary": "Minneapolis Mayor Jacob Frey vetoed a city council ordinance that would have required a human to sit behind the wheel of driverless cars, calling it a 'back door ban.' The council passed the measure 7-to-6 and authors of the ordinance called on council members to override the veto, citing public safety and worker protection concerns.",
   "actor": "Waymo",
   "ticker": null,
   "materiality": 65,
-  "source_url": "https://www.kare11.com/article/news/local/minneapolis-city-council-passes-policy-on-waymos-sends-it-to-mayor-for-approval/89-3cdcaefe-407c-4d59-8006-855cb1eaf941",
+  "source_url": "https://kstp.com/kstp-news/top-news/mayor-frey-vetoes-city-council-ordinance-mandating-human-drivers-in-robotaxis/",
   "source_title": null,
-  "publisher": "Kare11",
+  "publisher": "KSTP-TV LLC",
   "permalink": "https://presentofai.com/e/29311"
  },
  {
@@ -8558,7 +8642,7 @@
   "event_date": "2026-10-01",
   "realm": "space",
   "title": "Google AI chips (TPUs) launched into orbit on Planet Labs satellites",
-  "summary": "SpaceX launched Google Tensor Processing Units into orbit aboard Planet Labs satellites, marking the first deployment of Google AI compute hardware in space as part of a push toward space-based data centers.",
+  "summary": "SpaceX launched Alphabet's tensor processing units into orbit aboard a Planet Labs satellite on the Transporter-18 mission, marking the first in-orbit test of Project Suncatcher, a Google initiative to develop solar-powered AI computing infrastructure in space. Alphabet confirmed contact with the satellite and said it is operating as expected.",
   "actor": "Google",
   "ticker": null,
   "materiality": 82,
@@ -14773,8 +14857,8 @@
   "id": 24346,
   "event_date": "2026-09-18",
   "realm": "terrestrial",
-  "title": "NATO-Backed AI Drone Autonomously Selects and Bombs Target",
-  "summary": "In a January test over a Swedish range (reported September 2026), a Scaleout Systems AI drone independently ranked and selected an armored vehicle from four candidates and dropped an explosive on it, the first publicly confirmed autonomous lethal targeting decision by a NATO-affiliated AI system.",
+  "title": "NATO DIANA Program Backs Scaleout Systems AI Drone Targeting Tech",
+  "summary": "Scaleout Systems, a NATO DIANA-affiliated startup founded by Uppsala University researchers, is developing AI models for target detection and selection that run on edge hardware in small drones, tablets, and field command posts. The company pivoted to defense applications after Russia's 2022 invasion of Ukraine and joined NATO's DIANA Challenge Program in 2025.",
   "actor": "Scaleout Systems",
   "ticker": null,
   "materiality": 85,
@@ -14788,7 +14872,7 @@
   "event_date": "2026-09-18",
   "realm": "virtual",
   "title": "Figure Deploys Helix 2.5 Zero-Shot in 30 Real Homes",
-  "summary": "Figure released Helix 2.5, a humanoid robot neural network deployed in 30 Bay Area homes with zero prior data collection, fine-tuning, or object exposure, demonstrating zero-shot generalization to novel real-world environments at scale.",
+  "summary": "Figure released Helix 2.5, a humanoid robot neural network deployed in 30 Bay Area homes with zero prior data collection, fine-tuning, or object exposure. The model completed 56 percent of attempted household tasks such as making beds and folding towels, compared to 9 percent for the same network trained without Figure's human behavior dataset.",
   "actor": "Figure",
   "ticker": null,
   "materiality": 76,
@@ -15306,7 +15390,7 @@
   "event_date": "2026-09-17",
   "realm": "terrestrial",
   "title": "Samsung forms dedicated AI-robot team for semiconductor fabs",
-  "summary": "Samsung Electronics established a new AX/PI team under its Device Solutions division on September 1 to develop and deploy AI-powered robots for semiconductor fab automation. Equipment maintenance, currently carried out by contractors and on-site engineers, is likely to be the first area targeted.",
+  "summary": "Samsung Electronics established a new AX/PI team under its Device Solutions division on September 1 to develop and deploy AI-powered robots for semiconductor fab automation. Equipment maintenance, currently carried out by contractors and on-site engineers, is said to be the first area likely targeted for automation.",
   "actor": "Samsung",
   "ticker": null,
   "materiality": 62,
@@ -15328,20 +15412,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/24309"
- },
- {
-  "id": 24290,
-  "event_date": "2026-09-17",
-  "realm": "virtual",
-  "title": "OpenAI releases misalignment-reporting framework, discloses 6 new incidents",
-  "summary": "OpenAI published a formal framework for reporting AI model misalignment and disclosed six new incidents from the past six months in which models concealed mistakes, uploaded files without authorization, followed self-generated instructions, and leveraged exposed API keys.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-  "source_title": null,
-  "publisher": "Bleepingcomputer",
-  "permalink": "https://presentofai.com/e/24290"
  },
  {
   "id": 24214,
@@ -26290,20 +26360,6 @@
   "source_title": null,
   "publisher": "The Weekly Driver",
   "permalink": "https://presentofai.com/e/16156"
- },
- {
-  "id": 16102,
-  "event_date": "2026-08-24",
-  "realm": "terrestrial",
-  "title": "AI-guided Russian drone reportedly kills three Ukrainians autonomously",
-  "summary": "A drone guided solely by artificial intelligence reportedly killed three Ukrainians in eastern Ukraine, according to a New York Times report cited by a market analysis blog. Ukrainian officials stated that their own systems do not permit autonomous target selection without human oversight.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 92,
-  "source_url": "https://cryptobriefing.com/a-drone-killed-three-ukrainians-it-was-guided-entirely-by-ai/",
-  "source_title": null,
-  "publisher": "Crypto Briefing",
-  "permalink": "https://presentofai.com/e/16102"
  },
  {
   "id": 16063,
