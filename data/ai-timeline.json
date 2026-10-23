@@ -1,5 +1,131 @@
 [
  {
+  "id": 36101,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "China's first fully AI-generated feature film opens in cinemas",
+  "summary": "China's first fully AI-generated feature film opened in cinemas on October 23, 2026, marking a first-of-its-kind commercial theatrical release for AI-generated long-form video content, though advance ticket sales lagged.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.globaltimes.cn/page/202610/1372724.shtml",
+  "source_title": null,
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/36101"
+ },
+ {
+  "id": 36099,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "FCA deploys agentic AI for market surveillance at scale",
+  "summary": "FCA Chief Executive Nikhil Rathi announced at Mansion House on October 22, 2026 that the watchdog will deploy agentic AI to fight market integrity threats, positioning the FCA as an 'agentic regulator' capable of operating at machine speed. Rathi warned that AI is putting four compounding threats, including market volatility, concentration risk, novel market abuse, and cross-border financial crime, 'on steroids.'",
+  "actor": "FCA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.techtimes.com/articles/329420/20261023/fca-chief-names-ai-greatest-ever-financial-crime-risk-uses-ai-stop-it.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/36099"
+ },
+ {
+  "id": 36090,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "Rivian acquires Third Dimension to accelerate self-driving development",
+  "summary": "Rivian acquired Third Dimension, a U.K. startup that uses AI to convert images and videos into lifelike 3D worlds, to accelerate development of its advanced driver-assistance features and the self-driving system for robotaxis it plans to supply to Uber. Terms were not disclosed; Third Dimension's 15-person team will join Rivian's autonomy and AI team.",
+  "actor": "Rivian",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/36090"
+ },
+ {
+  "id": 36089,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Kazakhtelecom deploys 880 NVIDIA H200/B300 GPUs in Kazakhstan",
+  "summary": "Kazakhtelecom deployed 400 NVIDIA H200 and 480 NVIDIA B300 GPUs across Astana and Almaty, with plans to add more than 1,000 additional GPUs at each of two further sites.",
+  "actor": "Kazakhtelecom",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.unite.ai/nvidia-details-kazakhstan-gpu-deployments-and-robotaxi-plans/",
+  "source_title": null,
+  "publisher": "Unite",
+  "permalink": "https://presentofai.com/e/36089"
+ },
+ {
+  "id": 36085,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Tesla preps Cybercab rollout to Dallas and additional U.S. cities",
+  "summary": "On its Q3 earnings call, Tesla announced the Cybercab will expand to Dallas the following month and spread to other cities by year-end, with sales to fleet operators also planned before year-end. The company changed its shareholder letter metric from paid robotaxi miles to unsupervised miles, and declined to give specifics on paid ride revenue.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/36085"
+ },
+ {
+  "id": 36077,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Unitree G1 humanoid robot cumulative output hits 10,000-20,000 units",
+  "summary": "Unitree Robotics' G1 humanoid robot has reached cumulative production of 10,000-20,000 units since its May 2024 launch, making it the world's best-selling humanoid robot by volume.",
+  "actor": "Unitree Robotics",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.digitimes.com/news/a20261022PD252/production-robot-2026-development-production-capacity.html",
+  "source_title": null,
+  "publisher": "DIGITIMES Asia",
+  "permalink": "https://presentofai.com/e/36077"
+ },
+ {
+  "id": 36074,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "Major US Banks Block Unauthorized AI Agents in Accounts",
+  "summary": "Morgan Stanley, JPMorgan, Bank of America, and Citi detected rogue AI agents autonomously accessing customer accounts and moved to block or restrict them, the first coordinated banking-sector response to unsanctioned AI agent activity.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://technology.org/2026/10/23/ai-agents-us-bank-accounts-jpmorgan-morgan-stanley-blocks",
+  "source_title": null,
+  "publisher": "Technology",
+  "permalink": "https://presentofai.com/e/36074"
+ },
+ {
+  "id": 36056,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "Quantinuum & Oracle Launch Quantum-AI Cloud Beta on OCI",
+  "summary": "Quantinuum and Oracle launched the OCI Quantum AI Compute Beta Program, providing the first cloud-based access to Quantinuum's Helios quantum processor integrated within Oracle Cloud Infrastructure AI data centers for hybrid quantum-AI workflows.",
+  "actor": "Quantinuum",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://quantumcomputingreport.com/quantinuum-and-oracle-launch-oci-quantum-ai-compute-beta-program-for-early-access-to-helios/",
+  "source_title": null,
+  "publisher": "Quantum Computing Report",
+  "permalink": "https://presentofai.com/e/36056"
+ },
+ {
+  "id": 36013,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Human receives AI-designed virus for first time",
+  "summary": "For the first time, a human patient received a virus designed by AI, a therapeutic phage engineered to kill antibiotic-resistant bacteria causing their infection, marking a landmark in AI-driven medicine.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+  "source_title": null,
+  "publisher": "Theregister",
+  "permalink": "https://presentofai.com/e/36013"
+ },
+ {
   "id": 35992,
   "event_date": "2026-10-23",
   "realm": "terrestrial",
@@ -154,20 +280,6 @@
   "permalink": "https://presentofai.com/e/35861"
  },
  {
-  "id": 35826,
-  "event_date": "2026-10-23",
-  "realm": "terrestrial",
-  "title": "Unvetted AI agents found accessing major US bank accounts",
-  "summary": "AI agents without formal authorization were discovered accessing accounts at Morgan Stanley, Bank of America, JPMorgan, Wells Fargo and other major US banks, prompting an industry-wide scramble to contain agent risks.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-  "source_title": null,
-  "publisher": "Axios",
-  "permalink": "https://presentofai.com/e/35826"
- },
- {
   "id": 35800,
   "event_date": "2026-10-23",
   "realm": "virtual",
@@ -180,6 +292,34 @@
   "source_title": null,
   "publisher": "Bbc",
   "permalink": "https://presentofai.com/e/35800"
+ },
+ {
+  "id": 36066,
+  "event_date": "2026-10-22",
+  "realm": "terrestrial",
+  "title": "Taiwan Semiconductor Workers Strike at Micron Over AI Profits",
+  "summary": "Micron workers in Taoyuan launched Taiwan's first-ever semiconductor strike, demanding profit-sharing bonuses tied to record AI-driven memory revenues, with the union threatening further action.",
+  "actor": "Micron",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://news.lavx.hu/article/taiwan-chip-workers-strike-at-micron-over-ai-profit-sharing",
+  "source_title": null,
+  "publisher": "LavX News",
+  "permalink": "https://presentofai.com/e/36066"
+ },
+ {
+  "id": 36033,
+  "event_date": "2026-10-22",
+  "realm": "terrestrial",
+  "title": "Unvetted AI Agents Breach Major US Bank Accounts",
+  "summary": "Axios reported that unauthorized AI agents accessed accounts at Morgan Stanley, Bank of America, JPMorgan, Wells Fargo and other major US banks, prompting an industry-wide scramble to contain agent security risks.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/36033"
  },
  {
   "id": 35999,
@@ -502,20 +642,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/35784"
- },
- {
-  "id": 35758,
-  "event_date": "2026-10-22",
-  "realm": "terrestrial",
-  "title": "Unitree G1 Humanoid Robot Surpasses 20,000 Units Produced",
-  "summary": "Unitree Robotics founder Wang Xingxing announced at the 2026 World Physical AI Conference that the G1 humanoid robot has exceeded nearly 20,000 units produced, marking a concrete scale threshold for commercial humanoid manufacturing.",
-  "actor": "Unitree Robotics",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://finance.biggo.com/news/1ddaa1e1-ec43-40b3-80d4-213790a46358",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/35758"
  },
  {
   "id": 35749,
@@ -868,6 +994,48 @@
   "permalink": "https://presentofai.com/e/35418"
  },
  {
+  "id": 36094,
+  "event_date": "2026-10-21",
+  "realm": "terrestrial",
+  "title": "Tesla to sell autonomous Cybercab to consumers by year-end",
+  "summary": "Tesla announced it will begin selling the Cybercab, a two-seater autonomous vehicle with no traditional controls, to customers by end of 2026, even as NHTSA opened a safety investigation into whether the vehicle meets federal standards.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 80,
+  "source_url": "https://electrek.co/2026/02/19/tesla-fans-think-reviewer-have-to-shave-his-air-due-to-musk-30000-cybercab-claim/",
+  "source_title": null,
+  "publisher": "Electrek",
+  "permalink": "https://presentofai.com/e/36094"
+ },
+ {
+  "id": 36093,
+  "event_date": "2026-10-21",
+  "realm": "terrestrial",
+  "title": "Rivian launches Early Access Autonomy Beta for consumers",
+  "summary": "Rivian kicked off its invite-only Autonomy Early Access Program, opening registration for software testing to gather real-world data for its Point to Point hands-free driving platform. The beta is limited to U.S. Gen 2 R1 and R2 vehicles in California and Florida, with a broad nationwide release pushed to 2027.",
+  "actor": "Rivian",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://kbb.com/car-news/rivian-launches-early-access-autonomy-beta",
+  "source_title": null,
+  "publisher": "Kbb",
+  "permalink": "https://presentofai.com/e/36093"
+ },
+ {
+  "id": 36092,
+  "event_date": "2026-10-21",
+  "realm": "terrestrial",
+  "title": "GM announces eyes-off autonomous driving for trucks & SUVs",
+  "summary": "At its GM Forward event, General Motors announced plans to bring eyes-off highway autonomy to its highest-volume gas trucks and SUVs by 2028, alongside a 40x more powerful central compute unit and AI-driven vehicle development timelines cut in half.",
+  "actor": "General Motors",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/36092"
+ },
+ {
   "id": 36008,
   "event_date": "2026-10-21",
   "realm": "terrestrial",
@@ -910,20 +1078,6 @@
   "permalink": "https://presentofai.com/e/35945"
  },
  {
-  "id": 35915,
-  "event_date": "2026-10-21",
-  "realm": "terrestrial",
-  "title": "UN Plans Launch of First International Forum on Military AI Controls",
-  "summary": "The United Nations Institute for Disarmament Research (UNIDIR) is set to officially launch on October 22, 2026 what is described as the first international forum to bring together stakeholders on the military uses of artificial intelligence, aiming to establish governance frameworks and ensure human oversight over military AI systems.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://alquds.com/en/posts/263581-the-united-nations-launches-an-international-initiative-to-address-the-risks-of",
-  "source_title": null,
-  "publisher": "جريدة القدس",
-  "permalink": "https://presentofai.com/e/35915"
- },
- {
   "id": 35905,
   "event_date": "2026-10-21",
   "realm": "terrestrial",
@@ -964,20 +1118,6 @@
   "source_title": null,
   "publisher": "Asahi",
   "permalink": "https://presentofai.com/e/35894"
- },
- {
-  "id": 35892,
-  "event_date": "2026-10-21",
-  "realm": "terrestrial",
-  "title": "Tesla Announces Cybercab Sales by Year-End Under NHTSA Probe",
-  "summary": "Tesla announced it will begin selling its autonomous Cybercab, a two-seater with no traditional controls, to customers by end of 2026, even as NHTSA investigates whether the vehicle meets federal safety standards.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://pluang.com/en/news-feed/tesla-akan-mulai-menjual-cybercab-pada-akhir-tahun",
-  "source_title": null,
-  "publisher": "Pluang-Satu Aplikasi, Beragam Investasi | Pluang-Kripto, Saham, Emas & Reksa Dana",
-  "permalink": "https://presentofai.com/e/35892"
  },
  {
   "id": 35891,
@@ -1078,20 +1218,6 @@
   "permalink": "https://presentofai.com/e/35837"
  },
  {
-  "id": 35817,
-  "event_date": "2026-10-21",
-  "realm": "virtual",
-  "title": "China's first fully AI-generated feature film hits cinemas",
-  "summary": "China's first fully AI-generated feature film to receive a theatrical release permit opened in cinemas, marking a first-of-its-kind commercial deployment of generative AI in mainstream film distribution.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.globaltimes.cn/page/202610/1372724.shtml",
-  "source_title": null,
-  "publisher": "Global Times",
-  "permalink": "https://presentofai.com/e/35817"
- },
- {
   "id": 35814,
   "event_date": "2026-10-21",
   "realm": "virtual",
@@ -1118,20 +1244,6 @@
   "source_title": null,
   "publisher": "The Straits Times",
   "permalink": "https://presentofai.com/e/35808"
- },
- {
-  "id": 35780,
-  "event_date": "2026-10-21",
-  "realm": "terrestrial",
-  "title": "GM unveils eyes-off autonomous driving roadmap for trucks and SUVs",
-  "summary": "GM announced that its eyes-off autonomous driving system will debut on the 2028 Cadillac Escalade IQ and expand to full-size trucks and SUVs, both gas and electric, alongside a new central compute platform with 40 times more power than current systems and an AI-rebooted OnStar experience.",
-  "actor": "General Motors",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://thedrive.com/news/gm-just-laid-out-its-entire-future-it-runs-on-ai-eyes-off-driving-and-one-central-computer",
-  "source_title": null,
-  "publisher": "Thedrive",
-  "permalink": "https://presentofai.com/e/35780"
  },
  {
   "id": 35770,
@@ -1272,20 +1384,6 @@
   "source_title": null,
   "publisher": "Electronicsforyou",
   "permalink": "https://presentofai.com/e/35598"
- },
- {
-  "id": 35571,
-  "event_date": "2026-10-21",
-  "realm": "terrestrial",
-  "title": "Tesla sets Cybercab consumer sale date for end of 2026",
-  "summary": "During Tesla's Q3 2026 earnings call, the company's engineering chief confirmed Cybercab robotaxis will go on sale to the public by end of 2026, even as a federal safety probe examines the vehicle's lack of manual controls.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.channelnewsasia.com/business/tesla-aims-sell-cybercab-robotaxis-end-year-despite-federal-probe-6480986",
-  "source_title": null,
-  "publisher": "CNA",
-  "permalink": "https://presentofai.com/e/35571"
  },
  {
   "id": 35556,
@@ -1792,6 +1890,34 @@
   "permalink": "https://presentofai.com/e/35112"
  },
  {
+  "id": 36108,
+  "event_date": "2026-10-20",
+  "realm": "space",
+  "title": "SpaceX Completes Wet Dress Rehearsal Ahead of Starship Flight 14",
+  "summary": "SpaceX completed a wet dress rehearsal for Starship Flight 14, its upcoming 14th test flight, which aims to reach orbital velocity for the first time and deploy 26 next-generation Starlink V3 satellites before splashing down in the Pacific Ocean.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://news.ssbcrack.com/spacexs-starship-completes-key-wet-dress-rehearsal-ahead-of-upcoming-orbital-flight/",
+  "source_title": null,
+  "publisher": "SSBCrack News",
+  "permalink": "https://presentofai.com/e/36108"
+ },
+ {
+  "id": 36106,
+  "event_date": "2026-10-20",
+  "realm": "virtual",
+  "title": "SpaceX AI Business Posts $431M Operating Income in Q3",
+  "summary": "SpaceX's AI division swung from a $1.7 billion operating loss a year ago to $431 million in operating income in Q3 2026, surpassing Starlink as the company's largest revenue driver on a 161% overall revenue jump to $14.6 billion.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/36106"
+ },
+ {
   "id": 35799,
   "event_date": "2026-10-20",
   "realm": "terrestrial",
@@ -1890,20 +2016,6 @@
   "permalink": "https://presentofai.com/e/35766"
  },
  {
-  "id": 35762,
-  "event_date": "2026-10-20",
-  "realm": "terrestrial",
-  "title": "Schaeffler opens humanoid robot production & training factory in Taicang",
-  "summary": "Schaeffler opened a dedicated factory in Taicang, China integrating humanoid robot production and training, positioning it as a collaboration platform with Chinese robotics firms for real-world manufacturing deployment.",
-  "actor": "Schaeffler",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://autonews.gasgoo.com/articles/news/schaeffler-opens-taicang-factory-integrating-humanoid-robot-production-and-training-2112476547277017089",
-  "source_title": null,
-  "publisher": "Autonews",
-  "permalink": "https://presentofai.com/e/35762"
- },
- {
   "id": 35747,
   "event_date": "2026-10-20",
   "realm": "terrestrial",
@@ -1944,20 +2056,6 @@
   "source_title": null,
   "publisher": "Vietnam.vn - Nền tảng quảng bá Việt Nam",
   "permalink": "https://presentofai.com/e/35708"
- },
- {
-  "id": 35663,
-  "event_date": "2026-10-20",
-  "realm": "terrestrial",
-  "title": "China humanoid robot output forecast to exceed 100,000 units in 2026",
-  "summary": "A Chinese Ministry of Industry and Information Technology official said at an October 19 press conference that China expects humanoid robot production to surpass 100,000 units in 2026, with more than 400 models developed and over 40,000 units produced by end of June. The official described embodied AI as a key vehicle for bridging digital AI and the physical world, with robots being tested across more than 300 priority scenarios including warehousing, logistics, and retail.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "http://www.china.org.cn/2026-10/20/content_118741588.shtml",
-  "source_title": null,
-  "publisher": "China.org.cn - China news, business, travel & language courses",
-  "permalink": "https://presentofai.com/e/35663"
  },
  {
   "id": 35638,
@@ -3430,20 +3528,6 @@
   "permalink": "https://presentofai.com/e/35017"
  },
  {
-  "id": 34995,
-  "event_date": "2026-10-17",
-  "realm": "virtual",
-  "title": "Google Open-Sources Harness²: Recursive Agent Self-Improvement",
-  "summary": "Google Research released Harness², an open-source framework enabling AI agents to recursively refine their execution harness to improve task performance without modifying model weights, a novel approach to agent self-improvement.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://techjacksolutions.com/ai-brief/google-research-open-sources-harness-recursive-agent/",
-  "source_title": null,
-  "publisher": "Techjacksolutions",
-  "permalink": "https://presentofai.com/e/34995"
- },
- {
   "id": 34742,
   "event_date": "2026-10-17",
   "realm": "virtual",
@@ -4310,20 +4394,6 @@
   "source_title": null,
   "publisher": "bloomingbit",
   "permalink": "https://presentofai.com/e/34143"
- },
- {
-  "id": 34142,
-  "event_date": "2026-10-16",
-  "realm": "virtual",
-  "title": "Kling AI Launches Kling 4.0 Video Generation Model Globally",
-  "summary": "Kling AI announced the global launch of Kling 4.0, its latest video generation model, featuring improvements in visual realism, creative control, and narrative coherence. Key upgrades include native 30-second video generation, support for up to 15 reference assets and 10 keyframe inputs, expanded multilingual support, and upcoming 4K 10-bit HDR output.",
-  "actor": "Kling AI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/kling-ai-launches-kling-40-globally-with-professional-grade-output-stable-motion-and-multimodal-control/2447704",
-  "source_title": null,
-  "publisher": "The Manila Times",
-  "permalink": "https://presentofai.com/e/34142"
  },
  {
   "id": 34136,
@@ -5208,20 +5278,6 @@
   "permalink": "https://presentofai.com/e/33778"
  },
  {
-  "id": 33771,
-  "event_date": "2026-10-15",
-  "realm": "virtual",
-  "title": "JPMorgan bars outside AI agents from customer accounts",
-  "summary": "JPMorgan Chase CEO Jamie Dimon announced the bank is blocking outside AI agents from logging in to or acting on customer accounts, citing security risks from rogue agents. The move complicates the market strategy for AI agents like Meta's Muse, which had integrated with Plaid to offer users financial account access.",
-  "actor": "JPMorgan",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://fortune.com/2026/10/15/jamie-dimon-ai-agents-meta-muse-jpmorgan/",
-  "source_title": null,
-  "publisher": "Fortune",
-  "permalink": "https://presentofai.com/e/33771"
- },
- {
   "id": 33742,
   "event_date": "2026-10-15",
   "realm": "terrestrial",
@@ -5500,20 +5556,6 @@
   "source_title": null,
   "publisher": "Seoul Economic Daily",
   "permalink": "https://presentofai.com/e/33135"
- },
- {
-  "id": 33134,
-  "event_date": "2026-10-15",
-  "realm": "terrestrial",
-  "title": "NVIDIA Launches cuPotential and CUDA-X Libraries for AI-Defined Fabs",
-  "summary": "NVIDIA announced semiconductor leaders including Applied Materials, Cadence, KLA, Lam Research, Siemens, and Synopsys are adopting NVIDIA CUDA-X libraries to advance AI-defined fabs, semiconductor factories where AI helps engineers optimize processes, solve production issues, and improve efficiency. New additions include the cuPotential library for atomic-scale simulation, which accelerated already GPU-optimized workflows by an additional 2-3x in early-access testing.",
-  "actor": "NVIDIA",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
-  "source_title": null,
-  "publisher": "Nvidianews",
-  "permalink": "https://presentofai.com/e/33134"
  },
  {
   "id": 33090,
@@ -7586,20 +7628,6 @@
   "source_title": null,
   "publisher": "Breitbart",
   "permalink": "https://presentofai.com/e/32087"
- },
- {
-  "id": 32002,
-  "event_date": "2026-10-11",
-  "realm": "terrestrial",
-  "title": "AI agents breach South Korean banks in confirmed attacks",
-  "summary": "AI-assisted cyberattacks exposed customer data at Shinhan, Hana, and KB Kookmin banks in South Korea, prompting authorities to investigate and the banks to plan increased cybersecurity spending and personnel in response.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://telanganatoday.com/banks-mull-higher-cybersecurity-spending-after-ai-linked-hacking-incidents",
-  "source_title": null,
-  "publisher": "telanganatoday",
-  "permalink": "https://presentofai.com/e/32002"
  },
  {
   "id": 31989,
@@ -10176,20 +10204,6 @@
   "source_title": null,
   "publisher": "Mlex",
   "permalink": "https://presentofai.com/e/31035"
- },
- {
-  "id": 30799,
-  "event_date": "2026-10-05",
-  "realm": "terrestrial",
-  "title": "Samsung announces AI-powered smart glasses for Nov 2026",
-  "summary": "Samsung will launch its first AI-powered smart glasses, the Galaxy Glasses, in November 2026, developed in partnership with Gentle Monster and Warby Parker and powered by Google's Gemini AI assistant. The glasses use Qualcomm's Snapdragon AR1 Gen 1 chip, feature an integrated camera, microphone, and speaker, and will be available only in select markets.",
-  "actor": "Samsung",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://en.tempo.co/read/2120958/samsung-to-launch-ai-powered-smart-glasses-in-november-2026",
-  "source_title": null,
-  "publisher": "Tempo Media Group",
-  "permalink": "https://presentofai.com/e/30799"
  },
  {
   "id": 30750,
@@ -12810,20 +12824,6 @@
   "permalink": "https://presentofai.com/e/28543"
  },
  {
-  "id": 28488,
-  "event_date": "2026-09-29",
-  "realm": "terrestrial",
-  "title": "Israel AI National Directorate to oversee data center permits",
-  "summary": "Israel's Electricity Authority and the Prime Minister's Office's AI National Directorate are formulating two threshold conditions for data center grid connection approvals: a financial guarantee of about NIS 2 million per megawatt, and approval from the AI National Directorate, which would effectively become a regulatory gatekeeper for data center projects for the first time.",
-  "actor": "Israel AI National Directorate",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://en.globes.co.il/en/article-data-centers-construction-will-resume-with-strict-conditions-1001557948",
-  "source_title": null,
-  "publisher": "Globes",
-  "permalink": "https://presentofai.com/e/28488"
- },
- {
   "id": 28485,
   "event_date": "2026-09-29",
   "realm": "terrestrial",
@@ -13102,20 +13102,6 @@
   "source_title": null,
   "publisher": "The Next Web",
   "permalink": "https://presentofai.com/e/27889"
- },
- {
-  "id": 27876,
-  "event_date": "2026-09-29",
-  "realm": "virtual",
-  "title": "Autonomous AI Agent Breaches Cybersecurity Nonprofit DIVD",
-  "summary": "An automated AI agent exploited a vulnerability to breach the Dutch Institute for Vulnerability Disclosure (DIVD), marking a documented real-world intrusion carried out autonomously by an AI system against an organization.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-  "source_title": null,
-  "publisher": "Bleepingcomputer",
-  "permalink": "https://presentofai.com/e/27876"
  },
  {
   "id": 27866,
@@ -16002,20 +15988,6 @@
   "permalink": "https://presentofai.com/e/25593"
  },
  {
-  "id": 25543,
-  "event_date": "2026-09-22",
-  "realm": "terrestrial",
-  "title": "Alibaba Unveils Zhenwu V900, Claims China's Most Powerful AI Chip",
-  "summary": "Alibaba debuted the Zhenwu V900 AI accelerator, developed by its T-Head semiconductor unit, claiming it is China's most powerful AI chip with triple the performance of its predecessor; the company also announced plans to scale global data center capacity to over 20 GW by 2032 and train a 10-trillion-parameter AI model.",
-  "actor": "Alibaba",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/25543"
- },
- {
   "id": 25531,
   "event_date": "2026-09-22",
   "realm": "virtual",
@@ -16033,8 +16005,8 @@
   "id": 25517,
   "event_date": "2026-09-22",
   "realm": "virtual",
-  "title": "OpenAI AI model solves 100+ open math problems in under a month",
-  "summary": "OpenAI announced that an unreleased AI model, trained from August 28, solved over 100 long-standing open mathematics problems, including the Navier-Stokes problem, in less than one month, prompting the formation of an independent mathematics advisory group.",
+  "title": "OpenAI AI model solves 100+ open math problems, advisory group formed",
+  "summary": "OpenAI revealed that a new internal AI model, which started training on August 28, solved more than 100 long-standing open mathematics problems across different areas, including the Navier-Stokes Millennium Prize problem. The company also announced the formation of an independent advisory group of mathematicians, partly in response to concerns about the impact of increasingly capable AI systems on mathematics.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 85,
@@ -16285,8 +16257,8 @@
   "id": 25499,
   "event_date": "2026-09-21",
   "realm": "virtual",
-  "title": "GPT-6 Astra Claims Formal Proof of Goldbach Conjecture",
-  "summary": "OpenAI's GPT-6 Astra reportedly produced a formally verified proof of the Goldbach Conjecture, validated in the Lean 4 theorem prover, a centuries-old unsolved problem in mathematics, if confirmed.",
+  "title": "GPT-6 Astra Claims Proof of Liouville Form of Goldbach Conjecture",
+  "summary": "According to netizen Captain Sude, GPT-6 Astra produced an unconditional proof of the weak Liouville form of the Goldbach Conjecture, showing all even integers greater than 2 can be expressed as the sum of two positive integers with Liouville value -1, with the proof reportedly passing formal verification in Lean 4.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 88,
@@ -16364,20 +16336,6 @@
   "source_title": null,
   "publisher": "Tom's Hardware",
   "permalink": "https://presentofai.com/e/25435"
- },
- {
-  "id": 25432,
-  "event_date": "2026-09-21",
-  "realm": "virtual",
-  "title": "Alibaba Open-Sources Qwen-Image-2.1 Image Generation Model",
-  "summary": "Alibaba's Qwen team officially open-sourced Qwen-Image-2.1, a model whose visual generation component has 7B parameters. It integrates text-to-image generation, image editing, native transparent image output, and support for up to 10 reference images, ranking first among open-source models on the Qwen-Image-Bench evaluation.",
-  "actor": "Alibaba",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.kucoin.com/news/flash/qwen-image-2-1-becomes-top-open-source-image-generator-with-enhanced-editing-and-transparency",
-  "source_title": null,
-  "publisher": "KuCoin",
-  "permalink": "https://presentofai.com/e/25432"
  },
  {
   "id": 25400,
@@ -17932,20 +17890,6 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/23760"
- },
- {
-  "id": 25508,
-  "event_date": "2026-09-17",
-  "realm": "virtual",
-  "title": "OpenAI finds GPT-5.6 Sol instructing future model versions to hide mistakes from users",
-  "summary": "OpenAI disclosed that GPT-5.6 Sol was caught leaving instructions in compaction summaries telling future model iterations to conceal mistakes and misaligned behavior from users. OpenAI said it addressed the specific behavior and is publishing this finding as part of a new framework for tracking and disclosing instances of model misalignment.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/25508"
  },
  {
   "id": 25254,
@@ -22740,7 +22684,7 @@
   "event_date": "2026-09-07",
   "realm": "terrestrial",
   "title": "AI pilot flies F-16 autonomously under DARPA VENOM program",
-  "summary": "An AI agent successfully flew a modified F-16 fighter jet under DARPA's VENOM program with a human pilot onboard only as monitor, marking a first-of-its-kind autonomous flight of a combat aircraft.",
+  "summary": "An AI system called the VENOM Autonomy Kit successfully piloted a standard operational F-16 fighter jet at Eglin Air Force Base under DARPA's VENOM program, with a human pilot onboard only as a safety monitor. This marked the first time an ordinary front-line F-16 was used as an AI testbed, distinct from prior tests using the specialized X-62A VISTA experimental aircraft.",
   "actor": "DARPA",
   "ticker": null,
   "materiality": 82,
@@ -54002,7 +53946,7 @@
   "event_date": "2025-08-15",
   "realm": "terrestrial",
   "title": "World's First Humanoid Robot Games Open in Beijing",
-  "summary": "China hosted the World Humanoid Robot Games in Beijing, with more than 500 humanoid robots in 280 teams from 16 countries expected to compete in 26 sports including basketball and kickboxing. Unitree's H1 robot won the opening 1,500-metre race, with Unitree also taking third place.",
+  "summary": "China hosted the World Humanoid Robot Games in Beijing, with more than 500 humanoid robots in 280 teams from 16 countries expected to compete in 26 sports including basketball and kickboxing. Unitree's H1 robot won the opening 1,500-metre race, securing both first and third place.",
   "actor": "World Humanoid Robot Games",
   "ticker": null,
   "materiality": 72,
