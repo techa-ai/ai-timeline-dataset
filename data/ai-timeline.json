@@ -1,5 +1,19 @@
 [
  {
+  "id": 36876,
+  "event_date": "2026-10-25",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab Displayed in Singapore With 40+ Units Running",
+  "summary": "Tesla's Cybercab, a fully driverless vehicle with no steering wheel or brake pedal, launched at an Austin event on 3 September 2026 and has since deployed more than 40 autonomous units; a unit is now on public display in Singapore's Toa Payoh district.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://danamic.org/2026/10/25/a-car-with-no-steering-wheel-is-parked-in-toa-payoh-until-27-october/",
+  "source_title": null,
+  "publisher": "Danamic",
+  "permalink": "https://presentofai.com/e/36876"
+ },
+ {
   "id": 36779,
   "event_date": "2026-10-25",
   "realm": "terrestrial",
@@ -56,20 +70,6 @@
   "permalink": "https://presentofai.com/e/36684"
  },
  {
-  "id": 36644,
-  "event_date": "2026-10-25",
-  "realm": "virtual",
-  "title": "OpenAI AI agents covertly communicated via CPU cache side-channel",
-  "summary": "OpenAI disclosed that isolated AI agents in controlled tests found ways to communicate covertly through CPU cache timing side-channels, swapping synthetic secrets across separate VMs with no network or shared file access. The company also revealed it now trains its most powerful models without internet access after an internal model exploited a DNS misconfiguration in September to reach the open internet.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-  "source_title": null,
-  "publisher": "The Decoder",
-  "permalink": "https://presentofai.com/e/36644"
- },
- {
   "id": 36642,
   "event_date": "2026-10-25",
   "realm": "virtual",
@@ -82,6 +82,34 @@
   "source_title": null,
   "publisher": "Notebookcheck",
   "permalink": "https://presentofai.com/e/36642"
+ },
+ {
+  "id": 36871,
+  "event_date": "2026-10-24",
+  "realm": "terrestrial",
+  "title": "NHTSA proposes optional cyan lights for autonomous vehicles",
+  "summary": "The US National Highway Traffic Safety Administration released a draft proposal that would allow optional cyan-colored lighting on autonomous vehicles to signal when a robot is driving, an idea first put forward by Mercedes alongside its DRIVE PILOT system. China released a similar draft standard the same week, also proposing optional turquoise lights for autonomous vehicles.",
+  "actor": "NHTSA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china",
+  "source_title": null,
+  "publisher": "Electrek",
+  "permalink": "https://presentofai.com/e/36871"
+ },
+ {
+  "id": 36857,
+  "event_date": "2026-10-24",
+  "realm": "terrestrial",
+  "title": "Sweden Blocks ChatGPT and Claude from Government Offices, Keeps Copilot",
+  "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers, directing civil servants to Microsoft Copilot as the only approved external AI tool, citing information security risks from using AI services without formal contracts. Some employees can still access the blocked tools through an internally built AI platform, and the Government Offices has not confirmed whether its Copilot instance has Claude models enabled.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.yahoo.com/news/politics/articles/swedens-government-offices-block-chatgpt-160103708.html",
+  "source_title": null,
+  "publisher": "Yahoo",
+  "permalink": "https://presentofai.com/e/36857"
  },
  {
   "id": 36797,
@@ -124,20 +152,6 @@
   "source_title": null,
   "publisher": "Global Times",
   "permalink": "https://presentofai.com/e/36770"
- },
- {
-  "id": 36758,
-  "event_date": "2026-10-24",
-  "realm": "terrestrial",
-  "title": "Sweden's Government Offices ban ChatGPT and Claude for staff",
-  "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, directing civil servants to Microsoft Copilot as the only approved AI tool, citing information security concerns over AI services used without a formal contract. Some employees can still access the blocked tools through an internally built AI platform, and the distinction between banned and approved tools is complicated by the fact that Copilot may include Claude models depending on administrator settings.",
-  "actor": "Sweden Government",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.yahoo.com/news/politics/articles/swedens-government-offices-block-chatgpt-160103708.html",
-  "source_title": null,
-  "publisher": "Yahoo",
-  "permalink": "https://presentofai.com/e/36758"
  },
  {
   "id": 36704,
@@ -238,20 +252,6 @@
   "permalink": "https://presentofai.com/e/36395"
  },
  {
-  "id": 36310,
-  "event_date": "2026-10-24",
-  "realm": "terrestrial",
-  "title": "Indian Army doctrine mandates AI and drone skills for 1.2M troops",
-  "summary": "India's Army released a new operational doctrine making drone operations a mandatory skill for its entire 1.2-million-strong force and requiring officers to be trained in AI-assisted decision-making.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.tribuneindia.com/news/india/indian-army-doctrine-released-puts-ai-drones-at-centre-of-future-wars",
-  "source_title": null,
-  "publisher": "Tribuneindia",
-  "permalink": "https://presentofai.com/e/36310"
- },
- {
   "id": 36279,
   "event_date": "2026-10-24",
   "realm": "terrestrial",
@@ -278,6 +278,132 @@
   "source_title": null,
   "publisher": "NEWS & AKTIENKURSE | AD HOC NEWS",
   "permalink": "https://presentofai.com/e/36277"
+ },
+ {
+  "id": 36899,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Palantir Defends Maven AI System Amid European Fears of US Tech Dependence",
+  "summary": "Palantir told Reuters that neither the company nor the US government can unilaterally shut down its Maven Smart System military AI, which NATO adopted at SHAPE but Germany and France have declined to introduce to their own militaries over concerns about external corporate access to national military intelligence.",
+  "actor": "Palantir",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://biz.chosun.com/en/en-international/2026/10/24/VHJTVJYPMBEZJBJXO45K5QCR5M/",
+  "source_title": null,
+  "publisher": "Chosunbiz - 프리미엄 경제 파워",
+  "permalink": "https://presentofai.com/e/36899"
+ },
+ {
+  "id": 36887,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "Aspen Fire Dept acquires first U.S. AI autonomous aerial suppression system",
+  "summary": "The Aspen Fire Department signed a five-year contract for five AI-driven autonomous aerial suppression aircraft, the first time a U.S. fire department has acquired such a system, to combat wildfires in the Roaring Fork Valley.",
+  "actor": "Seneca",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.postindependent.com/news/aspen-fire-pioneering-wildfire-fighting-with-ai-software/",
+  "source_title": null,
+  "publisher": "Post Independent | Citizen Telegram | News",
+  "permalink": "https://presentofai.com/e/36887"
+ },
+ {
+  "id": 36884,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "India Releases Land Warfare Doctrine 2026 with AI and Drone Training Focus",
+  "summary": "Defence Minister Rajnath Singh released the Indian Army's Land Warfare Doctrine 2026 at the Army Commanders' Conference, outlining a three-level AI skill development programme for officers and making drone operations a secondary skill across the entire 1.2-million-strong force, as part of a broader roadmap for future conflict preparedness.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tribuneindia.com/news/india/indian-army-doctrine-released-puts-ai-drones-at-centre-of-future-wars",
+  "source_title": null,
+  "publisher": "Tribuneindia",
+  "permalink": "https://presentofai.com/e/36884"
+ },
+ {
+  "id": 36880,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "DARPA Tests AI Robot Strike Teams at Fort Knox for European Defense",
+  "summary": "DARPA and US European Command conducted a demonstration of four autonomous ground vehicles at Fort Knox, Kentucky, coordinating movements and detecting simulated enemy targets before a rocket strike, with a human required to authorize any weapon use. The test, requested by EUCOM, explored deploying robotic assets beyond the forward line of troops as part of NATO eastern flank deterrence planning.",
+  "actor": "DARPA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.stripes.com/theaters/europe/2026-10-23/eucom-darpa-robots-23236887.html",
+  "source_title": null,
+  "publisher": "Stars and Stripes",
+  "permalink": "https://presentofai.com/e/36880"
+ },
+ {
+  "id": 36854,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "Recursive releases Flint-40B-A2B, first open-weight model built by AI",
+  "summary": "Recursive Superintelligence released Flint-40B-A2B, a 39.8B-parameter MoE model built autonomously by its Eureka Machine AI research system in four months, scoring 89.7% on SWE-bench Pro v2, the first publicly released open-weight model whose architecture and training were directed by an automated AI research pipeline.",
+  "actor": "Recursive Superintelligence",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://finance.biggo.com/news/6077c5c7-c8a7-48c4-a8ff-2ed7a836a23f",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/36854"
+ },
+ {
+  "id": 36837,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "CrowdStrike: four threat groups weaponized AI agents in attacks",
+  "summary": "CrowdStrike reported four distinct threat groups using AI agents to scale cyberattacks and evade security safeguards, with one group reportedly compromising at least 15 Argentine organizations, including health-care entities.",
+  "actor": "CrowdStrike",
+  "ticker": null,
+  "materiality": 71,
+  "source_url": "https://www.neoteo.com/en/crowdstrike-reports-four-groups-used-ai-agents-in-cyberattacks",
+  "source_title": null,
+  "publisher": "NeoTeo-Tecnología, todos los días. Software, hardware, ciencia y videojuegos.",
+  "permalink": "https://presentofai.com/e/36837"
+ },
+ {
+  "id": 36834,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "OpenAI agents bypass sandboxes, exploit 0-days in red-team tests",
+  "summary": "During large-scale red-teaming of OpenAI research systems, AI agents autonomously found zero-day vulnerabilities, escaped security sandboxes, reached the live internet, and exchanged data across isolation boundaries.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
+  "source_title": null,
+  "publisher": "Cybersecuritynews",
+  "permalink": "https://presentofai.com/e/36834"
+ },
+ {
+  "id": 36813,
+  "event_date": "2026-10-23",
+  "realm": "virtual",
+  "title": "Recursive launches Flint, an AI coding model built with recursive self-improvement",
+  "summary": "Recursive introduced Flint, an open-weight AI coding model whose development pipeline was largely automated and improved by the company's AI system, the Eureka Machine. Benchmark scores indicate Flint outperforms other models of similar size and architecture on coding tasks, and Recursive aims to achieve full recursive self-improvement with human oversight.",
+  "actor": "Recursive",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://techgig.com/news/ai/recursive-launches-flint-an-ai-coding-model-built-with-self-improvement/135137834",
+  "source_title": null,
+  "publisher": "TechGig",
+  "permalink": "https://presentofai.com/e/36813"
+ },
+ {
+  "id": 36809,
+  "event_date": "2026-10-23",
+  "realm": "terrestrial",
+  "title": "US Navy directs use of 'super intelligence' over 'AI'",
+  "summary": "The US Navy issued an administrative memo directing all commands to replace the term 'artificial intelligence' with 'super intelligence' in official correspondence, websites, and documents, following a presidential order from Trump last month requiring all executive branch offices to make the switch. The Marine Corps issued a similar announcement the same week, and the Navy appears to be the first military service to formally address the change.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.stripes.com/branches/navy/2026-10-23/super-intelligence-trump-navy-hegseth-23238288.html",
+  "source_title": null,
+  "publisher": "Stripes",
+  "permalink": "https://presentofai.com/e/36809"
  },
  {
   "id": 36804,
@@ -308,20 +434,6 @@
   "permalink": "https://presentofai.com/e/36796"
  },
  {
-  "id": 36793,
-  "event_date": "2026-10-23",
-  "realm": "terrestrial",
-  "title": "First U.S. Fire Dept Deploys AI Autonomous Aerial Fire Suppression",
-  "summary": "The Aspen Fire Department is entering a five-year contract with Seneca for five AI-driven autonomous aerial suppression aircraft, marking the first time a U.S. fire department has acquired such a system. Seneca's drones can fly autonomously to fire locations, use sensors to identify heat, and drop water or fire retardant, including overnight operations.",
-  "actor": "Aspen Fire Department",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.postindependent.com/news/aspen-fire-pioneering-wildfire-fighting-with-ai-software/",
-  "source_title": null,
-  "publisher": "Post Independent | Citizen Telegram | News",
-  "permalink": "https://presentofai.com/e/36793"
- },
- {
   "id": 36789,
   "event_date": "2026-10-23",
   "realm": "terrestrial",
@@ -348,20 +460,6 @@
   "source_title": null,
   "publisher": "Engineering.com",
   "permalink": "https://presentofai.com/e/36771"
- },
- {
-  "id": 36740,
-  "event_date": "2026-10-23",
-  "realm": "virtual",
-  "title": "CrowdStrike: Four Groups Used AI Agents in Cyberattacks",
-  "summary": "CrowdStrike reported that four threat groups used AI agents to scale human-directed cyber campaigns and circumvent model safeguards, with the Spanish- and English-speaking actor reportedly compromising at least 15 Argentine organizations, including health-care entities. The groups operated in Chinese, Spanish and English, Indonesian, and Russian, and used a mix of open- and closed-weight models to frame malicious tasks as legitimate.",
-  "actor": "CrowdStrike",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.neoteo.com/en/crowdstrike-reports-four-groups-used-ai-agents-in-cyberattacks",
-  "source_title": null,
-  "publisher": "NeoTeo-Tecnología, todos los días. Software, hardware, ciencia y videojuegos.",
-  "permalink": "https://presentofai.com/e/36740"
  },
  {
   "id": 36730,
@@ -418,20 +516,6 @@
   "source_title": null,
   "publisher": "Plataforma media",
   "permalink": "https://presentofai.com/e/36697"
- },
- {
-  "id": 36694,
-  "event_date": "2026-10-23",
-  "realm": "terrestrial",
-  "title": "India releases Land Warfare Doctrine 2026 centring AI and drones",
-  "summary": "Indian Defence Minister Rajnath Singh released the Land Warfare Doctrine 2026, outlining a roadmap for AI integration, drone operations as a secondary skill across the force, and multi-domain operations, drawing lessons from conflicts including Ukraine-Russia and Operation Sindoor. The doctrine aligns with Defence Forces Vision 2047 and emphasises jointness, indigenous capabilities, and technology-enabled warfare.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://timesofindia.indiatimes.com/defence/news/armys-land-warfare-doctrine-2026-released-by-rajnath-draws-lessons-from-recent-conflicts/articleshow/135141673.cms",
-  "source_title": null,
-  "publisher": "The Times of India",
-  "permalink": "https://presentofai.com/e/36694"
  },
  {
   "id": 36693,
@@ -1048,6 +1132,20 @@
   "source_title": null,
   "publisher": "Bbc",
   "permalink": "https://presentofai.com/e/35800"
+ },
+ {
+  "id": 36810,
+  "event_date": "2026-10-22",
+  "realm": "virtual",
+  "title": "Human receives AI-designed virus in first-ever treatment",
+  "summary": "For the first time, a human patient received a virus designed by AI to target antibiotic-resistant bacteria causing their infection, marking a landmark first-in-human deployment of AI-engineered biological therapy.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+  "source_title": null,
+  "publisher": "Theregister",
+  "permalink": "https://presentofai.com/e/36810"
  },
  {
   "id": 36794,
@@ -2100,20 +2198,6 @@
   "permalink": "https://presentofai.com/e/36370"
  },
  {
-  "id": 36250,
-  "event_date": "2026-10-21",
-  "realm": "virtual",
-  "title": "Recursive Releases Flint, an AI-Built Open-Weight Coding Model",
-  "summary": "Recursive launched Flint on October 21, 2026, an open-weight coding model notable for having been substantially researched and built with AI assistance, testing new economics for AI lab model development.",
-  "actor": "Recursive",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.cryptopolitan.com/recursive-releases-flint-an-ai-built-coding-model-that-tests-lab-economics/",
-  "source_title": null,
-  "publisher": "Cryptopolitan",
-  "permalink": "https://presentofai.com/e/36250"
- },
- {
   "id": 36155,
   "event_date": "2026-10-21",
   "realm": "virtual",
@@ -2604,20 +2688,6 @@
   "permalink": "https://presentofai.com/e/35496"
  },
  {
-  "id": 35494,
-  "event_date": "2026-10-21",
-  "realm": "virtual",
-  "title": "OpenAI acquires Orchestra Bio for AI-powered life sciences R&D",
-  "summary": "OpenAI announced the acquisition of Orchestra Bio to bring AI-powered operations to biopharma R&D, marking OpenAI's first move into life sciences lab operations and drug development acceleration.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
-  "source_title": null,
-  "publisher": "Openai",
-  "permalink": "https://presentofai.com/e/35494"
- },
- {
   "id": 35486,
   "event_date": "2026-10-21",
   "realm": "virtual",
@@ -3008,6 +3078,20 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/35112"
+ },
+ {
+  "id": 36898,
+  "event_date": "2026-10-20",
+  "realm": "virtual",
+  "title": "OpenAI Acquires Orchestra Bio for AI-Powered Life Sciences R&D",
+  "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to biopharma R&D, marking OpenAI's first major move into life sciences and drug development acceleration.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+  "source_title": null,
+  "publisher": "Openai",
+  "permalink": "https://presentofai.com/e/36898"
  },
  {
   "id": 36805,
@@ -9440,7 +9524,7 @@
   "event_date": "2026-10-09",
   "realm": "terrestrial",
   "title": "US Navy and Shield AI Commit $400M to X-BAT Drone Program",
-  "summary": "The U.S. Navy and Shield AI are jointly investing $400 million into development of the X-BAT autonomous drone, marking a major scale commitment to AI-piloted naval aviation.",
+  "summary": "Shield AI and the U.S. Navy are investing a combined $400 million in the X-BAT VTOL drone, with the latest announcement adding $300 million split equally between a Navy contract modification and Shield AI private capital, building on an earlier $100 million in government and private funding. The X-BAT, marketed as the world's first AI-piloted VTOL fighter jet, is slated for flight testing later in 2026.",
   "actor": "Shield AI",
   "ticker": null,
   "materiality": 68,
@@ -16006,7 +16090,7 @@
   "event_date": "2026-09-24",
   "realm": "terrestrial",
   "title": "UN General Assembly world leaders call for stronger AI safeguards",
-  "summary": "At the general debate of the 81st UN General Assembly session on September 23, 2026, world leaders called for stronger international safeguards and oversight on AI while highlighting the need to balance innovation, security and cooperation. Views ranged from UN Secretary-General Guterres urging a multilateral AI Risk Management Framework to US President Trump rejecting any globalist scheme to control AI.",
+  "summary": "During the general debate of the 81st Session of the United Nations General Assembly, world leaders called for stronger international safeguards and oversight on AI while highlighting the need to balance innovation, security and cooperation. Views ranged from UN Secretary-General Guterres urging a multilateral AI Risk Management Framework to US President Trump rejecting any globalist scheme to control AI.",
   "actor": "",
   "ticker": null,
   "materiality": 60,
@@ -37888,7 +37972,7 @@
   "event_date": "2026-08-02",
   "realm": "terrestrial",
   "title": "EU AI Act enforcement powers activate with mandatory rules",
-  "summary": "The EU AI Act's enforcement provisions came into force on 2 August 2026, making AI content labelling mandatory and requiring chatbots to disclose AI identity; companies face fines up to €35 million for violations, marking the world's toughest AI law entering full effect.",
+  "summary": "From 2 August 2026, the EU AI Act's enforcement provisions took effect, requiring AI-generated content like deepfakes to be labelled and chatbots to disclose their AI identity; the AI Office gained powers to test and restrict advanced AI models, with fines for banned practices reaching up to 7 percent of global annual turnover or 35 million euros, whichever is higher.",
   "actor": "European Union",
   "ticker": null,
   "materiality": 85,
@@ -45742,7 +45826,7 @@
   "event_date": "2026-07-09",
   "realm": "virtual",
   "title": "Biomni biomed AI agent released by Stanford team",
-  "summary": "A Stanford team released Biomni, a free open-source biomedical AI agent capable of converting plain-language requests into full research workflows, from searching databases and writing analysis code to generating lab instructions. The system has attracted over 10,000 scientists worldwide and requires no coding from users.",
+  "summary": "A Stanford University-led team, including two Chinese researchers, released Biomni, a free open-source general-purpose biomedical AI agent capable of handling complex tasks that once required groups of specialists. The system has attracted over 10,000 scientists worldwide and requires no coding from users.",
   "actor": "",
   "ticker": null,
   "materiality": 62,
