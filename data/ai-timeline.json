@@ -10951,14 +10951,14 @@
   "id": 31035,
   "event_date": "2026-10-05",
   "realm": "terrestrial",
-  "title": "US Court Rules AI Training a Copyright Violation",
-  "summary": "The first US appellate court deemed AI training on copyrighted material a copyright violation, a landmark ruling expected to reshape high-stakes lawsuits from creators and publishers against AI companies.",
+  "title": "Munich Court Rules AI Music Generator Suno Violated Copyrights in Training and Outputs",
+  "summary": "A Munich court ruled that AI music generator Suno infringed copyrights through both its training process and its generated outputs, following a lawsuit by German music rights organization GEMA. The court rejected Suno's fair use defense under both German and US law, found that Suno's models memorized protected songs and reproduced them from simple prompts, and held Suno rather than its users responsible for the infringing outputs.",
   "actor": "",
   "ticker": null,
   "materiality": 82,
-  "source_url": "https://mlex.com/mlex/antitrust/articles/2535265",
+  "source_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
   "source_title": null,
-  "publisher": "Mlex",
+  "publisher": "The Decoder",
   "permalink": "https://presentofai.com/e/31035"
  },
  {
@@ -16552,7 +16552,7 @@
   "event_date": "2026-09-22",
   "realm": "terrestrial",
   "title": "Google, OpenAI, Anthropic, SpaceX face antitrust suit in N.D. Cal.",
-  "summary": "A federal court in the Northern District of California allowed antitrust claims against Anthropic, Google, OpenAI, and SpaceX to proceed over alleged coordination in AI development.",
+  "summary": "A federal court in the Northern District of California allowed an antitrust complaint against Anthropic, Google, OpenAI, and SpaceX to proceed, based on allegations that the companies coordinated to deliberately slow AI development timelines in violation of the Sherman Act.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -38052,20 +38052,6 @@
   "permalink": "https://presentofai.com/e/9374"
  },
  {
-  "id": 9364,
-  "event_date": "2026-07-31",
-  "realm": "virtual",
-  "title": "Google rolls back AI satellite imagery tool after backlash",
-  "summary": "Google rolled back on July 31 a Google Earth feature, unveiled July 30, that let users generate AI visualizations over satellite imagery using its Nano Banana 2 image-generation technology, following backlash from researchers and open-source intelligence experts over disinformation risks. Google said it was pausing the feature while working on stronger guardrails, after critics warned it could enable creation of convincing fake satellite imagery.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.thestar.com.my/tech/tech-news/2026/08/02/google-rolls-back-new-satellite-image-ai-tool-after-backlash",
-  "source_title": null,
-  "publisher": "The Star",
-  "permalink": "https://presentofai.com/e/9364"
- },
- {
   "id": 9297,
   "event_date": "2026-07-31",
   "realm": "terrestrial",
@@ -43484,20 +43470,6 @@
   "permalink": "https://presentofai.com/e/4436"
  },
  {
-  "id": 4393,
-  "event_date": "2026-07-16",
-  "realm": "virtual",
-  "title": "Nvidia unveils new AI model, expands physical AI ecosystem in Japan",
-  "summary": "During CEO Jensen Huang's two-day Japan visit, Nvidia unveiled Cosmos 3 Edge, a new world model for robots and vision AI agents, and announced a coalition that Fujitsu, Hitachi, and Kawasaki Heavy Industries intend to join to expand its physical AI footprint in Japan.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/4393"
- },
- {
   "id": 4382,
   "event_date": "2026-07-16",
   "realm": "virtual",
@@ -46400,7 +46372,7 @@
   "event_date": "2026-06-28",
   "realm": "virtual",
   "title": "DeepSeek DSpark paper: up to 85% inference speed gain on V4",
-  "summary": "DeepSeek published the DSpark paper co-authored by founder Liang Wenfeng and Peking University, demonstrating a 60% to 85% increase in per-user generation speed for DeepSeek-V4 Flash under real traffic via confidence-scheduled speculative decoding that reduces wasted computation from invalid draft verification. Offline and high-concurrency scenarios saw aggregate throughput gains of 51% to 400%.",
+  "summary": "DeepSeek founder Liang Wenfeng co-authored the DSpark paper with Peking University, published June 27, 2026, demonstrating confidence-scheduled speculative decoding that reduces wasted computation from invalid draft verification. Deployed on DeepSeek-V4 real traffic, per-user generation speed increased 60% to 85% for the Flash version and 57% to 78% for the Pro version, with offline and high-concurrency aggregate throughput gains of 51% to 400%.",
   "actor": "DeepSeek",
   "ticker": null,
   "materiality": 65,
