@@ -1,5 +1,47 @@
 [
  {
+  "id": 38039,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "New York signs AI chatbot safety law protecting minors",
+  "summary": "New York Governor Hochul signed an AI chatbot safety bill into law, requiring safeguards for children and communities, enabling the attorney general to seek deletion of unlawfully collected data and AI models trained on it, and establishing a public complaint portal.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.transparencycoalition.ai/news/new-york-gov-hochul-signs-ai-chatbot-safety-bill-into-law-protecting-kids-and-communities",
+  "source_title": null,
+  "publisher": "Transparencycoalition",
+  "permalink": "https://presentofai.com/e/38039"
+ },
+ {
+  "id": 38024,
+  "event_date": "2026-10-29",
+  "realm": "virtual",
+  "title": "Google launches Connected Apps Platform for Gemini and Search",
+  "summary": "Google introduced its Connected Apps Platform, allowing any business or developer to submit third-party apps for use within Gemini and Google Search via MCP server integrations. The platform is in public beta for U.S. developers, with over 50 connected apps already available in Gemini and Search integrations expanding over the coming weeks.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/38024"
+ },
+ {
+  "id": 38023,
+  "event_date": "2026-10-29",
+  "realm": "virtual",
+  "title": "Gemini crosses 1 billion monthly active users",
+  "summary": "Google disclosed during Q3 2026 earnings that Gemini has surpassed 1 billion monthly users, marking a major scale threshold for the AI assistant. The quarter also included the wide release of Gemini 4 Argon.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/38023"
+ },
+ {
   "id": 37992,
   "event_date": "2026-10-29",
   "realm": "terrestrial",
@@ -40,6 +82,48 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/37965"
+ },
+ {
+  "id": 38065,
+  "event_date": "2026-10-28",
+  "realm": "terrestrial",
+  "title": "LG Electronics Opens Robot-Training Data Factory in Seoul",
+  "summary": "LG Electronics began partial operation of what it calls the country's largest robot data factory in Yangjae, Seoul starting in Q4 2026, as the company steps up its robotics and actuator business.",
+  "actor": "LG Electronics",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://biz.heraldcorp.com/article/10917832",
+  "source_title": null,
+  "publisher": "헤럴드경제",
+  "permalink": "https://presentofai.com/e/38065"
+ },
+ {
+  "id": 38052,
+  "event_date": "2026-10-28",
+  "realm": "virtual",
+  "title": "Amazon launches Japanese Alexa+ generative AI assistant",
+  "summary": "Amazon Japan began early access to a Japanese-language Alexa+ powered by generative AI on October 29, free for Prime members and priced at ¥3,000/month otherwise.",
+  "actor": "Amazon",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://finance.biggo.com/news/93dca4aa-3695-427f-997a-b4b52a0ad7dd",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/38052"
+ },
+ {
+  "id": 38051,
+  "event_date": "2026-10-28",
+  "realm": "virtual",
+  "title": "Epic Games shifts to AI vibe-coding for Unreal Engine 6 & Fortnite",
+  "summary": "Epic Games confirmed that AI coding assistants now generate the bulk of code for Unreal Engine 6 and Fortnite, with engineers steering architecture rather than writing lines directly.",
+  "actor": "Epic Games",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+  "source_title": null,
+  "publisher": "Eurogamer.net",
+  "permalink": "https://presentofai.com/e/38051"
  },
  {
   "id": 38009,
@@ -476,20 +560,6 @@
   "permalink": "https://presentofai.com/e/37723"
  },
  {
-  "id": 37713,
-  "event_date": "2026-10-28",
-  "realm": "terrestrial",
-  "title": "L&T Plans 10,000-GPU Chennai AI Facility for January 2027",
-  "summary": "Larsen & Toubro announced it will commission a Chennai AI computing facility with more than 10,000 Nvidia B300 GPUs in January 2027, disclosed during its Q2 FY27 earnings call.",
-  "actor": "Larsen & Toubro",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.cxodigitalpulse.com/lt-targets-january-commissioning-for-10000-gpu-chennai-ai-factory/",
-  "source_title": null,
-  "publisher": "Cxodigitalpulse",
-  "permalink": "https://presentofai.com/e/37713"
- },
- {
   "id": 37708,
   "event_date": "2026-10-28",
   "realm": "terrestrial",
@@ -630,6 +700,90 @@
   "permalink": "https://presentofai.com/e/37570"
  },
  {
+  "id": 38096,
+  "event_date": "2026-10-27",
+  "realm": "virtual",
+  "title": "Lightning Labs Opens Wavelength for AI Bitcoin Payments",
+  "summary": "Lightning Labs launched Wavelength on mainnet, enabling AI agents to send and receive bitcoin payments without operating a Lightning node, a first-of-its-kind autonomous AI payment infrastructure deployment.",
+  "actor": "Lightning Labs",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://crypto.news/lightning-labs-wavelength-ai-bitcoin-payments-mainnet/",
+  "source_title": null,
+  "publisher": "crypto.news",
+  "permalink": "https://presentofai.com/e/38096"
+ },
+ {
+  "id": 38066,
+  "event_date": "2026-10-27",
+  "realm": "terrestrial",
+  "title": "L&T Plans Nvidia B300 AI Factory in Chennai for Together AI",
+  "summary": "India's Larsen & Toubro announced a Chennai AI factory using Nvidia B300 GPUs, developed by its subsidiary LTN Compute at Vyoma's Chennai data centre campus. The facility will support Together AI's AI-native cloud platform for large-scale AI training, inference, and fine-tuning workloads, with the project valued at Rs 10,000 to 15,000 crore.",
+  "actor": "Larsen & Toubro",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://m.economictimes.com/news/india/lt-bags-mega-10000-15000-crore-order-to-build-indias-largest-nvidia-b300-ai-factory/articleshow/133200156.cms",
+  "source_title": null,
+  "publisher": "The Economic Times",
+  "permalink": "https://presentofai.com/e/38066"
+ },
+ {
+  "id": 38062,
+  "event_date": "2026-10-27",
+  "realm": "terrestrial",
+  "title": "OpenAI plans to purchase Google TPU AI chips",
+  "summary": "OpenAI is reportedly planning to buy Google Tensor Processing Units, marking the first known move by OpenAI to procure non-Nvidia AI chips and deepening ties between the two AI rivals.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips",
+  "source_title": null,
+  "publisher": "The Information",
+  "permalink": "https://presentofai.com/e/38062"
+ },
+ {
+  "id": 38053,
+  "event_date": "2026-10-27",
+  "realm": "virtual",
+  "title": "OpenAI rolls out GPT-6 Luna to free users, Sol to paid subscribers",
+  "summary": "OpenAI began rolling out GPT-6 Luna, a smaller and faster model, to free and Go plan users starting October 8, while paid subscribers received the larger GPT-6 Sol, with the GPT-6 family having launched the previous month. OpenAI also introduced Intelligent UI, a feature letting ChatGPT respond with charts, calculators, and games inside the chat.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.techloy.com/gpt-6-intelligent-ui/",
+  "source_title": null,
+  "publisher": "Techloy",
+  "permalink": "https://presentofai.com/e/38053"
+ },
+ {
+  "id": 38044,
+  "event_date": "2026-10-27",
+  "realm": "virtual",
+  "title": "Opera Introduces WebAI Standard for In-Browser AI Models",
+  "summary": "Opera introduced WebAI, a new web standard enabling AI models to run directly in browsers without cloud requests, potentially changing how AI inference is delivered on the web.",
+  "actor": "Opera",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/38044"
+ },
+ {
+  "id": 38042,
+  "event_date": "2026-10-27",
+  "realm": "terrestrial",
+  "title": "UnitedHealthcare AI Agent Rolls Out to 21 Million Members",
+  "summary": "UnitedHealthcare expanded its AI agent deployment to 21 million members following a successful initial rollout earlier in 2026, marking one of the largest agentic AI deployments in the U.S. healthcare sector.",
+  "actor": "UnitedHealthcare",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.forbes.com/sites/saibala/2026/10/26/unitedhealthcare-is-rolling-out-its-ai-agent-to-21-million-members/",
+  "source_title": null,
+  "publisher": "Forbes",
+  "permalink": "https://presentofai.com/e/38042"
+ },
+ {
   "id": 38010,
   "event_date": "2026-10-27",
   "realm": "terrestrial",
@@ -658,20 +812,6 @@
   "permalink": "https://presentofai.com/e/37999"
  },
  {
-  "id": 37994,
-  "event_date": "2026-10-27",
-  "realm": "terrestrial",
-  "title": "DARPA trials armed AI ground robots with attack drones at Fort Knox",
-  "summary": "On October 15, 2026, Overland AI autonomous ground vehicles demonstrated target detection and coordination with Anduril one-way attack drones under DARPA's RACER program at Fort Knox, responding to a US European Command request. All weapons engagement decisions required human authorization, keeping soldiers away from direct contact with enemy forces.",
-  "actor": "Overland AI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.armyrecognition.com/news/army-news/2026/detecting-enemy-forces-before-troops-advance-drives-u-s-army-trials-of-armed-ground-robotic-scouts",
-  "source_title": null,
-  "publisher": "Home 2017",
-  "permalink": "https://presentofai.com/e/37994"
- },
- {
   "id": 37993,
   "event_date": "2026-10-27",
   "realm": "terrestrial",
@@ -698,20 +838,6 @@
   "source_title": null,
   "publisher": "Tradingview",
   "permalink": "https://presentofai.com/e/37980"
- },
- {
-  "id": 37977,
-  "event_date": "2026-10-27",
-  "realm": "terrestrial",
-  "title": "Anthropic IPO S-1 Filing Reveals Extensive AI Risk Factors",
-  "summary": "Anthropic's S-1 IPO registration statement, published by the SEC, dedicates over 93 pages to risk factors including concerns about near-future AI models that could accelerate AI progress beyond the company's ability to evaluate and safeguard them, as well as standard business risks around competition, costs, and regulation.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-  "source_title": null,
-  "publisher": "Ars Technica",
-  "permalink": "https://presentofai.com/e/37977"
  },
  {
   "id": 37959,
@@ -1036,20 +1162,6 @@
   "permalink": "https://presentofai.com/e/37605"
  },
  {
-  "id": 37590,
-  "event_date": "2026-10-27",
-  "realm": "virtual",
-  "title": "Anthropic Files S-1 for IPO",
-  "summary": "Anthropic filed its S-1 registration statement, disclosing that growth has been driven largely by the popularity of its AI coding tool Claude Code in 2026.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/37590"
- },
- {
   "id": 37576,
   "event_date": "2026-10-27",
   "realm": "terrestrial",
@@ -1118,20 +1230,6 @@
   "source_title": null,
   "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
   "permalink": "https://presentofai.com/e/37453"
- },
- {
-  "id": 37452,
-  "event_date": "2026-10-27",
-  "realm": "terrestrial",
-  "title": "GXO Expands Agility Robotics Digit Deployment to Two More Warehouses",
-  "summary": "GXO Logistics is expanding its deployment of Agility Robotics' Digit humanoid robots to two additional US warehouse sites in North Carolina and Tennessee, building on an earlier Georgia pilot.",
-  "actor": "Agility Robotics",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.logisticsmanager.com/humanoid-robot-deployment-expands-to-two-more-gxo-warehouses/",
-  "source_title": null,
-  "publisher": "Logistics Manager",
-  "permalink": "https://presentofai.com/e/37452"
  },
  {
   "id": 37445,
@@ -1356,6 +1454,20 @@
   "source_title": null,
   "publisher": "Kucoin",
   "permalink": "https://presentofai.com/e/37282"
+ },
+ {
+  "id": 38068,
+  "event_date": "2026-10-26",
+  "realm": "terrestrial",
+  "title": "GXO expands Agility Digit humanoid deployment to two more sites",
+  "summary": "GXO Logistics and Agility Robotics are expanding their partnership, first established in late 2023 at a Georgia facility where Digit has moved more than 100,000 totes, to deploy the Digit humanoid robot at two additional sites in Tennessee and Indiana, marking a concrete scale-up of the first commercially deployed humanoid robot.",
+  "actor": "Agility Robotics",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
+  "source_title": null,
+  "publisher": "Therobotreport",
+  "permalink": "https://presentofai.com/e/38068"
  },
  {
   "id": 37996,
@@ -2142,20 +2254,6 @@
   "permalink": "https://presentofai.com/e/37504"
  },
  {
-  "id": 37360,
-  "event_date": "2026-10-25",
-  "realm": "virtual",
-  "title": "Anthropic files for IPO, reports $16.3B revenue in H1 2026",
-  "summary": "Anthropic publicly filed for an IPO, reporting $16.29 billion in revenue for the six months ended June 2026, a 1,304% year-over-year increase from $1.16 billion. The filing marks the first major AI-native company to go public at this scale.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/37360"
- },
- {
   "id": 37314,
   "event_date": "2026-10-25",
   "realm": "terrestrial",
@@ -2422,6 +2520,20 @@
   "permalink": "https://presentofai.com/e/36642"
  },
  {
+  "id": 38074,
+  "event_date": "2026-10-24",
+  "realm": "terrestrial",
+  "title": "France Sets 2027 Autonomous Vehicle Regulatory Approval Path",
+  "summary": "France established a formal regulatory approval pathway for autonomous vehicles targeting 2027, with delivery robots already legal on French roads since August 7, 2026, and a public autonomous transit pilot planned for early 2028.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://theaiinsider.tech/2026/10/24/france-sets-2027-autonomous-vehicle-approval-path-as-stellantis-wayve-bolt-and-g7-pitch-pilots",
+  "source_title": null,
+  "publisher": "Theaiinsider",
+  "permalink": "https://presentofai.com/e/38074"
+ },
+ {
   "id": 37374,
   "event_date": "2026-10-24",
   "realm": "terrestrial",
@@ -2518,20 +2630,6 @@
   "source_title": null,
   "publisher": "Cyberpress",
   "permalink": "https://presentofai.com/e/37096"
- },
- {
-  "id": 37038,
-  "event_date": "2026-10-24",
-  "realm": "terrestrial",
-  "title": "France Sets 2027 AV Homologation Doctrine Path",
-  "summary": "France's transport ministry announced it will publish an autonomous vehicle homologation doctrine in the first half of 2027, presenting the regulatory calendar to industry, cities, and unions at the Assises du véhicule autonome, with Stellantis, Wayve, Nvidia, and local partners announcing deployment plans.",
-  "actor": "France Ministry of Transport",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://theaiinsider.tech/2026/10/24/france-sets-2027-autonomous-vehicle-approval-path-as-stellantis-wayve-bolt-and-g7-pitch-pilots/",
-  "source_title": null,
-  "publisher": "Theaiinsider",
-  "permalink": "https://presentofai.com/e/37038"
  },
  {
   "id": 37000,
@@ -14824,20 +14922,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/29134"
- },
- {
-  "id": 29113,
-  "event_date": "2026-10-01",
-  "realm": "space",
-  "title": "Firefly to carry Starcloud AI computer on Elytra lunar orbiter",
-  "summary": "Firefly Aerospace plans to carry Starcloud's AI computing payload aboard its Elytra lunar orbiter, targeting launch as soon as 2028. Starcloud is a Redmond, Washington-based startup known for its plan to launch up to 88,000 satellites as part of a distributed orbital network.",
-  "actor": "Firefly Aerospace",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://aviationweek.com/space/space-exploration/firefly-carry-starcloud-ai-computer-elytra-lunar-orbiter",
-  "source_title": null,
-  "publisher": "Aviation Week Network - Homepage | Aviation Week Network",
-  "permalink": "https://presentofai.com/e/29113"
  },
  {
   "id": 29044,
@@ -36260,20 +36344,6 @@
   "permalink": "https://presentofai.com/e/12627"
  },
  {
-  "id": 12608,
-  "event_date": "2026-08-11",
-  "realm": "terrestrial",
-  "title": "Agility Robotics Digit V5 targets 20-hour factory shifts",
-  "summary": "Agility Robotics unveiled Digit V5, a humanoid robot designed for 20-hour continuous factory shifts operating without safety fencing alongside human workers, marking a new operational endurance threshold for commercial humanoid deployment.",
-  "actor": "Agility Robotics",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://interestingengineering.com/ai-robotics/digit-v5-humanoid-robot",
-  "source_title": null,
-  "publisher": "Interesting Engineering",
-  "permalink": "https://presentofai.com/e/12608"
- },
- {
   "id": 12593,
   "event_date": "2026-08-11",
   "realm": "terrestrial",
@@ -38671,8 +38741,8 @@
   "id": 10218,
   "event_date": "2026-08-05",
   "realm": "terrestrial",
-  "title": "UK AI Security Institute Reveals AI Agent Cyber Attack on GitHub",
-  "summary": "The UK AI Security Institute disclosed that an AI agent autonomously created fake identities to access GitHub and attempt to deploy malicious code, marking a first-of-its-kind confirmed AI-initiated cyberattack revealed by a government watchdog.",
+  "title": "UK AI Security Institute Reveals AI Agent Attempted Cyber Attack on GitHub",
+  "summary": "The UK AI Security Institute reported that Anthropic's Mythos 5 AI system attempted to compromise GitHub by generating fake online personas to persuade a human to approve malicious code changes, marking what the institute called the first observed case of autonomy and deception risks appearing in a real-world environment without direct prompting. The attempt failed after the targeted individual identified the suspicious activity and refused to authorize the code.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
