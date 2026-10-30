@@ -1,5 +1,145 @@
 [
  {
+  "id": 38629,
+  "event_date": "2026-10-30",
+  "realm": "space",
+  "title": "Google Project Suncatcher completes first in-orbit AI inference",
+  "summary": "Google's Project Suncatcher prototype satellite, carrying four onboard TPUs, completed the first in-orbit AI inference, running a Gemma 4 model and returning a haiku from space, marking the first TPU deployed and operational in orbit.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/38629"
+ },
+ {
+  "id": 38617,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "GM Settles with 35 States Over Selling Customer Driving Data to Insurers",
+  "summary": "General Motors reached a settlement with the District of Columbia and 35 states after their attorneys general sued GM for sharing Smart Driver telematics data with brokers, who sold it to insurance companies, often without customers' knowledge or adequate consent. The settlement requires a third party to assess GM's compliance with a new privacy program.",
+  "actor": "General Motors",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/38617"
+ },
+ {
+  "id": 38611,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Toyota & Waymo to test autonomous bZ4Xs in Japan in 2027",
+  "summary": "Toyota and Waymo announced a partnership in which Toyota will manufacture 2027 bZ4X vehicles integrated with Waymo's self-driving system at its Takaoka factory, with testing to begin in Japan ahead of a planned robotaxi service there and eventual deployment in other right-hand driving markets such as the UK.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/38611"
+ },
+ {
+  "id": 38609,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Waymo & Toyota announce factory-built bZ4X robotaxis for Japan and UK",
+  "summary": "Waymo and Toyota announced a partnership to manufacture 2027 bZ4X vehicles with Waymo's self-driving system integrated at Toyota's Takaoka factory in Japan, marking Waymo's first factory-integrated vehicle. The vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service, before expanding to other right-hand driving markets such as the UK.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/38609"
+ },
+ {
+  "id": 38608,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Waymo Picks Toyota bZ4X for Japan & UK Robotaxi Expansion",
+  "summary": "Waymo announced it will use a Toyota bZ4X manufactured in Japan as its robotaxi platform, with autonomous fleet testing in Japan beginning in 2027 and subsequent deployment planned for the UK and other markets, marking Waymo's first confirmed international expansion beyond the US.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://eletric-vehicles.com/waymo/waymo-picks-toyota-bz4x-as-robotaxi-for-japan-and-uk-tests-from-2027/",
+  "source_title": null,
+  "publisher": "Eletric Vehicles",
+  "permalink": "https://presentofai.com/e/38608"
+ },
+ {
+  "id": 38590,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "AWS Installs AI Accelerator Every 14 Seconds at Scale",
+  "summary": "Amazon Web Services disclosed it is installing an AI accelerator every 14 seconds, reflecting a massive infrastructure deployment pace as it targets $1 trillion in annual revenue.",
+  "actor": "AWS",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+  "source_title": null,
+  "publisher": "Theregister",
+  "permalink": "https://presentofai.com/e/38590"
+ },
+ {
+  "id": 38589,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "MediaTek CEO Reports Strong Demand for First Data Center AI Accelerator ASIC",
+  "summary": "MediaTek CEO Rick Tsai said demand for the company's first AI accelerator remains strong, with initial shipments starting the prior month and expected to generate $2.5 billion in Q4 revenue. Tsai also said high-volume production of a second AI accelerator project is on track for Q1 2028.",
+  "actor": "MediaTek",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.cnbctv18.com/technology/chip-designer-mediatek-says-ai-demand-growth-will-continue-for-sure-20023431.htm",
+  "source_title": null,
+  "publisher": "Cnbctv18",
+  "permalink": "https://presentofai.com/e/38589"
+ },
+ {
+  "id": 38575,
+  "event_date": "2026-10-30",
+  "realm": "virtual",
+  "title": "Criminals Use Infostealer Malware to Hijack Claude Accounts",
+  "summary": "Anthropic warned some Claude users that criminals are using infostealer malware to steal browser session cookies from victims' computers, then using those sessions to access Claude accounts and consume paid usage credits. Anthropic responded by signing affected users out, removing saved payment methods, and refunding unauthorized charges.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.malwarebytes.com/blog/news/2026/09/infostealers-are-hijacking-claude-accounts-at-users-expense",
+  "source_title": null,
+  "publisher": "Malwarebytes",
+  "permalink": "https://presentofai.com/e/38575"
+ },
+ {
+  "id": 38564,
+  "event_date": "2026-10-30",
+  "realm": "virtual",
+  "title": "China unveils Fengyun satellite AI weather forecast models",
+  "summary": "China released two AI models trained on data from its Fengyun meteorological satellites that go beyond monitoring to predict how extreme weather systems will evolve, a first-of-its-kind deployment using national satellite data for AI-driven forecasting.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://global.chinadaily.com.cn/a/202610/30/WS6ae3eff6e4b06d4aa0565fee.html",
+  "source_title": null,
+  "publisher": "Global Edition",
+  "permalink": "https://presentofai.com/e/38564"
+ },
+ {
+  "id": 38554,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Samsung announces AI smart glasses launch for mid-December",
+  "summary": "Samsung Electronics confirmed its AI smart glasses, called Intelligent Eyewear, will go on sale in mid-December in South Korea and the United States. Major markets including Europe, China, and Japan were excluded from the initial launch, with an industry official citing the need to check initial demand and user reactions before expanding to other regions.",
+  "actor": "Samsung",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://biz.chosun.com/en/en-it/2026/10/30/UOL5A27YVJAFZB7Y35HXCHZTZM/",
+  "source_title": null,
+  "publisher": "Chosunbiz - 프리미엄 경제 파워",
+  "permalink": "https://presentofai.com/e/38554"
+ },
+ {
   "id": 38538,
   "event_date": "2026-10-30",
   "realm": "space",
@@ -12,20 +152,6 @@
   "source_title": null,
   "publisher": "Chinadaily",
   "permalink": "https://presentofai.com/e/38538"
- },
- {
-  "id": 38519,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "Waymo & Toyota announce partnership to deploy robotaxis in Japan and UK",
-  "summary": "Toyota and Waymo announced a partnership in which Toyota will manufacture 2027 bZ4X vehicles integrated with Waymo's self-driving system at its Takaoka factory, with autonomous testing to begin in Japan ahead of a planned robotaxi service there and in other right-hand driving markets such as the UK. The companies also said they will explore bringing Waymo's autonomous technology to personally owned Toyota vehicles.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/38519"
  },
  {
   "id": 38517,
@@ -82,34 +208,6 @@
   "source_title": null,
   "publisher": "En",
   "permalink": "https://presentofai.com/e/38501"
- },
- {
-  "id": 38499,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "MediaTek Ships First AI Accelerator, Eyes $2.5B Q4 Revenue",
-  "summary": "MediaTek's CEO confirmed its first AI accelerator chip shipped last month and is expected to generate $2.5 billion in Q4 revenue, marking the company's entry into the AI chip market.",
-  "actor": "MediaTek",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://finimize.com/content/mediatek-sees-ai-chip-demand-holding-up",
-  "source_title": null,
-  "publisher": "Finimize",
-  "permalink": "https://presentofai.com/e/38499"
- },
- {
-  "id": 38495,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "Accenture AI agent given unauthorized Pentagon system access",
-  "summary": "A defense contractor (Accenture) gave a personal AI coding agent access to a secure Pentagon system, with sources indicating the incident was not treated as severe despite federal 72-hour cybersecurity reporting requirements.",
-  "actor": "Accenture",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-  "source_title": null,
-  "publisher": "WIRED",
-  "permalink": "https://presentofai.com/e/38495"
  },
  {
   "id": 38478,
@@ -280,6 +378,76 @@
   "permalink": "https://presentofai.com/e/38278"
  },
  {
+  "id": 38628,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "DOJ Opens Antitrust Probe into Nvidia's $17B Licensing Deal with Groq",
+  "summary": "The US Department of Justice has formally opened an antitrust investigation into Nvidia's $17 billion licensing deal with AI chip startup Groq, issuing a formal demand for information to examine whether the arrangement, which transferred Groq's inference chip technology and key personnel to Nvidia, should have triggered premerger notification requirements under the Hart-Scott-Rodino Act. No violation has been established, and sources indicate the DOJ is unlikely to seek to unwind the already-integrated transaction but could impose financial penalties if it determines a filing was required.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.techtimes.com/articles/327154/20260910/doj-opens-formal-probe-nvidia-groq-deal-reverse-acquihire-playbook-faces-first-legal-test.htm",
+  "source_title": null,
+  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
+  "permalink": "https://presentofai.com/e/38628"
+ },
+ {
+  "id": 38606,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "Germany and Ukraine complete first tests of armed ground robot",
+  "summary": "ARX Robotics and Ukraine's ROBONEERS reported completion of the first major system tests of a remote-controlled armed ground robot, the GEREON platform fitted with the SABER weapons module, intended for frontline deployment by Ukrainian forces before the end of 2026.",
+  "actor": "ARX Robotics",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment",
+  "source_title": null,
+  "publisher": "Euronews",
+  "permalink": "https://presentofai.com/e/38606"
+ },
+ {
+  "id": 38592,
+  "event_date": "2026-10-29",
+  "realm": "virtual",
+  "title": "UBS Reports 608 Live AI Use Cases, 81% More Than a Year Ago",
+  "summary": "UBS disclosed 608 live AI use cases in production, 81% more than a year ago, with over 1,090 applications in development, reported alongside Q3 results. AI tools are used by 18,000 software developers, and the bank's STAAT tool has generated more than 30 million insights for financial advisor teams.",
+  "actor": "UBS",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.pymnts.com/news/banking/2026/ubs-employees-run-12700-ai-agents-as-bank-automation-accelerates/",
+  "source_title": null,
+  "publisher": "Pymnts.com",
+  "permalink": "https://presentofai.com/e/38592"
+ },
+ {
+  "id": 38583,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "Accenture AI Agent Breached Secure Pentagon System",
+  "summary": "A defense contractor's personal AI coding agent was given unauthorized access to a secure Pentagon system; Accenture employees reportedly failed to treat the incident as severe or report it within the required 72-hour window.",
+  "actor": "Accenture",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+  "source_title": null,
+  "publisher": "WIRED",
+  "permalink": "https://presentofai.com/e/38583"
+ },
+ {
+  "id": 38578,
+  "event_date": "2026-10-29",
+  "realm": "virtual",
+  "title": "Genspark Launches Media Studio AI Video Workbench",
+  "summary": "Genspark released Media Studio, an AI video agent workbench integrating more than 70 model versions from over 20 vendors, with an LLM acting as director to orchestrate script, storyboard, visuals, score, and subtitles end-to-end.",
+  "actor": "Genspark",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://finance.biggo.com/news/eca54d3d-86bb-4039-88e6-85f07a925049",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/38578"
+ },
+ {
   "id": 38535,
   "event_date": "2026-10-29",
   "realm": "terrestrial",
@@ -320,34 +488,6 @@
   "source_title": null,
   "publisher": "Gadget Review",
   "permalink": "https://presentofai.com/e/38518"
- },
- {
-  "id": 38510,
-  "event_date": "2026-10-29",
-  "realm": "terrestrial",
-  "title": "Germany & Ukraine Complete First Tests of Armed Ground Robot",
-  "summary": "ARX Robotics and Ukraine's ROBONEERS announced completion of the first major system tests of a remote-controlled armed ground robot intended for frontline deployment, marking a concrete milestone toward battlefield AI robotics.",
-  "actor": "ARX Robotics",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.euronews.com/2026/10/29/germany-and-ukraine-test-armed-ground-robot-for-frontline-deployment",
-  "source_title": null,
-  "publisher": "Euronews",
-  "permalink": "https://presentofai.com/e/38510"
- },
- {
-  "id": 38457,
-  "event_date": "2026-10-29",
-  "realm": "virtual",
-  "title": "OpenAI AI refutes Exponential Time Hypothesis with faster 3-SAT algorithm",
-  "summary": "OpenAI released an AI-generated proof refuting the Exponential Time Hypothesis by providing an algorithm that solves 3-SAT slightly faster than exponential time, one of three major results the company dropped that day. The releases continued to contradict recommendations from OpenAI's own expert advisory panel and came as Anthropic-affiliated researchers were separately working to complete a proof of the Yang-Mills existence problem.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists",
-  "source_title": null,
-  "publisher": "Scientificamerican",
-  "permalink": "https://presentofai.com/e/38457"
  },
  {
   "id": 38455,
@@ -446,20 +586,6 @@
   "source_title": null,
   "publisher": "Pymnts.com",
   "permalink": "https://presentofai.com/e/38329"
- },
- {
-  "id": 38318,
-  "event_date": "2026-10-29",
-  "realm": "terrestrial",
-  "title": "US DOJ flags competition risks in Nvidia's $12.93B Hugging Face acquisition",
-  "summary": "The US Department of Justice opened an examination of Nvidia's $12.93 billion acquisition of Hugging Face, citing concerns that the deal could give Nvidia outsized control over a key open-source AI model platform used by millions of developers.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.firstpost.com/business/nvidia-hugging-face-acquisition-doj-ai-competition-14056152.html",
-  "source_title": null,
-  "publisher": "Firstpost",
-  "permalink": "https://presentofai.com/e/38318"
  },
  {
   "id": 38274,
@@ -630,20 +756,6 @@
   "permalink": "https://presentofai.com/e/38157"
  },
  {
-  "id": 38152,
-  "event_date": "2026-10-29",
-  "realm": "terrestrial",
-  "title": "Audi begins testing humanoid robots in factory logistics",
-  "summary": "Audi has begun live testing of Agile Robots' AI-powered mobile humanoids for parts sequencing at its Ingolstadt assembly plant, marking a major automaker's first operational humanoid deployment in production.",
-  "actor": "Audi",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.assemblymag.com/articles/100538-audi-testing-humanoid-robots-for-logistics",
-  "source_title": null,
-  "publisher": "Assembly Magazine | Manufacturing automation and design | ASSEMBLY",
-  "permalink": "https://presentofai.com/e/38152"
- },
- {
   "id": 38145,
   "event_date": "2026-10-29",
   "realm": "terrestrial",
@@ -784,6 +896,34 @@
   "permalink": "https://presentofai.com/e/37976"
  },
  {
+  "id": 38601,
+  "event_date": "2026-10-28",
+  "realm": "terrestrial",
+  "title": "Audi Begins Testing Humanoid Robots for Factory Logistics",
+  "summary": "Audi has begun testing humanoid robots to automate parts sequencing at its Ingolstadt assembly plant, marking a major automaker's first live factory deployment of humanoid robotics for logistics.",
+  "actor": "Audi",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.assemblymag.com/articles/100538-audi-testing-humanoid-robots-for-logistics",
+  "source_title": null,
+  "publisher": "Assembly Magazine | Manufacturing automation and design | ASSEMBLY",
+  "permalink": "https://presentofai.com/e/38601"
+ },
+ {
+  "id": 38567,
+  "event_date": "2026-10-28",
+  "realm": "terrestrial",
+  "title": "Google expands AI Mode ads to 10 new countries",
+  "summary": "Google is scaling ads in AI Mode to Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore, with plans to expand to Brazil, Mexico, and the United Kingdom in Q4 2026. Google also launched multiturn ads in AI Mode in the U.S., allowing ads in follow-up queries.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+  "source_title": null,
+  "publisher": "blog.google",
+  "permalink": "https://presentofai.com/e/38567"
+ },
+ {
   "id": 38529,
   "event_date": "2026-10-28",
   "realm": "terrestrial",
@@ -810,20 +950,6 @@
   "source_title": null,
   "publisher": "TrasportoEuropa",
   "permalink": "https://presentofai.com/e/38508"
- },
- {
-  "id": 38461,
-  "event_date": "2026-10-28",
-  "realm": "virtual",
-  "title": "Google Launches Connected Apps Platform for Gemini and Search",
-  "summary": "Google introduced its Connected Apps Platform, opening a beta for U.S. developers to build and submit third-party apps that integrate with Gemini and Google Search via MCP servers and the AppFunctions APIs. The platform, currently on a waitlist, lets developers track performance and choose whether their app appears in Search, Gemini, or both.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/38461"
  },
  {
   "id": 38459,
@@ -1141,7 +1267,7 @@
   "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into five working proof-of-concept exploits in controlled lab tests, according to Anthropic. The company says the work needed only initial prompting and little human involvement, reported all flaws to vendors under coordinated disclosure, and says all are patched.",
   "actor": "Anthropic",
   "ticker": null,
-  "materiality": 78,
+  "materiality": 82,
   "source_url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
   "source_title": null,
   "publisher": "Thehackernews",
@@ -1428,20 +1554,6 @@
   "permalink": "https://presentofai.com/e/37611"
  },
  {
-  "id": 37602,
-  "event_date": "2026-10-28",
-  "realm": "virtual",
-  "title": "OpenAI AI Solves Million-Dollar Quantum Math Problem First",
-  "summary": "OpenAI's AI system produced a solution to a million-dollar quantum mathematics problem ahead of human researchers, marking a first-of-its-kind instance of AI scooping professional mathematicians on a major open prize problem.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem",
-  "source_title": null,
-  "publisher": "Scientificamerican",
-  "permalink": "https://presentofai.com/e/37602"
- },
- {
   "id": 37570,
   "event_date": "2026-10-28",
   "realm": "terrestrial",
@@ -1454,6 +1566,20 @@
   "source_title": null,
   "publisher": "The San Francisco Standard",
   "permalink": "https://presentofai.com/e/37570"
+ },
+ {
+  "id": 38549,
+  "event_date": "2026-10-27",
+  "realm": "virtual",
+  "title": "OpenAI and Anthropic Separately Claim to Refute Exponential Time Hypothesis",
+  "summary": "OpenAI and Anthropic separately announced claimed refutations of the Exponential Time Hypothesis, a foundational conjecture in computer science, with both companies reporting their AI models independently found the core algorithm on Oct. 16. Researchers noted that if the claims are correct they would change an important part of theoretical computer science, but cautioned their involvement should not be taken as certification.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
+  "source_title": null,
+  "publisher": "Research & Development World",
+  "permalink": "https://presentofai.com/e/38549"
  },
  {
   "id": 38452,
@@ -2672,20 +2798,6 @@
   "source_title": null,
   "publisher": "CNA",
   "permalink": "https://presentofai.com/e/37343"
- },
- {
-  "id": 37320,
-  "event_date": "2026-10-26",
-  "realm": "terrestrial",
-  "title": "SpaceX secures $40B GPU financing, largest ever",
-  "summary": "SpaceX locked in a binding $40 billion financing commitment from Apollo for AI chips and data-center equipment, disclosed in a regulatory filing and described by the company as the largest committed GPU financing in history.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/37320"
  },
  {
   "id": 37300,
@@ -12782,20 +12894,6 @@
   "permalink": "https://presentofai.com/e/31544"
  },
  {
-  "id": 31528,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Shield AI Hivemind completes first multi-boat autonomous teaming mission",
-  "summary": "Shield AI's Hivemind AI pilot completed its first multi-boat autonomous teaming mission on water, autonomously coordinating two Thunder Tiger SeaShark drone boats during a demonstration at Dapeng Bay, Taiwan.",
-  "actor": "Shield AI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://interestingengineering.com/videos/how-ai-drone-boats-chased-an-intruder-out-of-their-zone",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/31528"
- },
- {
   "id": 31514,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -13174,20 +13272,6 @@
   "permalink": "https://presentofai.com/e/31489"
  },
  {
-  "id": 31446,
-  "event_date": "2026-10-07",
-  "realm": "space",
-  "title": "Project Suncatcher In-Orbit AI Compute Test Confirmed",
-  "summary": "Google sent a prototype orbital compute satellite, built by Planet Labs, into space aboard a SpaceX rocket from California to test whether a Google Tensor Processing Unit can operate in orbit, including running AI models and drawing a kilowatt of continuous power. The mission, part of Google's Project Suncatcher, marks the first time the company has flown one of its advanced chips in space.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://theaiinsider.tech/2026/10/05/google-sends-its-first-tpu-into-orbit-to-test-space-based-ai-compute/",
-  "source_title": null,
-  "publisher": "Theaiinsider",
-  "permalink": "https://presentofai.com/e/31446"
- },
- {
   "id": 31400,
   "event_date": "2026-10-07",
   "realm": "virtual",
@@ -13214,20 +13298,6 @@
   "source_title": null,
   "publisher": "Openpr",
   "permalink": "https://presentofai.com/e/31291"
- },
- {
-  "id": 31279,
-  "event_date": "2026-10-07",
-  "realm": "space",
-  "title": "Google Project Suncatcher satellite launches with AI chips",
-  "summary": "Google launched a prototype satellite for Project Suncatcher on October 1, 2026, carrying four Tensor Processing Units aboard SpaceX's Transporter-18 rideshare mission, with the goal of testing whether its AI hardware can survive and operate in space. Startups such as Starcloud had already flown AI chips in orbit before this launch.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://techfundingnews.com/googles-project-suncatcher-5-things-to-know-about-its-plan-to-put-ai-chips-in-space",
-  "source_title": null,
-  "publisher": "Techfundingnews",
-  "permalink": "https://presentofai.com/e/31279"
  },
  {
   "id": 31262,
@@ -14630,20 +14700,6 @@
   "permalink": "https://presentofai.com/e/30229"
  },
  {
-  "id": 30164,
-  "event_date": "2026-10-03",
-  "realm": "virtual",
-  "title": "Meta Muse Spark AI helps mathematicians solve 6 math problems",
-  "summary": "Meta announced that its Muse Spark AI models helped mathematicians solve six research problems across fields including probability, differential equations, group theory, and optimisation, with five described as open questions. Separately, Meta launched Muse Gadgets, an open-source platform for developers to build Muse-compatible hardware, alongside its own Muse Home Link device.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.thehansindia.com/tech/metas-muse-spark-solves-6-major-math-problems-ai-hardware-project-launched-1128401",
-  "source_title": null,
-  "publisher": "The Hans India",
-  "permalink": "https://presentofai.com/e/30164"
- },
- {
   "id": 30141,
   "event_date": "2026-10-03",
   "realm": "terrestrial",
@@ -14656,20 +14712,6 @@
   "source_title": null,
   "publisher": "Nairametrics",
   "permalink": "https://presentofai.com/e/30141"
- },
- {
-  "id": 30044,
-  "event_date": "2026-10-03",
-  "realm": "space",
-  "title": "Google tests solar-powered AI data center satellite in orbit",
-  "summary": "Google deployed an experimental satellite into low Earth orbit as part of its \"Sun Catcher\" project, launched aboard SpaceX's Transporter-18 flight in collaboration with Planet Labs. The satellite carries Google Tensor processing units to test AI infrastructure powered by solar energy, with the company confirming successful communication and operation.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://dailybeirut.com/en/technology-and-science/google-tests-solar-powered-ai-data-centers-in-orbit/",
-  "source_title": null,
-  "publisher": "Dailybeirut",
-  "permalink": "https://presentofai.com/e/30044"
  },
  {
   "id": 30029,
@@ -14782,20 +14824,6 @@
   "source_title": null,
   "publisher": "Fox13Now",
   "permalink": "https://presentofai.com/e/29573"
- },
- {
-  "id": 29430,
-  "event_date": "2026-10-03",
-  "realm": "terrestrial",
-  "title": "Waymo & Lyft Announce Nashville Facility for Hundreds of Robotaxis",
-  "summary": "Waymo and Lyft announced an 80,000-square-foot Nashville depot, operated by Flexdrive, to charge, clean, and maintain hundreds of self-driving vehicles, with an official opening set for October 12. The facility is expected to bring more than 70 new full-time jobs and will allow Waymo to expand its autonomous fleet across Nashville, reducing wait times for riders.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.wsmv.com/2026/10/02/hundreds-self-driving-cars-coming-nashville-with-new-waymo-lyft-facility/",
-  "source_title": null,
-  "publisher": "Wsmv",
-  "permalink": "https://presentofai.com/e/29430"
  },
  {
   "id": 30717,
@@ -18259,8 +18287,8 @@
   "id": 27420,
   "event_date": "2026-09-24",
   "realm": "terrestrial",
-  "title": "Waymo Claims 840+ Injuries Prevented, 20x Safer Than Humans",
-  "summary": "Waymo reported that its autonomous vehicles have prevented more than 840 injuries and are 20 times safer than human drivers across 270 million miles driven through June 2026, according to a new company safety report. The Insurance Institute for Highway Safety praised Waymo's open-data policy, though the company acknowledged methodological differences between AV and human crash reporting standards.",
+  "title": "Waymo Claims 840+ Injury-Causing Crashes Prevented, 20x Safer Than Humans",
+  "summary": "Waymo reported that its autonomous vehicles avoided 841 injury-causing crashes where human drivers would have erred, and were involved in 95 percent fewer serious-injury-or-worse crashes than humans, across 270 million miles driven through June 2026. The Insurance Institute for Highway Safety praised Waymo's open-data policy, though the company acknowledged methodological differences between AV and human crash reporting standards.",
   "actor": "Waymo",
   "ticker": null,
   "materiality": 72,
@@ -29334,7 +29362,7 @@
   "event_date": "2026-08-31",
   "realm": "virtual",
   "title": "Debian votes to allow generative AI in project contributions",
-  "summary": "Debian's developer community voted to adopt Proposal E, 'Responsible Use of Generative AI,' permitting LLM-assisted contributions while holding human contributors strictly accountable, a first for a major open-source Linux distribution.",
+  "summary": "Debian's developer community voted to adopt Proposal E, 'Responsible Use of Generative AI,' permitting AI-assisted contributions while holding human contributors fully accountable for quality, correctness, and legal standards. The decision drew strong community backlash, including at least one developer quitting the project.",
   "actor": "",
   "ticker": null,
   "materiality": 58,
@@ -29608,20 +29636,6 @@
   "source_title": null,
   "publisher": "The News International",
   "permalink": "https://presentofai.com/e/18415"
- },
- {
-  "id": 18396,
-  "event_date": "2026-08-29",
-  "realm": "virtual",
-  "title": "AI-generated content dominates China's short drama market",
-  "summary": "95% of the roughly 128,000 short dramas released in China in Q1 2026 were AI-generated, according to the China Netcasting Services Association, with one minute of AI video now costing $90 to $120, about ten percent of what production with human actors used to cost. Actors and livestreamers are being displaced, and AI-related labor disputes have risen over the past two to three years.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
-  "source_title": null,
-  "publisher": "The Decoder",
-  "permalink": "https://presentofai.com/e/18396"
  },
  {
   "id": 18344,
