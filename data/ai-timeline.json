@@ -1,5 +1,47 @@
 [
  {
+  "id": 38872,
+  "event_date": "2026-10-31",
+  "realm": "terrestrial",
+  "title": "UK Launches First Insurance Policy for Domestic Humanoid Robots",
+  "summary": "Tokio Marine HCC International and Adrian Flux launched what they describe as the UK's first insurance policy covering humanoid robots used in the home, marking a regulatory and commercial milestone for consumer robotics deployment.",
+  "actor": "Tokio Marine HCC International",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
+  "source_title": null,
+  "publisher": "Roboticsandautomationnews",
+  "permalink": "https://presentofai.com/e/38872"
+ },
+ {
+  "id": 38826,
+  "event_date": "2026-10-31",
+  "realm": "space",
+  "title": "SETI AI Agents Detect Pulsar Live on Telescope Data",
+  "summary": "SETI researchers deployed AI agents on live telescope data and successfully detected a pulsar in the Crab Nebula in real time, marking a first-of-its-kind autonomous AI pipeline operating on live observatory feeds, including evaluation of offline-capable open models.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.tokenpost.com/news/technology/45313",
+  "source_title": null,
+  "publisher": "TokenPost",
+  "permalink": "https://presentofai.com/e/38826"
+ },
+ {
+  "id": 38825,
+  "event_date": "2026-10-31",
+  "realm": "virtual",
+  "title": "OpenAI & Anthropic AI Systems Challenge 27-Year ETH Conjecture",
+  "summary": "OpenAI and Anthropic reported their AI systems generated proofs potentially disproving the Exponential Time Hypothesis, a foundational 27-year-old assumption in computational complexity; findings are pending independent verification but could force revision of decades of algorithm research.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.ndtv.com/artificial-intelligence/ai-may-have-disproved-a-27-year-old-computer-science-theory-report-12262433",
+  "source_title": null,
+  "publisher": "NDTV",
+  "permalink": "https://presentofai.com/e/38825"
+ },
+ {
   "id": 38770,
   "event_date": "2026-10-31",
   "realm": "terrestrial",
@@ -126,6 +168,34 @@
   "permalink": "https://presentofai.com/e/38663"
  },
  {
+  "id": 38900,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Canada Takes Up to C$1.6B Equity Stake in Cohere with Governance Conditions",
+  "summary": "Canadian Prime Minister Mark Carney announced a government equity investment of up to C$1.6 billion in Toronto-based AI firm Cohere, made through Crown corporation CDEV with staged capital tranches tied to binding conditions on jobs, computing infrastructure, and Canadian headquarters that give Ottawa ongoing leverage over any foreign acquisition or relocation.",
+  "actor": "Cohere",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.techtimes.com/articles/329764/20261030/c16-billion-cohere-deal-lets-ottawa-veto-any-foreign-acquisition-no-law-required.htm",
+  "source_title": null,
+  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
+  "permalink": "https://presentofai.com/e/38900"
+ },
+ {
+  "id": 38846,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "AI dispatcher cuts county emergency call load by 56%",
+  "summary": "An AI agent named 'Lezle' handling non-emergency calls in Craighead County has reduced dispatchers' call volume by 56% over 30 days after nearly two months of live deployment.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.kait8.com/2026/10/30/ai-dispatcher-lezle-whats-working-and-what-is-it-still-learning/",
+  "source_title": null,
+  "publisher": "Kait8",
+  "permalink": "https://presentofai.com/e/38846"
+ },
+ {
   "id": 38819,
   "event_date": "2026-10-30",
   "realm": "terrestrial",
@@ -152,20 +222,6 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/38818"
- },
- {
-  "id": 38812,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "Canada takes C$1.6B stake in Cohere with foreign veto rights",
-  "summary": "Prime Minister Mark Carney announced a C$1.6 billion government equity stake in Toronto-based AI firm Cohere, with binding conditions granting Ottawa ongoing veto power over any foreign acquisition, a novel use of investment terms to assert national AI sovereignty without new legislation.",
-  "actor": "Cohere",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.techtimes.com/articles/329764/20261030/c16-billion-cohere-deal-lets-ottawa-veto-any-foreign-acquisition-no-law-required.htm",
-  "source_title": null,
-  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
-  "permalink": "https://presentofai.com/e/38812"
  },
  {
   "id": 38792,
@@ -250,34 +306,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/38723"
- },
- {
-  "id": 38720,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "DOJ Probes Nvidia's $13B Hugging Face Acquisition",
-  "summary": "The U.S. Department of Justice has opened a probe into Nvidia's reported $13 billion acquisition of Hugging Face, raising concerns that the deal would give Nvidia control over a key AI model distribution platform and harm competition.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/38720"
- },
- {
-  "id": 38704,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "Toyota & Waymo to Begin Autonomous bZ4X Fleet Operations in Japan in 2027",
-  "summary": "Toyota and Waymo announced the next phase of their autonomous driving collaboration, with initial operations to test and validate an autonomous Toyota bZ4X fleet in Japan beginning in 2027, marking a milestone for Japan's first fully autonomous ride-hailing service using high-volume, domestically manufactured vehicles. Deployment to the United Kingdom and other Waymo-serviced markets is planned for following years.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
-  "source_title": null,
-  "publisher": "Waymo",
-  "permalink": "https://presentofai.com/e/38704"
  },
  {
   "id": 38683,
@@ -448,20 +476,6 @@
   "permalink": "https://presentofai.com/e/38501"
  },
  {
-  "id": 38472,
-  "event_date": "2026-10-30",
-  "realm": "space",
-  "title": "China Unveils First Fengyun Satellite AI Models for Extreme Weather",
-  "summary": "China announced the first AI models built specifically for its Fengyun meteorological satellite series, targeting extreme weather forecasting using satellite data.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://english.news.cn/20261030/fd4ee24b29f548e7bc48928e3acc4f62/c.html",
-  "source_title": null,
-  "publisher": "Xinhua-China, World, Business, Sports, Photos and Video | English.news.cn",
-  "permalink": "https://presentofai.com/e/38472"
- },
- {
   "id": 38440,
   "event_date": "2026-10-30",
   "realm": "terrestrial",
@@ -588,18 +602,46 @@
   "permalink": "https://presentofai.com/e/38278"
  },
  {
-  "id": 38820,
+  "id": 38909,
   "event_date": "2026-10-29",
-  "realm": "terrestrial",
-  "title": "SpaceX Closes $40B in Debt Financing for GPU Purchases",
-  "summary": "SpaceX closed $40 billion in callable debt financing to purchase GPUs, primarily for equipment arriving in Q1 and Q2, Elon Musk confirmed. The company cited its investment-grade credit rating and recurring revenue from Starlink and its launch business as factors supporting its access to credit.",
+  "realm": "space",
+  "title": "Anthropic becomes SpaceX's largest AI compute customer at 34.5% revenue",
+  "summary": "SpaceX disclosed in a filing that a single client, Anthropic, accounted for approximately 34.5% of quarterly revenue through its AI division (Super Intelligence), surpassing the US government as SpaceX's largest customer for AI computing services.",
   "actor": "SpaceX",
   "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.tekedia.com/spacex-secures-40-billion-in-gpu-financing-as-musk-expands-ai-infrastructure-spending/",
+  "materiality": 72,
+  "source_url": "https://bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
   "source_title": null,
-  "publisher": "tekedia",
-  "permalink": "https://presentofai.com/e/38820"
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/38909"
+ },
+ {
+  "id": 38902,
+  "event_date": "2026-10-29",
+  "realm": "space",
+  "title": "China launches AI models for Fengyun satellite weather system",
+  "summary": "China unveiled new AI models for its Fengyun meteorological satellite system at the 2026 FENGYUN Satellite User Conference in Changsha, including a typhoon cloud-image interpretation model and a severe-convection forecasting model that extends warning lead time to four hours. Both tools combine Fengyun satellite data with AI algorithms to improve monitoring and early warning capabilities for extreme weather such as typhoons and hailstorms.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.globaltimes.cn/page/202610/1373201.shtml",
+  "source_title": null,
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/38902"
+ },
+ {
+  "id": 38821,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "Alphabet loses $500bn as AI summaries hurt ad revenue",
+  "summary": "Google-parent Alphabet lost just over $500 billion in market value after revealing that its AI-generated search summaries were eating into search advertising revenue, with shares falling over 12% to a six-month low after quarterly results missed analyst expectations.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+  "source_title": null,
+  "publisher": "Bbc",
+  "permalink": "https://presentofai.com/e/38821"
  },
  {
   "id": 38805,
@@ -721,7 +763,7 @@
   "summary": "UBS disclosed that its employees are actively running more than 12,700 personal AI agents in daily operations, marking a large-scale enterprise AI agent deployment at a major global bank.",
   "actor": "UBS",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://www.pymnts.com/news/banking/2026/ubs-employees-run-12700-ai-agents-as-bank-automation-accelerates/",
   "source_title": null,
   "publisher": "Pymnts.com",
@@ -2604,20 +2646,6 @@
   "permalink": "https://presentofai.com/e/37427"
  },
  {
-  "id": 37406,
-  "event_date": "2026-10-27",
-  "realm": "space",
-  "title": "Cowboy Space Unveils Big Iron Orbital Data-Center Rocket",
-  "summary": "Cowboy Space Corporation revealed Big Iron, a purpose-built rocket carrying over 15,000 kg of compute hardware per launch to orbit, opening commercial slots to government and third-party payloads to address terrestrial compute shortages.",
-  "actor": "Cowboy Space",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://01net.it/cowboy-space-reveals-big-iron-its-data-center-rocket-and-opens-commercial-launch-to-government-and-third-party-payloads",
-  "source_title": null,
-  "publisher": "01Net",
-  "permalink": "https://presentofai.com/e/37406"
- },
- {
   "id": 37404,
   "event_date": "2026-10-27",
   "realm": "terrestrial",
@@ -2756,6 +2784,20 @@
   "source_title": null,
   "publisher": "Kucoin",
   "permalink": "https://presentofai.com/e/37282"
+ },
+ {
+  "id": 38866,
+  "event_date": "2026-10-26",
+  "realm": "terrestrial",
+  "title": "Powerlattice Demos First Monolithic IVR Chiplet for AI Accelerators",
+  "summary": "Powerlattice demonstrated the industry's first monolithic integrated voltage regulator (IVR) chiplet under conditions emulating next-generation AI accelerators, addressing the power delivery bottleneck for large AI training clusters.",
+  "actor": "Powerlattice",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.morningstar.com/news/business-wire/20261026645729/powerlattice-demonstrates-industrys-first-monolithic-ivr-chiplet-to-break-the-ai-power-wall",
+  "source_title": null,
+  "publisher": "Morningstar",
+  "permalink": "https://presentofai.com/e/38866"
  },
  {
   "id": 38797,
@@ -17518,7 +17560,7 @@
   "event_date": "2026-09-28",
   "realm": "terrestrial",
   "title": "USAF receives first AI 'robot wingmen' for semi-autonomous trials",
-  "summary": "The U.S. Air Force took delivery of its first two Collaborative Combat Aircraft designs, Anduril's YFQ-44A 'Fury' and General Atomics' YFQ-42A 'Vengeance', at Creech Air Force Base, beginning operational experimentation with semi-autonomous uncrewed aircraft operating alongside crewed fighters.",
+  "summary": "The U.S. Air Force took delivery of its first two Collaborative Combat Aircraft designs at Creech Air Force Base, Nevada: Anduril's YFQ-44A 'Fury' delivered in August and General Atomics' YFQ-42A 'Vengeance' delivered the prior week. The USAF is now conducting operational experimentation with the semi-autonomous uncrewed aircraft to determine how to field, maintain, and operate them alongside crewed fighters in contested airspace.",
   "actor": "U.S. Air Force",
   "ticker": null,
   "materiality": 76,
@@ -18114,20 +18156,6 @@
   "source_title": null,
   "publisher": "United24Media",
   "permalink": "https://presentofai.com/e/27699"
- },
- {
-  "id": 27523,
-  "event_date": "2026-09-25",
-  "realm": "terrestrial",
-  "title": "UK MoD partners with Ukraine's Avengers AI Labs for battlefield drone AI data",
-  "summary": "The British Ministry of Defence struck a partnership with Ukraine's Avengers AI Labs, marking the first time Kyiv has granted a foreign country access to the machine-learning infrastructure behind its battlefield AI drone innovations. The MoD is inviting up to a dozen UK companies to submit proposals for using the platform, which holds over 5 million annotated battlefield frames and millions of sensor object detections.",
-  "actor": "Avengers AI Labs",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
-  "source_title": null,
-  "publisher": "Defensenews",
-  "permalink": "https://presentofai.com/e/27523"
  },
  {
   "id": 27505,
@@ -49704,7 +49732,7 @@
   "event_date": "2026-06-15",
   "realm": "terrestrial",
   "title": "Tesla Robotaxi Fleet Logs 4 Months Without At-Fault FSD Crash",
-  "summary": "NHTSA crash data showed Tesla's autonomous Robotaxi fleet went four consecutive months, February through spring 2026, without a single at-fault collision. Three minor incidents occurred during that period, all caused by other drivers striking stationary Tesla vehicles.",
+  "summary": "NHTSA crash data showed Tesla's autonomous Robotaxi fleet went four consecutive months, February through spring 2026, without a single at-fault collision. Three minor incidents occurred during that period, all caused by other drivers striking stationary Tesla vehicles, including a rear-end collision in April and two similar incidents in March.",
   "actor": "",
   "ticker": "TSLA",
   "materiality": 63,
