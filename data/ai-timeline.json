@@ -1,5 +1,47 @@
 [
  {
+  "id": 39070,
+  "event_date": "2026-10-31",
+  "realm": "terrestrial",
+  "title": "UK tribunal issues first AI-misuse sanction against a solicitor",
+  "summary": "On Aug. 25, 2026, the Solicitors Disciplinary Tribunal handed down its decision in SRA Ltd. v. Kumar, marking the first time it sanctioned a lawyer for the misuse of generative AI in proceedings.",
+  "actor": "Solicitors Disciplinary Tribunal",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://law360.com/employment-uk/articles/2535341",
+  "source_title": null,
+  "publisher": "Law360",
+  "permalink": "https://presentofai.com/e/39070"
+ },
+ {
+  "id": 39069,
+  "event_date": "2026-10-31",
+  "realm": "terrestrial",
+  "title": "California SB 574 signed: first US law regulating attorneys' AI use",
+  "summary": "Governor Newsom signed SB 574, making California the first US state to specifically regulate attorneys' use of generative AI by statute, setting a binding legal standard for the legal profession.",
+  "actor": "California",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.amny.com/law/op-ed-california-la-ai-use-attorneys/",
+  "source_title": null,
+  "publisher": "Amny",
+  "permalink": "https://presentofai.com/e/39069"
+ },
+ {
+  "id": 39034,
+  "event_date": "2026-10-31",
+  "realm": "virtual",
+  "title": "GitHub records 5x code commit surge to 7.38B in September",
+  "summary": "GitHub reported a five-fold increase in code commits, reaching 7.38 billion in September, driven by AI coding agents, prompting the platform to expand its computing, storage, and network infrastructure.",
+  "actor": "GitHub",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/github-expands-infrastructure-as-ai-coding-drives-demand-surge/135384764",
+  "source_title": null,
+  "publisher": "ETDatacenters",
+  "permalink": "https://presentofai.com/e/39034"
+ },
+ {
   "id": 38957,
   "event_date": "2026-10-31",
   "realm": "terrestrial",
@@ -126,20 +168,6 @@
   "permalink": "https://presentofai.com/e/38727"
  },
  {
-  "id": 38717,
-  "event_date": "2026-10-31",
-  "realm": "terrestrial",
-  "title": "California SB 574 signed: first US law regulating AI use by attorneys",
-  "summary": "California became the first US state to specifically regulate attorneys' use of generative AI by statute when Governor Newsom signed SB 574, establishing binding rules for lawyers deploying AI in legal practice.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.amny.com/law/op-ed-california-la-ai-use-attorneys/",
-  "source_title": null,
-  "publisher": "Amny",
-  "permalink": "https://presentofai.com/e/38717"
- },
- {
   "id": 38678,
   "event_date": "2026-10-31",
   "realm": "terrestrial",
@@ -194,6 +222,62 @@
   "source_title": null,
   "publisher": "TechRadar FR",
   "permalink": "https://presentofai.com/e/38663"
+ },
+ {
+  "id": 39077,
+  "event_date": "2026-10-30",
+  "realm": "space",
+  "title": "Anthropic Becomes SpaceX's Largest AI Compute Customer",
+  "summary": "SpaceX disclosed in a filing that a single AI client, identified as Anthropic, accounted for 34.5% of its quarterly revenue through its orbital AI compute division 'Super Intelligence,' making Anthropic the largest customer ahead of the US government.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/39077"
+ },
+ {
+  "id": 39072,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "DOJ Probes Nvidia's $13B Hugging Face Acquisition",
+  "summary": "The U.S. Department of Justice has reportedly made inquiries into Nvidia's approximately $13 billion acquisition of Hugging Face, raising concerns that the deal could give Nvidia control over a key AI model distribution platform and harm competition. Nvidia has declined to comment.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/39072"
+ },
+ {
+  "id": 39066,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "NY Sen. Gounardes proposes expanded AI safety bill",
+  "summary": "New York Senator Gounardes introduced legislation expanding the state's RAISE Act to cover any company spending more than $1 billion on AI development over three years, aligning computational thresholds with EU standards and empowering regulators to oversee catastrophic-risk models.",
+  "actor": "New York State",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://nysenate.gov/newsroom/press-releases/2026/andrew-gounardes/sen-gounardes-proposes-major-new-ai-safety-and",
+  "source_title": null,
+  "publisher": "Nysenate",
+  "permalink": "https://presentofai.com/e/39066"
+ },
+ {
+  "id": 39037,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "IBM links two 120-qubit Nighthawk chips at 99% fidelity",
+  "summary": "IBM researchers said they connected two 120-qubit Nighthawk quantum processors using superconducting L-couplers, reporting 99% average fidelity for quantum state transfer between the chips; the work has appeared only as a preprint and has not yet undergone independent peer review. IBM also unveiled AI agent identity and control tools, including managed agent identities, access controls through HashiCorp Vault, and discovery and evaluation capabilities via watsonx Orchestrate.",
+  "actor": "IBM",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ibm-links-two-120-qubit-nighthawk-chips-while-expanding-its-ai-agent-toolkit/70435101",
+  "source_title": null,
+  "publisher": "NEWS & AKTIENKURSE | AD HOC NEWS",
+  "permalink": "https://presentofai.com/e/39037"
  },
  {
   "id": 38989,
@@ -469,7 +553,7 @@
   "summary": "Samsung Electronics confirmed its AI smart glasses, called Intelligent Eyewear, will go on sale in mid-December in South Korea and the United States. Major markets including Europe, China, and Japan were excluded from the initial launch, with an industry official citing the need to check initial demand and user reactions before expanding to other regions.",
   "actor": "Samsung",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 65,
   "source_url": "https://biz.chosun.com/en/en-it/2026/10/30/UOL5A27YVJAFZB7Y35HXCHZTZM/",
   "source_title": null,
   "publisher": "Chosunbiz - 프리미엄 경제 파워",
@@ -658,6 +742,34 @@
   "permalink": "https://presentofai.com/e/38278"
  },
  {
+  "id": 39061,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "Ukraine conducts first AI-powered ground drone logistics mission",
+  "summary": "A Ukrainian National Guard brigade completed the first autonomous logistics mission using an AI-powered ground drone in Kharkiv Oblast, marking a first-of-its-kind operational deployment of autonomous ground robotics in active combat.",
+  "actor": "National Guard of Ukraine",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://gwaramedia.com/en/ukrainian-brigade-conducts-first-successful-logistics-mission-with-ai-powered-ground-drone",
+  "source_title": null,
+  "publisher": "Gwaramedia",
+  "permalink": "https://presentofai.com/e/39061"
+ },
+ {
+  "id": 39042,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "AI data center curbs on ballot in 10 US states",
+  "summary": "Voters in 10 US states faced Election Day ballot measures on whether to restrict or ban AI data center development in their communities, marking the first time AI infrastructure has appeared directly on US ballots at this scale.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://detroitnews.com/story/news/politics/2026/10/29/ai-data-center-boom-faces-backlash-us-ballot-box/92494100007",
+  "source_title": null,
+  "publisher": "Detroitnews",
+  "permalink": "https://presentofai.com/e/39042"
+ },
+ {
   "id": 38981,
   "event_date": "2026-10-29",
   "realm": "terrestrial",
@@ -782,20 +894,6 @@
   "source_title": null,
   "publisher": "Baltimoresun",
   "permalink": "https://presentofai.com/e/38911"
- },
- {
-  "id": 38909,
-  "event_date": "2026-10-29",
-  "realm": "space",
-  "title": "Anthropic becomes SpaceX's largest AI compute customer at 34.5% revenue",
-  "summary": "SpaceX disclosed in a filing that a single client, Anthropic, accounted for approximately 34.5% of quarterly revenue through its AI division (Super Intelligence), surpassing the US government as SpaceX's largest customer for AI computing services.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://bloomberg.com/news/articles/2026-10-29/spacex-s-largest-revenue-source-is-a-finite-deal-with-anthropic",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/38909"
  },
  {
   "id": 38902,
@@ -1134,20 +1232,6 @@
   "permalink": "https://presentofai.com/e/38329"
  },
  {
-  "id": 38274,
-  "event_date": "2026-10-29",
-  "realm": "space",
-  "title": "Google tests AI TPU chips in orbit via Project Suncatcher",
-  "summary": "Google launched a prototype satellite carrying four Tensor Processing Units (TPUs) into orbit on October 1, 2026, as part of Project Suncatcher, a research effort exploring machine learning computation in space using solar power. The satellite, built with Planet and launched on a SpaceX Falcon 9, will test how TPUs handle the physical stress of spaceflight and the radiation and thermal extremes of space.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://gcn.com/google-project-suncatcher-ai-satellite/22842",
-  "source_title": null,
-  "publisher": "Gcn",
-  "permalink": "https://presentofai.com/e/38274"
- },
- {
   "id": 38253,
   "event_date": "2026-10-29",
   "realm": "terrestrial",
@@ -1428,6 +1512,20 @@
   "permalink": "https://presentofai.com/e/37976"
  },
  {
+  "id": 39036,
+  "event_date": "2026-10-28",
+  "realm": "terrestrial",
+  "title": "OpenAI to buy AI compute chips from Google",
+  "summary": "OpenAI announced plans to purchase AI computing chips from Alphabet's Google as part of its broader infrastructure build-out, marking a notable cross-competitor hardware procurement deal.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/39036"
+ },
+ {
   "id": 38764,
   "event_date": "2026-10-28",
   "realm": "virtual",
@@ -1636,20 +1734,6 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/38322"
- },
- {
-  "id": 38286,
-  "event_date": "2026-10-28",
-  "realm": "virtual",
-  "title": "OpenAI Launches GPT-6.1 Terra for Agents & Coding",
-  "summary": "OpenAI released GPT-6.1 Terra, a new model optimized for computer use, visual reasoning, and coding, offering faster performance and lower API pricing than predecessors.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://techgig.com/news/ai/openai-launches-gpt-6-1-terra-with-faster-ai-agents/135247987",
-  "source_title": null,
-  "publisher": "TechGig",
-  "permalink": "https://presentofai.com/e/38286"
  },
  {
   "id": 38229,
@@ -2140,6 +2224,20 @@
   "source_title": null,
   "publisher": "The San Francisco Standard",
   "permalink": "https://presentofai.com/e/37570"
+ },
+ {
+  "id": 39027,
+  "event_date": "2026-10-27",
+  "realm": "virtual",
+  "title": "OpenAI launches GPT-6.1 Terra mid-tier reasoning model",
+  "summary": "OpenAI released GPT-6.1 Terra, a new reasoning model replacing GPT-5.6 Terra, positioned between the lower-cost GPT-6 Luna and higher-capability GPT-6.1 Sol and GPT-6 Astra models. OpenAI says it delivers near-frontier performance on visual reasoning, professional task execution, and computer-use benchmarks at roughly 50% lower cost than its predecessor.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.infoworld.com/article/4241006/openai-bets-on-ai-economics-with-lower-cost-gpt-6-1-terra.html",
+  "source_title": null,
+  "publisher": "InfoWorld",
+  "permalink": "https://presentofai.com/e/39027"
  },
  {
   "id": 38920,
@@ -7768,20 +7866,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/34901"
- },
- {
-  "id": 34877,
-  "event_date": "2026-10-20",
-  "realm": "terrestrial",
-  "title": "Waymo Begins Mapping Toronto Streets for 2028 Robotaxi Launch",
-  "summary": "Waymo has started mapping Toronto streets ahead of a planned 2028 robotaxi service launch, marking the company's first expansion into Canada.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://electricautonomy.ca/automakers/autonomous-vehicles/2026-10-19/waymo-toronto-planned-2028-launch/",
-  "source_title": null,
-  "publisher": "Electricautonomy",
-  "permalink": "https://presentofai.com/e/34877"
  },
  {
   "id": 34851,
@@ -16058,20 +16142,6 @@
   "permalink": "https://presentofai.com/e/29206"
  },
  {
-  "id": 29170,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "Autonomous AI Agent Breaches Cybersecurity Nonprofit DIVD",
-  "summary": "An autonomous AI agent chained two Zammad zero-day vulnerabilities (CVE-2026-102489 and CVE-2026-102490) to breach cybersecurity nonprofit DIVD on September 21, 2026, achieving root access, a documented first-of-its-kind autonomous AI cyberattack on a real-world organization.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.techtimes.com/articles/328387/20261001/ai-agent-hacked-cybersecurity-nonprofit-divd-via-zammad-zero-days-root-flaw-unpatched.htm",
-  "source_title": null,
-  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
-  "permalink": "https://presentofai.com/e/29170"
- },
- {
   "id": 29156,
   "event_date": "2026-10-01",
   "realm": "virtual",
@@ -16210,20 +16280,6 @@
   "source_title": null,
   "publisher": "Engineering",
   "permalink": "https://presentofai.com/e/28578"
- },
- {
-  "id": 28515,
-  "event_date": "2026-10-01",
-  "realm": "terrestrial",
-  "title": "New Mexico AG Proposes Frontier AI Safety Regulation Bill",
-  "summary": "New Mexico Attorney General Raúl Torrez announced a proposal for mandatory safety checks on frontier AI development, following similar moves by California and New York, signaling a growing state-level regulatory push.",
-  "actor": "New Mexico AG",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.politico.com/news/2026/09/30/new-mexico-ai-regulation-bill-01101379",
-  "source_title": null,
-  "publisher": "Politico",
-  "permalink": "https://presentofai.com/e/28515"
  },
  {
   "id": 28512,
@@ -17848,20 +17904,6 @@
   "source_title": null,
   "publisher": "Spectrum",
   "permalink": "https://presentofai.com/e/28845"
- },
- {
-  "id": 27711,
-  "event_date": "2026-09-27",
-  "realm": "terrestrial",
-  "title": "Australia's Ghost Bat autonomous jet shoots down target",
-  "summary": "Australia's Ghost Bat uncrewed aircraft, roughly two-thirds the size of a fighter jet, shot down a target with an air-to-air missile in a test over South Australia, with the aircraft's system determining how to engage after an operator ordered it to do so and gave final authorization before launch. The aircraft operates on deterministic programming rather than AI, with thousands of pre-designed options built in.",
-  "actor": "Australian Defence Force",
-  "ticker": null,
-  "materiality": 88,
-  "source_url": "https://abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
-  "source_title": null,
-  "publisher": "Abc",
-  "permalink": "https://presentofai.com/e/27711"
  },
  {
   "id": 27631,
