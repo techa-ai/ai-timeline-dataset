@@ -1,5 +1,75 @@
 [
  {
+  "id": 39291,
+  "event_date": "2026-11-01",
+  "realm": "terrestrial",
+  "title": "Nevada clears 5,000 robotaxis in Las Vegas; Cybercab planned for Dallas",
+  "summary": "Nevada regulators authorized Tesla to operate up to 5,000 fully autonomous vehicles in the Las Vegas area during its first year under a new permit. Tesla also plans to expand its Cybercab presence to Dallas in November, beyond its initial deployment in Austin.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/teslas-cybercab-reaches-dallas-november-010500336.html",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/39291"
+ },
+ {
+  "id": 39263,
+  "event_date": "2026-11-01",
+  "realm": "terrestrial",
+  "title": "NVIDIA RTX Spark SoC breaks Qualcomm's Windows ARM monopoly",
+  "summary": "Microsoft's Surface Laptop Ultra launched with NVIDIA's RTX Spark SoC, the first non-Qualcomm ARM chip for Windows PCs, combining a Blackwell GPU, up to 10-core CPU, and up to 128GB memory for local AI workloads.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://finance.biggo.com/news/0604743e-8a38-43bc-8ee5-d6c404300aea",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/39263"
+ },
+ {
+  "id": 39259,
+  "event_date": "2026-11-01",
+  "realm": "virtual",
+  "title": "DeepSeek Launches Specialized Coding Agent",
+  "summary": "DeepSeek officially released a dedicated coding agent on November 1, 2026, entering the specialized programming-assistance segment dominated by Anthropic, OpenAI, and GitHub Copilot. The agent delivers code generation, debugging, and refactoring capabilities and is positioned as a cost-competitive alternative to U.S. providers.",
+  "actor": "DeepSeek",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://emergent.sh/news/deepseek-coding-agent-launches-challenge",
+  "source_title": null,
+  "publisher": "Emergent",
+  "permalink": "https://presentofai.com/e/39259"
+ },
+ {
+  "id": 39247,
+  "event_date": "2026-11-01",
+  "realm": "virtual",
+  "title": "Apple to Bring AI to China via Alibaba Qwen Model",
+  "summary": "Apple announced it will introduce AI features to Chinese users in December 2026, beginning with a developer beta, marking Apple Intelligence's first deployment in China. Most features run on Apple's own generative models, while Alibaba's Qwen model specifically supports Siri in answering general knowledge questions to comply with local regulations.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://world-today-journal.com/apple-to-introduce-ai-in-china-using-alibabas-qwen-model/",
+  "source_title": null,
+  "publisher": "World Today Journal",
+  "permalink": "https://presentofai.com/e/39247"
+ },
+ {
+  "id": 39237,
+  "event_date": "2026-11-01",
+  "realm": "terrestrial",
+  "title": "Nvidia AI Agents Take Live Control of Allen Telescope Array",
+  "summary": "NVIDIA AI agents autonomously steer the Allen Telescope Array and analyze incoming radio data during live observations, with the system capable of processing 2.4 terabits per second in the search for extraterrestrial signals.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tokenpost.com/news/technology/45313",
+  "source_title": null,
+  "publisher": "TokenPost",
+  "permalink": "https://presentofai.com/e/39237"
+ },
+ {
   "id": 39214,
   "event_date": "2026-11-01",
   "realm": "terrestrial",
@@ -26,20 +96,6 @@
   "source_title": null,
   "publisher": "Fourweekmba",
   "permalink": "https://presentofai.com/e/39210"
- },
- {
-  "id": 39186,
-  "event_date": "2026-11-01",
-  "realm": "virtual",
-  "title": "DeepSeek Launches Coding Agent to Rival Anthropic & OpenAI",
-  "summary": "DeepSeek officially released a specialized coding agent on November 1, 2026, targeting a segment dominated by Anthropic, OpenAI, and GitHub Copilot with code generation, debugging, and refactoring capabilities.",
-  "actor": "DeepSeek",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://emergent.sh/news/deepseek-coding-agent-launches-challenge",
-  "source_title": null,
-  "publisher": "Emergent",
-  "permalink": "https://presentofai.com/e/39186"
  },
  {
   "id": 39130,
@@ -294,20 +350,6 @@
   "permalink": "https://presentofai.com/e/38678"
  },
  {
-  "id": 38676,
-  "event_date": "2026-10-31",
-  "realm": "space",
-  "title": "Google Satellite AI Server Sends First Response from Orbit",
-  "summary": "Google's Project Suncatcher AI chip-equipped satellite successfully generated and transmitted its first AI inference response from space to Earth, marking the first known on-orbit AI model inference from a commercial satellite.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 85,
-  "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/38676"
- },
- {
   "id": 38664,
   "event_date": "2026-10-31",
   "realm": "terrestrial",
@@ -334,6 +376,48 @@
   "source_title": null,
   "publisher": "TechRadar FR",
   "permalink": "https://presentofai.com/e/38663"
+ },
+ {
+  "id": 39307,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Salesforce Acquires Rune Technologies to Expand Military AI Capabilities",
+  "summary": "Salesforce signed a definitive agreement to acquire Rune Technologies, a defense software startup whose edge-native platform helps US Army and Marine Corps personnel manage supplies and operations in denied, degraded, intermittent, or limited communications environments. Financial terms were not disclosed, and the deal is expected to close in the fourth quarter of Salesforce's 2027 fiscal year.",
+  "actor": "Salesforce",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.ibtimes.co.uk/salesforce-acquire-rune-technologies-military-ai-1828959",
+  "source_title": null,
+  "publisher": "Ibtimes",
+  "permalink": "https://presentofai.com/e/39307"
+ },
+ {
+  "id": 39274,
+  "event_date": "2026-10-30",
+  "realm": "terrestrial",
+  "title": "Samsung Wins 2nm Foundry Order for Cloud AI Chips",
+  "summary": "Samsung secured a new 2nm process foundry order to manufacture cloud AI chips for a US customer, brokered through Taiwanese design firm Faraday, signaling competitive gains in advanced-node AI chip production.",
+  "actor": "Samsung",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://sammyguru.com/samsung-wins-a-new-2nm-foundry-order-for-cloud-ai-chips-through-faraday/",
+  "source_title": null,
+  "publisher": "SammyGuru",
+  "permalink": "https://presentofai.com/e/39274"
+ },
+ {
+  "id": 39257,
+  "event_date": "2026-10-30",
+  "realm": "virtual",
+  "title": "Qwenputer embeds functional RISC-V CPU inside AI model",
+  "summary": "Qwenputer, built on Qwen3.5-4B, replicates a 32-bit RISC-V CPU and memory entirely within its neural network, enabling deterministic program execution without external tools, a first-of-its-kind architecture blurring the line between AI model and computer.",
+  "actor": "Qwen",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://gigazine.net/gsc_news/en/20261030-qwenputer/",
+  "source_title": null,
+  "publisher": "GIGAZINE",
+  "permalink": "https://presentofai.com/e/39257"
  },
  {
   "id": 39209,
@@ -376,20 +460,6 @@
   "source_title": null,
   "publisher": "ABC News",
   "permalink": "https://presentofai.com/e/39196"
- },
- {
-  "id": 39157,
-  "event_date": "2026-10-30",
-  "realm": "space",
-  "title": "Google runs Gemma 4 AI on TPU in orbit, first response received",
-  "summary": "Google's Project Suncatcher prototype satellite, carrying data-center-class TPUs and launched October 1, 2026, successfully ran the Gemma 4 generative AI model in orbit and beamed back a response (a haiku) to Earth, marking the first-ever AI inference from a data-center TPU in space.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-  "source_title": null,
-  "publisher": "blog.google",
-  "permalink": "https://presentofai.com/e/39157"
  },
  {
   "id": 39145,
@@ -922,6 +992,34 @@
   "source_title": null,
   "publisher": "Tom's Hardware",
   "permalink": "https://presentofai.com/e/38278"
+ },
+ {
+  "id": 39300,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "Purdue AI drone tracks humans through forest without GPS",
+  "summary": "Purdue University researcher Aniket Bera demonstrated an autonomous AI drone capable of tracking people through dense forest with no GPS or internet connectivity, a first-of-its-kind field demonstration.",
+  "actor": "Purdue University",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://theprint.in/theprint-essential/an-ai-drone-can-track-people-through-forests-without-gps-how-does-it-work/3086017/",
+  "source_title": null,
+  "publisher": "Theprint",
+  "permalink": "https://presentofai.com/e/39300"
+ },
+ {
+  "id": 39283,
+  "event_date": "2026-10-29",
+  "realm": "terrestrial",
+  "title": "FCC bans foreign humanoid robots; Lightberry's Lumi gets first exemption",
+  "summary": "In July 2026 the FCC introduced a ban on new foreign-produced robots being sold in the US; Lightberry's Lumi became the first and only humanoid robot cleared via a national security review by the US Department of War, earning an exemption from the FCC Covered List.",
+  "actor": "Lightberry",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://lightberry.com/press/dow-approval",
+  "source_title": null,
+  "publisher": "Lightberry",
+  "permalink": "https://presentofai.com/e/39283"
  },
  {
   "id": 39182,
@@ -2408,6 +2506,20 @@
   "permalink": "https://presentofai.com/e/37570"
  },
  {
+  "id": 39311,
+  "event_date": "2026-10-27",
+  "realm": "space",
+  "title": "Cowboy Space unveils launch vehicle for orbital data center constellation",
+  "summary": "Cowboy Space publicly released details of the proprietary launch vehicle it is developing to deploy its proposed orbital data center constellation, also announcing plans to sell launch services to third parties under the name 'Big Iron Express'.",
+  "actor": "Cowboy Space",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/",
+  "source_title": null,
+  "publisher": "Spacenews",
+  "permalink": "https://presentofai.com/e/39311"
+ },
+ {
   "id": 39027,
   "event_date": "2026-10-27",
   "realm": "virtual",
@@ -2471,7 +2583,7 @@
   "summary": "OpenAI and Anthropic separately announced claimed refutations of the Exponential Time Hypothesis, a foundational conjecture in computer science, with both companies reporting their AI models independently found the core algorithm on Oct. 16. Researchers noted that if the claims are correct they would change an important part of theoretical computer science, but cautioned their involvement should not be taken as certification.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 82,
+  "materiality": 88,
   "source_url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
   "source_title": null,
   "publisher": "Research & Development World",
@@ -10542,20 +10654,6 @@
   "permalink": "https://presentofai.com/e/33670"
  },
  {
-  "id": 33660,
-  "event_date": "2026-10-15",
-  "realm": "virtual",
-  "title": "Microsoft unveils MAI-Base-2, a 2.8 trillion-parameter AI model",
-  "summary": "Microsoft completed pre-training MAI-Base-2, a 2.8 trillion-parameter model with 80 billion active parameters, saying it outperformed every open-weight model it tested and was 4.2 to 12.3 times more compute-efficient than DeepSeek-V4-Pro-Base across four evaluations. The model is now undergoing post-training, with further results expected later.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-unveils-2-8-165617565.html",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/33660"
- },
- {
   "id": 33659,
   "event_date": "2026-10-15",
   "realm": "virtual",
@@ -14000,20 +14098,6 @@
   "permalink": "https://presentofai.com/e/31782"
  },
  {
-  "id": 31711,
-  "event_date": "2026-10-07",
-  "realm": "terrestrial",
-  "title": "Nvidia RTX Spark silicon & Windows 11 AI sandboxing launched",
-  "summary": "Microsoft and Nvidia unveiled RTX Spark chips and 'Builder PCs' with Windows features including OS-level sandboxing designed to run AI agents locally and securely, marking a new hardware platform era for on-device AI.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://me.pcmag.com/en/laptops/38272/with-rtx-spark-and-builder-pcs-microsoft-and-nvidia-usher-personal-computing-into-its-agentic-era",
-  "source_title": null,
-  "publisher": "PCMag Middle East",
-  "permalink": "https://presentofai.com/e/31711"
- },
- {
   "id": 31685,
   "event_date": "2026-10-07",
   "realm": "terrestrial",
@@ -17122,20 +17206,6 @@
   "permalink": "https://presentofai.com/e/27984"
  },
  {
-  "id": 27960,
-  "event_date": "2026-09-30",
-  "realm": "virtual",
-  "title": "Anthropic IPO filing warns models pose existential risk",
-  "summary": "Anthropic's IPO prospectus, reviewed by Reuters, disclosed that its AI models could pose a 'catastrophic or existential risk to humanity' and are capable of resisting shutdown, an unprecedented safety disclosure in a public offering document.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.straitstimes.com/business/anthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing",
-  "source_title": null,
-  "publisher": "The Straits Times",
-  "permalink": "https://presentofai.com/e/27960"
- },
- {
   "id": 27938,
   "event_date": "2026-09-30",
   "realm": "terrestrial",
@@ -17840,7 +17910,7 @@
   "event_date": "2026-09-28",
   "realm": "virtual",
   "title": "AMD acquires World Labs for $8.2B, Fei-Fei Li joins as Chief Scientist",
-  "summary": "AMD announced a definitive agreement to acquire Fei-Fei Li's AI research company World Labs in an all-stock deal valued at approximately $8.2 billion, AMD's largest acquisition since Xilinx. Li will join AMD as Executive Vice President and Chief Scientist, with the World Labs team continuing spatial AI model research inside AMD.",
+  "summary": "AMD agreed to acquire World Labs, the San Francisco-based AI lab founded by Fei-Fei Li, for $8.2 billion in stock, making it AMD's second largest acquisition on record after the roughly $50 billion Xilinx deal. Li will join AMD as Executive Vice President and Chief Scientist, with World Labs continuing its spatial AI and world model research inside AMD.",
   "actor": "AMD",
   "ticker": null,
   "materiality": 78,
@@ -37174,7 +37244,7 @@
   "event_date": "2026-08-12",
   "realm": "terrestrial",
   "title": "Delhi High Court rules on AI copyright in ANI v. OpenAI",
-  "summary": "The Delhi High Court issued a lengthy interim judgment, pending trial, in favour of OpenAI in ANI Media v. OpenAI, ruling that training AI models on freely available content did not constitute infringement and that the Section 52(1)(a) fair-dealing exception for 'private or personal use, including research' applies to machine learning algorithms, not just humans.",
+  "summary": "The Delhi High Court issued a lengthy interim judgment, pending trial, ruling in favour of OpenAI on all counts in ANI Media v. OpenAI, including that the Section 52(1)(a) fair-dealing exception for 'private or personal use, including research' applies to machine learning algorithms and not only to humans. The article's author criticizes the judgment as judicial activism, noting factual disputes that should have gone to trial and a fundamental legal error in the court's reasoning about freely available content.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 72,
