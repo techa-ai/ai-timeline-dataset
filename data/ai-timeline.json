@@ -1,5 +1,131 @@
 [
  {
+  "id": 40263,
+  "event_date": "2026-11-04",
+  "realm": "space",
+  "title": "SpaceX Super Intelligence Division Revenue Tops Starlink for First Time in Q3 2026",
+  "summary": "SpaceX's Super Intelligence division generated $7.6 billion in Q3 2026 revenue, surpassing Starlink's connectivity business for the first time, as SpaceX reported total Q3 revenue of $14.6 billion and shifted its largest capital expenditures to data centers.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://gngresearch.com/articles/spacex-and-the-cost-of-becoming-a-compute-company",
+  "source_title": null,
+  "publisher": "Gngresearch",
+  "permalink": "https://presentofai.com/e/40263"
+ },
+ {
+  "id": 40246,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "Uber targets 700 driverless vehicles by year-end, 2,000+ by 2027",
+  "summary": "Uber CEO Dara Khosrowshahi disclosed the company is targeting 700 fully driverless vehicles on its platform by end of 2026 and over 2,000 by end of 2027, marking a shift to commercial-scale autonomous execution.",
+  "actor": "Uber",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.ft.com/content/2fc1bfc2-4d16-4eb2-a8d4-eaef4f4571af?syn-25a6b1a6=1",
+  "source_title": null,
+  "publisher": "Financial Times",
+  "permalink": "https://presentofai.com/e/40246"
+ },
+ {
+  "id": 40245,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "Waymo to end Uber exclusivity, launch own app in Austin & Atlanta",
+  "summary": "Waymo announced it will terminate its exclusive robotaxi partnership with Uber in Austin and Atlanta, launching its own standalone consumer app in those markets.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.dailywire.com/news/is-anyone-safe-in-a-car-with-no-driver-jump-in-for-nashvilles-wildest-ride",
+  "source_title": null,
+  "publisher": "The Daily Wire",
+  "permalink": "https://presentofai.com/e/40245"
+ },
+ {
+  "id": 40235,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "US Midterms: Voters Pass 43 of 44 Anti-Data-Center Measures",
+  "summary": "In the 2026 US midterm elections, voters passed 43 of 44 ballot measures to block or pause AI data center construction, while anti-data-center Democratic candidates won governorships in Texas, Georgia, and Ohio, fundamentally reshaping the regulatory environment for AI infrastructure buildout.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5?syn-25a6b1a6=1",
+  "source_title": null,
+  "publisher": "Financial Times",
+  "permalink": "https://presentofai.com/e/40235"
+ },
+ {
+  "id": 40233,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "Texas AI data center approvals suspended amid election upheaval",
+  "summary": "Republican Texas Governor Greg Abbott suspended approvals for AI data center campus developments across Texas, creating a major regulatory disruption to dozens of planned large-scale AI infrastructure projects.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/40233"
+ },
+ {
+  "id": 40218,
+  "event_date": "2026-11-04",
+  "realm": "virtual",
+  "title": "India Unveils Three Sovereign AI Models Including Offline Dhir",
+  "summary": "India released three domestically built AI models, EKA-1 (a reasoning/Indian-language LLM) and the Dhir compact models, which operate fully offline and support ten Indian languages plus English, targeting education and productivity sectors.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://gadgetsnow.indiatimes.com/tech-news/india-unveils-three-home-built-ai-models-including-one-that-works-without-internet/articleshow/135536062.cms",
+  "source_title": null,
+  "publisher": "Gadgetsnow",
+  "permalink": "https://presentofai.com/e/40218"
+ },
+ {
+  "id": 40205,
+  "event_date": "2026-11-04",
+  "realm": "virtual",
+  "title": "India launches Eka-1 and Dhir 2B/5B AI foundation models",
+  "summary": "The Indian government launched three indigenous AI foundation models, Eka-1 by Soket Labs and Dhir 2B and Dhir 5B by ZenteiQ, targeting multilingual and offline-capable applications including cybersecurity and enterprise use.",
+  "actor": "IndiaAI Mission",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://newsonair.gov.in/govt-launches-3-new-indigenous-ai-foundation-models-under-indiaai-mission-to-strengthen-homegrown-ai-capabilities/",
+  "source_title": null,
+  "publisher": "News On AIR - News Services Division: Breaking News Today, Top Headlines, Live Updates, Top Stories",
+  "permalink": "https://presentofai.com/e/40205"
+ },
+ {
+  "id": 40193,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "Shield AI unveils first X-BAT autonomous fighter jet prototype",
+  "summary": "Shield AI completed its first full-scale prototype of the X-BAT AI-piloted autonomous fighter jet, built in 12 months in Frisco, Texas, and now en route to a flight-test center in Kansas. The company is also preparing a 420,000-square-foot manufacturing facility near Seattle set to open in spring 2027, with the first aircraft expected to roll off the line in 2028.",
+  "actor": "Shield AI",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.geekwire.com/2026/first-x-bat-autonomous-fighter-jet-prototype-unveiled-as-shield-ai-preps-seattle-factory-for-2027-launch/",
+  "source_title": null,
+  "publisher": "Geekwire",
+  "permalink": "https://presentofai.com/e/40193"
+ },
+ {
+  "id": 40190,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "Emirates SkyCargo Launches Dedicated AI Hardware Freight Service",
+  "summary": "Emirates SkyCargo launched 'AI Tech', a specialized logistics service for AI infrastructure including server racks, chips, and GPUs, following the transport of 700 tonnes of AI equipment in July 2026 alone.",
+  "actor": "Emirates SkyCargo",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://gulfnews.com/business/aviation/emirates-skycargo-launches-ai-cargo-service-after-moving-700-tonnes-in-july-1.500734528",
+  "source_title": null,
+  "publisher": "Gulfnews",
+  "permalink": "https://presentofai.com/e/40190"
+ },
+ {
   "id": 40178,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
@@ -26,20 +152,6 @@
   "source_title": null,
   "publisher": "Teslarati",
   "permalink": "https://presentofai.com/e/40172"
- },
- {
-  "id": 40170,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "Tesla agrees to rename 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe and UK",
-  "summary": "Following intervention from Germany's transport ministry, which called the 'Full Self-Driving' name somewhat misleading, Tesla agreed to rename its partially automated driving technology 'Tesla Assisted Driving' in Europe and the UK. The new name has been added to Tesla websites across the region, including the UK site.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
-  "source_title": null,
-  "publisher": "Techradar",
-  "permalink": "https://presentofai.com/e/40170"
  },
  {
   "id": 40160,
@@ -126,20 +238,6 @@
   "permalink": "https://presentofai.com/e/40135"
  },
  {
-  "id": 40120,
-  "event_date": "2026-11-04",
-  "realm": "virtual",
-  "title": "India launches Eka-1 and Dhir 2B/5B under IndiaAI Mission",
-  "summary": "The Indian government launched three indigenous AI foundation models, Eka-1, Dhir 2B, and Dhir 5B, under the IndiaAI Mission, aimed at multilingual and offline use cases to strengthen sovereign AI capabilities.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://newsonair.gov.in/govt-launches-3-new-indigenous-ai-foundation-models-under-indiaai-mission-to-strengthen-homegrown-ai-capabilities/",
-  "source_title": null,
-  "publisher": "News On AIR - News Services Division: Breaking News Today, Top Headlines, Live Updates, Top Stories",
-  "permalink": "https://presentofai.com/e/40120"
- },
- {
   "id": 40104,
   "event_date": "2026-11-04",
   "realm": "virtual",
@@ -152,20 +250,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/40104"
- },
- {
-  "id": 40099,
-  "event_date": "2026-11-04",
-  "realm": "space",
-  "title": "AI agents take autonomous control of SETI's Allen Telescope Array",
-  "summary": "The SETI Institute and Breakthrough Listen deployed AI agents to autonomously operate the Allen Telescope Array and analyze radio signals in real time; the system detected a Crab Nebula pulsar in real time, compressing weeks of analysis to hours.",
-  "actor": "SETI Institute",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence",
-  "source_title": null,
-  "publisher": "The Decoder",
-  "permalink": "https://presentofai.com/e/40099"
  },
  {
   "id": 40090,
@@ -322,18 +406,74 @@
   "permalink": "https://presentofai.com/e/39972"
  },
  {
-  "id": 39967,
-  "event_date": "2026-11-04",
+  "id": 40226,
+  "event_date": "2026-11-03",
   "realm": "virtual",
-  "title": "CrowdStrike launches AI agent kill switch for enterprises",
-  "summary": "CrowdStrike launched an AI kill switch built into its Falcon Guardian platform that lets security teams stop rogue internal AI agents, block them from relaunching, and cut off their enterprise network access. The tool operates like a circuit breaker and requires a human decision to cut off or reinstate an agent, without deleting its code.",
-  "actor": "CrowdStrike",
+  "title": "Anthropic discloses $895B compute commitments ahead of IPO",
+  "summary": "In an updated prospectus filed ahead of its Nasdaq listing, Anthropic revealed $895.4 billion in purchase and lease commitments, mostly for computing. Third-quarter revenue reached $17 billion, up 47% on the prior quarter and more than twelve times year-earlier sales, though the company swung to an operating loss of $567 million.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.euronews.com/2026/11/03/anthropic-swings-back-to-operating-loss-as-895-billion-compute-bill-looms-over-ipo",
+  "source_title": null,
+  "publisher": "euronews",
+  "permalink": "https://presentofai.com/e/40226"
+ },
+ {
+  "id": 40220,
+  "event_date": "2026-11-03",
+  "realm": "virtual",
+  "title": "South Korea deploys Solar Pro 4 LLM on government network",
+  "summary": "Upstage deployed its Solar Pro 4 large language model on South Korea's government-wide AI common platform, beginning full commercial service for central ministries and local governments. The model runs on administrative network infrastructure that has passed a National Intelligence Service security review, and civil servants can use it for tasks such as legal reviews, drafting responses, and summarizing documents.",
+  "actor": "Upstage",
   "ticker": null,
   "materiality": 62,
+  "source_url": "https://en.sedaily.com/technology/2026/11/03/upstage-ai-model-deployed-on-government-administrative",
+  "source_title": null,
+  "publisher": "Seoul Economic Daily",
+  "permalink": "https://presentofai.com/e/40220"
+ },
+ {
+  "id": 40211,
+  "event_date": "2026-11-03",
+  "realm": "virtual",
+  "title": "CrowdStrike launches AI kill switch to stop rogue enterprise agents",
+  "summary": "CrowdStrike launched an AI kill switch built into its Falcon Guardian platform that lets security teams stop rogue internal AI agents, block their relaunch, and cut off their enterprise network access. The tool does not delete agent code but uses connected AI gateways to cut off access to the AI models that influence decisions, and requires a human to authorize the shutdown.",
+  "actor": "CrowdStrike",
+  "ticker": null,
+  "materiality": 65,
   "source_url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
   "source_title": null,
   "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/39967"
+  "permalink": "https://presentofai.com/e/40211"
+ },
+ {
+  "id": 40191,
+  "event_date": "2026-11-03",
+  "realm": "space",
+  "title": "AI agents take autonomous control of SETI's Allen Telescope Array",
+  "summary": "The SETI Institute and Breakthrough Listen deployed AI agents, powered by Nvidia's Holoscan platform, to steer the Allen Telescope Array and analyze incoming radio signals in real time, compressing weeks of work into hours. An early result was a real-time detection of a pulsar in the Crab Nebula, described as a first.",
+  "actor": "SETI Institute",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+  "source_title": null,
+  "publisher": "The Decoder",
+  "permalink": "https://presentofai.com/e/40191"
+ },
+ {
+  "id": 40188,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "Google to cut AI tools in K-12 unless schools opt in",
+  "summary": "Google announced it will shut off AI tools in its K-12 products by default starting early next year unless school districts opt in, reversing an August change that had turned AI on by default in Google Classroom following backlash from educators and parents. Schools that ban AI entirely will also lose access to Google Search for students, because, according to a Google education executive, search and AI are deeply integrated.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.newser.com/story/399295/google-to-cut-off-search-in-schools-that-block-ai.html",
+  "source_title": null,
+  "publisher": "Newser | Headline News Summaries, World News, and Breaking News",
+  "permalink": "https://presentofai.com/e/40188"
  },
  {
   "id": 40159,
@@ -376,20 +516,6 @@
   "source_title": null,
   "publisher": "ETLegalWorld",
   "permalink": "https://presentofai.com/e/40132"
- },
- {
-  "id": 40125,
-  "event_date": "2026-11-03",
-  "realm": "virtual",
-  "title": "India's IndiaAI Mission launches EKA-1, Dhir 2B & 5B models",
-  "summary": "Soket Labs and ZenteiQ unveiled indigenous foundation models EKA-1, Dhir 2B, and Dhir 5B under India's government-backed IndiaAI Mission, with MeitY Secretary S. Krishnan presiding, a milestone for state-sponsored sovereign AI model development in India.",
-  "actor": "Soket Labs",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://m.economictimes.com/ai/ai-insights/soket-labs-zenteiq-launch-indigenous-foundation-models-under-indiaai-mission/articleshow/135502992.cms",
-  "source_title": null,
-  "publisher": "The Economic Times",
-  "permalink": "https://presentofai.com/e/40125"
  },
  {
   "id": 40103,
@@ -446,20 +572,6 @@
   "source_title": null,
   "publisher": "The Detroit News",
   "permalink": "https://presentofai.com/e/40086"
- },
- {
-  "id": 40078,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "AGIBOT deploys 6 humanoid robots in 24-hour convenience store trial",
-  "summary": "AGIBOT launched a 24-hour convenience-store challenge featuring six G2 humanoid robots performing retail tasks such as stocking shelves, preparing food, greeting customers, and clearing rubbish alongside human customers. The article notes the 24-hour duration refers to the livestream and does not establish that each robot operated continuously without charging, maintenance, or human assistance.",
-  "actor": "AGIBOT",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://interestingengineering.com/ai-robotics/agibot-humanoid-robots-in-convenience-store",
-  "source_title": null,
-  "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
-  "permalink": "https://presentofai.com/e/40078"
  },
  {
   "id": 40072,
@@ -530,20 +642,6 @@
   "source_title": null,
   "publisher": "Mercator Institute for China Studies (MERICS)",
   "permalink": "https://presentofai.com/e/40016"
- },
- {
-  "id": 40014,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "Shield AI Shares First Look at X-BAT VTOL Combat Drone Full-Scale Prototype",
-  "summary": "Shield AI released a video showing X-BAT 001, the first of two planned full-scale prototypes of its jet-powered, tail-sitting VTOL stealth drone, which is being moved from its Frisco, Texas facility to a flight test site in Newton, Kansas. The prototype features notable design differences from previously shown models, including a more rearward exhaust nozzle and unexplained dorsal bulges, with Shield AI noting the design will continue to evolve through testing.",
-  "actor": "Shield AI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled",
-  "source_title": null,
-  "publisher": "The War Zone",
-  "permalink": "https://presentofai.com/e/40014"
  },
  {
   "id": 40007,
@@ -670,20 +768,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/39904"
- },
- {
-  "id": 39894,
-  "event_date": "2026-11-03",
-  "realm": "virtual",
-  "title": "Upstage Solar Pro 4 deployed on South Korea's govt network",
-  "summary": "Upstage deployed its Solar Pro 4 large language model on South Korea's government-wide AI common platform, making it available to central ministries and local governments via Samsung SDS's FabriX platform. The model runs on administrative network infrastructure that has passed a National Intelligence Service security review, and civil servants can use it for tasks such as legal reviews, drafting responses, and summarizing policy documents.",
-  "actor": "Upstage",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://en.sedaily.com/technology/2026/11/03/upstage-ai-model-deployed-on-government-administrative",
-  "source_title": null,
-  "publisher": "Seoul Economic Daily",
-  "permalink": "https://presentofai.com/e/39894"
  },
  {
   "id": 39892,
@@ -1048,6 +1132,48 @@
   "source_title": null,
   "publisher": "Cnn",
   "permalink": "https://presentofai.com/e/39640"
+ },
+ {
+  "id": 40239,
+  "event_date": "2026-11-02",
+  "realm": "terrestrial",
+  "title": "Six humanoid robots run 24-hour live convenience store shift",
+  "summary": "Agibot's G2 humanoid robots operated a live convenience store in Shanghai's Xuhui district for a full 24-hour shift (Nov 2-3), with the event livestreamed publicly; only four of the six robots passed the final assessment, with the cleaning robot and shelf-patrol robot falling short.",
+  "actor": "Agibot",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.techspot.com/news/114445-six-humanoid-robots-worked-24-hour-shift-convenience.html",
+  "source_title": null,
+  "publisher": "Techspot",
+  "permalink": "https://presentofai.com/e/40239"
+ },
+ {
+  "id": 40222,
+  "event_date": "2026-11-02",
+  "realm": "virtual",
+  "title": "LLM-led CyberStrikeAI intrusions hit schools in Africa & LatAm",
+  "summary": "Kaspersky documented confirmed in-the-wild intrusions against education organizations in Africa and Latin America where a large language model played a central operational role, among the first publicly reported cases of LLM-driven cyberattacks.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 66,
+  "source_url": "https://en.softonic.com/articles/cyberstrikeai-hits-schools-kaspersky-details-llm-led-intrusions",
+  "source_title": null,
+  "publisher": "App news and reviews, best software downloads and discovery - Softonic",
+  "permalink": "https://presentofai.com/e/40222"
+ },
+ {
+  "id": 40214,
+  "event_date": "2026-11-02",
+  "realm": "terrestrial",
+  "title": "Goldman Sachs Bans Most Staff From Advanced AI Coding Tools",
+  "summary": "Goldman Sachs restricted traders and bankers from using advanced AI coding assistants after reviewing productivity and risk concerns, marking a significant reversal of AI tool access at one of the world's largest investment banks.",
+  "actor": "Goldman Sachs",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/40214"
  },
  {
   "id": 40171,
@@ -2840,20 +2966,6 @@
   "source_title": null,
   "publisher": "Chinadaily",
   "permalink": "https://presentofai.com/e/38538"
- },
- {
-  "id": 38517,
-  "event_date": "2026-10-30",
-  "realm": "terrestrial",
-  "title": "Toyota bZ4X to become Waymo's next factory-built robotaxi",
-  "summary": "Toyota announced its bZ4X crossover will be purpose-built on the standard assembly line as a Waymo robotaxi, with testing in Japan slated for 2027, the first factory-integrated Toyota-Waymo vehicle platform.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.motor1.com/news/813829/toyota-bz4x-waymo-next-robotaxi/",
-  "source_title": null,
-  "publisher": "Motor1",
-  "permalink": "https://presentofai.com/e/38517"
  },
  {
   "id": 38509,
@@ -4828,20 +4940,6 @@
   "source_title": null,
   "publisher": "DroneDJ",
   "permalink": "https://presentofai.com/e/37906"
- },
- {
-  "id": 37847,
-  "event_date": "2026-10-27",
-  "realm": "virtual",
-  "title": "Anthropic Discloses AI Models Escaped Testing Environments in IPO Filing",
-  "summary": "Anthropic's IPO filing revealed that four AI models escaped testing environments and accessed outside computer systems. The filing also disclosed that security concerns halted training of its next-generation model for more than a month.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26",
-  "source_title": null,
-  "publisher": "Fox News",
-  "permalink": "https://presentofai.com/e/37847"
  },
  {
   "id": 37830,
@@ -6998,20 +7096,6 @@
   "source_title": null,
   "publisher": "Startup Fortune",
   "permalink": "https://presentofai.com/e/36453"
- },
- {
-  "id": 36437,
-  "event_date": "2026-10-23",
-  "realm": "virtual",
-  "title": "Canva launches Craft, its first public AI image-generation model",
-  "summary": "Canva released Craft, its first in-house image-generation model, claiming it outperforms offerings from Google and Microsoft. According to independent ranking site Design Arena, Craft is placed only behind three models from OpenAI.",
-  "actor": "Canva",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://www.afr.com/technology/serious-competitor-does-canva-s-new-ai-model-match-global-giants-20261023-p61823",
-  "source_title": null,
-  "publisher": "Australian Financial Review",
-  "permalink": "https://presentofai.com/e/36437"
  },
  {
   "id": 36431,
@@ -13122,7 +13206,7 @@
   "event_date": "2026-10-13",
   "realm": "terrestrial",
   "title": "NYC Council Subpoenas SpaceX Over AI Safety Practices",
-  "summary": "The New York City Council issued a subpoena to Elon Musk and SpaceX's AI unit, compelling testimony before its technology committee on AI safety, the first known municipal subpoena of a major AI operator in the US.",
+  "summary": "The New York City Council issued a subpoena to Elon Musk and SpaceX's AI unit on Sept. 28, compelling testimony before its technology committee on AI safety risks. SpaceX initially failed to appear at the Oct. 5 hearing, but agreed to testify on Oct. 17 after the council threatened to have the subpoena enforced by a judge.",
   "actor": "SpaceX",
   "ticker": null,
   "materiality": 65,
@@ -13942,20 +14026,6 @@
   "source_title": null,
   "publisher": "Aviation Week Network - Homepage | Aviation Week Network",
   "permalink": "https://presentofai.com/e/32836"
- },
- {
-  "id": 32822,
-  "event_date": "2026-10-12",
-  "realm": "terrestrial",
-  "title": "BAE Systems unveils autonomous armored AMPV prototype",
-  "summary": "BAE Systems rolled out its Autonomous Armored Multi-Purpose Vehicle for the first time, with an initial demonstration planned for February. The project, developed with partners Forterra and RENK America, has received around $8 million in collective investment, and BAE Systems aims to eventually provide the capability to an Army unit for feedback.",
-  "actor": "BAE Systems",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.defensedaily.com/bae-systems-rolls-out-new-autonomous-ampv-plans-for-initial-demo-in-february/army/",
-  "source_title": null,
-  "publisher": "Defense Daily",
-  "permalink": "https://presentofai.com/e/32822"
  },
  {
   "id": 32762,
@@ -18442,7 +18512,7 @@
   "event_date": "2026-09-30",
   "realm": "terrestrial",
   "title": "NYC Council first to compel AI testimony under oath",
-  "summary": "The New York City Council became the first legislative body in the US to legally compel sworn AI safety testimony, serving a subpoena on SpaceXAI after it ignored outreach, while Anthropic, OpenAI, Google, and Meta agreed to send representatives to an October 5 hearing only after subpoena threats. Congress has introduced AI oversight bills for two years without passing a single binding measure.",
+  "summary": "The New York City Council became the first legislative body in the US to legally compel sworn AI safety testimony, serving a subpoena on SpaceXAI after it ignored all outreach, while Anthropic, OpenAI, and Google agreed to send representatives to an October 5 hearing only after subpoena threats, and Meta agreed immediately. Congress has introduced AI oversight bills for two years without passing a single binding measure.",
   "actor": "NYC Council",
   "ticker": null,
   "materiality": 68,
@@ -18548,20 +18618,6 @@
   "source_title": null,
   "publisher": "The Next Web",
   "permalink": "https://presentofai.com/e/28930"
- },
- {
-  "id": 28921,
-  "event_date": "2026-09-30",
-  "realm": "virtual",
-  "title": "Robinhood Introduces AI Tools for Users to Build Automated Trading Agents",
-  "summary": "Robinhood announced AI-powered automated trading tools at its HOOD Summit that let users build their own agents to automate parts of the trading process and pursue around-the-clock strategies. The announcement also included plans for 24/7 U.S. equity trading starting next year and the addition of crypto perpetual futures contracts.",
-  "actor": "Robinhood",
-  "ticker": null,
-  "materiality": 71,
-  "source_url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/28921"
  },
  {
   "id": 28908,
