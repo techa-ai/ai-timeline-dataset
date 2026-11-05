@@ -1,5 +1,47 @@
 [
  {
+  "id": 40591,
+  "event_date": "2026-11-05",
+  "realm": "virtual",
+  "title": "OpenAI Moves to Acquire Pierre Computer Company for Codex Platform",
+  "summary": "On November 4, 2026, OpenAI announced plans to acquire Pierre Computer Company, a developer-tools startup specializing in Git-based code storage, navigation, and review technologies. The deal could help transform Codex into a more integrated environment where humans and AI agents create, review, store, and manage software together, building on Pierre's Trees and Diffs libraries already used inside Codex.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://kingy.ai/news/openai-pierre-computer-acquisition/",
+  "source_title": null,
+  "publisher": "Kingy AI",
+  "permalink": "https://presentofai.com/e/40591"
+ },
+ {
+  "id": 40585,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "Sanders-Casar Bill Proposes AI Development Pause and Ban",
+  "summary": "A federal bill introduced by Senator Bernie Sanders and Representative Greg Casar would permanently ban superintelligent AI, mandate a pause on advanced AI development pending new federal rulemaking, and create a new cabinet-level Department of Artificial Intelligence, with criminal penalties of up to 20 years imprisonment for violations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.promptzone.com/wayan_fischer/sanders-casar-ai-bill-proposed-ban-pause-and-new-department-2ckh",
+  "source_title": null,
+  "publisher": "Promptzone",
+  "permalink": "https://presentofai.com/e/40585"
+ },
+ {
+  "id": 40543,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "US Voters Pass Data Center Restrictions 43-1 in Midterms",
+  "summary": "Ballot measures restricting AI data center construction passed overwhelmingly across the US in the 2026 midterm elections, with voters approving restrictions by a 43-to-1 margin, threatening the industry's $10 trillion infrastructure buildout.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/40543"
+ },
+ {
   "id": 40506,
   "event_date": "2026-11-05",
   "realm": "terrestrial",
@@ -12,20 +54,6 @@
   "source_title": null,
   "publisher": "The Business Times",
   "permalink": "https://presentofai.com/e/40506"
- },
- {
-  "id": 40504,
-  "event_date": "2026-11-05",
-  "realm": "virtual",
-  "title": "OpenAI to Acquire Pierre to Expand Codex AI Coding Agents",
-  "summary": "OpenAI announced plans to acquire developer-tools firm Pierre, whose technology specializes in AI-assisted code understanding and review, to strengthen Codex's role as an AI agent across the software development lifecycle.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://tribuneindia.com/news/business/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/amp/?utm=relatedarticles",
-  "source_title": null,
-  "publisher": "Tribuneindia",
-  "permalink": "https://presentofai.com/e/40504"
  },
  {
   "id": 40497,
@@ -84,20 +112,6 @@
   "permalink": "https://presentofai.com/e/40438"
  },
  {
-  "id": 40419,
-  "event_date": "2026-11-05",
-  "realm": "terrestrial",
-  "title": "Voter Backlash Against AI Data Centers Marks 2026 US Midterms",
-  "summary": "Strong voter backlash against AI infrastructure projects, including data centers, was a notable feature of the 2026 US midterm elections, with Democratic victories reflecting concerns over power bills, water use, and local community impact. Analysts say the argument that domestic AI buildout is needed to compete with China failed to resonate with voters.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.scmp.com/news/us/us-elections/article/3373322/costs-above-competition-why-us-voters-arent-buying-trumps-china-ai-pitch",
-  "source_title": null,
-  "publisher": "Scmp",
-  "permalink": "https://presentofai.com/e/40419"
- },
- {
   "id": 40384,
   "event_date": "2026-11-05",
   "realm": "virtual",
@@ -110,20 +124,6 @@
   "source_title": null,
   "publisher": "Digitimes",
   "permalink": "https://presentofai.com/e/40384"
- },
- {
-  "id": 40368,
-  "event_date": "2026-11-05",
-  "realm": "virtual",
-  "title": "OpenAI Plans Acquisition of Pierre Computer Company",
-  "summary": "OpenAI announced plans to acquire Pierre Computer Company, maker of Code Storage, to extend its Codex platform into software infrastructure for storing, reviewing, and managing AI-generated code. The deal remains subject to regulatory approval.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://kingy.ai/news/openai-pierre-computer-acquisition/",
-  "source_title": null,
-  "publisher": "Kingy AI",
-  "permalink": "https://presentofai.com/e/40368"
  },
  {
   "id": 40356,
@@ -208,6 +208,34 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/40300"
+ },
+ {
+  "id": 40560,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "StarBot Launches $7,999 US-Made Spark Humanoid Robot",
+  "summary": "StarBot launched Spark, a 90-centimeter humanoid robot with 22 degrees of freedom, priced at $7,999 and manufactured in the United States. The company describes it as North America's first US-made developer humanoid robot in its size and price category, aimed at families, schools, and developers.",
+  "actor": "StarBot",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://markets.businessinsider.com/news/stocks/made-in-america-and-priced-at-7-999-starbot-launches-spark-humanoid-robot-1036715275",
+  "source_title": null,
+  "publisher": "markets.businessinsider.com",
+  "permalink": "https://presentofai.com/e/40560"
+ },
+ {
+  "id": 40536,
+  "event_date": "2026-11-04",
+  "realm": "virtual",
+  "title": "Uber AI Agents Complete Just 4 Rides in Q3 2026",
+  "summary": "Uber's CFO disclosed on the Q3 2026 earnings call that AI agents fulfilled only 4 rides and approximately 500 Uber Eats orders during the quarter, revealing the nascent state of autonomous agent deployment at scale.",
+  "actor": "Uber",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://tech-insider.org/uber-ai-agents-four-rides-500-eats-orders-q3-2026/",
+  "source_title": null,
+  "publisher": "Tech Insider",
+  "permalink": "https://presentofai.com/e/40536"
  },
  {
   "id": 40505,
@@ -756,32 +784,116 @@
   "permalink": "https://presentofai.com/e/39972"
  },
  {
-  "id": 40442,
+  "id": 40588,
   "event_date": "2026-11-03",
   "realm": "virtual",
-  "title": "India's IndiaAI Mission launches Eka-1, Dhir 2B and Dhir 5B",
-  "summary": "The Indian central government launched three indigenous AI foundation models, Eka-1 (developed by Soket Labs Technology and Research) and Dhir 2B and Dhir 5B (developed by ZenteiQ AiTech Innovations), with support under the IndiaAI Mission. The models support multilingual Indian-language applications, with Dhir 2B and Dhir 5B enabling offline, on-device, and secure on-premise deployment.",
-  "actor": "IndiaAI Mission",
+  "title": "Salesforce Agrees to Acquire Voice AI Firm Cresta for ~$2.7B",
+  "summary": "Salesforce announced on November 2, 2026 that it signed a definitive agreement to acquire Cresta, a voice AI company whose agents handle customer service calls. Salesforce did not disclose terms, but The Information reported the price at about $2.7 billion; Salesforce plans to integrate Cresta's voice agents and conversation analytics into its Service Cloud platform.",
+  "actor": "Salesforce",
   "ticker": null,
-  "materiality": 65,
-  "source_url": "https://vajiramandravi.com/current-affairs/new-ai-models/",
+  "materiality": 62,
+  "source_url": "https://shiftdelete.net/en/salesforce-cresta-acquisition",
   "source_title": null,
-  "publisher": "Vajiram & Ravi",
-  "permalink": "https://presentofai.com/e/40442"
+  "publisher": "Shiftdelete.Net",
+  "permalink": "https://presentofai.com/e/40588"
  },
  {
-  "id": 40440,
+  "id": 40579,
   "event_date": "2026-11-03",
   "realm": "terrestrial",
-  "title": "Ontario Civil Rules Committee drafts rules on AI-generated evidence",
-  "summary": "Ontario's Civil Rules Committee, chaired by Justice Peter Lauwers, developed draft civil procedure rules governing AI-generated evidence and deepfakes, with revised rule text expected in November 2026. The rules take a judicial-control approach, requiring transparency and scrutiny of AI-generated material while leaving prompt disclosure to the judge's discretion.",
+  "title": "Dutch RDW approves updated Tesla FSD parameters including 10% speed-offset cap",
+  "summary": "The Netherlands' RDW vehicle authority approved updated parameters for Tesla FSD (Supervised) in Europe, including reducing the maximum speed offset from +50% to +10% and renaming the system Tesla Assisted Driving (TAD) on in-car displays. RDW, which was the first EU regulatory body to approve FSD back in April, notified the nine other EU countries that had adopted its framework, with a broader EU-wide vote expected in December.",
   "actor": "",
   "ticker": null,
-  "materiality": 58,
+  "materiality": 65,
+  "source_url": "https://teslahubs.com/fr/blogs/conseils/rdw-approves-10-speed-offset-cap-and-tesla-assisted-driving-name",
+  "source_title": null,
+  "publisher": "Hub",
+  "permalink": "https://presentofai.com/e/40579"
+ },
+ {
+  "id": 40578,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "80 Tesla owners arrested in South Korea for FSD jailbreak",
+  "summary": "South Korean police arrested 80 people accused of using DIY or imported devices to illegally unlock Tesla Full Self-Driving on models not approved for FSD use in the country. The suspects were charged under Korea's Motor Vehicle Management Act and face up to two years in prison and fines of around $15,000 USD if convicted.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.slashgear.com/2304765/tesla-owners-arrested-full-self-driving-jailbreak-south-korea/",
+  "source_title": null,
+  "publisher": "SlashGear",
+  "permalink": "https://presentofai.com/e/40578"
+ },
+ {
+  "id": 40574,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "Tesla agrees to rename Full Self-Driving to Tesla Assisted Driving in UK and Europe",
+  "summary": "Following intervention from Germany's Transport Minister, who called the 'Full Self-Driving' name misleading, Tesla agreed to rename the technology 'Tesla Assisted Driving' across Europe and the UK. The new name has been added to Tesla's European websites, including the UK site.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
+  "source_title": null,
+  "publisher": "TechRadar FR",
+  "permalink": "https://presentofai.com/e/40574"
+ },
+ {
+  "id": 40562,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "Maximo Robot Reaches 300,000 Completed Tasks Milestone",
+  "summary": "The Maximo solar installation robot, deployed at Amazon's Bellefield solar field, surpassed 300,000 completed construction tasks. The latest version 3.0 robot-equipped crews install up to 24 solar panel modules per hour per person, nearly doubling the output of traditional installation methods.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://electrek.co/2026/11/03/maximo-milestone-friendly-robot-robot-has-completed-300000-tasks/",
+  "source_title": null,
+  "publisher": "Electrek",
+  "permalink": "https://presentofai.com/e/40562"
+ },
+ {
+  "id": 40552,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "South Korea Opens First AI Humanoid Data Factory",
+  "summary": "South Korea's Ministry of Science and ICT opened a dedicated 'AI Humanoid Data Factory' where 12 humanoid robots are remotely operated to collect real-world task data for AI training, establishing the country's first national research infrastructure for humanoid robotics.",
+  "actor": "Korea Institute of Machinery and Materials",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.mlex.com/mlex/articles/2545488/south-korea-opens-data-factory-to-improve-ai-powered-humanoid-robots",
+  "source_title": null,
+  "publisher": "MLex | Specialist news and analysis on legal risk and regulation",
+  "permalink": "https://presentofai.com/e/40552"
+ },
+ {
+  "id": 40530,
+  "event_date": "2026-11-03",
+  "realm": "virtual",
+  "title": "India's IndiaAI Mission releases 3 sovereign foundation models",
+  "summary": "The IndiaAI Mission under MeitY released three indigenous foundation models, EKA-1 by Soket Labs and Dhīr 2B and Dhīr 5B by ZenteiQ AiTech Innovations, supporting Indian languages and designed for offline or low-connectivity environments. The release marks another step in India's push to build homegrown AI capabilities, with development enabled by subsidised national AI compute infrastructure.",
+  "actor": "IndiaAI Mission",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece/amp",
+  "source_title": null,
+  "publisher": "Thehindu",
+  "permalink": "https://presentofai.com/e/40530"
+ },
+ {
+  "id": 40523,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "Ontario Civil Rules Committee proposes rules on AI-generated evidence",
+  "summary": "Ontario's Civil Rules Committee developed draft rules governing AI-generated evidence and deepfakes in civil proceedings, submitted to Attorney General Doug Downey with revised rule text expected in November 2026. The proposed rules take a judicial-control approach, demanding transparency and scrutiny while leaving prompt disclosure to the judge's discretion, but are not yet law.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
   "source_url": "https://www.lawtimesnews.com/practice-areas/privacy-and-data/ontario-to-formalize-civil-procedure-rules-on-ai-generated-evidence/393562",
   "source_title": null,
   "publisher": "Law Times",
-  "permalink": "https://presentofai.com/e/40440"
+  "permalink": "https://presentofai.com/e/40523"
  },
  {
   "id": 40415,
@@ -880,20 +992,6 @@
   "source_title": null,
   "publisher": "The Decoder",
   "permalink": "https://presentofai.com/e/40349"
- },
- {
-  "id": 40331,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "80 Tesla owners arrested in South Korea for FSD jailbreaking",
-  "summary": "South Korean police arrested 80 people accused of using DIY or imported devices to illegally activate Tesla Full Self-Driving on models not approved for the feature in Korea. The suspects were charged under Korea's Motor Vehicle Management Act and face up to two years in prison and fines of around $15,000 USD if convicted.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.slashgear.com/2304765/tesla-owners-arrested-full-self-driving-jailbreak-south-korea/",
-  "source_title": null,
-  "publisher": "SlashGear",
-  "permalink": "https://presentofai.com/e/40331"
  },
  {
   "id": 40326,
@@ -1090,20 +1188,6 @@
   "source_title": null,
   "publisher": "The Detroit News",
   "permalink": "https://presentofai.com/e/40086"
- },
- {
-  "id": 40072,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "South Korea Opens AI Humanoid Data Factory",
-  "summary": "South Korea's Ministry of Science and ICT opened an 'AI Humanoid Data Factory' where AI-powered humanoid robots are remotely operated to perform tasks while data on their movements and work are collected to improve their intelligence. The Korea Institute of Machinery and Materials, which built the facility, currently operates 12 humanoid robots and plans to expand the number of robots and range of tasks, with the ministry expecting the facility to reduce reliance on overseas data.",
-  "actor": "South Korea Ministry of Science and ICT",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.mlex.com/mlex/articles/2545488/south-korea-opens-data-factory-to-improve-ai-powered-humanoid-robots",
-  "source_title": null,
-  "publisher": "MLex | Specialist news and analysis on legal risk and regulation",
-  "permalink": "https://presentofai.com/e/40072"
  },
  {
   "id": 40056,
@@ -1568,20 +1652,6 @@
   "permalink": "https://presentofai.com/e/39675"
  },
  {
-  "id": 39674,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "AI Data Center Restrictions on Ballot in 10 US States",
-  "summary": "On Election Day, November 3, 2026, voters in 10 states decided on 41 local ballot measures involving data centers, according to Ballotpedia. Twenty-eight measures would restrict development if approved, while 13 would make it easier for projects to move forward.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.yahoo.com/news/us/articles/ai-data-centers-ballot-10-185841413.html",
-  "source_title": null,
-  "publisher": "Yahoo",
-  "permalink": "https://presentofai.com/e/39674"
- },
- {
   "id": 39672,
   "event_date": "2026-11-03",
   "realm": "terrestrial",
@@ -1650,6 +1720,20 @@
   "source_title": null,
   "publisher": "Cnn",
   "permalink": "https://presentofai.com/e/39640"
+ },
+ {
+  "id": 40517,
+  "event_date": "2026-11-02",
+  "realm": "virtual",
+  "title": "Apple picks Alibaba Qwen for China iPhone AI launch in December",
+  "summary": "Apple selected Alibaba's Qwen model to power Apple Intelligence features on iPhones in China, with a December launch date announced, marking the first confirmed deployment of a Chinese LLM inside Apple's consumer AI stack.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-soars-6-apple-sets-182457481.html",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/40517"
  },
  {
   "id": 40509,
@@ -1902,20 +1986,6 @@
   "source_title": null,
   "publisher": "App news and reviews, best software downloads and discovery - Softonic",
   "permalink": "https://presentofai.com/e/39895"
- },
- {
-  "id": 39872,
-  "event_date": "2026-11-02",
-  "realm": "virtual",
-  "title": "Apple to Launch Qwen-Powered iPhone AI in China in December",
-  "summary": "Apple announced it selected Alibaba's Qwen model to power Apple Intelligence features on iPhones in China, with a December 2026 launch date, marking the first deployment of a Chinese LLM inside Apple's consumer device ecosystem.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-soars-6-apple-sets-182457481.html",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/39872"
  },
  {
   "id": 39853,
@@ -2266,6 +2336,20 @@
   "source_title": null,
   "publisher": "Engadget",
   "permalink": "https://presentofai.com/e/39361"
+ },
+ {
+  "id": 40532,
+  "event_date": "2026-11-01",
+  "realm": "virtual",
+  "title": "DeepSeek unveils autonomous 'super agent' architecture",
+  "summary": "DeepSeek released a new multi-agent architecture designed to reduce human coordination overhead, enabling AI agents to carry out complex tasks more autonomously, marking a significant push beyond chatbot-style AI toward agentic systems.",
+  "actor": "DeepSeek",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+  "source_title": null,
+  "publisher": "Scmp",
+  "permalink": "https://presentofai.com/e/40532"
  },
  {
   "id": 39939,
@@ -5080,20 +5164,6 @@
   "source_title": null,
   "publisher": "The San Francisco Standard",
   "permalink": "https://presentofai.com/e/37570"
- },
- {
-  "id": 39311,
-  "event_date": "2026-10-27",
-  "realm": "space",
-  "title": "Cowboy Space unveils launch vehicle for orbital data center constellation",
-  "summary": "Cowboy Space publicly released details of the proprietary launch vehicle it is developing to deploy its proposed orbital data center constellation, also announcing plans to sell launch services to third parties under the name 'Big Iron Express'.",
-  "actor": "Cowboy Space",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://spacenews.com/cowboy-space-unveils-launch-vehicle-for-deploying-its-orbital-data-center-constellation/",
-  "source_title": null,
-  "publisher": "Spacenews",
-  "permalink": "https://presentofai.com/e/39311"
  },
  {
   "id": 39027,
@@ -11778,7 +11848,7 @@
   "event_date": "2026-10-16",
   "realm": "terrestrial",
   "title": "SpaceX AI Policy Chief Testifies to NYC Council on Grok Safety",
-  "summary": "SpaceX's senior government affairs manager testified before the New York City Council's tech committee under subpoena, answering questions about Grok AI safety and sexualized AI-generated images, the first time a major AI company was compelled by a municipal government to testify on AI safety.",
+  "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid testified before the New York City Council's tech committee on Grok AI safety and sexualized AI-generated images, appearing after SpaceX agreed to testify following a threat to have its subpoena enforced by a judge. Council members confronted Castillo Madrid with examples of sexualized images of real people generated by Grok and questioned the company's claimed safeguards.",
   "actor": "SpaceX",
   "ticker": null,
   "materiality": 65,
@@ -16100,20 +16170,6 @@
   "permalink": "https://presentofai.com/e/31095"
  },
  {
-  "id": 31091,
-  "event_date": "2026-10-08",
-  "realm": "terrestrial",
-  "title": "Slovakia set to become 9th EU country to approve Tesla FSD",
-  "summary": "Slovakia's Transport Minister announced the country will recognize the Dutch approval of Tesla's Full Self-Driving (Supervised) system within days, making it the ninth EU member state to permit the software.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://eletric-vehicles.com/tesla/tesla-fsd-to-win-slovakias-backing-within-days-minister-says",
-  "source_title": null,
-  "publisher": "Eletric Vehicles",
-  "permalink": "https://presentofai.com/e/31091"
- },
- {
   "id": 31084,
   "event_date": "2026-10-08",
   "realm": "terrestrial",
@@ -18750,7 +18806,7 @@
   "event_date": "2026-09-30",
   "realm": "virtual",
   "title": "Anthropic publishes research on near-term robot automation risk",
-  "summary": "Anthropic released a research paper identifying environmental control as the key predictor of near-term automation risk, providing a framework for forecasting which jobs robots will perform first based on how engineered their operating environments are.",
+  "summary": "Anthropic released a research paper measuring job exposure to robots based on how well present-day robots can perform work tasks and in what environments. The paper finds robots can already perform 74% of physical tasks in the US but are cost-competitive for only 0.3% of job tasks, and that past exposure to robots predicted wage and employment declines, suggesting taxi drivers and warehouse workers face earlier automation than nurses and mechanics.",
   "actor": "Anthropic",
   "ticker": null,
   "materiality": 52,
@@ -37916,7 +37972,7 @@
   "event_date": "2026-08-15",
   "realm": "virtual",
   "title": "Anthropic Q2 revenue hits $11.5B, up 14x year-over-year",
-  "summary": "Anthropic informed potential investors that its preliminary Q2 2026 revenue exceeded $11.5 billion, up from $787 million in Q2 2025, and reported positive adjusted operating income for the first time. The company is also working with Morgan Stanley, Goldman Sachs, and JPMorgan Chase on a potential autumn IPO.",
+  "summary": "Anthropic informed potential investors that its preliminary Q2 2026 revenue exceeded $11.5 billion, up from $787 million in Q2 2025, and reported positive adjusted operating profit. The company is also working with Morgan Stanley, Goldman Sachs, and JPMorgan Chase on a potential autumn IPO.",
   "actor": "Anthropic",
   "ticker": null,
   "materiality": 78,
@@ -39298,20 +39354,6 @@
   "permalink": "https://presentofai.com/e/12914"
  },
  {
-  "id": 12878,
-  "event_date": "2026-08-12",
-  "realm": "virtual",
-  "title": "API flaw in OpenAI, Anthropic, Google lets weaker AI decode stronger models",
-  "summary": "Researchers disclosed that replayable encrypted reasoning blocks in APIs from OpenAI, Anthropic, and Google allowed weaker models to extract secrets including API keys and passwords from public agent logs, recovering 704 privacy artifacts across 6,708 trajectories. The researchers say the main extraction attack is no longer reproducible as of August 2026, though no vendor has publicly confirmed the mitigation.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-  "source_title": null,
-  "publisher": "The Hacker News",
-  "permalink": "https://presentofai.com/e/12878"
- },
- {
   "id": 12859,
   "event_date": "2026-08-12",
   "realm": "virtual",
@@ -39385,8 +39427,8 @@
   "id": 12724,
   "event_date": "2026-08-12",
   "realm": "virtual",
-  "title": "Mojo 1.0 launches as production-ready AI programming language",
-  "summary": "Modular released Mojo 1.0, the first production-stable version of its AI-focused programming language combining Python usability with Rust-level performance across heterogeneous AI hardware, with backward compatibility guarantees.",
+  "title": "Mojo 1.0 launches as production-ready general-purpose programming language",
+  "summary": "Modular released Mojo 1.0 as part of the Modular 26.5 update, transitioning the language from a 2023 experiment to a production-ready, general-purpose language with backward compatibility and API stability guarantees. Mojo combines Python's intuitive syntax with systems-level performance and Rust-inspired memory safety, targeting heterogeneous AI hardware via the MLIR compiler framework.",
   "actor": "Modular",
   "ticker": null,
   "materiality": 62,
