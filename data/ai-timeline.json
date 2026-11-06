@@ -1,5 +1,89 @@
 [
  {
+  "id": 40897,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Tesla Announces Cybertruck Wind-Down to Scale Cybercab Output",
+  "summary": "Elon Musk announced on X that Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027. Musk stated the reason is to make room for increased Cybercab production, though the article notes the truck had also suffered poor sales and numerous recalls.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd",
+  "source_title": null,
+  "publisher": "WIRED",
+  "permalink": "https://presentofai.com/e/40897"
+ },
+ {
+  "id": 40887,
+  "event_date": "2026-11-06",
+  "realm": "virtual",
+  "title": "Xinhua Debuts World-First Bionic Humanoid AI News Anchors",
+  "summary": "China's state-run Xinhua media unveiled what it claims are the world's first bionic humanoid robot news anchors at a forum in Beijing, representing a first-of-its-kind deployment of embodied AI in broadcast journalism.",
+  "actor": "Xinhua",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://interestingengineering.com/ai-robotics/chinese-media-world-first-bionic-humanoid-anchor",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/40887"
+ },
+ {
+  "id": 40881,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Embodied AI unveils factory robot that learns from humans",
+  "summary": "Swiss robotics company Embodied AI is scheduled to unveil AIR at Humanoid Europe 2026 on 6 November, a factory robot with lightweight tendon-driven arms that learns tasks from human operators, typically becoming capable of performing them independently within a month, designed for safe human-robot collaboration on the factory floor.",
+  "actor": "Embodied AI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.emeoutlookmag.com/industry-insights/embodied-ai-unveils-factory-robot-that-learns-from-human-workers",
+  "source_title": null,
+  "publisher": "EME Outlook Magazine",
+  "permalink": "https://presentofai.com/e/40881"
+ },
+ {
+  "id": 40874,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Tesla Unveils AI Accelerator Roadmap with 'Super Intelligence' Branding",
+  "summary": "Tesla announced a new AI accelerator roadmap under the 'SI' (Super Intelligence) branding, with the SI6 chip promising 80x more compute performance than predecessors and Dojo 3 planned for space deployment.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/40874"
+ },
+ {
+  "id": 40870,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Congress targets Nvidia AI chip exports after Democratic midterm win",
+  "summary": "A newly Democratic-majority Congress announced plans to scrutinize Nvidia CEO Jensen Huang over whether the company is adequately preventing its AI chips from reaching China and other U.S. adversaries, marking a significant shift in legislative oversight of AI hardware exports.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/40870"
+ },
+ {
+  "id": 40860,
+  "event_date": "2026-11-06",
+  "realm": "virtual",
+  "title": "Microsoft: threat actors weaponize AI agents to steal cloud secrets and credentials",
+  "summary": "Microsoft Threat Intelligence observed threat actors using the agentic AI offensive framework ARTEX to search public GitHub repositories for exposed secrets, including credentials, application credentials, and API keys, then conduct follow-on attacks such as data exfiltration from Azure Key Vault and abuse of Azure AI services. In at least one case, an AI agent advanced from scanning GitHub for secrets to exfiltrating data from Azure Key Vault in just five minutes.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets",
+  "source_title": null,
+  "publisher": "Microsoft",
+  "permalink": "https://presentofai.com/e/40860"
+ },
+ {
   "id": 40839,
   "event_date": "2026-11-06",
   "realm": "space",
@@ -40,20 +124,6 @@
   "source_title": null,
   "publisher": "Apnews",
   "permalink": "https://presentofai.com/e/40827"
- },
- {
-  "id": 40816,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Tesla to wind down Cybertruck production mid-2027 for Cybercab scale-up",
-  "summary": "Elon Musk announced Tesla will wind down Cybertruck production at its Texas Gigafactory around mid-2027 to make room for increased manufacturing of the Cybercab autonomous vehicle, signalling a greater focus on autonomous mobility and its robotaxi program.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.tribuneindia.com/news/autonomous-vehicle/tesla-to-scale-back-cybertruck-production-to-make-room-for-cybercab-manufacturing",
-  "source_title": null,
-  "publisher": "Tribuneindia",
-  "permalink": "https://presentofai.com/e/40816"
  },
  {
   "id": 40796,
@@ -126,20 +196,6 @@
   "permalink": "https://presentofai.com/e/40724"
  },
  {
-  "id": 40708,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "OpenAI Drops NDAs, Pledges Community Input on Data Centers",
-  "summary": "Following the midterm election backlash, OpenAI announced it will end non-disclosure agreements for data center projects, publish construction plans, solicit community input, and establish a 'local compact' for every compute campus it owns and operates.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/40708"
- },
- {
   "id": 40683,
   "event_date": "2026-11-06",
   "realm": "virtual",
@@ -196,20 +252,6 @@
   "permalink": "https://presentofai.com/e/40671"
  },
  {
-  "id": 40670,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Congresswoman Calls for ASI Ban After Democratic Midterm Sweep",
-  "summary": "Following Democrats' midterm election victories, a congresswoman formally called for a ban on artificial superintelligence and a pause on advanced AI development, signaling a potential major regulatory shift in the US.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/40670"
- },
- {
   "id": 40645,
   "event_date": "2026-11-06",
   "realm": "terrestrial",
@@ -250,6 +292,62 @@
   "source_title": null,
   "publisher": "Datacenter",
   "permalink": "https://presentofai.com/e/40630"
+ },
+ {
+  "id": 40877,
+  "event_date": "2026-11-05",
+  "realm": "virtual",
+  "title": "METR Publishes Independent Assessment of AI R&D Acceleration at Anthropic",
+  "summary": "From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating AI R&D, finding that as of October 2026 Anthropic is likely improving model capabilities at around twice the historical rate, with a majority of that acceleration likely attributable to Anthropic's extensive use of AI to do R&D.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+  "source_title": null,
+  "publisher": "METR",
+  "permalink": "https://presentofai.com/e/40877"
+ },
+ {
+  "id": 40876,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "OpenAI Pledges to End NDAs, Publish Plans for Data Center Projects",
+  "summary": "Following the election backlash, OpenAI committed to halting NDAs for data center projects, soliciting community input, publishing construction plans, and establishing a 'local compact' for every compute campus it owns, a direct policy reversal driven by voter pressure.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/40876"
+ },
+ {
+  "id": 40872,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "Moonshot AI seeks 8,000+ Blackwell GPUs in Europe via loophole",
+  "summary": "Beijing-based Moonshot AI was reported to be in talks with European data centers to rent clusters of at least 8,000 Nvidia Blackwell GPUs for training and inference, exploiting a gap in U.S. export controls that do not restrict renting compute abroad.",
+  "actor": "Moonshot AI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/8d69be2b-4531-4ac4-b785-3e0c1fd1e54b",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/40872"
+ },
+ {
+  "id": 40847,
+  "event_date": "2026-11-05",
+  "realm": "virtual",
+  "title": "Google releases Gemini Omni 1.2 Flash video generation model",
+  "summary": "Google officially launched Gemini Omni 1.2 Flash, a video generation AI model supporting up to 15-second clips with prompt-based multi-turn editing and improved character and object consistency. It is now generally available in Google AI Studio and the Gemini API, with a 30% price reduction compared to the previous Gemini Omni 1.1 Flash.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://jetstream.blog/en/gemini-omni-1-2-flash/",
+  "source_title": null,
+  "publisher": "Jetstream",
+  "permalink": "https://presentofai.com/e/40847"
  },
  {
   "id": 40840,
@@ -301,7 +399,7 @@
   "summary": "Samsung SDS began construction of a 60MW AI data center in Gumi, South Korea, dedicated to supporting industrial robots and AI workloads, the first concrete deployment under Samsung Group's KRW60 trillion Yeongnam region investment plan.",
   "actor": "Samsung SDS",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 65,
   "source_url": "https://cryptobriefing.com/samsung-sds-gumi-ai-data-center-construction/",
   "source_title": null,
   "publisher": "Crypto Briefing",
@@ -390,20 +488,6 @@
   "source_title": null,
   "publisher": "Unite.AI",
   "permalink": "https://presentofai.com/e/40721"
- },
- {
-  "id": 40706,
-  "event_date": "2026-11-05",
-  "realm": "virtual",
-  "title": "METR publishes independent AI R&D acceleration assessment at Anthropic",
-  "summary": "From August 12 to October 29, 2026, METR staff conducted a high-access evaluation at Anthropic to assess the degree to which AI is accelerating AI R&D, concluding that as of October 2026 Anthropic is likely improving model capabilities at around twice the historical rate, with a majority of that acceleration likely attributable to Anthropic's extensive use of AI to do R&D. Anthropic redacted a majority of the evidence METR found most informative for its conclusions, describing the redactions as aimed at removing confidential information that could accelerate other AI developers.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-  "source_title": null,
-  "publisher": "METR",
-  "permalink": "https://presentofai.com/e/40706"
  },
  {
   "id": 40703,
@@ -656,6 +740,34 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/40300"
+ },
+ {
+  "id": 40878,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "US Midterms Deliver Sweeping Voter Rebuke to AI Data Centers",
+  "summary": "In the 2026 US midterm elections, voters across multiple states approved restrictions on AI data center construction and elected officials who promised to rein in their development, delivering what analysts called a sweeping rebuke to the facilities central to the AI boom.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.nbcnews.com/tech/tech-news/data-center-rejected-voters-us-challenging-ai-boom-rcna607451",
+  "source_title": null,
+  "publisher": "Nbcnews",
+  "permalink": "https://presentofai.com/e/40878"
+ },
+ {
+  "id": 40862,
+  "event_date": "2026-11-04",
+  "realm": "virtual",
+  "title": "Tencent Launches Hy4 Open-Source Large Language Model",
+  "summary": "Tencent announced the release of Hy4, its latest-generation large language model, positioning it among the world's leading open-source AI models. Model weights and system cards are planned for release in the coming days, with a focus on responsible open-source AI development including cybersecurity and biological safety.",
+  "actor": "Tencent",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+  "source_title": null,
+  "publisher": "Tencent 腾讯",
+  "permalink": "https://presentofai.com/e/40862"
  },
  {
   "id": 40733,
@@ -980,20 +1092,6 @@
   "permalink": "https://presentofai.com/e/40351"
  },
  {
-  "id": 40329,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "Waymo begins mapping tests in Toronto ahead of 2028 launch",
-  "summary": "Waymo self-driving vehicles were spotted conducting public road tests in Toronto, Canada, with human safety drivers, as the company maps streets ahead of a planned 2028 commercial robotaxi launch, marking what Waymo calls an important milestone in its global journey.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://thestar.com/news/gta/waymo-self-driving-vehicles-spotted-in-toronto-as-company-tests-ahead-of-2028-launch/article_e7af8df5-833b-4aaa-bf21-727e15e3e349.html",
-  "source_title": null,
-  "publisher": "Thestar",
-  "permalink": "https://presentofai.com/e/40329"
- },
- {
   "id": 40328,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
@@ -1048,20 +1146,6 @@
   "source_title": null,
   "publisher": "The Daily Wire",
   "permalink": "https://presentofai.com/e/40245"
- },
- {
-  "id": 40235,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "US Midterms: Voters Pass 43 of 44 Anti-Data-Center Measures",
-  "summary": "In the 2026 US midterm elections, voters passed 43 of 44 ballot measures to block or pause AI data center construction, while anti-data-center Democratic candidates won governorships in Texas, Georgia, and Ohio, fundamentally reshaping the regulatory environment for AI infrastructure buildout.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5?syn-25a6b1a6=1",
-  "source_title": null,
-  "publisher": "Financial Times",
-  "permalink": "https://presentofai.com/e/40235"
  },
  {
   "id": 40218,
@@ -1344,18 +1428,18 @@
   "permalink": "https://presentofai.com/e/39972"
  },
  {
-  "id": 40818,
+  "id": 40908,
   "event_date": "2026-11-03",
   "realm": "terrestrial",
-  "title": "Tesla FSD Renamed 'Tesla Assisted Driving' in Netherlands and EU Countries",
-  "summary": "The Netherlands' RDW announced on November 3 that it assessed and approved changes to Tesla's FSD Supervised system, including an official European name change to 'Tesla Assisted Driving' (TAD) and stricter speed controls. Tesla itself requested the RDW's review, and the changes align with earlier discussions involving German authorities; the RDW has informed nine EU member states that have accepted its type approval.",
-  "actor": "Tesla",
+  "title": "Waymo begins mapping tests in Toronto ahead of 2028 launch",
+  "summary": "Waymo autonomous vehicles were spotted conducting public road tests in Toronto, Canada, as the company maps streets ahead of a planned 2028 commercial launch, its first operational presence in Canada.",
+  "actor": "Waymo",
   "ticker": null,
   "materiality": 65,
-  "source_url": "https://teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe",
+  "source_url": "https://thestar.com/news/gta/waymo-self-driving-vehicles-spotted-in-toronto-as-company-tests-ahead-of-2028-launch/article_e7af8df5-833b-4aaa-bf21-727e15e3e349.html",
   "source_title": null,
-  "publisher": "Teslarati",
-  "permalink": "https://presentofai.com/e/40818"
+  "publisher": "Thestar",
+  "permalink": "https://presentofai.com/e/40908"
  },
  {
   "id": 40760,
@@ -11004,20 +11088,6 @@
   "permalink": "https://presentofai.com/e/35136"
  },
  {
-  "id": 35132,
-  "event_date": "2026-10-20",
-  "realm": "virtual",
-  "title": "Microsoft launches Guardian Agents to police AI insider threats",
-  "summary": "Microsoft introduced Guardian Agents, part of Project Perception, to monitor AI agents enterprises deploy, treating them as insider threats requiring continuous supervision. The launch also added agent detection in Microsoft Defender covering 60 agent types including Claude Code, Codex, and OpenClaw, with dynamic permission adjustments and human approval requirements for risky agent decisions.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/35132"
- },
- {
   "id": 35091,
   "event_date": "2026-10-20",
   "realm": "terrestrial",
@@ -11862,7 +11932,7 @@
   "event_date": "2026-10-17",
   "realm": "terrestrial",
   "title": "Nvidia RTX Spark AI laptop SoC goes on sale globally",
-  "summary": "Nvidia's RTX Spark system-on-chip for on-device AI PCs launched commercially across multiple OEMs including Asus, Dell, HP, Lenovo, Microsoft, and MSI, enabling local execution of large AI models and agents on Windows laptops starting at $2,599.",
+  "summary": "Nvidia's RTX Spark system-on-chip for on-device AI PCs launched commercially on Oct. 16, with Asus, Dell, HP, Lenovo, Microsoft, and MSI beginning sales of RTX Spark-powered laptops. The chip enables local execution of large AI models and agents on Windows laptops, with the least expensive Korean model, the MSI Prestige N16, priced at 5.799 million won.",
   "actor": "Nvidia",
   "ticker": null,
   "materiality": 70,
@@ -18480,20 +18550,6 @@
   "permalink": "https://presentofai.com/e/29689"
  },
  {
-  "id": 29686,
-  "event_date": "2026-10-02",
-  "realm": "virtual",
-  "title": "AI Autonomously Ran Scientific Lab, Made Novel Discovery in Yeast",
-  "summary": "An AI system paired with robotic lab equipment planned and executed yeast experiments with humans limited to support tasks like safety checks, yielding findings including that aminoadipate partly protects yeast from formic acid stress, an effect the authors say has not been shown before, and that glutamate increases yeast sensitivity to spermine, described as previously underexplored.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://studyfinds.com/ai-ran-lab-on-its-own/",
-  "source_title": null,
-  "publisher": "StudyFinds",
-  "permalink": "https://presentofai.com/e/29686"
- },
- {
   "id": 29684,
   "event_date": "2026-10-02",
   "realm": "terrestrial",
@@ -18526,7 +18582,7 @@
   "event_date": "2026-10-02",
   "realm": "terrestrial",
   "title": "US Army names five winners of xTechHumanoid competition including armored robot Alex",
-  "summary": "The US Army selected five winners of its xTechHumanoid competition, including armored humanoid robot Alex developed by the Florida Institute for Human and Machine Cognition, after 10 finalists demonstrated technologies at Marine Corps Base Quantico on September 9-10. The competition is described as an evaluation and development step, not a decision to field humanoid robots.",
+  "summary": "The US Army selected five winners of its xTechHumanoid competition, including the Florida Institute for Human and Machine Cognition, which developed armored humanoid robot Alex, after nine of 10 finalists demonstrated technologies at Marine Corps Base Quantico on September 9-10. The Army announced the winners on September 11, and the competition is described as an evaluation and development step, not a decision to field humanoid robots.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -18540,7 +18596,7 @@
   "event_date": "2026-10-02",
   "realm": "terrestrial",
   "title": "Figure robots leap into molten steel after decommission",
-  "summary": "Figure AI trained its decommissioned F.02 humanoid robots to throw themselves into a vat of molten steel at a foundry in Finland, an idea inspired by Arnold Schwarzenegger on social media. The company said the method was chosen to protect proprietary hardware and avoid delays to its next-generation F.04 robot.",
+  "summary": "Figure AI trained its decommissioned F.02 humanoid robots to throw themselves into a vat of molten steel at a foundry in Imatra, Finland. The company said the method was chosen to protect proprietary hardware and to avoid delays to the launch of its next-generation F.04 robot, after no US or Mexican foundry would accept robots with lithium-ion batteries.",
   "actor": "Figure AI",
   "ticker": null,
   "materiality": 55,
@@ -31052,20 +31108,6 @@
   "permalink": "https://presentofai.com/e/19761"
  },
  {
-  "id": 19743,
-  "event_date": "2026-09-03",
-  "realm": "terrestrial",
-  "title": "Figure & Nscale sign $3.5B compute deal for up to 100K GPUs",
-  "summary": "Humanoid robotics company Figure signed a strategic partnership with UK-based Nscale representing an initial $3.5 billion commitment, with plans to expand to more than $6 billion, to deploy up to 100,000 NVIDIA Vera Rubin GPUs for training its humanoid robot AI system Helix. Nscale will also make a strategic investment in Figure, and both companies will explore using humanoid robots to support Nscale's supply chain operations.",
-  "actor": "Figure",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
-  "source_title": null,
-  "publisher": "Interesting Engineering",
-  "permalink": "https://presentofai.com/e/19743"
- },
- {
   "id": 19717,
   "event_date": "2026-09-03",
   "realm": "virtual",
@@ -38868,7 +38910,7 @@
   "event_date": "2026-08-14",
   "realm": "virtual",
   "title": "DeepSeek releases V4 Pro model general availability build",
-  "summary": "DeepSeek quietly shipped the finished general-availability version of its V4 Pro model on August 13, updating the API pricing page to show build DeepSeek-V4-Pro-0813 with no blog post or announcement. The model had been running as a preview since April and is priced at $0.435 per million input tokens and $0.87 per million output tokens.",
+  "summary": "DeepSeek quietly swapped the deepseek-v4-pro API endpoint to build DeepSeek-V4-Pro-0813, the general-availability release of a model that had been running as a preview since April, with no blog post or announcement. The model is priced at $0.435 per million input tokens and $0.87 per million output tokens, and no independent benchmarks of the 0813 build have been published yet.",
   "actor": "DeepSeek",
   "ticker": null,
   "materiality": 72,
@@ -39198,20 +39240,6 @@
   "source_title": null,
   "publisher": "Crypto Briefing",
   "permalink": "https://presentofai.com/e/13407"
- },
- {
-  "id": 13393,
-  "event_date": "2026-08-13",
-  "realm": "virtual",
-  "title": "Dyna Robotics unveils DYNA-2 trained on 1M hours of human video",
-  "summary": "Dyna Robotics unveiled DYNA-2, a robot foundation model trained on more than 1 million hours of human egocentric video rather than robot action data. In tests, DYNA-2 raised task success rates in high-precision manufacturing from 20% to 90% through pre-training scale alone.",
-  "actor": "Dyna Robotics",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.mid-day.com/news/world-news/article/dyna-robotics-unveils-robot-ai-model-trained-on-1-million-hours-of-human-video-23644531",
-  "source_title": null,
-  "publisher": "Mid-day",
-  "permalink": "https://presentofai.com/e/13393"
  },
  {
   "id": 13384,
