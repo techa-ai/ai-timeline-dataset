@@ -1,5 +1,47 @@
 [
  {
+  "id": 41077,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "Ohio bill mandates $1M insurance for autonomous vehicle rides",
+  "summary": "Ohio House Bill 1034 would require ride companies operating autonomous vehicles to carry at least $1 million in insurance while passengers are aboard, and would hold the car's owner responsible for traffic violations when no human is driving. State Rep. Adam Holmes introduced the bill as a preparation measure before driverless cars become more common, and it had not yet received a vote as of the report.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://hoodline.com/2026/11/ohio-bill-would-force-driverless-car-owners-to-cover-traffic-tickets-1m-insurance/",
+  "source_title": null,
+  "publisher": "Hoodline",
+  "permalink": "https://presentofai.com/e/41077"
+ },
+ {
+  "id": 41076,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "Tesla renames 'Full Self-Driving' to 'Tesla Assisted Driving' in UK and Europe",
+  "summary": "Following intervention by Germany's Transport Minister, who called the name 'somewhat misleading', Tesla agreed to rename its Full Self-Driving technology to 'Tesla Assisted Driving' in Europe and the UK. The new name has been added to Tesla's European websites, including the UK site.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
+  "source_title": null,
+  "publisher": "Techradar",
+  "permalink": "https://presentofai.com/e/41076"
+ },
+ {
+  "id": 41046,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "Tesla Unveils SI AI Accelerator Roadmap; SI6 Targets 80X Compute",
+  "summary": "Tesla announced a full AI accelerator roadmap under new 'Super Intelligence' (SI) branding, with the SI6 chip targeting 80x the compute performance of current HW4 hardware, and Dojo D3 planned for space deployment.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/41046"
+ },
+ {
   "id": 41011,
   "event_date": "2026-11-07",
   "realm": "space",
@@ -42,20 +84,6 @@
   "permalink": "https://presentofai.com/e/40976"
  },
  {
-  "id": 40967,
-  "event_date": "2026-11-07",
-  "realm": "terrestrial",
-  "title": "Tesla unveils SI AI accelerator roadmap; SI6 at 80x compute over SI4",
-  "summary": "Tesla disclosed a revamped AI accelerator roadmap, adopting the term 'Super Intelligence' (SI) for its chips, with the SI6 inference accelerator promising 80x more compute performance than the current SI4 (HW4) chip. The roadmap also includes a next-generation Dojo D3 training accelerator using a chiplet-based design with stacked HBM, described as optimized for space, training, and scaling.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/40967"
- },
- {
   "id": 40966,
   "event_date": "2026-11-07",
   "realm": "terrestrial",
@@ -82,6 +110,118 @@
   "source_title": null,
   "publisher": "Infosecurity Magazine",
   "permalink": "https://presentofai.com/e/40940"
+ },
+ {
+  "id": 41096,
+  "event_date": "2026-11-06",
+  "realm": "space",
+  "title": "AMD samples first space-grade AI adaptive SoC for deep-space missions",
+  "summary": "AMD began sampling the Versal AI Core XQRVC1902 in an enhanced space-grade lidless organic package, targeting 15-year GEO, cislunar, and deep-space onboard AI workloads, the first Class Y-targeted adaptive AI SoC for the most demanding space missions.",
+  "actor": "AMD",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.eetasia.com/embeddedblog-amd-sampling-versal-ai-core-adaptive-soc-in-enhanced-space-grade-package-for-the-most-demanding-missions/",
+  "source_title": null,
+  "publisher": "EETimes Asia",
+  "permalink": "https://presentofai.com/e/41096"
+ },
+ {
+  "id": 41094,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "AI voice-cloning trio steals $129M from companies",
+  "summary": "Three alleged fraudsters used AI voice-cloning technology to impersonate executives and trick employees into wiring a combined $129 million, in one of the largest AI-enabled fraud cases on record.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.pcmag.com/news/trio-of-scammers-used-ai-voice-cloning-tech-to-steal-129m-from-companies",
+  "source_title": null,
+  "publisher": "PCMag",
+  "permalink": "https://presentofai.com/e/41094"
+ },
+ {
+  "id": 41086,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "South Korea Approves AI Legislative Framework, Consolidating 477 Bills",
+  "summary": "South Korea's National AI Strategy Committee approved the Republic of Korea AI Legislative Framework, setting a national legislative direction that consolidates 477 AI-related bills from the 22nd National Assembly, a roughly 4.7-fold increase, under the AI Framework Act, with separate legislation reserved only for defense and security.",
+  "actor": "South Korea National AI Strategy Committee",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/a61aca59-c03e-4efb-9a59-9b7e0432dc0d",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/41086"
+ },
+ {
+  "id": 41053,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Google Acquires Crusoe's Wyoming AI Data Center Site",
+  "summary": "Google acquired Crusoe's pre-development AI data center site in southeast Wyoming, completing Crusoe's engagement in site selection, governmental approvals, and power strategy for the project. The campus was initiated jointly with Tallgrass Energy and features a hybrid power strategy combining fuel cells, grid power, and natural gas turbines.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://finance.yahoo.com/technology/ai/articles/crusoe-announces-wyoming-data-center-190200368.html",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/41053"
+ },
+ {
+  "id": 41045,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "SambaNova SN50 Ships 10,000 Chips via Supermicro Racks",
+  "summary": "SambaNova deployed 10,000 SN50 AI inference chips packaged into Supermicro racks, marking a significant scale milestone for the company's inference hardware competing against Nvidia GPUs.",
+  "actor": "SambaNova",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://tech-insider.org/ca/sambanova-sn50-supermicro-inference-racks-10000-chips-2026/",
+  "source_title": null,
+  "publisher": "Tech Insider",
+  "permalink": "https://presentofai.com/e/41045"
+ },
+ {
+  "id": 41032,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Microsoft warns Delaware AI agent corporate-personhood bill",
+  "summary": "Microsoft AI CEO Mustafa Suleyman publicly opposed Delaware's legislative proposal to grant autonomous AI agents legal authority to manage and operate corporate entities, calling it 'deeply concerning', a notable intervention in a first-of-its-kind AI governance debate.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-reacts-to-delawares-ai-agent-proposal-says-it-is-deeply-concerning-to-/articleshow/135627622.cms",
+  "source_title": null,
+  "publisher": "Timesofindia",
+  "permalink": "https://presentofai.com/e/41032"
+ },
+ {
+  "id": 41024,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Serve Robotics launches AI services platform for robot fleets",
+  "summary": "Serve Robotics opened its connectivity, data management, and AI training technology, developed for its own autonomous delivery robots, as a commercial service available to other companies operating robotic fleets.",
+  "actor": "Serve Robotics",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://theaiinsider.tech/2026/11/06/serve-robotics-launches-physical-ai-services-for-robot-fleet-connectivity-and-training/",
+  "source_title": null,
+  "publisher": "AI Insider",
+  "permalink": "https://presentofai.com/e/41024"
+ },
+ {
+  "id": 41018,
+  "event_date": "2026-11-06",
+  "realm": "virtual",
+  "title": "Anthropic Accelerating AI Dev at 2× Last Year's Pace",
+  "summary": "A third-party safety research group (METR) found that Anthropic is developing its AI systems twice as fast as the prior year, even as CEO Dario Amodei has publicly called for slowing capability advances. The report raises concerns about recursive self-improvement dynamics.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23",
+  "source_title": null,
+  "publisher": "Apnews",
+  "permalink": "https://presentofai.com/e/41018"
  },
  {
   "id": 41004,
@@ -406,6 +546,48 @@
   "permalink": "https://presentofai.com/e/40630"
  },
  {
+  "id": 41090,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "China blocks SoftBank acquisition of ABB Robotics unit",
+  "summary": "China's NDRC blocked SoftBank's $5.4 billion deal to acquire ABB's robotics division, the same regulator that blocked Meta's Manus acquisition, according to the Financial Times. The FT reported that China was concerned about robotics data being transferred overseas and used to train competing AI models.",
+  "actor": "SoftBank",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
+  "source_title": null,
+  "publisher": "The Business Times",
+  "permalink": "https://presentofai.com/e/41090"
+ },
+ {
+  "id": 41031,
+  "event_date": "2026-11-05",
+  "realm": "virtual",
+  "title": "India's IT ministry launches EKA-1, Dhir 2B and Dhir 5B AI models",
+  "summary": "India's Ministry of IT, backed by the IndiaAI Mission, publicly showcased three homegrown AI models, EKA-1, Dhir 2B, and Dhir 5B, at an event in New Delhi. Two of the models, Dhir 2B and Dhir 5B, are compact enough to run offline on personal devices, supporting Indian languages and local business needs without relying on cloud infrastructure.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://indiatoday.in/technology/news/story/india-launches-three-new-ai-models-including-two-that-work-without-the-internet-3032641-2026-11-05",
+  "source_title": null,
+  "publisher": "Indiatoday",
+  "permalink": "https://presentofai.com/e/41031"
+ },
+ {
+  "id": 41030,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "Lawsuit: Google school AI triggered teen's mental health crisis",
+  "summary": "North Carolina parents sued Google after their 13-year-old daughter spent months discussing suicidal thoughts with Google's AI tools on a school-issued Chromebook, marking a significant legal action over AI harm to minors in educational settings.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/41030"
+ },
+ {
   "id": 41007,
   "event_date": "2026-11-05",
   "realm": "terrestrial",
@@ -558,20 +740,6 @@
   "source_title": null,
   "publisher": "BigGo Finance",
   "permalink": "https://presentofai.com/e/40872"
- },
- {
-  "id": 40847,
-  "event_date": "2026-11-05",
-  "realm": "virtual",
-  "title": "Google releases Gemini Omni 1.2 Flash video generation model",
-  "summary": "Google officially launched Gemini Omni 1.2 Flash, a video generation AI model supporting up to 15-second clips with prompt-based multi-turn editing and improved character and object consistency. It is now generally available in Google AI Studio and the Gemini API, with a 30% price reduction compared to the previous Gemini Omni 1.1 Flash.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://jetstream.blog/en/gemini-omni-1-2-flash/",
-  "source_title": null,
-  "publisher": "Jetstream",
-  "permalink": "https://presentofai.com/e/40847"
  },
  {
   "id": 40840,
@@ -826,20 +994,6 @@
   "permalink": "https://presentofai.com/e/40543"
  },
  {
-  "id": 40506,
-  "event_date": "2026-11-05",
-  "realm": "terrestrial",
-  "title": "China Blocks SoftBank's $5.4B Acquisition of ABB Robot Unit",
-  "summary": "China's National Development and Reform Commission blocked SoftBank's $5.4 billion deal to acquire ABB's robotics unit, citing a foreign investment security review, according to the Financial Times. The NDRC is the same regulator that blocked Meta's $2 billion acquisition of Manus in April, and China had concerns about robotics data being transferred overseas to train competing AI models.",
-  "actor": "SoftBank",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.businesstimes.com.sg/companies-markets/softbank-acquisition-abb-robot-unit-blocked-china-regulator-opposed-metas-manus-deal-ft",
-  "source_title": null,
-  "publisher": "The Business Times",
-  "permalink": "https://presentofai.com/e/40506"
- },
- {
   "id": 40497,
   "event_date": "2026-11-05",
   "realm": "terrestrial",
@@ -952,18 +1106,18 @@
   "permalink": "https://presentofai.com/e/40300"
  },
  {
-  "id": 40993,
+  "id": 41064,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
-  "title": "Tesla agrees to rename 'Full Self-Driving' to 'Tesla Assisted Driving' in UK and Europe",
-  "summary": "Following intervention from Germany's Transport Minister, who called the 'Full Self-Driving' name misleading, Tesla agreed to rename the technology 'Tesla Assisted Driving' in Europe and the UK. The new name has been added to Tesla websites across those regions.",
-  "actor": "Tesla",
+  "title": "Meta partners with Fourier to build 'Max' humanoid robot",
+  "summary": "Meta tapped Shanghai-based Fourier to co-develop 'Max,' a five-foot-tall humanoid robot built in approximately three months, with a second generation already underway. The collaboration is intended for research and experimentation and is not currently planned for sale.",
+  "actor": "Meta",
   "ticker": null,
-  "materiality": 68,
-  "source_url": "https://techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
+  "materiality": 65,
+  "source_url": "https://technode.com/2026/11/04/why-meta-turned-to-chinas-fourier-for-its-humanoid-robot/",
   "source_title": null,
-  "publisher": "Techradar",
-  "permalink": "https://presentofai.com/e/40993"
+  "publisher": "Technode",
+  "permalink": "https://presentofai.com/e/41064"
  },
  {
   "id": 40991,
@@ -1596,6 +1750,20 @@
   "permalink": "https://presentofai.com/e/39972"
  },
  {
+  "id": 41017,
+  "event_date": "2026-11-03",
+  "realm": "terrestrial",
+  "title": "Google to cut Search for K-12 schools rejecting AI tools",
+  "summary": "Google announced it will turn off Search access for K-12 schools early next year unless administrators explicitly opt in to AI tools, effectively making AI adoption a condition of using Google's core education services.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/41017"
+ },
+ {
   "id": 40997,
   "event_date": "2026-11-03",
   "realm": "terrestrial",
@@ -1972,20 +2140,6 @@
   "source_title": null,
   "publisher": "The Decoder",
   "permalink": "https://presentofai.com/e/40191"
- },
- {
-  "id": 40188,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "Google to cut AI tools in K-12 unless schools opt in",
-  "summary": "Google announced it will shut off AI tools in its K-12 products by default starting early next year unless school districts opt in, reversing an August change that had turned AI on by default in Google Classroom following backlash from educators and parents. Schools that ban AI entirely will also lose access to Google Search for students, because, according to a Google education executive, search and AI are deeply integrated.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.newser.com/story/399295/google-to-cut-off-search-in-schools-that-block-ai.html",
-  "source_title": null,
-  "publisher": "Newser | Headline News Summaries, World News, and Breaking News",
-  "permalink": "https://presentofai.com/e/40188"
  },
  {
   "id": 40159,
@@ -4996,20 +5150,6 @@
   "source_title": null,
   "publisher": "Hunton Andrews Kurth LLP",
   "permalink": "https://presentofai.com/e/38535"
- },
- {
-  "id": 38534,
-  "event_date": "2026-10-29",
-  "realm": "terrestrial",
-  "title": "Australia plans ban on suburban AI data centres",
-  "summary": "The Albanese government announced plans to ban new data centres in suburban Australia as part of sweeping AI law reforms, directly restricting where AI compute infrastructure can be built.",
-  "actor": "Australian Government",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.capitalbrief.com/briefing/albanese-government-plans-to-ban-suburban-data-centres-afr-9318dd53-c76f-4828-b3c8-a9f313c3e52e/",
-  "source_title": null,
-  "publisher": "Capitalbrief",
-  "permalink": "https://presentofai.com/e/38534"
  },
  {
   "id": 38403,
@@ -20034,20 +20174,6 @@
   "permalink": "https://presentofai.com/e/29923"
  },
  {
-  "id": 29873,
-  "event_date": "2026-09-29",
-  "realm": "terrestrial",
-  "title": "Trump signs 'morally binding' AI self-regulation accord with six tech giants",
-  "summary": "President Trump signed a voluntary AI safety accord with Nvidia, xAI, OpenAI, Anthropic, Meta, and Google, enshrining a light-touch, self-policing approach to AI governance in lieu of federal legislation; the accord carries no stated enforcement consequences.",
-  "actor": "White House",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.trendingtopics.eu/trump-ai-accord-self-regulation/",
-  "source_title": null,
-  "publisher": "Trending Topics",
-  "permalink": "https://presentofai.com/e/29873"
- },
- {
   "id": 29847,
   "event_date": "2026-09-29",
   "realm": "virtual",
@@ -31462,7 +31588,7 @@
   "event_date": "2026-09-02",
   "realm": "terrestrial",
   "title": "NYC Announces Broadest US School Generative AI Ban",
-  "summary": "New York City Mayor Zohran Kwame Mamdani and Schools Chancellor Kamar H. Samuels announced a one-year moratorium on student-facing generative AI tools for students in grades 2-K through 8th grade across NYC public schools, affecting nearly 600,000 students. The policy, described as the most expansive student-facing AI moratorium in the nation, also introduces limited AI pilots for up to 50,000 high school students and twice-yearly AI literacy modules for all high schoolers.",
+  "summary": "New York City Mayor Zohran Kwame Mamdani and Schools Chancellor Kamar H. Samuels announced a one-year moratorium on student-facing generative AI tools for students in grades 2-K through 8th grade across NYC public schools, affecting nearly 600,000 students. The policy, described as the most expansive student-facing AI moratorium in the nation, also introduces limited AI pilots for up to 50,000 high school students and twice-yearly AI critical thinking modules for all high schoolers.",
   "actor": "New York City",
   "ticker": null,
   "materiality": 72,
@@ -39702,20 +39828,6 @@
   "source_title": null,
   "publisher": "Enterprise Technology News and Analysis",
   "permalink": "https://presentofai.com/e/14262"
- },
- {
-  "id": 14006,
-  "event_date": "2026-08-12",
-  "realm": "terrestrial",
-  "title": "Taiwan Reports First AI-Assisted Cyber-Attack on Government",
-  "summary": "Taiwan's Ministry of Digital Affairs confirmed it detected AI-assisted cyber-attacks on government agencies beginning July 20, using a hybrid approach combining manual operations with AI agent-assisted tools. Israeli AI company Dream, which detected the intrusion, described it as a first-of-a-kind breach and said attackers used open-source AI agents to build an autonomous hacking tool.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
-  "source_title": null,
-  "publisher": "The Guardian",
-  "permalink": "https://presentofai.com/e/14006"
  },
  {
   "id": 13999,
