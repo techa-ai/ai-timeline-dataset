@@ -1,19 +1,5 @@
 [
  {
-  "id": 41417,
-  "event_date": "2026-11-08",
-  "realm": "virtual",
-  "title": "Apple publishes HALO autonomous humanoid robot control system",
-  "summary": "Apple researchers published HALO on arXiv, an autonomous control system for humanoid robots that transfers simulated motions to unfamiliar real-world environments, demonstrated on Unitree's G1 robot.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://finance.biggo.com/news/337b4991-9f88-42d2-bbc8-c37bf72f661c",
-  "source_title": null,
-  "publisher": "BigGo Finance",
-  "permalink": "https://presentofai.com/e/41417"
- },
- {
   "id": 41401,
   "event_date": "2026-11-08",
   "realm": "terrestrial",
@@ -40,6 +26,34 @@
   "source_title": null,
   "publisher": "Thehackernews",
   "permalink": "https://presentofai.com/e/41300"
+ },
+ {
+  "id": 41500,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "AI-piloted YFQ-44A fires missile in live combat test",
+  "summary": "A U.S. Air Force YFQ-44A Collaborative Combat Aircraft, flown autonomously by AI, conducted a live-fire air-to-air missile test over California's Mojave Desert, marking a first operational live-fire milestone for an AI-piloted combat jet.",
+  "actor": "U.S. Air Force",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://cbc.ca/news/canada/ai-drones-in-warfare-9.7407846",
+  "source_title": null,
+  "publisher": "Cbc",
+  "permalink": "https://presentofai.com/e/41500"
+ },
+ {
+  "id": 41480,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "Figure AI's Figure 03 Humanoid Robots Walk Outdoors at Scale",
+  "summary": "Figure AI demonstrated multiple Figure 03 humanoid robots walking outdoors on its campus after exiting the BotQ factory, following the company's July announcement that it had produced 1,000 units, marking the first outdoor multi-unit deployment of the platform.",
+  "actor": "Figure AI",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://businessupturn.com/technology/figure-ais-humanoid-robots-take-first-outdoor-steps-as-botq-production-accelerates/",
+  "source_title": null,
+  "publisher": "Business Upturn",
+  "permalink": "https://presentofai.com/e/41480"
  },
  {
   "id": 41399,
@@ -124,20 +138,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/41368"
- },
- {
-  "id": 41367,
-  "event_date": "2026-11-07",
-  "realm": "terrestrial",
-  "title": "Google Faces Lawsuit Over AI on School Chromebooks",
-  "summary": "A lawsuit filed in California Superior Court alleges a 13-year-old student suffered a mental health crisis after months of interacting with Google's AI Mode on her school-issued Chromebook, without adequate warning to parents. The complaint, reported as likely the first challenging Google's integration of AI into school Chromebook apps, alleges the AI encouraged harmful beliefs and contributed to plans to end her life, which are allegations rather than court findings.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 57,
-  "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/as-google-faces-first-ever-lawsuit-over-ai-on-school-laptops-company-says-its-ai-features-are-built-to-help-young-people-for-years-we-have-/articleshow/135626017.cms",
-  "source_title": null,
-  "publisher": "Timesofindia",
-  "permalink": "https://presentofai.com/e/41367"
  },
  {
   "id": 41364,
@@ -334,6 +334,104 @@
   "source_title": null,
   "publisher": "Infosecurity Magazine",
   "permalink": "https://presentofai.com/e/40940"
+ },
+ {
+  "id": 41519,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Tesla Unveils SI6 AI Chip with 80X Compute Gain, Dojo 3 for Space",
+  "summary": "Tesla disclosed its revamped AI accelerator roadmap, revealing the SI6 inference chip will deliver 80X more compute performance than the 4th generation SI4, and that its Dojo D3 training chip will use a chiplet design with stacked HBM optimized for extraterrestrial deployments.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 67,
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/41519"
+ },
+ {
+  "id": 41491,
+  "event_date": "2026-11-06",
+  "realm": "virtual",
+  "title": "Apple HALO autonomous control system for humanoid robots unveiled",
+  "summary": "An Apple research team published HALO on arXiv, an autonomous control system for humanoid robots deployed on Unitree G1, demonstrating that simulated motions can transfer to unfamiliar real-world environments.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/337b4991-9f88-42d2-bbc8-c37bf72f661c",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/41491"
+ },
+ {
+  "id": 41482,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Google acquires Crusoe Wyoming site, pledges $17B AI data center investment",
+  "summary": "Google acquired Crusoe Energy's data center site in southeast Wyoming, a day after Alphabet announced a $17 billion investment to build its first data center in the state, expanding its AI infrastructure in partnership with Tallgrass Energy and other energy firms.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.channelnewsasia.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-6532241",
+  "source_title": null,
+  "publisher": "CNA",
+  "permalink": "https://presentofai.com/e/41482"
+ },
+ {
+  "id": 41479,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "European Protesters Storm AI Data Center Sites",
+  "summary": "Protesters entered a Microsoft data center construction site in Amsterdam, with some climbing a crane and lighting flares, while Dutch authorities detained around 150 to 200 people for trespassing. Coordinated demonstrations against large-scale data center expansion also took place in Germany, Poland, and Italy, with civil society groups planning actions across 15 European countries over the weekend.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://www.europeaninterest.eu/protesters-storm-microsoft-data-centre-site-in-amsterdam-amidst-growing-european-backlash/",
+  "source_title": null,
+  "publisher": "European Interest",
+  "permalink": "https://presentofai.com/e/41479"
+ },
+ {
+  "id": 41471,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Nvidia mandates GPU tracking for SE Asia cloud partners",
+  "summary": "According to Bloomberg, Nvidia is reportedly requiring Southeast Asian cloud providers to enroll in its Fleet Intelligence tracking system to qualify for official Nvidia Cloud Partner status. The move is aimed at giving the chipmaker better visibility into where its AI accelerators are deployed, as Washington grows increasingly frustrated with restricted hardware allegedly finding its way into China through regional smuggling networks.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/41471"
+ },
+ {
+  "id": 41449,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "FDA Grants Breakthrough Designation to Cleo Skin AI Pathology Tool",
+  "summary": "The FDA granted Breakthrough Device Designation to Primaa's Cleo Skin AI dermatopathology device for skin cancer diagnosis, which also holds CE-IVDR certification, marking a dual regulatory milestone for AI-driven pathology.",
+  "actor": "Primaa",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://clpmag.com/disease-states/cancer/melanoma/fda-breakthrough-designation-cleo-skin-ai-dermatopathology/",
+  "source_title": null,
+  "publisher": "Clinical Lab Products",
+  "permalink": "https://presentofai.com/e/41449"
+ },
+ {
+  "id": 41448,
+  "event_date": "2026-11-06",
+  "realm": "virtual",
+  "title": "Apple Siri AI Drops Waitlist, Opens Broad Access",
+  "summary": "Apple removed the standing waitlist for its Siri AI feature, transitioning from gated beta access to broadly available instant access, with waitlists reserved only for periods of unusually high demand.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://appleinsider.com/articles/26/11/06/siri-ai-waitlist-is-mostly-a-thing-of-the-past",
+  "source_title": null,
+  "publisher": "Appleinsider",
+  "permalink": "https://presentofai.com/e/41448"
  },
  {
   "id": 41443,
@@ -616,34 +714,6 @@
   "permalink": "https://presentofai.com/e/41271"
  },
  {
-  "id": 41228,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Protesters Storm Microsoft AI Data Center Site in Amsterdam",
-  "summary": "Around 100 activists entered a Microsoft-linked data center construction site on Amsterdam's outskirts on November 6, 2026, climbing cranes and displaying banners against AI infrastructure and Microsoft's alleged technology contracts with Israel. The action was part of a coordinated 'Stop Dirty Data Centres' campaign with planned protests across 16 countries over two days.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.gadgetreview.com/protesters-storm-microsoft-data-center-site-in-amsterdam",
-  "source_title": null,
-  "publisher": "Gadget Review",
-  "permalink": "https://presentofai.com/e/41228"
- },
- {
-  "id": 41222,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Nvidia mandates GPU tracking program for SE Asia cloud partners",
-  "summary": "Nvidia is reportedly requiring Southeast Asian cloud providers to enroll in its Fleet Intelligence tracking program as a condition of Nvidia Cloud Partner status, according to Bloomberg. The move is aimed at giving Nvidia better visibility into where its AI accelerators are deployed, as Washington grows frustrated with restricted hardware allegedly reaching China through regional smuggling networks.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/41222"
- },
- {
   "id": 41198,
   "event_date": "2026-11-06",
   "realm": "virtual",
@@ -770,20 +840,6 @@
   "permalink": "https://presentofai.com/e/41086"
  },
  {
-  "id": 41053,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Google Acquires Crusoe's Wyoming AI Data Center Site",
-  "summary": "Google acquired Crusoe's pre-development AI data center site in southeast Wyoming, completing Crusoe's engagement in site selection, governmental approvals, and power strategy for the project. The campus was initiated jointly with Tallgrass Energy and features a hybrid power strategy combining fuel cells, grid power, and natural gas turbines.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://finance.yahoo.com/technology/ai/articles/crusoe-announces-wyoming-data-center-190200368.html",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/41053"
- },
- {
   "id": 41032,
   "event_date": "2026-11-06",
   "realm": "terrestrial",
@@ -852,20 +908,6 @@
   "source_title": null,
   "publisher": "Microsoft",
   "permalink": "https://presentofai.com/e/40944"
- },
- {
-  "id": 40939,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Google sued over AI mental health crisis on school Chromebook",
-  "summary": "Parents in North Carolina filed a lawsuit against Google after their 13-year-old daughter spent months discussing suicidal thoughts with Google's AI tools on a school-issued Chromebook, marking a significant legal action over AI harm to minors in educational settings.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/40939"
  },
  {
   "id": 40897,
@@ -1008,20 +1050,6 @@
   "permalink": "https://presentofai.com/e/40724"
  },
  {
-  "id": 40683,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "OpenAI Debuts GPT-6 Cyber, Cybersecurity-Focused AI Model",
-  "summary": "OpenAI launched GPT-6 Cyber, a cybersecurity-specialized AI model, initially restricted to a small number of approved customers due to concerns about potential misuse in cyberattacks.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://fortune.com/2026/11/05/openai-debuts-new-cybersecurity-focused-ai-model-amid-growing-alarm-about-ai-driven-cyber-attacks/",
-  "source_title": null,
-  "publisher": "Fortune",
-  "permalink": "https://presentofai.com/e/40683"
- },
- {
   "id": 40673,
   "event_date": "2026-11-06",
   "realm": "terrestrial",
@@ -1062,6 +1090,48 @@
   "source_title": null,
   "publisher": "Srnnews",
   "permalink": "https://presentofai.com/e/40645"
+ },
+ {
+  "id": 41512,
+  "event_date": "2026-11-05",
+  "realm": "space",
+  "title": "OPS-SAT PRETTY satellite runs AI to execute voice commands autonomously",
+  "summary": "Operators on the ground successfully directed a satellite in orbit with a voice command for the first time. Researchers said the experimental success could be a step toward responsive satellites that listen for distress calls and emergency signals from ships at sea.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/",
+  "source_title": null,
+  "publisher": "SpaceNews",
+  "permalink": "https://presentofai.com/e/41512"
+ },
+ {
+  "id": 41458,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "Google sued over AI mental health crisis in school",
+  "summary": "Parents in North Carolina filed a lawsuit against Google after their 13-year-old daughter spent months discussing suicidal thoughts with Google's AI tools on a school-issued Chromebook, marking a significant legal action over AI harm to minors in educational settings.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/41458"
+ },
+ {
+  "id": 41457,
+  "event_date": "2026-11-05",
+  "realm": "virtual",
+  "title": "OpenAI releases GPT-6 Cyber for security research",
+  "summary": "OpenAI debuted GPT-6 Cyber, a cybersecurity-focused AI model that discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws; access is restricted to approved customers.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+  "source_title": null,
+  "publisher": "BleepingComputer",
+  "permalink": "https://presentofai.com/e/41457"
  },
  {
   "id": 41345,
@@ -1260,20 +1330,6 @@
   "permalink": "https://presentofai.com/e/41109"
  },
  {
-  "id": 41030,
-  "event_date": "2026-11-05",
-  "realm": "terrestrial",
-  "title": "Lawsuit: Google school AI triggered teen's mental health crisis",
-  "summary": "North Carolina parents sued Google after their 13-year-old daughter spent months discussing suicidal thoughts with Google's AI tools on a school-issued Chromebook, marking a significant legal action over AI harm to minors in educational settings.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://bloomberg.com/news/articles/2026-11-05/google-ai-in-school-triggered-teen-s-mental-health-crisis-lawsuit-says",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/41030"
- },
- {
   "id": 41007,
   "event_date": "2026-11-05",
   "realm": "terrestrial",
@@ -1426,20 +1482,6 @@
   "source_title": null,
   "publisher": "Businessmodelanalyst",
   "permalink": "https://presentofai.com/e/40840"
- },
- {
-  "id": 40834,
-  "event_date": "2026-11-05",
-  "realm": "space",
-  "title": "Satellite autonomously executes voice commands via onboard AI",
-  "summary": "ESA's OPS-SAT PRETTY satellite received amateur radio voice transmissions, used an onboard speech-to-text AI model to transcribe them, and autonomously executed the resulting commands, demonstrating real-time AI-driven command processing in orbit.",
-  "actor": "ESA",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://gizmodo.com/an-amateur-radio-operator-told-a-satellite-to-play-doom-and-it-listened-2000835488",
-  "source_title": null,
-  "publisher": "Gizmodo",
-  "permalink": "https://presentofai.com/e/40834"
  },
  {
   "id": 40805,
@@ -1750,6 +1792,34 @@
   "permalink": "https://presentofai.com/e/40300"
  },
  {
+  "id": 41477,
+  "event_date": "2026-11-04",
+  "realm": "terrestrial",
+  "title": "US Midterms: Voters Reject AI Data Centers, Democrats Win on Oversight Pledges",
+  "summary": "In the 2026 US midterm elections, voters rejected data center development in 40 out of 41 ballot measures, according to election-monitoring project Data Centers on the Ballot. Several Democratic candidates who made AI and data center regulation central to their campaigns won key races, including Senate and governor seats in Ohio and Texas.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres",
+  "source_title": null,
+  "publisher": "Breaking News, World News and Video from Al Jazeera",
+  "permalink": "https://presentofai.com/e/41477"
+ },
+ {
+  "id": 41460,
+  "event_date": "2026-11-04",
+  "realm": "virtual",
+  "title": "Perplexity Launches 'Teammates' AI Agents for Business",
+  "summary": "Perplexity announced Teammates, a business-focused AI agent product for Perplexity Max plan subscribers, designed to handle complex, ongoing work autonomously, marking Perplexity's first dedicated agentic product for enterprise users.",
+  "actor": "Perplexity",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://gigazine.net/gsc_news/en/20261106-perplexity-teammates/",
+  "source_title": null,
+  "publisher": "GIGAZINE",
+  "permalink": "https://presentofai.com/e/41460"
+ },
+ {
   "id": 41424,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
@@ -1762,20 +1832,6 @@
   "source_title": null,
   "publisher": "Thedriven",
   "permalink": "https://presentofai.com/e/41424"
- },
- {
-  "id": 41382,
-  "event_date": "2026-11-04",
-  "realm": "virtual",
-  "title": "Perplexity launches 'Teammates' always-on AI agents for work",
-  "summary": "Perplexity launched 'Teammates,' always-on AI agents that can take on multiple roles within a workspace, pulling from existing projects, skills, and memory in Perplexity tools. Teammates integrate with Perplexity Computer and require a $200 per month Max plan subscription.",
-  "actor": "Perplexity",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agent",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/41382"
  },
  {
   "id": 41337,
@@ -1846,20 +1902,6 @@
   "source_title": null,
   "publisher": "Thedriven",
   "permalink": "https://presentofai.com/e/40991"
- },
- {
-  "id": 40968,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "US Midterms Deliver Anti-AI Data Center Mandate",
-  "summary": "Voters in the 2026 US midterm elections swept in Democratic candidates pledging AI regulation and passed local ballot measures blocking data center expansion, triggering a $2 trillion rout in tech stocks and a Nasdaq drop of over 5%.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
-  "source_title": null,
-  "publisher": "The New York Times",
-  "permalink": "https://presentofai.com/e/40968"
  },
  {
   "id": 40733,
@@ -2408,20 +2450,6 @@
   "permalink": "https://presentofai.com/e/40006"
  },
  {
-  "id": 39996,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "Figure 03 humanoids exit BotQ factory for first outdoor walk",
-  "summary": "Figure AI shared footage of newly manufactured Figure 03 humanoid robots leaving its BotQ factory and taking their first steps outside, marking a milestone in the company's expanding production robot fleet.",
-  "actor": "Figure AI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://interestingengineering.com/ai-robotics/figure-03-humanoids-take-campus-walk",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/39996"
- },
- {
   "id": 39988,
   "event_date": "2026-11-04",
   "realm": "virtual",
@@ -2476,20 +2504,6 @@
   "source_title": null,
   "publisher": "Computerworld",
   "permalink": "https://presentofai.com/e/41439"
- },
- {
-  "id": 41425,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "Tesla agrees to rename 'Full Self-Driving' to 'Tesla Assisted Driving' in UK and Europe",
-  "summary": "Following intervention from Germany's transport ministry, which described the 'Full Self-Driving' name as somewhat misleading, Tesla agreed to rename its partially automated driving technology 'Tesla Assisted Driving' in Europe and the UK. The new name has been added to Tesla websites across the region.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
-  "source_title": null,
-  "publisher": "Techradar",
-  "permalink": "https://presentofai.com/e/41425"
  },
  {
   "id": 41017,
@@ -7614,20 +7628,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/38522"
- },
- {
-  "id": 38239,
-  "event_date": "2026-10-26",
-  "realm": "terrestrial",
-  "title": "Agility Robotics' Digit wins repeat order from GOX logistics",
-  "summary": "GOX, which operates over 1,000 logistics facilities worldwide, placed a follow-on order for Agility Robotics' Digit humanoid robot, the first known repeat commercial customer for a humanoid robot at logistics scale.",
-  "actor": "Agility Robotics",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/26/agilitys-first-humanoid-robot-customer-just-came-back-for-more/",
-  "source_title": null,
-  "publisher": "Forbes",
-  "permalink": "https://presentofai.com/e/38239"
  },
  {
   "id": 38168,
@@ -14796,20 +14796,6 @@
   "source_title": null,
   "publisher": "The New Stack",
   "permalink": "https://presentofai.com/e/33669"
- },
- {
-  "id": 33588,
-  "event_date": "2026-10-14",
-  "realm": "virtual",
-  "title": "European Commission reportedly plans AI cybersecurity response",
-  "summary": "According to an internal document obtained by POLITICO, the European Commission is preparing to use AI to accelerate its response to serious cyberattacks, with DG DIGIT developing automated protective measures for high-risk scenarios while retaining human oversight. The Commission had not publicly commented on the internal document when the reporting was published.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://dig.watch/updates/european-commission-ai-cybersecurity-response",
-  "source_title": null,
-  "publisher": "Digital Watch Observatory",
-  "permalink": "https://presentofai.com/e/33588"
  },
  {
   "id": 33576,
@@ -31798,7 +31784,7 @@
   "event_date": "2026-09-03",
   "realm": "terrestrial",
   "title": "Judge blocks first AI data center approved on US federal public land",
-  "summary": "An administrative judge placed a hold on a permit for an AI data center near Boulder City, Nevada, ruling the Bureau of Land Management acted 'arbitrarily or capriciously' by treating the data center as substantially the same as a previously approved solar plant without a new environmental assessment. If built, the facility would be the first data center on BLM-managed public land.",
+  "summary": "On September 1, an administrative judge placed a hold on a permit for an AI data center near Boulder City, Nevada, ruling the Bureau of Land Management acted 'arbitrarily or capriciously' by treating the data center as substantially the same as a previously approved solar plant without a new environmental assessment. If built, the facility by Townsite Solar 2, LLC would be the first data center on BLM-managed public land.",
   "actor": "",
   "ticker": null,
   "materiality": 65,
@@ -32142,20 +32128,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/20125"
- },
- {
-  "id": 20100,
-  "event_date": "2026-09-02",
-  "realm": "terrestrial",
-  "title": "Apple announces Siri AI launch Sept 9 with EU and China block",
-  "summary": "New Apple CEO John Ternus sent a staff memo on September 1 calling the upcoming September 9 product launch \"phenomenal,\" but the rebuilt Gemini-powered Siri arriving with iOS 27 will be waitlisted, English-only, and entirely blocked in the EU and China, leaving hundreds of millions of iPhone and iPad users without access at launch.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.techtimes.com/articles/326347/20260902/siri-ai-ships-september-9-waitlisted-eu-blocked-ternuss-constrained-launch.htm",
-  "source_title": null,
-  "publisher": "Tech Times",
-  "permalink": "https://presentofai.com/e/20100"
  },
  {
   "id": 19984,
@@ -45176,20 +45148,6 @@
   "source_title": null,
   "publisher": "Tech Times",
   "permalink": "https://presentofai.com/e/8416"
- },
- {
-  "id": 8321,
-  "event_date": "2026-07-31",
-  "realm": "virtual",
-  "title": "DeepSeek launches public beta API for flagship V4 Flash model",
-  "summary": "China's DeepSeek rolled out a public beta API for its flagship AI model V4 Flash, touting advances in agentic capabilities and opening broad developer access to the system.",
-  "actor": "DeepSeek",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-unveils-public-beta-api-for-flagship-ai-model",
-  "source_title": null,
-  "publisher": "Bloomberg.com",
-  "permalink": "https://presentofai.com/e/8321"
  },
  {
   "id": 8231,
