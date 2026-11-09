@@ -1,5 +1,33 @@
 [
  {
+  "id": 41722,
+  "event_date": "2026-11-09",
+  "realm": "terrestrial",
+  "title": "World's First 800V DC Power Grid Goes Live in AI Data Center",
+  "summary": "China's Envision claims to have put the world's first commercial 800-volt DC power architecture into operation at an AI facility in Inner Mongolia, using a solid-state transformer to convert 10kV AC directly into an 800V DC supply. The company says the design reduces conversion steps and improves efficiency, though no independently verified performance figures have been publicly disclosed.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.techradar.com/pro/has-china-cracked-the-ai-data-center-power-problem-new-800-volt-dc-power-system-is-a-world-first-offering-greater-efficiency-and-conversion-than-ever",
+  "source_title": null,
+  "publisher": "Techradar",
+  "permalink": "https://presentofai.com/e/41722"
+ },
+ {
+  "id": 41719,
+  "event_date": "2026-11-09",
+  "realm": "virtual",
+  "title": "Apple HALO Humanoid Robot System Hits 91% Real-World Success",
+  "summary": "Apple researchers published HALO on arXiv, a three-tier autonomous humanoid robot control system validated on Unitree G1 hardware, achieving 91% average success across 360 single-task tests in six unfamiliar real-world environments, a notable first-of-kind result for Apple in physical AI.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://finance.biggo.com/news/c675f3b3-0864-406d-a008-f13609b65d0c",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/41719"
+ },
+ {
   "id": 41673,
   "event_date": "2026-11-09",
   "realm": "terrestrial",
@@ -26,6 +54,62 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/41638"
+ },
+ {
+  "id": 41717,
+  "event_date": "2026-11-08",
+  "realm": "terrestrial",
+  "title": "PrimeBOT Rolls Out 10,000th Consumer Humanoid Robot",
+  "summary": "Chinese robotics firm PrimeBOT announced its 10,000th personal consumer-grade embodied AI robot rolled off the production line, marking a concrete large-scale manufacturing milestone for consumer humanoid robots.",
+  "actor": "PrimeBOT",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.globaltimes.cn/page/202611/1373887.shtml",
+  "source_title": null,
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/41717"
+ },
+ {
+  "id": 41716,
+  "event_date": "2026-11-08",
+  "realm": "terrestrial",
+  "title": "Microsoft AI Patches 1,413 Vulns via 100+ AI Agents",
+  "summary": "Microsoft closed 1,413 vulnerabilities in its October 2026 cycle, with Windows-affecting flaws rising from 134 to 1,123, a 738% increase over the prior year. The company credited MDASH, an agentic scanning system using over 100 AI agents and multiple language models to analyze code, classify risks, and remove duplicates before human engineers perform final validation.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://foro3d.com/en/2026/noviembre/microsoft-cierra-1413-vulnerabilidades-y-acelera-el-parcheo-con-ia.html",
+  "source_title": null,
+  "publisher": "Foro3D - Noticias y Artículos",
+  "permalink": "https://presentofai.com/e/41716"
+ },
+ {
+  "id": 41704,
+  "event_date": "2026-11-08",
+  "realm": "virtual",
+  "title": "Revolut Migrates 2,000 Engineers to GLM 5.3, Cuts AI Coding Costs 90%",
+  "summary": "Revolut moved roughly 2,000 engineers from Anthropic's Claude Code and OpenAI's Codex to a self-hosted instance of GLM 5.3, an open-weight model from Beijing-based Z.ai, cutting AI-assisted coding costs by approximately 90%. The migration was disclosed at the AI Engineer conference in New York.",
+  "actor": "Revolut",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://opentools.ai/news/revolut-drops-claude-for-chinese-glm-model-cuts-coding-costs-90-percent",
+  "source_title": null,
+  "publisher": "Top AI Tools List - OpenTools",
+  "permalink": "https://presentofai.com/e/41704"
+ },
+ {
+  "id": 41693,
+  "event_date": "2026-11-08",
+  "realm": "virtual",
+  "title": "Google launches Gemini Omni 1.2 Flash with extended video and editing features",
+  "summary": "Google released Gemini Omni 1.2 Flash, extending native video generation from 10 to 15 seconds at up to 720p with options to upscale to 1080p or 4K, and introducing conversational editing, improved reference adherence, and enhanced speech generation for businesses and developers.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://pulse2.com/google-launches-gemini-omni-1-2-flash-with-15-second-ai-video-generation-and-30-lower-pricing/",
+  "source_title": null,
+  "publisher": "Pulse 2.0",
+  "permalink": "https://presentofai.com/e/41693"
  },
  {
   "id": 41666,
@@ -152,6 +236,48 @@
   "source_title": null,
   "publisher": "Thehackernews",
   "permalink": "https://presentofai.com/e/41300"
+ },
+ {
+  "id": 41728,
+  "event_date": "2026-11-07",
+  "realm": "virtual",
+  "title": "Meta secretly built humanoid robot prototype with China's Fourier",
+  "summary": "Meta developed a humanoid robot prototype called Max in collaboration with Chinese robotics firm Fourier, according to The Information, as the company explores home robotics applications.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://interestingengineering.com/videos/meta-secretly-built-a-humanoid-robot-with-a-chinese-company",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/41728"
+ },
+ {
+  "id": 41718,
+  "event_date": "2026-11-07",
+  "realm": "terrestrial",
+  "title": "Figure 03 Humanoid Robots Walk Outdoors After BotQ Production",
+  "summary": "Figure AI demonstrated multiple Figure 03 humanoid robots walking autonomously on its campus after leaving the BotQ factory, with the video posted on November 2 by Brett Adcock. The demonstration followed the company's July announcement of 1,000 units built, with the Figure 03 achieving a manufacturing rate of one robot per hour.",
+  "actor": "Figure AI",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://businessupturn.com/technology/figure-ais-humanoid-robots-take-first-outdoor-steps-as-botq-production-accelerates/",
+  "source_title": null,
+  "publisher": "Business Upturn",
+  "permalink": "https://presentofai.com/e/41718"
+ },
+ {
+  "id": 41708,
+  "event_date": "2026-11-07",
+  "realm": "virtual",
+  "title": "METR Finds Anthropic AI Research Speed Doubled Year-on-Year",
+  "summary": "Independent watchdog METR published an analysis finding Anthropic is improving its AI model capabilities around twice as fast as a year earlier. METR's researchers said they believed much of the reason for the faster development is the help of AI itself, though the report carried significant caveats.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.ksl.com/article/51644001/anthropic-rapidly-accelerating-ai-development-amid-slowdown-calls-research-group-says",
+  "source_title": null,
+  "publisher": "Utah News, Sports, Weather, Cars and Classifieds | KSL News",
+  "permalink": "https://presentofai.com/e/41708"
  },
  {
   "id": 41682,
@@ -348,20 +474,6 @@
   "source_title": null,
   "publisher": "Cbc",
   "permalink": "https://presentofai.com/e/41500"
- },
- {
-  "id": 41480,
-  "event_date": "2026-11-07",
-  "realm": "terrestrial",
-  "title": "Figure AI's Figure 03 Humanoid Robots Walk Outdoors at Scale",
-  "summary": "Figure AI demonstrated multiple Figure 03 humanoid robots walking outdoors on its campus after exiting the BotQ factory, following the company's July announcement that it had produced 1,000 units, marking the first outdoor multi-unit deployment of the platform.",
-  "actor": "Figure AI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://businessupturn.com/technology/figure-ais-humanoid-robots-take-first-outdoor-steps-as-botq-production-accelerates/",
-  "source_title": null,
-  "publisher": "Business Upturn",
-  "permalink": "https://presentofai.com/e/41480"
  },
  {
   "id": 41399,
@@ -628,6 +740,20 @@
   "source_title": null,
   "publisher": "Infosecurity Magazine",
   "permalink": "https://presentofai.com/e/40940"
+ },
+ {
+  "id": 41739,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "US Charges Three in $129M AI Executive-Impersonation Fraud",
+  "summary": "US prosecutors charged three men for allegedly defrauding companies of $129 million through a scheme that used AI to impersonate executives and UK lawyers, in one of the largest AI-enabled fraud prosecutions on record.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://law360.com/legalethics/articles/2547118",
+  "source_title": null,
+  "publisher": "Law360",
+  "permalink": "https://presentofai.com/e/41739"
  },
  {
   "id": 41637,
@@ -1078,20 +1204,6 @@
   "permalink": "https://presentofai.com/e/41188"
  },
  {
-  "id": 41185,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "Meta Muse AI Launches Personalized 'Spaces' Feature",
-  "summary": "Meta's Muse AI assistant gained a new 'spaces' feature that lets users create customized app-like experiences, such as shopping hubs, school dashboards, and music trackers, by describing them in natural language. Spaces can pull live data from connected outside apps like Gmail and Google Calendar, and Meta is rolling the feature out to all Muse users.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/41185"
- },
- {
   "id": 41184,
   "event_date": "2026-11-06",
   "realm": "space",
@@ -1412,6 +1524,20 @@
   "source_title": null,
   "publisher": "Srnnews",
   "permalink": "https://presentofai.com/e/40645"
+ },
+ {
+  "id": 41720,
+  "event_date": "2026-11-05",
+  "realm": "terrestrial",
+  "title": "OpenAI Commits to Data Center Policy Overhaul After Voter Backlash",
+  "summary": "OpenAI released a series of commitments to change how it handles data center development, responding directly to U.S. midterm election results in which voters backed candidates supporting curbs on AI data centers across the country.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/41720"
  },
  {
   "id": 41629,
@@ -2142,20 +2268,6 @@
   "permalink": "https://presentofai.com/e/41681"
  },
  {
-  "id": 41670,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "Tesla Agrees to Rename 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
-  "summary": "Following concerns from Germany's transport ministry that 'Full Self-Driving' was misleading, Tesla agreed to rename the technology 'Tesla Assisted Driving' in Europe and the UK. The new name has been added to Tesla's European websites, as governments move to tighten rules around marketing of assisted driving systems.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-forced-to-rename-misleading-full-self-driving-technology-in-the-uk-and-europe-as-bmw-readies-its-own-automated-driving-rival-for-2027",
-  "source_title": null,
-  "publisher": "Techradar",
-  "permalink": "https://presentofai.com/e/41670"
- },
- {
   "id": 41625,
   "event_date": "2026-11-04",
   "realm": "virtual",
@@ -2392,20 +2504,6 @@
   "source_title": null,
   "publisher": "News On AIR - News Services Division: Breaking News Today, Top Headlines, Live Updates, Top Stories",
   "permalink": "https://presentofai.com/e/40609"
- },
- {
-  "id": 40560,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "StarBot Launches $7,999 US-Made Spark Humanoid Robot",
-  "summary": "StarBot launched Spark, a 90-centimeter humanoid robot with 22 degrees of freedom, priced at $7,999 and manufactured in the United States. The company describes it as North America's first US-made developer humanoid robot in its size and price category, aimed at families, schools, and developers.",
-  "actor": "StarBot",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://markets.businessinsider.com/news/stocks/made-in-america-and-priced-at-7-999-starbot-launches-spark-humanoid-robot-1036715275",
-  "source_title": null,
-  "publisher": "markets.businessinsider.com",
-  "permalink": "https://presentofai.com/e/40560"
  },
  {
   "id": 40501,
@@ -3192,20 +3290,6 @@
   "permalink": "https://presentofai.com/e/40326"
  },
  {
-  "id": 40285,
-  "event_date": "2026-11-03",
-  "realm": "virtual",
-  "title": "Revolut moves ~2,000 engineers to self-hosted GLM, cuts AI costs 90%",
-  "summary": "Revolut migrated approximately 2,000 engineers off commercial AI coding tools (including Claude) to self-hosted Z.ai GLM models on Nvidia B200 GPUs, reducing inference costs by roughly 90% to $0.30 per million tokens with sub-3-second latency.",
-  "actor": "Revolut",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://news.lavx.hu/article/revolut-cuts-ai-coding-costs-90-by-self-hosting-chinese-model-glm",
-  "source_title": null,
-  "publisher": "LavX News",
-  "permalink": "https://presentofai.com/e/40285"
- },
- {
   "id": 40283,
   "event_date": "2026-11-03",
   "realm": "virtual",
@@ -3722,20 +3806,6 @@
   "source_title": null,
   "publisher": "Law360",
   "permalink": "https://presentofai.com/e/39777"
- },
- {
-  "id": 39752,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "China deploys world's first 800V DC power system at AI data center",
-  "summary": "Shanghai's Envision Energy announced the world's first commercially deployed 800-volt DC integrated power system on November 2, 2026, currently powering live workloads at its Galaxy AI data center campus in Ulanqab, Inner Mongolia. The platform combines solid-state transformers, battery energy storage, and smart controls to deliver electricity from the grid to computing equipment.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://interestingengineering.com/energy/worlds-first-800v-dc-power-system",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/39752"
  },
  {
   "id": 39745,
@@ -10923,14 +10993,14 @@
   "id": 35455,
   "event_date": "2026-10-22",
   "realm": "terrestrial",
-  "title": "China Vows 'All Necessary Measures' Over US AI Sanctions Threats",
-  "summary": "China's Ministry of Commerce warned it would take 'all necessary measures' if the US moves to sanction Chinese AI companies over allegations they improperly used American models via distillation. The ministry called the accusations a 'smear campaign' lacking factual or legal basis and urged the US to strengthen dialogue on AI governance.",
+  "title": "China Vows 'All Necessary Measures' After US 'Economic D-Day' Iran Sanctions",
+  "summary": "China condemned new US 'Economic D-Day' sanctions targeting Chinese entities over their ties to Iran, pledging 'all necessary measures' to protect its interests. The US imposed sanctions on 60 entities, individuals, and vessels worldwide as part of efforts to pressure Tehran after military strikes and diplomacy failed to reopen the Strait of Hormuz.",
   "actor": "DeepSeek",
   "ticker": null,
   "materiality": 74,
-  "source_url": "https://theedgemalaysia.com/node/812181",
+  "source_url": "https://www.scmp.com/news/us/diplomacy/article/3365111/us-sanctions-chinese-entities-issues-global-warning-economic-d-day-against-iran",
   "source_title": null,
-  "publisher": "The Edge Malaysia",
+  "publisher": "South China Morning Post",
   "permalink": "https://presentofai.com/e/35455"
  },
  {
@@ -17164,20 +17234,6 @@
   "permalink": "https://presentofai.com/e/32479"
  },
  {
-  "id": 32388,
-  "event_date": "2026-10-09",
-  "realm": "terrestrial",
-  "title": "Schaeffler Commits to 1,000 Hexagon Aeon Humanoid Robots",
-  "summary": "German industrial firm Schaeffler committed to deploying at least 1,000 Hexagon Robotics Aeon humanoid robots across its global factory network by 2032, one of the largest single humanoid robot deployment commitments announced to date.",
-  "actor": "Hexagon Robotics",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.forbes.com/sites/johnkoetsier/2026/10/09/hexagon-is-putting-1000-humanoid-robots-in-schaeffler-factories-this-is-not-a-copy-paste-process/",
-  "source_title": null,
-  "publisher": "Forbes",
-  "permalink": "https://presentofai.com/e/32388"
- },
- {
   "id": 32329,
   "event_date": "2026-10-09",
   "realm": "terrestrial",
@@ -19268,7 +19324,7 @@
   "event_date": "2026-10-05",
   "realm": "terrestrial",
   "title": "Pentagon stops using Anthropic AI tools after blacklisting",
-  "summary": "The US Department of Defense halted use of Anthropic's AI tools after the company was blacklisted; defence analysts had relied on the Maven programme to access and organise satellite imagery and drone footage.",
+  "summary": "The US Department of Defense confirmed it has ceased use of Anthropic's AI tools, months after Secretary of Defense Pete Hegseth designated the company a national security supply-chain risk in February for refusing to remove safety guardrails from its Claude model. Claude had been embedded in the Pentagon's Maven Smart System, operated by Palantir, which analysts used to access and organise satellite imagery and drone footage.",
   "actor": "Anthropic",
   "ticker": null,
   "materiality": 72,
@@ -19282,7 +19338,7 @@
   "event_date": "2026-10-05",
   "realm": "virtual",
   "title": "AI agent hacks 7 South Korean banks, exposes 65,000 records",
-  "summary": "An open-source AI agent was used to breach seven South Korean banks, exposing 65,000 records in what authorities described as a landmark case of autonomous AI-driven cybercrime at scale.",
+  "summary": "An open-source AI agent called ARTEX was used to breach seven South Korean financial institutions over approximately one week beginning September 28, 2026, exposing the personal data of more than 65,000 customers. South Korea's government activated a round-the-clock cybersecurity emergency in response, with investigators tracing the attacks to credential-stuffing campaigns automated by the AI tool.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
@@ -19338,7 +19394,7 @@
   "event_date": "2026-10-04",
   "realm": "virtual",
   "title": "Neuralink AI Foundation Model Trained on 50,000 Hours of Brain Data",
-  "summary": "Neuralink trained an AI foundation model on over 50,000 hours of brain-signal data collected from clinical trial volunteers over two years, achieving record-breaking cursor control performance.",
+  "summary": "Neuralink trained an AI foundation model on over 50,000 hours of brain-signal data collected from clinical trial volunteers over more than two years, achieving a new cursor control record of 11.32 bits per second and reducing weekly calibration time from 55 minutes to 10 minutes for many patients.",
   "actor": "Neuralink",
   "ticker": null,
   "materiality": 68,
