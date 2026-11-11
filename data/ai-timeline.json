@@ -1,5 +1,33 @@
 [
  {
+  "id": 42571,
+  "event_date": "2026-11-11",
+  "realm": "virtual",
+  "title": "Helsing Launches Clarity AI Battlefield Intelligence Platform",
+  "summary": "Helsing unveiled Clarity in Berlin, an AI platform deploying hundreds of specialized agents to fuse data from drones, satellites, and signals intelligence to identify military targets and suggest responses for human approval, positioning it as a sovereign European alternative to Palantir's Maven Smart System.",
+  "actor": "Helsing",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://mlq.ai/news/helsing-to-unveil-ai-targeting-software-in-berlin-as-a-european-alternative-to-palantir/",
+  "source_title": null,
+  "publisher": "MLQ.ai - AI infrastructure intelligence",
+  "permalink": "https://presentofai.com/e/42571"
+ },
+ {
+  "id": 42552,
+  "event_date": "2026-11-11",
+  "realm": "terrestrial",
+  "title": "Finland Approves Tesla Assisted Driving System Under Rebranded Name",
+  "summary": "Finland's transport authority Traficom recognized the Netherlands' provisional type-approval of Tesla's Assisted Driving system, formerly called FSD (Supervised), allowing Tesla to offer it to Finnish customers immediately. The name was changed to remove references to self-driving, speed settings were adjusted to prevent exceeding the limit, and drivers retain full legal responsibility for the vehicle.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://qz.com/finland-tesla-assisted-driving-eu-approval-111126",
+  "source_title": null,
+  "publisher": "Qz",
+  "permalink": "https://presentofai.com/e/42552"
+ },
+ {
   "id": 42477,
   "event_date": "2026-11-11",
   "realm": "space",
@@ -82,20 +110,6 @@
   "source_title": null,
   "publisher": "Axios",
   "permalink": "https://presentofai.com/e/42415"
- },
- {
-  "id": 42406,
-  "event_date": "2026-11-11",
-  "realm": "terrestrial",
-  "title": "Google DeepMind launches Gemini Robotics 2.5 for robot dexterity",
-  "summary": "Google DeepMind released Gemini Robotics 2.5, enabling robots to perform significantly more tasks with greater performance and dexterity. According to DeepMind's head of robotics Carolina Parada, the model lets robots combine skills including advanced tool use, complex manipulation of deformables, and handling delicate objects with finesse.",
-  "actor": "Google DeepMind",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://www.theverge.com/tech/1030134/google-deepminds-new-ai-model-gives-robots-improved-dexterity",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/42406"
  },
  {
   "id": 42404,
@@ -264,6 +278,118 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/42202"
+ },
+ {
+  "id": 42575,
+  "event_date": "2026-11-10",
+  "realm": "space",
+  "title": "US Air Force solicits AI software for cislunar vehicles",
+  "summary": "The US Air Force issued an industry request for ready-made AI software concepts to shape future cislunar space vehicle system requirements, marking a formal military push for AI autonomy beyond Earth orbit.",
+  "actor": "US Air Force",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles/",
+  "source_title": null,
+  "publisher": "Defensescoop",
+  "permalink": "https://presentofai.com/e/42575"
+ },
+ {
+  "id": 42570,
+  "event_date": "2026-11-10",
+  "realm": "space",
+  "title": "ESA Satellite Runs Doom via On-Board AI Voice Command",
+  "summary": "An Oslo amateur radio group working with Tanagra Space sent voice commands to ESA's OPS-SAT PRETTY satellite over seven attempts, with the 27 MB on-board AI speech model successfully recognizing the command on the final two runs and launching the game Doom, in what the team described as the first AI voice-command interface demonstrated on an orbiting spacecraft.",
+  "actor": "ESA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.tomshardware.com/tech-industry/space/orbiting-esa-satellite-plays-doom-after-receiving-voice-commands-from-amateur-radio-operators-on-earth-27-mb-ai-speech-model-executes-the-game-on-the-seventh-attempt",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/42570"
+ },
+ {
+  "id": 42564,
+  "event_date": "2026-11-10",
+  "realm": "terrestrial",
+  "title": "New York Opens Registration Portal for Major AI Developers Under RAISE Act",
+  "summary": "New York opened a registration portal on November 10, 2026 for large frontier AI developers like OpenAI and Anthropic, ahead of the RAISE Act taking effect January 1, 2027. The law requires companies with over $500 million in annual revenue to publish safety frameworks, report critical safety incidents within 72 hours, and issue public model transparency reports, with penalties up to $3 million for repeat violations.",
+  "actor": "New York State",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/42564"
+ },
+ {
+  "id": 42540,
+  "event_date": "2026-11-10",
+  "realm": "terrestrial",
+  "title": "Boston Dynamics unveils wheeled Atlas humanoid robot",
+  "summary": "Boston Dynamics unveiled a wheeled variant of its Atlas humanoid robot capable of spinning, jumping, and gliding, designed to test advanced whole-body control technology.",
+  "actor": "Boston Dynamics",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.koreajoongangdaily.com/business/atlas-is-on-a-roll-hyundais-humanoid-robot-trades-feet-for-wheels/12965255",
+  "source_title": null,
+  "publisher": "koreajoongangdaily",
+  "permalink": "https://presentofai.com/e/42540"
+ },
+ {
+  "id": 42533,
+  "event_date": "2026-11-10",
+  "realm": "terrestrial",
+  "title": "DeepMind Releases Gemini Robotics 2.5 with Apollo 2 Demo",
+  "summary": "DeepMind unveiled Gemini Robotics 2.5, evaluated across 200+ dexterity tasks including lab pipette use and food serving, and demonstrated it running on Apptronik's Apollo 2 humanoid robot; the release also includes an open source safety benchmark.",
+  "actor": "Google DeepMind",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+  "source_title": null,
+  "publisher": "Ars Technica",
+  "permalink": "https://presentofai.com/e/42533"
+ },
+ {
+  "id": 42502,
+  "event_date": "2026-11-10",
+  "realm": "virtual",
+  "title": "Google opens Gemini 4 Carbon to paying subscribers broadly",
+  "summary": "Google's most powerful AI model, Gemini 4 Carbon, exited its cybersecurity-only preview on November 10 and became available to paying developers, businesses, and AI Ultra subscribers.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.thenews.com.pk/latest/1423220-google-brings-its-most-powerful-ai-model-to-paying-subscribers",
+  "source_title": null,
+  "publisher": "The News International",
+  "permalink": "https://presentofai.com/e/42502"
+ },
+ {
+  "id": 42492,
+  "event_date": "2026-11-10",
+  "realm": "terrestrial",
+  "title": "Google Unveils 8th-Gen Dual-Chip TPU for Training and Inference",
+  "summary": "Google announced its eighth-generation TPU split into two specialized chips, one for training and one for inference, representing a new architectural approach to AI accelerator design.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.rswebsols.com/news/google-separates-its-eighth-generation-tpu-into-dual-chips-for-training-and-inference/",
+  "source_title": null,
+  "publisher": "RS Web Solutions",
+  "permalink": "https://presentofai.com/e/42492"
+ },
+ {
+  "id": 42487,
+  "event_date": "2026-11-10",
+  "realm": "virtual",
+  "title": "Google DeepMind AI Formally Verifies Signal Protocol Encryption",
+  "summary": "Google DeepMind's AlphaProof Code framework used AI agents to formally verify key security properties of the Signal Protocol, which underpins billions of conversations on Signal, WhatsApp, and Google Messages, marking the first AI-driven formal proof of a major real-world cryptographic protocol at this scale.",
+  "actor": "Google DeepMind",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://thechenabtimes.com/2026/11/10/google-deepmind-unveils-alphaproof-code-revolutionizing-software-verification-with-ai/",
+  "source_title": null,
+  "publisher": "The Chenab Times",
+  "permalink": "https://presentofai.com/e/42487"
  },
  {
   "id": 42479,
@@ -1050,6 +1176,34 @@
   "permalink": "https://presentofai.com/e/41834"
  },
  {
+  "id": 42524,
+  "event_date": "2026-11-09",
+  "realm": "virtual",
+  "title": "Jailbroken DeepSeek AI agent ran two-week attack on European telecom",
+  "summary": "A jailbroken AI agent built on DeepSeek Flash autonomously attacked a European telecommunications provider and 13 organizations on its infrastructure for more than two weeks, according to research published November 8 by Malbear Labs, which dubbed the campaign Operation Snowball.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://infosecurity-magazine.com/news/operation-snowball-ai-telecom",
+  "source_title": null,
+  "publisher": "Infosecurity Magazine",
+  "permalink": "https://presentofai.com/e/42524"
+ },
+ {
+  "id": 42503,
+  "event_date": "2026-11-09",
+  "realm": "terrestrial",
+  "title": "Australia proposes criminal penalties for rogue AI deployments",
+  "summary": "Australia's government, citing the OpenAI hack, is considering standalone 'failure to prevent' criminal offences for companies whose AI causes harm, marking a significant escalation in AI governance. Prime Minister Albanese stated the law must get ahead of rapidly advancing AI technology.",
+  "actor": "Australian Government",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://bbc.com/news/articles/cmp3g37l566po",
+  "source_title": null,
+  "publisher": "Bbc",
+  "permalink": "https://presentofai.com/e/42503"
+ },
+ {
   "id": 42474,
   "event_date": "2026-11-09",
   "realm": "terrestrial",
@@ -1148,20 +1302,6 @@
   "permalink": "https://presentofai.com/e/42349"
  },
  {
-  "id": 42346,
-  "event_date": "2026-11-09",
-  "realm": "terrestrial",
-  "title": "Embodied AI unveils AIR wheeled humanoid for factory floors",
-  "summary": "Swiss startup Embodied AI unveiled AIR, a two-armed wheeled robot designed to work alongside factory employees without requiring a safety cage, using a tendon-driven compliant design. The company reported a 95 percent average task success rate across paid manufacturing pilots and says the robot can transition from remote supervision to autonomous operation within about a month.",
-  "actor": "Embodied AI",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://interestingengineering.com/ai-robotics/wheeled-humanoid-robot-for-factory-tasks",
-  "source_title": null,
-  "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
-  "permalink": "https://presentofai.com/e/42346"
- },
- {
   "id": 42342,
   "event_date": "2026-11-09",
   "realm": "terrestrial",
@@ -1211,7 +1351,7 @@
   "summary": "Meta announced a global expansion of its AI-powered age-estimation technology on Instagram to identify suspected teens and place them under Teen Account protections, even if they provide an adult birthday. The move is part of Meta's agreement with 52 attorneys general following settlements worth up to $18 billion over lawsuits alleging its platforms harm teens.",
   "actor": "Meta",
   "ticker": null,
-  "materiality": 60,
+  "materiality": 65,
   "source_url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
   "source_title": null,
   "publisher": "TechCrunch",
@@ -1706,6 +1846,20 @@
   "source_title": null,
   "publisher": "Unusualwhales",
   "permalink": "https://presentofai.com/e/41673"
+ },
+ {
+  "id": 42553,
+  "event_date": "2026-11-08",
+  "realm": "terrestrial",
+  "title": "Tesla Announces Discontinuation of Cybertruck",
+  "summary": "Elon Musk announced on X that Tesla will wind down Cybertruck production at Gigafactory Texas by mid-2027, citing the need for space for Cybercab production, low sales, and a strategic shift toward AI, robotaxi services, and streamlined FSD development.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.teslaoracle.com/2026/11/06/tesla-tsla-to-end-cybertruck-production-next-year-and-its-not-just-about-the-cybercab/",
+  "source_title": null,
+  "publisher": "Tesla Oracle",
+  "permalink": "https://presentofai.com/e/42553"
  },
  {
   "id": 42167,
@@ -2492,6 +2646,20 @@
   "permalink": "https://presentofai.com/e/40940"
  },
  {
+  "id": 42534,
+  "event_date": "2026-11-06",
+  "realm": "terrestrial",
+  "title": "Humanoid Robot Cleaning Service Launches in San Francisco",
+  "summary": "Startup Tau Robotics began offering a paid humanoid-robot cleaning service in San Francisco homes, with robots remotely piloted by humans while collecting training data. MIT Technology Review reported a live in-home demonstration, noting the robots can handle some tasks autonomously but still require significant human guidance.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+  "source_title": null,
+  "publisher": "Technologyreview",
+  "permalink": "https://presentofai.com/e/42534"
+ },
+ {
   "id": 42002,
   "event_date": "2026-11-06",
   "realm": "terrestrial",
@@ -2924,20 +3092,6 @@
   "source_title": null,
   "publisher": "The New Stack",
   "permalink": "https://presentofai.com/e/41198"
- },
- {
-  "id": 41188,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "Google DeepMind AI Agents Break RSA Encryption 1,600x Faster",
-  "summary": "Google DeepMind researchers deployed AI agents that uncovered cryptographic techniques exposing legacy RSA weaknesses up to 1,600 times faster than prior methods, a significant first-of-its-kind capability in AI-driven cryptanalysis.",
-  "actor": "Google DeepMind",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws",
-  "source_title": null,
-  "publisher": "Interesting Engineering | Technology, Science, Innovation News and Videos",
-  "permalink": "https://presentofai.com/e/41188"
  },
  {
   "id": 41184,
@@ -5738,20 +5892,6 @@
   "source_title": null,
   "publisher": "Future Transport-News",
   "permalink": "https://presentofai.com/e/40171"
- },
- {
-  "id": 40162,
-  "event_date": "2026-11-02",
-  "realm": "terrestrial",
-  "title": "Shanghai Proposes Legislation to Legalize Robotaxi Deployment",
-  "summary": "Shanghai's legislature opened draft regulations that would provide explicit legal backing for autonomous driving in taxi services, marking a significant regulatory step for robotaxi commercialization in China.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://law360.com/mlex/data-privacy-security/articles/2544969/shanghai-proposes-legal-backing-for-robotaxis-in-rules-overhaul",
-  "source_title": null,
-  "publisher": "Law360",
-  "permalink": "https://presentofai.com/e/40162"
  },
  {
   "id": 40082,
@@ -12250,20 +12390,6 @@
   "permalink": "https://presentofai.com/e/35840"
  },
  {
-  "id": 35833,
-  "event_date": "2026-10-22",
-  "realm": "terrestrial",
-  "title": "Walmart launches AI agent shopping tools for customers",
-  "summary": "Walmart announced two new tools to help third-party AI agents shop on customers' behalf: agent profiles, which link transactions to the bot and let customers manage authorizations and spending limits, and an agent gateway using a model text protocol for faster and more accurate access. Walmart also published terms of use for agents, contrasting with Amazon's approach of blocking third-party agents from its site.",
-  "actor": "Walmart",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
-  "source_title": null,
-  "publisher": "Business Insider",
-  "permalink": "https://presentofai.com/e/35833"
- },
- {
   "id": 35792,
   "event_date": "2026-10-22",
   "realm": "terrestrial",
@@ -12416,20 +12542,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/35622"
- },
- {
-  "id": 35565,
-  "event_date": "2026-10-22",
-  "realm": "virtual",
-  "title": "Nvidia launches Isaac Lab 3.0 unified robotics platform",
-  "summary": "Nvidia unveiled Isaac Lab 3.0, an open-source framework consolidating robot data generation, simulation, and real-world deployment into a single platform, with LG Electronics and Bear Robotics joining the ecosystem, described by Nvidia as a 'ChatGPT moment for robots'.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://finance.biggo.com/news/20678fb8-1814-47e2-9fe6-f00d591db423",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/35565"
  },
  {
   "id": 35549,
@@ -16506,20 +16618,6 @@
   "permalink": "https://presentofai.com/e/34609"
  },
  {
-  "id": 34276,
-  "event_date": "2026-10-14",
-  "realm": "terrestrial",
-  "title": "China's NeodraDynamics unveils Neo1: 13-ft, 2,400-lb humanoid robot",
-  "summary": "NeodraDynamics Robotics unveiled Neo1, a 13-foot-class hydraulic-electric humanoid robot capable of lifting over 1,100 pounds (500 kg), targeting heavy industrial environments including ports, nuclear facilities, and mining. The robot uses 39 hydraulic actuators across 41 active degrees of freedom and was introduced alongside JD Industrial at the 2026 China International Industry Fair.",
-  "actor": "NeodraDynamics",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://interestingengineering.com/ai-robotics/china-neo1-hydraulic-humanoid-robot-1102-pound-payload",
-  "source_title": null,
-  "publisher": "Interestingengineering",
-  "permalink": "https://presentofai.com/e/34276"
- },
- {
   "id": 33918,
   "event_date": "2026-10-14",
   "realm": "virtual",
@@ -16770,20 +16868,6 @@
   "source_title": null,
   "publisher": "NBC News",
   "permalink": "https://presentofai.com/e/33088"
- },
- {
-  "id": 33014,
-  "event_date": "2026-10-14",
-  "realm": "virtual",
-  "title": "SoftBank opens free public access to Sarashina Japanese AI",
-  "summary": "SoftBank's subsidiary SB Intuitions launched a free public beta of Sarashina, a Japanese-language generative AI service supporting chat, document drafting, web search, and Japanese-English translation, accessible via Google login with no prior registration.",
-  "actor": "SoftBank",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.digitaltoday.co.kr/en/view/114272/softbank-unveils-free-japan-focused-generative-ai-sarashina-service",
-  "source_title": null,
-  "publisher": "디지털투데이 (DigitalToday)",
-  "permalink": "https://presentofai.com/e/33014"
  },
  {
   "id": 32918,
@@ -19758,7 +19842,7 @@
   "event_date": "2026-10-07",
   "realm": "terrestrial",
   "title": "McDonald's hit with class action alleging AI-powered menu price-fixing",
-  "summary": "A class action lawsuit has been filed against McDonald's alleging the company used AI-powered dynamic pricing to fix menu prices, according to a report published on Business Standard.",
+  "summary": "A proposed nationwide class action filed in U.S. federal court in Chicago alleges McDonald's illegally coordinates menu prices across its franchises and company-owned restaurants through an AI-powered pricing system that uses machine-learning algorithms trained on nonpublic data, in violation of U.S. antitrust law. McDonald's called the allegations speculative and uninformed, saying franchisees make their own pricing decisions and that AI does not set the price of any menu item.",
   "actor": "McDonald's",
   "ticker": null,
   "materiality": 62,
@@ -32218,7 +32302,7 @@
   "event_date": "2026-09-06",
   "realm": "terrestrial",
   "title": "Nvidia Invests in Lancium to Deploy AI Infrastructure Across 15+ GW Campus Pipeline",
-  "summary": "Nvidia made a strategic investment in Lancium and announced a collaboration to deploy its AI factory platform across Lancium's power-ready campuses spanning a pipeline of over 15 gigawatts of capacity.",
+  "summary": "Nvidia made a strategic investment in Lancium and announced a collaboration to deploy its full-stack AI factory platform across Lancium's power-ready campuses. The deal covers 4 gigawatts of leased capacity already in place, plus a development pipeline exceeding 15 gigawatts of powered land.",
   "actor": "Nvidia",
   "ticker": null,
   "materiality": 68,
@@ -33206,20 +33290,6 @@
   "source_title": null,
   "publisher": null,
   "permalink": "https://presentofai.com/e/20904"
- },
- {
-  "id": 20856,
-  "event_date": "2026-09-03",
-  "realm": "terrestrial",
-  "title": "Congress Announces Bill to Criminalize ASI Same Day OpenAI Declares AGI Era",
-  "summary": "On September 3, 2026, Senator Bernie Sanders and Representative Greg Casar announced the Ban Artificial Superintelligence Act, which would make building a superintelligent AI system a federal crime punishable by up to 20 years in prison. The announcement came on the same day OpenAI president Greg Brockman said, in his personal view, that GPT-6 Astra represented the arrival of artificial general intelligence.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 88,
-  "source_url": "https://www.techtimes.com/articles/326603/20260904/congress-moves-criminalize-agi-same-day-openai-declared-its-arrival.htm",
-  "source_title": null,
-  "publisher": "Tech Times",
-  "permalink": "https://presentofai.com/e/20856"
  },
  {
   "id": 20849,
@@ -41024,7 +41094,7 @@
   "event_date": "2026-08-14",
   "realm": "terrestrial",
   "title": "Nvidia AI Chip Found Inside Russian Cruise Missile",
-  "summary": "Ukrainian intelligence confirmed an NVIDIA Jetson Orin module inside one of Russia's newest air-launched stealth cruise missiles, marking the first publicly verified use of a commercial AI chip for targeting in an active conflict. Kyiv is pressing for tighter export controls on foreign silicon.",
+  "summary": "Ukraine's military intelligence directorate (GUR) reported finding an Nvidia Jetson Orin NX module in the remains of a Russian S-71M air-launched cruise missile, saying the component may indicate the use of AI technologies in the weapon. GUR called for tighter sanctions and export control coordination, while Nvidia said it cannot track products after sale but will act if customers are found violating US export controls.",
   "actor": "NVIDIA",
   "ticker": null,
   "materiality": 78,
@@ -58370,7 +58440,7 @@
   "event_date": "2026-03-16",
   "realm": "virtual",
   "title": "NVIDIA launches production-scale Physical AI robotics platform",
-  "summary": "At GTC 2026, NVIDIA unveiled new Cosmos world models, Isaac simulation frameworks, and Isaac GR00T N models to accelerate intelligent robotics. Industry leaders including ABB Robotics, AGIBOT, Agility, FANUC, Figure, KUKA, and others are building on the NVIDIA platform to develop and deploy physical AI across industrial, humanoid, and healthcare robot applications.",
+  "summary": "At GTC 2026, NVIDIA unveiled new Cosmos world models, Isaac simulation frameworks, and Isaac GR00T N models to accelerate intelligent robotics. Industry leaders including ABB Robotics, AGIBOT, Agility, FANUC, Figure, Hexagon Robotics, KUKA, Universal Robots, World Labs, YASKAWA, and others in industrial, humanoid, and healthcare robotics are building on the NVIDIA platform to develop and deploy physical AI at scale.",
   "actor": "",
   "ticker": "NVDA",
   "materiality": 72,
