@@ -1,5 +1,33 @@
 [
  {
+  "id": 43820,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "Washington D.C. Council votes to reject robotaxi deployment bill",
+  "summary": "The D.C. Council's Committee on Transportation and the Environment defeated the Autonomous Vehicle Deployment Authorization Amendment Act of 2026 in a 3-3 vote, blocking a legal pathway for driverless taxis and delivery vehicles to operate in the district. Opponents cited concerns about job displacement and competition with unionized transit operations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://reason.com/2026/11/13/d-c-rejects-robotaxis-to-protect-jobs",
+  "source_title": null,
+  "publisher": "Reason",
+  "permalink": "https://presentofai.com/e/43820"
+ },
+ {
+  "id": 43774,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "Philippines creates National AI Council by executive order",
+  "summary": "President Marcos signed Executive Order 131 on November 12, 2026, adopting a national AI governance framework and creating the National Artificial Intelligence Council to coordinate, facilitate, and monitor AI governance framework implementation in the Philippines.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.rappler.com/technology/marcos-jr-creates-national-artificial-intelligence-council-governance-framework/",
+  "source_title": null,
+  "publisher": "Rappler",
+  "permalink": "https://presentofai.com/e/43774"
+ },
+ {
   "id": 43751,
   "event_date": "2026-11-14",
   "realm": "terrestrial",
@@ -12,20 +40,6 @@
   "source_title": null,
   "publisher": "재경일보",
   "permalink": "https://presentofai.com/e/43751"
- },
- {
-  "id": 43724,
-  "event_date": "2026-11-14",
-  "realm": "terrestrial",
-  "title": "Armed robot dogs appear alongside Salvadoran troops in Haiti operation",
-  "summary": "Footage released by President Nayib Bukele showed weapon-equipped robot dogs accompanying Salvadoran soldiers during a security operation at a stadium in Port-au-Prince, Haiti. The video does not show the robots firing, and there is no independently verified evidence they engaged gang members or were involved in combat.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398",
-  "source_title": null,
-  "publisher": "Newsweek",
-  "permalink": "https://presentofai.com/e/43724"
  },
  {
   "id": 43697,
@@ -154,6 +168,62 @@
   "permalink": "https://presentofai.com/e/43462"
  },
  {
+  "id": 43862,
+  "event_date": "2026-11-13",
+  "realm": "space",
+  "title": "Adaspace Lists on HKEX as First AI Satellite Compute Company",
+  "summary": "Chinese AI satellite maker Adaspace Technology debuted on the Hong Kong Stock Exchange on November 13, 2026, after raising HK$750 million (~$95.6 million), marking a milestone in the commercialization of space-based AI computing and orbital infrastructure.",
+  "actor": "Adaspace",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.globaltimes.cn/page/202611/1374245.shtml",
+  "source_title": null,
+  "publisher": "Global Times",
+  "permalink": "https://presentofai.com/e/43862"
+ },
+ {
+  "id": 43818,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Armed robot dogs deployed by Salvadoran forces in Haiti",
+  "summary": "Footage released by President Nayib Bukele showed armed quadruped robots accompanying Salvadoran soldiers during a security operation at a stadium in Port-au-Prince, Haiti. Officials did not disclose the manufacturer or weapon specifications, and there is no independently verified evidence the robots fired on targets.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398",
+  "source_title": null,
+  "publisher": "Newsweek",
+  "permalink": "https://presentofai.com/e/43818"
+ },
+ {
+  "id": 43814,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "GXO Digit robots expand to 2 more warehouses after 100K totes",
+  "summary": "GXO Logistics and Agility Robotics are expanding Digit humanoid robot deployment to warehouses in North Carolina and Tennessee; at the existing Georgia site, Digit has already moved more than 100,000 totes in production operations.",
+  "actor": "Agility Robotics",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.trasportoeuropa.it/english/gxo-expands-humanoid-robot-deployment-to-two-more-warehouses/",
+  "source_title": null,
+  "publisher": "TrasportoEuropa",
+  "permalink": "https://presentofai.com/e/43814"
+ },
+ {
+  "id": 43812,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "OpenAI Disbands Stand-Alone Robotics Team",
+  "summary": "OpenAI dissolved its dedicated robotics team, reassigning researchers to its main research and Applied organizations. The company said its general-purpose frontier models, including GPT-6 Astra, have shown they can be directly applied to robotics, making a separate specialized robotics team unnecessary.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+  "source_title": null,
+  "publisher": "Fortune",
+  "permalink": "https://presentofai.com/e/43812"
+ },
+ {
   "id": 43764,
   "event_date": "2026-11-13",
   "realm": "space",
@@ -194,20 +264,6 @@
   "source_title": null,
   "publisher": "Bloomberg",
   "permalink": "https://presentofai.com/e/43710"
- },
- {
-  "id": 43696,
-  "event_date": "2026-11-13",
-  "realm": "virtual",
-  "title": "Cloudflare Open-Sources Kitesurf Stateless Browser for AI Agents",
-  "summary": "Cloudflare open-sourced Kitesurf, its stateless browser for AI agents that runs entirely on Cloudflare Workers, under the Apache 2.0 license. Developers can read the code, run it locally, modify it, and deploy their own instance to their own Cloudflare Workers account.",
-  "actor": "Cloudflare",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://blog.cloudflare.com/kitesurf-open-source",
-  "source_title": null,
-  "publisher": null,
-  "permalink": "https://presentofai.com/e/43696"
  },
  {
   "id": 43678,
@@ -378,20 +434,6 @@
   "permalink": "https://presentofai.com/e/43531"
  },
  {
-  "id": 43508,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "D.C. Council votes to ban robotaxi deployment",
-  "summary": "The D.C. Council defeated the Autonomous Vehicle Deployment Authorization Amendment Act of 2026 in a 3-3 vote, blocking a legal pathway for driverless taxis and delivery vehicles to operate in the district. Lawmakers who voted against cited concerns about the impact on existing jobs and competition with unionized transit operations.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://reason.com/2026/11/13/d-c-rejects-robotaxis-to-protect-jobs",
-  "source_title": null,
-  "publisher": "Reason",
-  "permalink": "https://presentofai.com/e/43508"
- },
- {
   "id": 43492,
   "event_date": "2026-11-13",
   "realm": "virtual",
@@ -469,7 +511,7 @@
   "summary": "OpenAI launched ChatGPT Wallet, enabling its 'dots' AI agents to make purchases on behalf of users, with partnerships with American Express, Mastercard, and Visa allowing cardholders to retain existing rewards.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 75,
+  "materiality": 76,
   "source_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
   "source_title": null,
   "publisher": "CNBC",
@@ -686,6 +728,48 @@
   "permalink": "https://presentofai.com/e/43018"
  },
  {
+  "id": 43855,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "India announces AI legislation is coming",
+  "summary": "On 23 October 2026, India's Union IT Minister Ashwini Vaishnaw declared AI risks had crossed a threshold warranting legislation, signalling a forthcoming public consultation paper, marking India's first formal commitment to enact an AI law.",
+  "actor": "Government of India",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "http://government.economictimes.indiatimes.com/blog/before-india-writes-its-ai-law-it-must-decide-who-answers-for-the-machine/135758083",
+  "source_title": null,
+  "publisher": "ETGovernment",
+  "permalink": "https://presentofai.com/e/43855"
+ },
+ {
+  "id": 43823,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "Ukraine First-Ever Drone-Deployed Kamikaze Robot Crosses Dnipro",
+  "summary": "Ukrainian Marines used a 'Perun' UAV to deliver a kamikaze-type unmanned ground vehicle with a 7 kg warhead to the occupied left bank of the Dnipro River, the first known such operation. The robot independently reached a building housing Russian drone operators and detonated at the entrance, with the position additionally struck by an FPV drone.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://unn.ua/en/news/marines-deployed-a-ground-robot-on-the-occupied-left-bank-of-the-dnipro-for-the-first-time",
+  "source_title": null,
+  "publisher": "https://www.facebook.com/UNNews",
+  "permalink": "https://presentofai.com/e/43823"
+ },
+ {
+  "id": 43797,
+  "event_date": "2026-11-12",
+  "realm": "virtual",
+  "title": "Edge0-145B and Edge0-120B: First Open-Source On-Device 145B-Param Models",
+  "summary": "Edge0 open-sourced Edge0-145B and Edge0-120B along with a unified inference framework and deployment tools. Edge0-145B is claimed to be the world's first open-source on-device AI model with 145 billion parameters, bringing coding, reasoning, and agent capabilities competitive with frontier cloud models to personal laptops without cloud dependency.",
+  "actor": "Edge0",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "source_title": null,
+  "publisher": "Edge0",
+  "permalink": "https://presentofai.com/e/43797"
+ },
+ {
   "id": 43765,
   "event_date": "2026-11-12",
   "realm": "space",
@@ -770,20 +854,6 @@
   "permalink": "https://presentofai.com/e/43661"
  },
  {
-  "id": 43656,
-  "event_date": "2026-11-12",
-  "realm": "space",
-  "title": "SpaceX Starmind AI satellite constellation plan revealed",
-  "summary": "SpaceX announced the Starmind program to deploy a constellation of AI compute satellites intended to serve as orbital data centres, sending AI computations to Earth via laser and harnessing near-constant solar power. SpaceX signed a €60M solar cell supply deal with Germany's Singulus Technologies, with a strategic partnership targeting 100GW of solar power production capacity.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
-  "source_title": null,
-  "publisher": "Euronews",
-  "permalink": "https://presentofai.com/e/43656"
- },
- {
   "id": 43655,
   "event_date": "2026-11-12",
   "realm": "terrestrial",
@@ -810,20 +880,6 @@
   "source_title": null,
   "publisher": "Crypto Briefing",
   "permalink": "https://presentofai.com/e/43653"
- },
- {
-  "id": 43624,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "Ukraine Deploys Kamikaze Robot Across Dnipro, First Time",
-  "summary": "Ukrainian Marines used a 'Perun' UAV to air-deliver a kamikaze unmanned ground vehicle with a 7 kg warhead to the occupied left bank of the Dnipro River for the first time, destroying the position of Russian drone operators in a combined operation with FPV and reconnaissance drones.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://unn.ua/en/news/marines-deployed-a-ground-robot-on-the-occupied-left-bank-of-the-dnipro-for-the-first-time",
-  "source_title": null,
-  "publisher": "https://www.facebook.com/UNNews",
-  "permalink": "https://presentofai.com/e/43624"
  },
  {
   "id": 43610,
@@ -1540,6 +1596,20 @@
   "permalink": "https://presentofai.com/e/42655"
  },
  {
+  "id": 43777,
+  "event_date": "2026-11-11",
+  "realm": "virtual",
+  "title": "Google DeepMind releases advanced robotics AI and next-gen gene prediction model",
+  "summary": "Google DeepMind released Gemini Robotics 2.5, its most capable vision-language-action model for robotics to date, featuring improved dexterity, reliability, and safety. Separately, DeepMind announced AlphaGenome 2, a next-generation AI model that predicts how DNA sequences and their variations affect human cell types to support disease research and drug development.",
+  "actor": "Google DeepMind",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model",
+  "source_title": null,
+  "publisher": "Siliconangle",
+  "permalink": "https://presentofai.com/e/43777"
+ },
+ {
   "id": 43607,
   "event_date": "2026-11-11",
   "realm": "terrestrial",
@@ -1692,20 +1762,6 @@
   "source_title": null,
   "publisher": "MLQ.ai - AI infrastructure intelligence",
   "permalink": "https://presentofai.com/e/43324"
- },
- {
-  "id": 43317,
-  "event_date": "2026-11-11",
-  "realm": "terrestrial",
-  "title": "SpaceX Plans $24B Gas-Powered AI Supercomputer Campus at Starbase, TX",
-  "summary": "SpaceX posted a public hearing notice for a gas-fired power plant and supercomputing facility in Starbase, Texas, with an initial cost of $24 billion, part of a push to build 10 gigawatts of compute. The project could face resistance from incoming Texas governor Gina Hinojosa, who campaigned against approving new data centers without stronger legislative protections.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/43317"
  },
  {
   "id": 43311,
@@ -1958,20 +2014,6 @@
   "source_title": null,
   "publisher": "First-Class Business Newspaper Financial News",
   "permalink": "https://presentofai.com/e/43043"
- },
- {
-  "id": 43040,
-  "event_date": "2026-11-11",
-  "realm": "virtual",
-  "title": "Google Internally Tests Hydrogen AI Model",
-  "summary": "Google has been testing a new fast, efficient AI model codenamed Hydrogen with staff, signaling a continued push toward speed-optimized Gemini-family offerings.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.businessinsider.com/google-hydrogen-test-new-gemini-4-flash-model-ai-2026-11",
-  "source_title": null,
-  "publisher": "Business Insider",
-  "permalink": "https://presentofai.com/e/43040"
  },
  {
   "id": 43024,
@@ -2504,20 +2546,6 @@
   "source_title": null,
   "publisher": "Business News, Finance News, India News, BSE/NSE News, Stock Markets News, Sensex NIFTY, Union Budget 2023",
   "permalink": "https://presentofai.com/e/42947"
- },
- {
-  "id": 42882,
-  "event_date": "2026-11-10",
-  "realm": "space",
-  "title": "SpaceX Next-Gen AI Satellites Targeting 400kW Compute",
-  "summary": "Analyst Jeff Pu of GF Securities projects that SpaceX's next-generation AI satellites could support between 350kW and 400kW in peak compute power, up from the AI1 satellite's 250kW, and that space compute capacity could reach 5 gigawatts by 2028 via 10,000 NVIDIA Vera Rubin NVL72 GPU racks.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://wccftech.com/elon-musk-spacexs-next-gen-space-ai-satellites-could-boost-peak-compute-to-400kw-says-analyst-with-10000-nvidia-gpu-racks-expected-for-2028-compute-capacity/",
-  "source_title": null,
-  "publisher": "Wccftech",
-  "permalink": "https://presentofai.com/e/42882"
  },
  {
   "id": 42831,
@@ -4184,20 +4212,6 @@
   "source_title": null,
   "publisher": "Tesla Oracle",
   "permalink": "https://presentofai.com/e/42553"
- },
- {
-  "id": 42167,
-  "event_date": "2026-11-08",
-  "realm": "terrestrial",
-  "title": "Nvidia Opens Internal Probe Into CEO Jensen Huang's Ties to Alleged Chinese Spy",
-  "summary": "Nvidia's board launched a formal investigation after CEO Jensen Huang acknowledged he had been intimate with a business executive who, according to U.S. intelligence, was gathering information for China. The announcement caused Nvidia shares to fall 4.3%, and analysts warned the probe could increase regulatory scrutiny around chip restrictions.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://www.nbcbayarea.com/news/local/nvidia-shares-jensen-huang-investigation/4172764/",
-  "source_title": null,
-  "publisher": "NBC Bay Area",
-  "permalink": "https://presentofai.com/e/42167"
  },
  {
   "id": 42032,
@@ -18200,20 +18214,6 @@
   "permalink": "https://presentofai.com/e/33659"
  },
  {
-  "id": 33646,
-  "event_date": "2026-10-15",
-  "realm": "terrestrial",
-  "title": "FAA deploys air traffic AI, seeks ownership stake in vendor",
-  "summary": "The FAA launched an AI platform for air traffic management at a nerve center in northern Virginia to handle plane congestion, and is now seeking an ownership stake in the Boston-based AI company behind it; the deployment has drawn Congressional scrutiny.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://politico.com/news/2026/10/15/faa-stake-ai-company-01121671",
-  "source_title": null,
-  "publisher": "Politico",
-  "permalink": "https://presentofai.com/e/33646"
- },
- {
   "id": 33616,
   "event_date": "2026-10-15",
   "realm": "virtual",
@@ -18856,20 +18856,6 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/34172"
- },
- {
-  "id": 34040,
-  "event_date": "2026-10-13",
-  "realm": "virtual",
-  "title": "Apple Launches HomeView Smart Home Hub with Siri AI",
-  "summary": "Apple announced HomeView, a wall-mountable 7-inch screen hub starting at $299 that uses face recognition and Siri AI capabilities for smart home control. The launch is CEO John Ternus' first outside of iPhones since he took over from Tim Cook at the start of September 2026, and also included new Apple TV 4K and HomePod Mini hardware.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/34040"
  },
  {
   "id": 34005,
@@ -21116,7 +21102,7 @@
   "event_date": "2026-10-08",
   "realm": "terrestrial",
   "title": "California bans employers from using AI to fire workers",
-  "summary": "California signed a new AI workplace law restricting employers from using AI to terminate employees, with the law set to take effect in 2027. It is part of a broader wave of AI-specific legislation signed this legislative session.",
+  "summary": "California Governor Gavin Newsom signed SB 947, the first law of its kind in the nation, restricting employers from exclusively relying on AI or automated decision systems to determine a worker's termination or disciplinary status. The law, which takes effect July 1, 2027, also requires disclosure to affected employees and mandates a human reviewer when AI is a primary factor in a termination decision.",
   "actor": "California",
   "ticker": null,
   "materiality": 72,
@@ -21144,7 +21130,7 @@
   "event_date": "2026-10-08",
   "realm": "virtual",
   "title": "Mathematicians Launch Hexagon Repository for AI-Generated Math Results",
-  "summary": "Fields Medalist Terence Tao and a coalition of elite mathematicians launched Hexagon, a nonprofit preprint repository for research-level mathematics and theoretical computer science that explicitly accepts submissions where contributors claim no human understanding, filling a gap left after arXiv said it would not host such AI-generated results.",
+  "summary": "Mathematician Benjamin Antieau and a coalition of elite mathematicians launched Hexagon, a nonprofit preprint repository for research-level mathematics and theoretical computer science that explicitly accepts submissions where contributors claim no human understanding, filling a gap left after arXiv said it would not host such AI-generated results. Fields Medalist Terence Tao cross-posted the announcement on his widely-read blog, helping signal the launch to the broader community.",
   "actor": "",
   "ticker": null,
   "materiality": 60,
@@ -52434,7 +52420,7 @@
   "event_date": "2026-07-20",
   "realm": "terrestrial",
   "title": "AI-powered drone fires missile in US military test over Mojave",
-  "summary": "An AI-powered drone autonomously launched a missile during a US military test flight over the Mojave Desert, a milestone the New York Times described as potentially reshaping modern warfare.",
+  "summary": "An AI-powered drone built by Anduril launched a missile during a US Air Force test over the Mojave Desert, in a program the article describes as potentially reshaping modern warfare. The drones fly entirely on onboard software but a human retains authority over the decision to launch a weapon.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
