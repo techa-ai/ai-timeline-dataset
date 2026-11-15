@@ -42,6 +42,20 @@
   "permalink": "https://presentofai.com/e/43874"
  },
  {
+  "id": 44136,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "DARPA tests autonomous ground robots finding targets without GPS",
+  "summary": "DARPA tested four autonomous uncrewed ground vehicles at Fort Knox, Kentucky, as part of its RACER program, having them independently search for enemy forces and map terrain without GPS while a human operator supervised, assigned tasks, and made decisions on engaging targets.",
+  "actor": "DARPA",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.businessinsider.com/darpa-tested-autonomous-ground-robots-finding-enemy-targets-no-gps-2026-11",
+  "source_title": null,
+  "publisher": "Business Insider",
+  "permalink": "https://presentofai.com/e/44136"
+ },
+ {
   "id": 44062,
   "event_date": "2026-11-14",
   "realm": "terrestrial",
@@ -54,20 +68,6 @@
   "source_title": null,
   "publisher": "Latin Times",
   "permalink": "https://presentofai.com/e/44062"
- },
- {
-  "id": 44038,
-  "event_date": "2026-11-14",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab Opens for Orders with Autonomy Subscription",
-  "summary": "Tesla opened the Cybercab robotaxi for consumer orders at an undisclosed price plus a $299/month Autonomy Subscription, initially limited to eight cities across Texas and Florida.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.pcmag.com/news/tesla-cybercab-open-for-orders-but-good-luck-putting-it-to-work",
-  "source_title": null,
-  "publisher": "PCMag",
-  "permalink": "https://presentofai.com/e/44038"
  },
  {
   "id": 43976,
@@ -238,6 +238,146 @@
   "permalink": "https://presentofai.com/e/43462"
  },
  {
+  "id": 44160,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab Goes on Sale at $29,990, December Deliveries",
+  "summary": "Tesla has put the Cybercab on sale for $29,990, with deliveries targeted for December 2026 and initially limited to the Austin, Texas area. The purchase requires a $1,000 non-refundable deposit and a mandatory $299 per month Autonomy Subscription, with availability currently restricted to invited customers rather than a public order page.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://teslarati.com/tesla-cybercab-29990-december-deliveries",
+  "source_title": null,
+  "publisher": "Teslarati",
+  "permalink": "https://presentofai.com/e/44160"
+ },
+ {
+  "id": 44139,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab autonomous robotaxi opens personal sales with mandatory subscription",
+  "summary": "Tesla began inviting select customers to purchase the Cybercab for personal use on November 13, 2026, requiring an active paid monthly Autonomy Subscription for the vehicle to operate. Personal Cybercabs are limited to Tesla-enabled geofences in eight supported US cities and cannot be used commercially without Tesla authorization.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.securities.io/tesla-personal-cybercabs-require-paid-monthly-autonomy-to-operate/",
+  "source_title": null,
+  "publisher": "Securities.io",
+  "permalink": "https://presentofai.com/e/44139"
+ },
+ {
+  "id": 44134,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Tesla opens Cybercab sales to private buyers at $29,990",
+  "summary": "Tesla began inviting select customers to purchase its Cybercab, a two-seat autonomous vehicle without conventional driver controls, for personal use at $29,990 plus a $299/month autonomy subscription. CEO Elon Musk acknowledged the monthly fee was too high and said nationwide availability would depend on regulatory approval.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.tekedia.com/tesla-opens-29990-cybercab-to-select-private-buyers-in-push-for-autonomous-vehicle-sales/",
+  "source_title": null,
+  "publisher": "tekedia",
+  "permalink": "https://presentofai.com/e/44134"
+ },
+ {
+  "id": 44123,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Armed robot dogs deployed in combat in Haiti",
+  "summary": "Salvadoran forces deployed Unitree Go2 quadruped robots fitted with guns during a gang-clearing operation at Sylvio Cator Stadium in Haiti, according to President Nayib Bukele, marking the first confirmed combat use of armed robot dogs by a national military.",
+  "actor": "Unitree",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.jamaicaobserver.com/2026/11/13/el-salvador-uses-armed-robot-dogs-haiti-gang-offensive/",
+  "source_title": null,
+  "publisher": "Jamaica Observer",
+  "permalink": "https://presentofai.com/e/44123"
+ },
+ {
+  "id": 44122,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "Nvidia releases open-source SOMA Retargeter for humanoid robots",
+  "summary": "Nvidia released SOMA Retargeter v0.2 as open source, a tool that converts human motion-capture data into joint trajectories for humanoid robots using a shared skeleton and Nvidia Warp-based inverse kinematics, enabling scalable policy training across robot form factors.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://finance.biggo.com/news/2caf89de-73c2-4b37-a931-58027ead7214",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/44122"
+ },
+ {
+  "id": 44113,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Malaysia Probes Alleged Nvidia AI Chip Diversion Since April 2025",
+  "summary": "Malaysian police opened an investigation in April 2025 into US allegations of illicit procurement and diversion of high-performance AI chips, including Nvidia chips, through Malaysia. Home Minister Saifuddin Nasution confirmed the probe, led by the Ministry of Investment, Trade and Industry under the Strategic Trade Act 2010, involves multiple agencies including police, customs, and Bank Negara Malaysia.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.straitstimes.com/asia/se-asia/malaysia-probing-alleged-nvidia-ai-chip-diversion-since-april-2025-home-minister",
+  "source_title": null,
+  "publisher": "The Straits Times",
+  "permalink": "https://presentofai.com/e/44113"
+ },
+ {
+  "id": 44102,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Chinese hackers run 25 autonomous AI ops via Cairn framework",
+  "summary": "A Chinese-speaking threat group weaponized the open-source Cairn AI penetration-testing framework to conduct 25 autonomous operations against 19 organizations, successfully breaching 10, one of the first documented large-scale autonomous AI-driven attack campaigns.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://gbhackers.com/cairn-ai-framework/",
+  "source_title": null,
+  "publisher": "GBHackers on Security",
+  "permalink": "https://presentofai.com/e/44102"
+ },
+ {
+  "id": 44095,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "Apple Unveils HALO Humanoid Robot Using Unitree & Qwen LLM",
+  "summary": "Apple revealed its HALO humanoid robot, built on Unitree Robotics' G1 hardware platform and Alibaba's Qwen LLM, marking Apple's first publicly disclosed humanoid robot product after a decade of secret R&D.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://eu.36kr.com/en/p/4067917144201095",
+  "source_title": null,
+  "publisher": "36氪_让一部分人先看到未来",
+  "permalink": "https://presentofai.com/e/44095"
+ },
+ {
+  "id": 44094,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "JPMorgan Blocks AI Shopping Agents From Credit Cards",
+  "summary": "JPMorgan Chase extended its existing block on outside agents to credit card payments, preventing AI shopping agents from completing purchases with Chase cards, the Wall Street Journal reported. The bank's CEO Jamie Dimon had previously cited concerns about \"rogue agents\" when announcing restrictions on agent access to accounts.",
+  "actor": "JPMorgan Chase",
+  "ticker": null,
+  "materiality": 71,
+  "source_url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
+  "source_title": null,
+  "publisher": "Pymnts.com",
+  "permalink": "https://presentofai.com/e/44094"
+ },
+ {
+  "id": 44077,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "OpenAI launches ChatGPT Wallet for AI agent payments",
+  "summary": "OpenAI launched ChatGPT Wallet, enabling AI agents to make purchases without exposing users' card details, with per-transaction security checks. The wallet was built in partnership with American Express, Mastercard, and Visa.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.channelnewsasia.com/business/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-6550151",
+  "source_title": null,
+  "publisher": "CNA",
+  "permalink": "https://presentofai.com/e/44077"
+ },
+ {
   "id": 44056,
   "event_date": "2026-11-13",
   "realm": "virtual",
@@ -306,20 +446,6 @@
   "source_title": null,
   "publisher": "Defensenews",
   "permalink": "https://presentofai.com/e/43956"
- },
- {
-  "id": 43955,
-  "event_date": "2026-11-13",
-  "realm": "space",
-  "title": "Constellation Space Launches AI Fleet Management Platform",
-  "summary": "Seattle-based Constellation Space launched its Constellation Platform, which uses machine learning to optimize satellite fleet operations and ground contact planning for low Earth orbit constellations. The startup, founded a year ago by CEO Kamran Majid and co-founders with backgrounds at SpaceX, Blue Origin, and Capital One, has raised $7.5 million in seed funding and reports more than 10 customers including Amazon Web Services and annual contract value of $2.25 million.",
-  "actor": "Constellation Space",
-  "ticker": null,
-  "materiality": 54,
-  "source_url": "https://geekwire.com/2026/constellation-space-platform-satellite-fleets-ml-ai",
-  "source_title": null,
-  "publisher": "Geekwire",
-  "permalink": "https://presentofai.com/e/43955"
  },
  {
   "id": 43954,
@@ -432,20 +558,6 @@
   "source_title": null,
   "publisher": "THE ELEC, Korea Electronics Industry Media",
   "permalink": "https://presentofai.com/e/43880"
- },
- {
-  "id": 43818,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "Armed robot dogs deployed by Salvadoran forces in Haiti",
-  "summary": "Footage released by President Nayib Bukele showed armed quadruped robots accompanying Salvadoran soldiers during a security operation at a stadium in Port-au-Prince, Haiti. Officials did not disclose the manufacturer or weapon specifications, and there is no independently verified evidence the robots fired on targets.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398",
-  "source_title": null,
-  "publisher": "Newsweek",
-  "permalink": "https://presentofai.com/e/43818"
  },
  {
   "id": 43814,
@@ -574,62 +686,6 @@
   "permalink": "https://presentofai.com/e/43642"
  },
  {
-  "id": 43617,
-  "event_date": "2026-11-13",
-  "realm": "virtual",
-  "title": "Nvidia releases open-source SOMA motion retargeter for humanoid robots",
-  "summary": "Nvidia released SOMA Retargeter as open source, a tool that converts human motion-capture data into joint trajectories for humanoid robots using inverse kinematics on Nvidia Warp, enabling scalable policy training across robot form factors.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://finance.biggo.com/news/2caf89de-73c2-4b37-a931-58027ead7214",
-  "source_title": null,
-  "publisher": "BigGo Finance",
-  "permalink": "https://presentofai.com/e/43617"
- },
- {
-  "id": 43601,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "Chinese Firm Linked to Smuggled Nvidia AI Chips in Shanghai",
-  "summary": "Bloomberg reported that a company founded by Alice Huang procured smuggled Nvidia AI chips installed at a Shanghai data center with links to Megaspeed International, deepening the U.S. investigation into restricted chip exports to China.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://bloomberg.com/news/newsletters/2026-11-13/alice-huang-s-ai-chip-network-unveiled-as-nvidia-drama-unfolds-further",
-  "source_title": null,
-  "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/43601"
- },
- {
-  "id": 43595,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "Malaysia Probes Megaspeed Subsidiary Over AI Chip Diversion",
-  "summary": "Malaysia's Ministry of Investment, Trade and Industry said it was working with customs to determine whether AI chips brought into the country by SpeedMatrix, a local unit of Singapore-based Megaspeed, were re-exported to other countries in violation of Malaysian law. Megaspeed is under scrutiny for allegedly steering Nvidia AI chips to China despite US export rules, and Malaysia said it was coordinating with authorities in Singapore and the United States.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.channelnewsasia.com/asia/malaysia-probe-megaspeed-speedmatrix-ai-alice-huang-nvidia-6548491",
-  "source_title": null,
-  "publisher": "CNA",
-  "permalink": "https://presentofai.com/e/43595"
- },
- {
-  "id": 43568,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "FAA Deploys AI SMART Tool Nationwide to All 22 Centers",
-  "summary": "The FAA expanded its AI-powered SMART air traffic control system to all 22 air route traffic control centers nationwide, just 72 hours before a nationwide ground stop on November 13 raised questions about the rollout's timing.",
-  "actor": "FAA",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://ivn.us/did-new-ai-software-just-crash-the-faas-network",
-  "source_title": null,
-  "publisher": "Ivn",
-  "permalink": "https://presentofai.com/e/43568"
- },
- {
   "id": 43565,
   "event_date": "2026-11-13",
   "realm": "virtual",
@@ -726,20 +782,6 @@
   "source_title": null,
   "publisher": "Tom's Hardware",
   "permalink": "https://presentofai.com/e/43374"
- },
- {
-  "id": 43354,
-  "event_date": "2026-11-13",
-  "realm": "virtual",
-  "title": "OpenAI Launches ChatGPT Wallet for AI Agent Purchases",
-  "summary": "OpenAI launched ChatGPT Wallet, enabling its 'dots' AI agents to make purchases on behalf of users, with partnerships with American Express, Mastercard, and Visa allowing cardholders to retain existing rewards.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 76,
-  "source_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-  "source_title": null,
-  "publisher": "CNBC",
-  "permalink": "https://presentofai.com/e/43354"
  },
  {
   "id": 43348,
@@ -950,6 +992,20 @@
   "source_title": null,
   "publisher": "Airandspaceforces",
   "permalink": "https://presentofai.com/e/43018"
+ },
+ {
+  "id": 44156,
+  "event_date": "2026-11-12",
+  "realm": "space",
+  "title": "Constellation Space Launches AI Platform for Satellite Fleet Management",
+  "summary": "Seattle startup Constellation Space launched a platform using machine learning to optimize operations across multiple satellite constellations, targeting the growing commercial satellite fleet management market.",
+  "actor": "Constellation Space",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://geekwire.com/2026/constellation-space-platform-satellite-fleets-ml-ai",
+  "source_title": null,
+  "publisher": "Geekwire",
+  "permalink": "https://presentofai.com/e/44156"
  },
  {
   "id": 44052,
@@ -4396,20 +4452,6 @@
   "permalink": "https://presentofai.com/e/41722"
  },
  {
-  "id": 41719,
-  "event_date": "2026-11-09",
-  "realm": "virtual",
-  "title": "Apple HALO Humanoid Robot System Hits 91% Real-World Success",
-  "summary": "Apple researchers published HALO on arXiv, a three-tier autonomous humanoid robot control system validated on Unitree G1 hardware, achieving 91% average success across 360 single-task tests in six unfamiliar real-world environments, a notable first-of-kind result for Apple in physical AI.",
-  "actor": "Apple",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://finance.biggo.com/news/c675f3b3-0864-406d-a008-f13609b65d0c",
-  "source_title": null,
-  "publisher": "BigGo Finance",
-  "permalink": "https://presentofai.com/e/41719"
- },
- {
   "id": 42553,
   "event_date": "2026-11-08",
   "realm": "terrestrial",
@@ -5306,20 +5348,6 @@
   "permalink": "https://presentofai.com/e/41400"
  },
  {
-  "id": 41396,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "OpenAI and Anthropic release new AI tools for cybersecurity, images, and finance",
-  "summary": "OpenAI released GPT-6 Cyber, a flagship model variant for security research available only to cybersecurity experts in its Daybreak program, and updated its image model with animated GIF support. Anthropic partnered with Plaid to let paying US subscribers connect financial accounts to Claude for spending analysis, with no model training on financial chats.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
-  "source_title": null,
-  "publisher": "CNET",
-  "permalink": "https://presentofai.com/e/41396"
- },
- {
   "id": 41390,
   "event_date": "2026-11-06",
   "realm": "virtual",
@@ -5430,20 +5458,6 @@
   "source_title": null,
   "publisher": "NewsTimes",
   "permalink": "https://presentofai.com/e/41308"
- },
- {
-  "id": 41297,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "OpenAI launches GDPval: real-world economic task benchmark",
-  "summary": "OpenAI introduced GDPval, an evaluation framework measuring AI model performance on economically valuable real-world tasks spanning 44 occupations, marking a shift toward measuring AI impact in GDP-relevant terms rather than academic benchmarks.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://openai.com/index/gdpval/",
-  "source_title": null,
-  "publisher": "OpenAI",
-  "permalink": "https://presentofai.com/e/41297"
  },
  {
   "id": 41295,
@@ -6510,20 +6524,6 @@
   "permalink": "https://presentofai.com/e/41477"
  },
  {
-  "id": 41460,
-  "event_date": "2026-11-04",
-  "realm": "virtual",
-  "title": "Perplexity Launches 'Teammates' AI Agents for Business",
-  "summary": "Perplexity announced Teammates, a business-focused AI agent product for Perplexity Max plan subscribers, designed to handle complex, ongoing work autonomously, marking Perplexity's first dedicated agentic product for enterprise users.",
-  "actor": "Perplexity",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://gigazine.net/gsc_news/en/20261106-perplexity-teammates/",
-  "source_title": null,
-  "publisher": "GIGAZINE",
-  "permalink": "https://presentofai.com/e/41460"
- },
- {
   "id": 41424,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
@@ -7138,20 +7138,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/39988"
- },
- {
-  "id": 39983,
-  "event_date": "2026-11-04",
-  "realm": "virtual",
-  "title": "OpenAI launches AI tools for physical engineering workflows",
-  "summary": "OpenAI announced a program to apply AI models to professional engineering workflows in the physical world, working with a small group of industry collaborators to test capabilities on real engineering problems and accelerate iteration speed.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-  "source_title": null,
-  "publisher": "Openai",
-  "permalink": "https://presentofai.com/e/39983"
  },
  {
   "id": 39972,
@@ -10668,20 +10654,6 @@
   "permalink": "https://presentofai.com/e/38459"
  },
  {
-  "id": 38454,
-  "event_date": "2026-10-28",
-  "realm": "terrestrial",
-  "title": "SpaceX Commits to $40B NVIDIA GPU Lease for AI Buildout",
-  "summary": "SpaceX announced a binding commitment for a proposed $40 billion equipment lease covering NVIDIA's next-generation Vera Rubin computing platform to expand its Super Intelligence business unit. Apollo will manage the investment entity that buys the hardware and leases it to SpaceX, with equipment deliveries and lease schedules expected to begin in the first half of 2027.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.rdworldonline.com/spacex-commits-to-40b-nvidia-gpu-lease-for-terrestrial-ai-buildout/",
-  "source_title": null,
-  "publisher": "Research & Development World",
-  "permalink": "https://presentofai.com/e/38454"
- },
- {
   "id": 38400,
   "event_date": "2026-10-28",
   "realm": "virtual",
@@ -11016,20 +10988,6 @@
   "source_title": null,
   "publisher": "Kxan",
   "permalink": "https://presentofai.com/e/37730"
- },
- {
-  "id": 37723,
-  "event_date": "2026-10-28",
-  "realm": "terrestrial",
-  "title": "Waymo Adds ~250 Sq Miles of Robotaxi Coverage Across 5 Cities",
-  "summary": "Waymo expanded its driverless robotaxi service area by nearly 250 square miles across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area within a single week, marking a significant simultaneous multi-city coverage expansion.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://www.theverge.com/transportation/1019927/waymo-is-stretching-out",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/37723"
  },
  {
   "id": 37708,
@@ -13438,20 +13396,6 @@
   "source_title": null,
   "publisher": "Dvidshub",
   "permalink": "https://presentofai.com/e/36495"
- },
- {
-  "id": 36453,
-  "event_date": "2026-10-23",
-  "realm": "terrestrial",
-  "title": "Major banks block AI agents from accessing customer accounts",
-  "summary": "Charles Schwab is blocking tens of AI agent login attempts weekly, Bank of America hired 1,000 contractors after Anthropic's Mythos flagged code flaws, and Citi built dedicated defenses, marking a coordinated real-world operational response by major financial institutions to autonomous AI agents.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://startupfortune.com/big-banks-start-blocking-ai-agents-from-logging-into-customer-accounts/",
-  "source_title": null,
-  "publisher": "Startup Fortune",
-  "permalink": "https://presentofai.com/e/36453"
  },
  {
   "id": 36431,
@@ -27066,7 +27010,7 @@
   "event_date": "2026-09-22",
   "realm": "virtual",
   "title": "Apple's redesigned Siri AI launches with iPhone 18 Pro",
-  "summary": "Apple shipped a substantially upgraded Siri powered by third-generation Apple Foundation Models with iPhone 18 Pro, using both on-device inference and Private Cloud Compute, marking the first major functional overhaul of Siri since its 2011 debut.",
+  "summary": "Apple launched iPhone 18 Pro on Sept. 18 with a new 'Siri AI,' described by Apple as an entirely new version of Siri powered by third-generation Apple Foundation Models developed in collaboration with Google. The new Siri uses both on-device inference and Private Cloud Compute, and early reviews from outlets including The Wall Street Journal and TechCrunch called it finally usable, though slower than rivals and limited in third-party integration.",
   "actor": "Apple",
   "ticker": null,
   "materiality": 72,
@@ -53539,8 +53483,8 @@
   "id": 4290,
   "event_date": "2026-07-17",
   "realm": "terrestrial",
-  "title": "Meta launches Meta Compute AI cloud service",
-  "summary": "Meta is launching Meta Compute, a cloud infrastructure business aimed at selling access to its AI data center capacity to external customers. The move broadens Meta's business beyond advertising and social apps, entering the enterprise AI and cloud services market.",
+  "title": "Meta launches Meta Compute and nears $6.5 billion Samsung AI chip deal",
+  "summary": "Meta announced the launch of Meta Compute alongside reports that it is nearing a $6.5 billion AI chip deal with Samsung. The article provides no further details about the nature or scope of Meta Compute.",
   "actor": "Meta",
   "ticker": null,
   "materiality": 75,
@@ -54612,20 +54556,6 @@
   "source_title": null,
   "publisher": "Digital Watch Observatory",
   "permalink": "https://presentofai.com/e/4562"
- },
- {
-  "id": 4239,
-  "event_date": "2026-07-14",
-  "realm": "terrestrial",
-  "title": "DeepMind CEO proposes US-led global frontier AI watchdog",
-  "summary": "Google DeepMind CEO Demis Hassabis publicly called for a FINRA-style independent standards body to regulate frontier AI model releases before deployment, proposing it be US-led and industry-funded, a notable shift from a major lab CEO.",
-  "actor": "Google DeepMind",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/4239"
  },
  {
   "id": 3695,
