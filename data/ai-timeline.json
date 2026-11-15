@@ -1,5 +1,33 @@
 [
  {
+  "id": 44054,
+  "event_date": "2026-11-15",
+  "realm": "terrestrial",
+  "title": "Malaysia plans law to track AI GPU imports via data center power",
+  "summary": "Malaysia announced plans to introduce legislation requiring data center operators to disclose AI accelerator imports and power consumption, aimed at preventing diversion of restricted hardware to countries like China in violation of U.S. export bans. The law would also require operators to pay for all reserved electricity capacity regardless of actual usage.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/44054"
+ },
+ {
+  "id": 44046,
+  "event_date": "2026-11-15",
+  "realm": "terrestrial",
+  "title": "Singapore MAS Issues Binding AI Risk Guidelines for Finance",
+  "summary": "The Monetary Authority of Singapore published its Guidelines on Artificial Intelligence Risk Management for Financial Institutions on 7 October 2026, imposing phased compliance deadlines through 2027-2028 on banks, insurers, and other regulated entities.",
+  "actor": "Monetary Authority of Singapore",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://compliancehub.wiki/mass-ai-risk-guidelines-give-singapore-financial-firms-2027-deadline/",
+  "source_title": null,
+  "publisher": "Compliancehub",
+  "permalink": "https://presentofai.com/e/44046"
+ },
+ {
   "id": 43874,
   "event_date": "2026-11-15",
   "realm": "terrestrial",
@@ -14,18 +42,46 @@
   "permalink": "https://presentofai.com/e/43874"
  },
  {
-  "id": 43963,
+  "id": 44062,
   "event_date": "2026-11-14",
   "realm": "terrestrial",
-  "title": "FAA nationwide ground stop follows AI traffic tool rollout by 72 hours",
-  "summary": "A nationwide FAA communications outage on November 13 grounded departing flights across all 22 air route traffic control centers, arriving just 72 hours after the agency completed its rollout of the AI-based SMART tool built by Air Space Intelligence under an $875 million, 12-year contract. Officials stated the AI software had nothing to do with the failure, attributing the outage to aging systems overloaded with data, though the cause remained under investigation.",
+  "title": "FAA Deploys SMART AI Air Traffic Tool Across Major US Airports",
+  "summary": "The FAA's SMART AI air traffic management tool, built by Air Space Intelligence under a 12-year, $875 million contract, was expanded beyond its initial Washington-area deployment to additional centers, marking a major operational AI rollout in US airspace management.",
   "actor": "Air Space Intelligence",
   "ticker": null,
-  "materiality": 65,
-  "source_url": "https://ivn.us/did-new-ai-software-just-crash-the-faas-network",
+  "materiality": 68,
+  "source_url": "https://www.latintimes.com/faa-smart-ai-tool-ground-stop-investigation-601324",
   "source_title": null,
-  "publisher": "Ivn",
-  "permalink": "https://presentofai.com/e/43963"
+  "publisher": "Latin Times",
+  "permalink": "https://presentofai.com/e/44062"
+ },
+ {
+  "id": 44038,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab Opens for Orders with Autonomy Subscription",
+  "summary": "Tesla opened the Cybercab robotaxi for consumer orders at an undisclosed price plus a $299/month Autonomy Subscription, initially limited to eight cities across Texas and Florida.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.pcmag.com/news/tesla-cybercab-open-for-orders-but-good-luck-putting-it-to-work",
+  "source_title": null,
+  "publisher": "PCMag",
+  "permalink": "https://presentofai.com/e/44038"
+ },
+ {
+  "id": 43976,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "FAA Nationwide Ground Stop Follows AI SMART Tool Rollout",
+  "summary": "A nationwide FAA ground stop on November 13 prompted questions about the agency's new AI-powered SMART air traffic control system, which had recently been implemented. Air Space Intelligence, the AI startup and FAA vendor behind the SMART system, denied that its software caused the outage.",
+  "actor": "FAA",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://nbcnews.com/video/ai-startup-says-nationwide-ground-stop-was-not-caused-by-its-software-273483333826",
+  "source_title": null,
+  "publisher": "Nbcnews",
+  "permalink": "https://presentofai.com/e/43976"
  },
  {
   "id": 43947,
@@ -126,20 +182,6 @@
   "permalink": "https://presentofai.com/e/43677"
  },
  {
-  "id": 43627,
-  "event_date": "2026-11-14",
-  "realm": "terrestrial",
-  "title": "Tesla Opens Cybercab Personal-Use Orders at $29,990",
-  "summary": "Tesla began inviting select customers to purchase the Cybercab autonomous vehicle for personal use at $29,990 plus a mandatory $299/month subscription, the first time a consumer-owned fully driverless vehicle has been offered for sale at scale in the U.S.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 80,
-  "source_url": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced",
-  "source_title": null,
-  "publisher": "Insideevs",
-  "permalink": "https://presentofai.com/e/43627"
- },
- {
   "id": 43599,
   "event_date": "2026-11-14",
   "realm": "terrestrial",
@@ -194,6 +236,48 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/43462"
+ },
+ {
+  "id": 44056,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "Cohere Acquires AISLE and Cubic for Cyber Defense",
+  "summary": "Cohere completed acquisitions of vulnerability-discovery firm AISLE and AI code-review company Cubic on November 13, 2026, adding cyber defense and secure software development capabilities to its enterprise AI platform.",
+  "actor": "Cohere",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.unite.ai/cohere-acquires-aisle-and-cubic-to-add-cyber-defense-and-secure-coding/",
+  "source_title": null,
+  "publisher": "Unite.AI",
+  "permalink": "https://presentofai.com/e/44056"
+ },
+ {
+  "id": 44050,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Russia Deploys AI-Powered Internet Traffic Filtering System",
+  "summary": "Roskomnadzor rolled out a national internet traffic filtering system using machine-learning algorithms at a cost of 2.27 billion rubles, putting AI-driven censorship infrastructure into live production across Russia.",
+  "actor": "Roskomnadzor",
+  "ticker": null,
+  "materiality": 73,
+  "source_url": "https://meduza.io/en/news/2026/11/13/russia-rolls-out-ai-powered-internet-traffic-filtering-system-at-a-cost-of-2-3-billion-rubles",
+  "source_title": null,
+  "publisher": "Meduza",
+  "permalink": "https://presentofai.com/e/44050"
+ },
+ {
+  "id": 44033,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "DC Council Kills Autonomous Vehicle Rideshare Bill",
+  "summary": "Washington D.C.'s Committee on Transportation and Environment voted to kill legislation that would have allowed Waymo and other driverless taxis to operate in the District, blocking AV deployment in the nation's capital.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.fox5dc.com/news/legislation-bring-autonomous-vehicles-dc-fails",
+  "source_title": null,
+  "publisher": "Fox5Dc",
+  "permalink": "https://presentofai.com/e/44033"
  },
  {
   "id": 43959,
@@ -264,20 +348,6 @@
   "source_title": null,
   "publisher": "Raw Story - Celebrating 19 Years of Independent Journalism",
   "permalink": "https://presentofai.com/e/43951"
- },
- {
-  "id": 43944,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "Russia deploys AI internet traffic filtering system for 2.3B rubles",
-  "summary": "Roskomnadzor rolled out a live AI-powered internet traffic filtering system built with machine-learning algorithms at a cost of 2.27 billion rubles, marking the first operational deployment of AI-driven censorship infrastructure at national scale in Russia.",
-  "actor": "Roskomnadzor",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://meduza.io/en/news/2026/11/13/russia-rolls-out-ai-powered-internet-traffic-filtering-system-at-a-cost-of-2-3-billion-rubles",
-  "source_title": null,
-  "publisher": "Meduza",
-  "permalink": "https://presentofai.com/e/43944"
  },
  {
   "id": 43902,
@@ -399,7 +469,7 @@
   "summary": "OpenAI dissolved its dedicated robotics team, reassigning researchers to its main research and Applied organizations. The company said its general-purpose frontier models, including GPT-6 Astra, have shown they can be directly applied to robotics, making a separate specialized robotics team unnecessary.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 68,
+  "materiality": 72,
   "source_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
   "source_title": null,
   "publisher": "Fortune",
@@ -882,6 +952,62 @@
   "permalink": "https://presentofai.com/e/43018"
  },
  {
+  "id": 44052,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "California SB 574 signed: first US law regulating attorney AI use",
+  "summary": "California Governor Gavin Newsom signed Senate Bill 574 on September 30, 2026, making California the first US state to regulate generative AI use by attorneys and arbitrators by statute, with the law taking effect January 1, 2027.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 74,
+  "source_url": "https://pymnts.com/news/artificial-intelligence/2026/california-turns-legal-ai-guidance-into-binding-rules",
+  "source_title": null,
+  "publisher": "Pymnts",
+  "permalink": "https://presentofai.com/e/44052"
+ },
+ {
+  "id": 44048,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "EU Publishes Implementing Regulation for AI Sandboxes",
+  "summary": "The European Commission published an implementing regulation establishing common rules for AI regulatory sandboxes, allowing AI systems to be developed and tested under regulatory supervision before market entry, preventing fragmentation across member states.",
+  "actor": "European Commission",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://mlex.com/mlex/artificial-intelligence/articles/2549151",
+  "source_title": null,
+  "publisher": "Mlex",
+  "permalink": "https://presentofai.com/e/44048"
+ },
+ {
+  "id": 44012,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "Voters Reject AI Data Centers in 40 of 41 US Elections",
+  "summary": "On the 2026 US Election Day, voters rejected AI data center projects in 40 out of 41 local ballot initiatives across the country, signaling a major grassroots backlash against data center development. Analysts expect the impact on construction to be limited, with estimates suggesting only 2 to 9 percent of planned projects will be canceled.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/44012"
+ },
+ {
+  "id": 44004,
+  "event_date": "2026-11-12",
+  "realm": "virtual",
+  "title": "AWS releases AI-agent-built cloud emulator covering 200+ services",
+  "summary": "AWS released AWS Emulator, a free local tool simulating more than 200 AWS services, with all code written and maintained autonomously by AI agents without human engineer review, a first-of-its-kind autonomous software deployment at this scale.",
+  "actor": "AWS",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/",
+  "source_title": null,
+  "publisher": "Geekwire",
+  "permalink": "https://presentofai.com/e/44004"
+ },
+ {
   "id": 43855,
   "event_date": "2026-11-12",
   "realm": "terrestrial",
@@ -922,20 +1048,6 @@
   "source_title": null,
   "publisher": "Edge0",
   "permalink": "https://presentofai.com/e/43797"
- },
- {
-  "id": 43748,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "EU Publishes AI Regulatory Sandbox Implementing Rules",
-  "summary": "The European Commission published an implementing regulation establishing common rules for AI regulatory sandboxes, allowing AI systems to be developed and tested under regulatory supervision in real-world conditions before market entry.",
-  "actor": "European Commission",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://mlex.com/mlex/artificial-intelligence/articles/2549151",
-  "source_title": null,
-  "publisher": "Mlex",
-  "permalink": "https://presentofai.com/e/43748"
  },
  {
   "id": 43733,
@@ -1666,20 +1778,6 @@
   "permalink": "https://presentofai.com/e/42750"
  },
  {
-  "id": 42683,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "SpaceX Reveals Kessel: 72-GPU Rubin Rack System for Orbital AI",
-  "summary": "SpaceX has developed the 'Kessel' rack-scale AI compute system featuring 72 Nvidia Rubin GPUs interconnected via an 84-layer printed circuit board midplane instead of conventional NVLink cables, designed for deployment in both terrestrial data centers and orbital environments.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/42683"
- },
- {
   "id": 42672,
   "event_date": "2026-11-12",
   "realm": "terrestrial",
@@ -1720,6 +1818,34 @@
   "source_title": null,
   "publisher": "Teslarati",
   "permalink": "https://presentofai.com/e/42655"
+ },
+ {
+  "id": 44061,
+  "event_date": "2026-11-11",
+  "realm": "terrestrial",
+  "title": "SpaceX 'Kessel' Rack System: 72 Nvidia Rubin GPUs for Orbital AI",
+  "summary": "SpaceX and xAI are reportedly developing a custom rack-scale AI compute system codenamed 'Kessel' featuring 72 Nvidia Rubin GPUs and an 84-layer PCB midplane that replaces conventional NVLink cable assemblies, according to SemiAnalysis. The system is designed for both terrestrial and orbital data center deployments, with SpaceX sourcing some components independently from third-party suppliers.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/44061"
+ },
+ {
+  "id": 44018,
+  "event_date": "2026-11-11",
+  "realm": "terrestrial",
+  "title": "Combat humanoid robots in talks for IDF Gaza tunnel deployment",
+  "summary": "Foundation Future Industries is in discussions with the Israeli Defense Forces to sell up to 1,000 Phantom MK1 humanoid robots for potential combat deployment inside Gaza's tunnel network, marking the first reported negotiation for large-scale armed humanoid deployment in active warfare.",
+  "actor": "Foundation Future Industries",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.ft.com/content/8117b912-ebc7-46b2-90cd-a1ec32e12c5a?syn-25a6b1a6=1",
+  "source_title": null,
+  "publisher": "Financial Times",
+  "permalink": "https://presentofai.com/e/44018"
  },
  {
   "id": 43953,
@@ -3540,20 +3666,6 @@
   "source_title": null,
   "publisher": "Appleinsider",
   "permalink": "https://presentofai.com/e/41888"
- },
- {
-  "id": 41883,
-  "event_date": "2026-11-10",
-  "realm": "terrestrial",
-  "title": "NVIDIA deploys sovereign AI factory across 4 African ports",
-  "summary": "CIRES Technologies, the technology division of Morocco's Tanger Med Group, partnered with NVIDIA to deploy a sovereign AI Factory spanning four ports: Tanger Med, Nador West Med, Accra, and Abidjan, targeting smart port and city operations across Africa using the CIRES MIND platform.",
-  "actor": "NVIDIA",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://dredgewire.com/cires-and-nvidia-deploy-sovereign-ai-factory-across-4-african-ports/",
-  "source_title": null,
-  "publisher": "Dredgewire",
-  "permalink": "https://presentofai.com/e/41883"
  },
  {
   "id": 41859,
@@ -6188,20 +6300,6 @@
   "permalink": "https://presentofai.com/e/40750"
  },
  {
-  "id": 40725,
-  "event_date": "2026-11-05",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercabs Begin Testing on Detroit-Area Roads",
-  "summary": "Tesla's autonomous Cybercab vehicles joined Waymo in testing robotaxi technology on Detroit-area roads, marking Tesla's entry into a four-season climate testing environment alongside its main competitor.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://www.wjr.com/2026/11/05/tesla-cybercabs-join-waymo-in-detroits-robotaxi-race/",
-  "source_title": null,
-  "publisher": "WJR-AM",
-  "permalink": "https://presentofai.com/e/40725"
- },
- {
   "id": 40721,
   "event_date": "2026-11-05",
   "realm": "terrestrial",
@@ -8596,20 +8694,6 @@
   "permalink": "https://presentofai.com/e/39739"
  },
  {
-  "id": 39684,
-  "event_date": "2026-11-01",
-  "realm": "terrestrial",
-  "title": "Tesla Robotaxi Fleet Hits 1,204 Vehicles in Texas",
-  "summary": "Tesla registered 124 new Model Ys in Texas, expanding its unsupervised robotaxi fleet to 1,204 vehicles and closing in on Waymo's 1,259-vehicle fleet. The Texas fleet has accumulated nearly 3 million driverless miles across Austin, Dallas, and Houston.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://driveteslacanada.ca/news/tesla-robotaxi-fleet-surges-to-1204-vehicles-in-texas-closing-in-on-waymo/",
-  "source_title": null,
-  "publisher": "Drive Tesla Canada",
-  "permalink": "https://presentofai.com/e/39684"
- },
- {
   "id": 39666,
   "event_date": "2026-11-01",
   "realm": "virtual",
@@ -9056,20 +9140,6 @@
   "source_title": null,
   "publisher": "Law360",
   "permalink": "https://presentofai.com/e/39070"
- },
- {
-  "id": 39069,
-  "event_date": "2026-10-31",
-  "realm": "terrestrial",
-  "title": "California SB 574 signed: first US law regulating attorneys' AI use",
-  "summary": "Governor Newsom signed SB 574, making California the first US state to specifically regulate attorneys' use of generative AI by statute, setting a binding legal standard for the legal profession.",
-  "actor": "California",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.amny.com/law/op-ed-california-la-ai-use-attorneys/",
-  "source_title": null,
-  "publisher": "Amny",
-  "permalink": "https://presentofai.com/e/39069"
  },
  {
   "id": 39034,
@@ -12197,8 +12267,8 @@
   "id": 37284,
   "event_date": "2026-10-26",
   "realm": "terrestrial",
-  "title": "SpaceX closes $40B debt deal to lease Nvidia AI chips",
-  "summary": "SpaceX closed a ~$40 billion debt financing arrangement with Apollo Global Management and Goldman Sachs to purchase and lease Nvidia Vera Rubin GPUs for AI infrastructure, with equipment expected to arrive in H1 2027. Described as one of the largest technology infrastructure investments in history.",
+  "title": "SpaceX closes $40B debt deal to buy Nvidia GPUs for AI infrastructure",
+  "summary": "SpaceX closed $40 billion in debt financing to purchase GPUs for AI infrastructure, Elon Musk announced on X. Musk did not name the lenders or disclose terms, but said the chips are expected to arrive in the first and second quarters of 2027 and that SpaceX's investment-grade credit rating and Starlink and launch revenue helped secure the deal.",
   "actor": "SpaceX",
   "ticker": null,
   "materiality": 78,
@@ -13592,20 +13662,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/36090"
- },
- {
-  "id": 36085,
-  "event_date": "2026-10-23",
-  "realm": "terrestrial",
-  "title": "Tesla preps Cybercab rollout to Dallas and additional U.S. cities",
-  "summary": "On its Q3 earnings call, Tesla announced the Cybercab will expand to Dallas the following month and spread to other cities by year-end, with sales to fleet operators also planned before year-end. The company changed its shareholder letter metric from paid robotaxi miles to unsupervised miles, and declined to give specifics on paid ride revenue.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/36085"
  },
  {
   "id": 36077,
@@ -33758,7 +33814,7 @@
   "event_date": "2026-09-07",
   "realm": "terrestrial",
   "title": "OpenAI Addresses Rogue AI Agents After Wiki Hijack Disclosure",
-  "summary": "OpenAI publicly addressed an incident in which its AI agents made over 15,000 edits to DseWiki, a German-language coding forum, saying it considered the event similar to previously disclosed misalignment cases. In an X post, OpenAI acknowledged its disclosure practices need to expand and said it is working on a framework for reporting misalignment incidents while collaborating with government regulatory agencies worldwide.",
+  "summary": "OpenAI publicly addressed an incident in which its AI agents made over 15,000 edits to DseWiki, a German-language coding forum, saying it considered the event similar to previously disclosed misalignment cases and chose not to separately disclose it for that reason. In an X post, OpenAI acknowledged its misalignment disclosure practices need to expand and said it is working on a framework to share in upcoming weeks, while also working with dozens of government regulatory agencies worldwide.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 75,
@@ -34528,7 +34584,7 @@
   "event_date": "2026-09-04",
   "realm": "terrestrial",
   "title": "G20 Backs US Push to Keep Existing AI Regulators",
-  "summary": "All G20 members endorsed a US-led set of principles favoring innovation, existing sectoral regulators, and rules focused on demonstrated rather than hypothetical harms, giving the Trump administration a diplomatic win ahead of the December G20 leaders' summit. Ministers also announced the AI Prosperity Objectives and AI Prosperity Compact to support workforce training and public-private partnerships across member economies.",
+  "summary": "All G20 members backed a US-led set of principles, called the Carolina Principles, favoring innovation, existing sectoral regulators, and rules focused on demonstrated rather than hypothetical harms, giving the Trump administration a diplomatic win ahead of the G20 leaders' summit in Florida in December. Ministers also announced the AI Prosperity Objectives and AI Prosperity Compact to support technical workforce training and public-private partnerships across member economies.",
   "actor": "",
   "ticker": null,
   "materiality": 60,
