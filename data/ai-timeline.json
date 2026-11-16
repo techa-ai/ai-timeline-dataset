@@ -1,5 +1,33 @@
 [
  {
+  "id": 44382,
+  "event_date": "2026-11-16",
+  "realm": "virtual",
+  "title": "Apple launches 200,000-seat Health AI study with OpenEvidence",
+  "summary": "Apple began enrolling up to 200,000 U.S. adults in the Apple Health AI Usage Study, a 12-month research program with clinical AI platform OpenEvidence, allowing participants to ask medical questions via iPhone 15 Pro or newer running iOS 26.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://finance.biggo.com/news/6a212f57-9412-4ac8-a010-e911f51e53b2",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/44382"
+ },
+ {
+  "id": 44366,
+  "event_date": "2026-11-16",
+  "realm": "virtual",
+  "title": "Alibaba Launches Qwen4-Max Flagship AI Model",
+  "summary": "Alibaba launched its new flagship Qwen4-Max AI model, claiming performance rivaling Anthropic and OpenAI, with strengthened safety protections for complex professional and scientific work.",
+  "actor": "Alibaba",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-16/alibaba-unveils-new-flagship-ai-model-in-riposte-to-us-rivals",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/44366"
+ },
+ {
   "id": 44335,
   "event_date": "2026-11-16",
   "realm": "terrestrial",
@@ -12,20 +40,6 @@
   "source_title": null,
   "publisher": "Safeguard",
   "permalink": "https://presentofai.com/e/44335"
- },
- {
-  "id": 44332,
-  "event_date": "2026-11-16",
-  "realm": "terrestrial",
-  "title": "US and 8 Nations Sign San Francisco Declaration to Safeguard AI Supply Chains",
-  "summary": "The United States and eight partner nations signed the San Francisco Declaration to diversify sources of critical AI hardware and software components and minimize dependency on Chinese technology. The accord aims to stabilize semiconductor and other infrastructure production necessary for AI development.",
-  "actor": "US Government",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://huggingnews.com/geopolitics/us-and-8-partners-ink-san-francisco-declaration-to-safeguard-ai-supply-c-6293ba42",
-  "source_title": null,
-  "publisher": "Huggingnews",
-  "permalink": "https://presentofai.com/e/44332"
  },
  {
   "id": 44295,
@@ -54,6 +68,90 @@
   "source_title": null,
   "publisher": "Bleepingcomputer",
   "permalink": "https://presentofai.com/e/44291"
+ },
+ {
+  "id": 44405,
+  "event_date": "2026-11-15",
+  "realm": "space",
+  "title": "DARPA/Caltech ASTRA Robot Assembles Structure in Orbit",
+  "summary": "DARPA and Caltech's autonomous robot ASTRA completed the first independent robotic assembly of a structure in space without astronaut assistance, piecing together composite fiber tubes and aluminum joints to form a 1.4-meter-diameter section of a reflector antenna.",
+  "actor": "DARPA",
+  "ticker": null,
+  "materiality": 88,
+  "source_url": "https://sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
+  "source_title": null,
+  "publisher": "Sciencealert",
+  "permalink": "https://presentofai.com/e/44405"
+ },
+ {
+  "id": 44403,
+  "event_date": "2026-11-15",
+  "realm": "terrestrial",
+  "title": "Iris humanoid robot controlled partly by living human neurons",
+  "summary": "Stanford bioengineer Jan Liphardt's team demonstrated Iris, a humanoid robot whose control loop runs partly through living human neurons grown in a lab, a first-of-its-kind biological-digital hybrid robot control system.",
+  "actor": "Stanford University",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://the-gadgeteer.com/2026/11/15/iris-humanoid-living-human-neurons/",
+  "source_title": null,
+  "publisher": "The Gadgeteer",
+  "permalink": "https://presentofai.com/e/44403"
+ },
+ {
+  "id": 44392,
+  "event_date": "2026-11-15",
+  "realm": "terrestrial",
+  "title": "Samsung to Produce Tesla AI and SpaceX Starlink Chips at Texas Fabs",
+  "summary": "Samsung plans to produce Tesla AI chips at its Taylor, Texas fab and SpaceX Starlink satellite chips at its Austin fab, the latter through a collaboration with STMicroelectronics using FD-SOI technology, supported by $4.745 billion in U.S. CHIPS Act subsidies for its $37 billion Texas investment.",
+  "actor": "Samsung",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://en.sedaily.com/business/2026/11/15/samsung-splits-texas-fabs-space-chips-in-austin-ai-chips-in",
+  "source_title": null,
+  "publisher": "Seoul Economic Daily",
+  "permalink": "https://presentofai.com/e/44392"
+ },
+ {
+  "id": 44383,
+  "event_date": "2026-11-15",
+  "realm": "terrestrial",
+  "title": "FBI/DoJ disrupts North Korean AI deepfake FaceStealer campaign",
+  "summary": "The U.S. DoJ seized cloud infrastructure used in the FaceStealer campaign, which leveraged AI deepfakes to steal $400 million from victims and compromise open-source software; 900 videos of targeted victims were found in the seized infrastructure.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+  "source_title": null,
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/44383"
+ },
+ {
+  "id": 44378,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "XRP Ledger Surpasses 10M AI Agent Microtransactions, Interviewer Cites 11.7M",
+  "summary": "t54.ai founder Chandler Fang said the company's x402 Facilitator on the XRP Ledger has processed more than 10 million sub-dollar AI agent transactions, with the interviewer putting the figure at 11.7 million. Fang said the volume ramped up quickly over three months, with the most common use case being payments for AI compute at around $0.50 to $1 per task.",
+  "actor": "t54.ai",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.tradingview.com/news/u_today:0ebca7ce2094b:0-xrp-ledger-passes-11-7-million-sub-dollar-ai-agent-microtransactions/",
+  "source_title": null,
+  "publisher": "TradingView",
+  "permalink": "https://presentofai.com/e/44378"
+ },
+ {
+  "id": 44365,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "AI-generated song hits No. 1 on South Korea's Melon chart",
+  "summary": "The AI-generated ballad 'The Adult I Dreamed Of' by AI musician Meomuru ranked No. 1 on Melon's Top 100 for three consecutive days as of Sunday, becoming the first song composed and sung entirely by AI to top the chart. The track was created by production duo Glorywave, who wrote the lyrics and shaped the song's direction before using AI to generate the arrangement, melody, and vocals.",
+  "actor": "Meomuru",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.koreajoongangdaily.com/entertainment/aigenerated-ballad-conquers-melon-chart/12973647",
+  "source_title": null,
+  "publisher": "koreajoongangdaily",
+  "permalink": "https://presentofai.com/e/44365"
  },
  {
   "id": 44281,
@@ -301,7 +399,7 @@
   "summary": "A Maricopa Superior Court judge ordered the release of a DUI suspect after finding he could not establish probable cause because the police report, prepared with the AI tool Truleo, did not clarify which parts were written by the officer versus generated by AI. The judge noted the decision did not prevent prosecutors from pursuing the case at a later stage.",
   "actor": "",
   "ticker": null,
-  "materiality": 55,
+  "materiality": 58,
   "source_url": "https://timesofindia.indiatimes.com/world/us/unable-to-determine-probable-cause-arizona-judge-releases-dui-suspect-over-ai-generated-police-report/articleshow/135835795.cms",
   "source_title": null,
   "publisher": "The Times of India",
@@ -474,6 +572,34 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/43462"
+ },
+ {
+  "id": 44384,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "Cloudflare open-sources Kitesurf AI-agent browser engine",
+  "summary": "Cloudflare released Kitesurf on GitHub under Apache 2.0, a stateless browser engine for AI agents running on Cloudflare Workers that parses HTML, executes JavaScript, and renders screenshots and PDFs without a Chromium process.",
+  "actor": "Cloudflare",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://mlq.ai/news/cloudflare-open-sources-kitesurf-its-workers-based-browser-engine-for-ai-agents/",
+  "source_title": null,
+  "publisher": "MLQ.ai - AI infrastructure intelligence",
+  "permalink": "https://presentofai.com/e/44384"
+ },
+ {
+  "id": 44371,
+  "event_date": "2026-11-13",
+  "realm": "virtual",
+  "title": "ChatGPT Wallet lets AI agents shop and check out on users' behalf",
+  "summary": "OpenAI launched a ChatGPT Wallet feature that lets its agents, called dots, help users decide what to buy and complete purchases on their behalf, with users approving each transaction via a security check like Face ID. The feature initially rolls out to a limited number of U.S. ChatGPT Pro subscribers who hold a U.S.-issued Visa, Mastercard, or American Express card.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/44371"
  },
  {
   "id": 44297,
@@ -882,20 +1008,6 @@
   "permalink": "https://presentofai.com/e/43812"
  },
  {
-  "id": 43764,
-  "event_date": "2026-11-13",
-  "realm": "space",
-  "title": "Caltech ASTRA robot assembles antenna frame section in orbit",
-  "summary": "Caltech's ASTRA robotic system successfully added a section to an antenna frame while in orbit, demonstrating in-space AI-assisted construction of structures too large to launch intact.",
-  "actor": "Caltech",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://therundown.ai/news/caltech-astra-robot-builds-antenna-frame-orbit",
-  "source_title": null,
-  "publisher": "Therundown",
-  "permalink": "https://presentofai.com/e/43764"
- },
- {
   "id": 43763,
   "event_date": "2026-11-13",
   "realm": "virtual",
@@ -1272,6 +1384,34 @@
   "source_title": null,
   "publisher": "Airandspaceforces",
   "permalink": "https://presentofai.com/e/43018"
+ },
+ {
+  "id": 44395,
+  "event_date": "2026-11-12",
+  "realm": "terrestrial",
+  "title": "Baidu Unveils AI Chip Roadmap with 1,024-Accelerator System",
+  "summary": "At Baidu World 2026, Baidu revealed its AI chip roadmap including the Tianchi 1024 supernode, which connects 1,024 chips with three times the bandwidth, 2.5 times the training performance, and three times the inference performance of existing systems, planned for launch in 2027. CEO Li Yanhong said inference demand has become as important as training and will be the main long-term growth driver in AI semiconductors.",
+  "actor": "Baidu",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://biz.chosun.com/en/en-international/2026/11/12/U3ZYVLUTYZEATCCAH35K7CSX3Q",
+  "source_title": null,
+  "publisher": "Biz",
+  "permalink": "https://presentofai.com/e/44395"
+ },
+ {
+  "id": 44385,
+  "event_date": "2026-11-12",
+  "realm": "virtual",
+  "title": "Square launches Squaremates AI agent out of beta",
+  "summary": "Square took its Squaremates AI agent out of beta and opened it to all sellers, also releasing a command-line tool and updated Model Context Protocol server to allow sellers to integrate their own AI software.",
+  "actor": "Square",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software",
+  "source_title": null,
+  "publisher": "Siliconangle",
+  "permalink": "https://presentofai.com/e/44385"
  },
  {
   "id": 44285,
@@ -2184,20 +2324,6 @@
   "permalink": "https://presentofai.com/e/42655"
  },
  {
-  "id": 44344,
-  "event_date": "2026-11-11",
-  "realm": "virtual",
-  "title": "OpenAI acquires Odessia AI travel startup in apparent acqui-hire",
-  "summary": "OpenAI acquired AI travel startup Odessia, founded by Sonder's Francis Davidson, in what appears to be an acqui-hire, with Davidson now working at OpenAI on the future of travel. Terms were not disclosed, Odessia's tool has been shut down, and OpenAI has not announced specific travel products.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/44344"
- },
- {
   "id": 44247,
   "event_date": "2026-11-11",
   "realm": "terrestrial",
@@ -2952,20 +3078,6 @@
   "source_title": null,
   "publisher": "Ibtimes",
   "permalink": "https://presentofai.com/e/42360"
- },
- {
-  "id": 42312,
-  "event_date": "2026-11-11",
-  "realm": "virtual",
-  "title": "Alibaba launches Qwen4-Max preview on Token Plan",
-  "summary": "Alibaba made its next-generation Qwen4-Max large language model available in preview form on the Alibaba Token Plan, ahead of a full public release. The model has also been integrated into several Alibaba products including Qwen Office, Qoder, the Qwen APP, and QwenStudio.",
-  "actor": "Alibaba",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://phemex.com/news/article/alibabas-qwen4max-preview-debuts-on-token-plan-ahead-of-full-release-103138",
-  "source_title": null,
-  "publisher": "Phemex",
-  "permalink": "https://presentofai.com/e/42312"
  },
  {
   "id": 42264,
@@ -4632,20 +4744,6 @@
   "source_title": null,
   "publisher": "Roastbrief US",
   "permalink": "https://presentofai.com/e/41841"
- },
- {
-  "id": 41831,
-  "event_date": "2026-11-09",
-  "realm": "space",
-  "title": "Caltech robot autonomously assembles structure in space",
-  "summary": "For the first time, a robot autonomously constructed part of a structure in orbit, a breakthrough Caltech says could enable construction of large telescopes, antennas, and solar power stations far beyond the size limits of current rockets.",
-  "actor": "Caltech",
-  "ticker": null,
-  "materiality": 85,
-  "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-  "source_title": null,
-  "publisher": "ScienceDaily",
-  "permalink": "https://presentofai.com/e/41831"
  },
  {
   "id": 41815,
@@ -7950,20 +8048,6 @@
   "source_title": null,
   "publisher": "Automate",
   "permalink": "https://presentofai.com/e/40001"
- },
- {
-  "id": 39985,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "Samsung Foundry wins 2nm AI chip order via Faraday",
-  "summary": "Taiwan's Faraday Technology won a design project for a U.S. cloud company's AI chip, the largest contract since Faraday's founding at tens of millions of dollars, with Samsung Foundry handling wafer production on the 2nm Gate-All-Around node and first revenue expected in H1 2027.",
-  "actor": "Samsung",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://biz.chosun.com/en/en-it/2026/11/03/GONSGH3UFJBM7EOY2VLWAA6EWY/",
-  "source_title": null,
-  "publisher": "Chosunbiz - 프리미엄 경제 파워",
-  "permalink": "https://presentofai.com/e/39985"
  },
  {
   "id": 39938,
