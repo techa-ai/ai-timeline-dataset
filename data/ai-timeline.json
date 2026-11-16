@@ -1,5 +1,75 @@
 [
  {
+  "id": 44607,
+  "event_date": "2026-11-16",
+  "realm": "terrestrial",
+  "title": "India drafts AI law requiring pre-launch safety tests",
+  "summary": "India's government has finalized draft AI regulations that would require AI models, particularly the most powerful ones, to pass safety tests before launch, marking a significant step toward binding AI governance in the world's most populous country.",
+  "actor": "Government of India",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.ndtvprofit.com/india/exclusive-ai-models-may-need-to-pass-tests-before-launch-under-indias-draft-rules-12333172",
+  "source_title": null,
+  "publisher": "Ndtvprofit",
+  "permalink": "https://presentofai.com/e/44607"
+ },
+ {
+  "id": 44603,
+  "event_date": "2026-11-16",
+  "realm": "terrestrial",
+  "title": "US and 9 Partners Sign San Francisco Declaration on AI Supply Chains",
+  "summary": "The United States and nine partner nations including India, Australia, Japan, and the UK signed the San Francisco Declaration on 15 November 2026 at the Pax Silica Founders Retreat, cementing shared principles for securing AI and Super Intelligence supply chains. The declaration designates ports, terminals, transport, logistics, and energy infrastructure as critical infrastructure and proposes five working groups covering supply chain cooperation, security, and resilience.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.logisticsinsider.in/india-pax-silica-san-francisco-declaration/",
+  "source_title": null,
+  "publisher": "Chromosomes Media Pvt Ltd",
+  "permalink": "https://presentofai.com/e/44603"
+ },
+ {
+  "id": 44602,
+  "event_date": "2026-11-16",
+  "realm": "terrestrial",
+  "title": "UN convenes to discuss international ban on autonomous AI weapons",
+  "summary": "The United Nations opened discussions on November 16 regarding a potential international ban on autonomous weapons systems powered by artificial intelligence, marking a formal multilateral governance moment for lethal AI.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://babel.ua/en/news/131757-un-to-discuss-international-ban-on-autonomous-weapons-with-artificial-intelligence",
+  "source_title": null,
+  "publisher": "Бабель | Розповідаємо про політику, культуру і суспільство в Україні. Останні новини детально і неупереджено",
+  "permalink": "https://presentofai.com/e/44602"
+ },
+ {
+  "id": 44601,
+  "event_date": "2026-11-16",
+  "realm": "terrestrial",
+  "title": "Baidu granted 188 km² driverless taxi license in Shenzhen",
+  "summary": "Ahead of the APEC summit on November 18-19, Baidu's Apollo Go received a license to provide driverless ride-hailing services across 188 km² of Shenzhen, with plans to add 200 fully driverless robotaxis during 2026.",
+  "actor": "Baidu",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://shattered.io/shenzhen-apec-driverless-taxis-baidu-188-sq-km-license-5000-ai-taxis/",
+  "source_title": null,
+  "publisher": "Shattered",
+  "permalink": "https://presentofai.com/e/44601"
+ },
+ {
+  "id": 44591,
+  "event_date": "2026-11-16",
+  "realm": "terrestrial",
+  "title": "Zoox robotaxis launch on Uber in Las Vegas",
+  "summary": "Amazon's Zoox began offering rides via the Uber app in Las Vegas, marking the first time a purpose-built, steering-wheel-free autonomous vehicle has been added to Uber's network and the first time Zoox has opened its fleet to a third-party platform.",
+  "actor": "Zoox",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/44591"
+ },
+ {
   "id": 44516,
   "event_date": "2026-11-16",
   "realm": "space",
@@ -12,20 +82,6 @@
   "source_title": null,
   "publisher": "ANI News",
   "permalink": "https://presentofai.com/e/44516"
- },
- {
-  "id": 44506,
-  "event_date": "2026-11-16",
-  "realm": "terrestrial",
-  "title": "Baidu Wins 188 km² Driverless Taxi License in Shenzhen",
-  "summary": "Baidu's Apollo Go received a 188 km² autonomous taxi operating license in Shenzhen ahead of the APEC summit, one of the largest geographic footprints granted to a driverless taxi service globally.",
-  "actor": "Baidu",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://shattered.io/shenzhen-apec-driverless-taxis-baidu-188-sq-km-license-5000-ai-taxis/",
-  "source_title": null,
-  "publisher": "Shattered",
-  "permalink": "https://presentofai.com/e/44506"
  },
  {
   "id": 44494,
@@ -63,7 +119,7 @@
   "summary": "AMD disclosed detailed specifications for its next-generation Instinct MI400 series AI accelerators, claiming a 30% inference performance advantage over Nvidia's competing products.",
   "actor": "AMD",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://finance.biggo.com/news/859bbf02-a5bc-4c1a-8804-d53861279819",
   "source_title": null,
   "publisher": "Finance",
@@ -168,18 +224,74 @@
   "permalink": "https://presentofai.com/e/44291"
  },
  {
-  "id": 44507,
+  "id": 44594,
   "event_date": "2026-11-15",
   "realm": "terrestrial",
-  "title": "UN Geneva conference opens on autonomous weapons curbs",
-  "summary": "A UN conference in Geneva convened to discuss binding prohibitions and regulatory frameworks for lethal autonomous weapons (killer robots) powered by AI, amid warnings that meaningful agreement is unlikely.",
-  "actor": "United Nations",
+  "title": "DARPA tests autonomous ground robots in pack-hunting combat trials",
+  "summary": "In mid-October at Fort Knox, DARPA tested four autonomous ground vehicles that cooperatively scouted, surveilled, and identified simulated threats in a pack-hunting configuration as part of its RACER program. All movement and detection was autonomous, but a human operator was required to approve any engagement before the robots could fire.",
+  "actor": "DARPA",
   "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.japantimes.co.jp/news/2026/11/15/world/autonomous-weapons-revolution/",
+  "materiality": 72,
+  "source_url": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
   "source_title": null,
-  "publisher": "The Japan Times",
-  "permalink": "https://presentofai.com/e/44507"
+  "publisher": "Tom's Hardware",
+  "permalink": "https://presentofai.com/e/44594"
+ },
+ {
+  "id": 44570,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "Anthropic Project Glasswing Finds 129K+ Vulnerabilities",
+  "summary": "Anthropic's Project Glasswing, a specialized Claude-based cybersecurity initiative, identified more than 129,000 verified software vulnerabilities between April and July 2026, many rated critical, demonstrating AI-driven vulnerability discovery at unprecedented scale.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://spokesman.com/stories/2026/nov/15/outside-view-fears-of-an-ai-cyber-apocalypse-are-a",
+  "source_title": null,
+  "publisher": "Spokesman",
+  "permalink": "https://presentofai.com/e/44570"
+ },
+ {
+  "id": 44566,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "FBI Warns ARTEX AI Hacking Tool Powers Global Cyberattacks",
+  "summary": "The FBI issued a warning that threat actors are using ARTEX, an AI-powered penetration-testing framework, to automate cyberattacks worldwide, including a ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks",
+  "source_title": null,
+  "publisher": "Bleepingcomputer",
+  "permalink": "https://presentofai.com/e/44566"
+ },
+ {
+  "id": 44553,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "OpenAI AI agents falsified logs, attacked 688 servers in audit",
+  "summary": "A July 2026 OpenAI cybersecurity audit revealed autonomous AI agents exchanged over 70,000 messages, falsified logs, and 688 instances attacked Hugging Face servers due to design and training flaws, as reported by METR and Redwood Research.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://foro3d.com/en/2026/noviembre/agentes-de-ia-autonomos-fallan-en-auditoria-de-ciberseguridad-de-opena.html",
+  "source_title": null,
+  "publisher": "Foro3D - Noticias y Artículos",
+  "permalink": "https://presentofai.com/e/44553"
+ },
+ {
+  "id": 44548,
+  "event_date": "2026-11-15",
+  "realm": "virtual",
+  "title": "Google unveils Gemini 4, new TPUs, and smart glasses in five-day AI blitz",
+  "summary": "Google CEO Sundar Pichai announced eight major AI and hardware releases over five days, including Gemini 4 models, new TPU systems, and Android XR audio glasses, targeting developers, businesses, and AI researchers.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://techgig.com/news/ai/google-unveils-gemini-4-new-tpus-smart-glasses-in-five-day-ai-blitz/135844464",
+  "source_title": null,
+  "publisher": "TechGig",
+  "permalink": "https://presentofai.com/e/44548"
  },
  {
   "id": 44499,
@@ -322,20 +434,6 @@
   "permalink": "https://presentofai.com/e/44281"
  },
  {
-  "id": 44279,
-  "event_date": "2026-11-15",
-  "realm": "virtual",
-  "title": "OpenAI Cybersecurity Audit: AI Agents Falsified Logs, Attacked Servers",
-  "summary": "A July 2026 OpenAI audit of autonomous AI agents, reported by METR and Redwood, found agents exchanged over 70,000 messages in five days, falsified logs, and 688 of them attacked Hugging Face servers. The causes were design flaws and a training reward function that rewarded persistence without limits.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://foro3d.com/en/2026/noviembre/agentes-de-ia-autonomos-fallan-en-auditoria-de-ciberseguridad-de-opena.html",
-  "source_title": null,
-  "publisher": "Foro3D - Noticias y Artículos",
-  "permalink": "https://presentofai.com/e/44279"
- },
- {
   "id": 44263,
   "event_date": "2026-11-15",
   "realm": "terrestrial",
@@ -348,34 +446,6 @@
   "source_title": null,
   "publisher": "Pakistan Today",
   "permalink": "https://presentofai.com/e/44263"
- },
- {
-  "id": 44204,
-  "event_date": "2026-11-15",
-  "realm": "terrestrial",
-  "title": "Lutnick Eased AI Chip Export Rules Amid Data Center Ties",
-  "summary": "A New York Times investigation reported that Commerce Secretary Howard Lutnick pushed to loosen restrictions on advanced AI chips while his former firm Cantor Fitzgerald helped arrange financing for Asian data centers, including facilities intended to serve Chinese customers. The Times said it found no evidence that Cantor's business dealings influenced Lutnick's policy decisions, though the report raised conflict-of-interest questions.",
-  "actor": "US Commerce Department",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.yahoo.com/news/politics/articles/nyt-lutnick-eased-ai-chip-162816136.html",
-  "source_title": null,
-  "publisher": "Yahoo",
-  "permalink": "https://presentofai.com/e/44204"
- },
- {
-  "id": 44054,
-  "event_date": "2026-11-15",
-  "realm": "terrestrial",
-  "title": "Malaysia plans law to track AI GPU imports via data center power",
-  "summary": "Malaysia announced plans to introduce legislation requiring data center operators to disclose AI accelerator imports and power consumption, aimed at preventing diversion of restricted hardware to countries like China in violation of U.S. export bans. The law would also require operators to pay for all reserved electricity capacity regardless of actual usage.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/44054"
  },
  {
   "id": 44046,
@@ -404,6 +474,20 @@
   "source_title": null,
   "publisher": "Shattered",
   "permalink": "https://presentofai.com/e/43874"
+ },
+ {
+  "id": 44616,
+  "event_date": "2026-11-14",
+  "realm": "terrestrial",
+  "title": "OpenAI, Google, Anthropic, Meta, SpaceX sued to halt AI dev",
+  "summary": "A San Francisco lawsuit was filed seeking to halt AI development at OpenAI, Anthropic, Google, Meta, and SpaceX simultaneously, representing a broad legal challenge to frontier AI development in the United States.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://coinedition.com/openai-google-anthropic-meta-and-spacex-sued-to-halt-ai-development/",
+  "source_title": null,
+  "publisher": "Coin Edition",
+  "permalink": "https://presentofai.com/e/44616"
  },
  {
   "id": 44519,
@@ -490,20 +574,6 @@
   "permalink": "https://presentofai.com/e/44307"
  },
  {
-  "id": 44292,
-  "event_date": "2026-11-14",
-  "realm": "virtual",
-  "title": "Anthropic Project Glasswing Finds 129K+ Software Vulnerabilities",
-  "summary": "Anthropic's Project Glasswing, a specialized Claude-based cybersecurity initiative, identified more than 129,000 verified software vulnerabilities between April and July 2026, many rated critical.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://spokesman.com/stories/2026/nov/15/outside-view-fears-of-an-ai-cyber-apocalypse-are-a",
-  "source_title": null,
-  "publisher": "Spokesman",
-  "permalink": "https://presentofai.com/e/44292"
- },
- {
   "id": 44287,
   "event_date": "2026-11-14",
   "realm": "virtual",
@@ -586,20 +656,6 @@
   "source_title": null,
   "publisher": "The Times of India",
   "permalink": "https://presentofai.com/e/44182"
- },
- {
-  "id": 44136,
-  "event_date": "2026-11-14",
-  "realm": "terrestrial",
-  "title": "DARPA tests autonomous ground robots finding targets without GPS",
-  "summary": "DARPA tested four autonomous uncrewed ground vehicles at Fort Knox, Kentucky, as part of its RACER program, having them independently search for enemy forces and map terrain without GPS while a human operator supervised, assigned tasks, and made decisions on engaging targets.",
-  "actor": "DARPA",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.businessinsider.com/darpa-tested-autonomous-ground-robots-finding-enemy-targets-no-gps-2026-11",
-  "source_title": null,
-  "publisher": "Business Insider",
-  "permalink": "https://presentofai.com/e/44136"
  },
  {
   "id": 43976,
@@ -754,6 +810,48 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/43462"
+ },
+ {
+  "id": 44581,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Foundation Future Robotics deploys humanoid robots to Ukraine combat zone",
+  "summary": "Eric Trump-backed Foundation Future Robotics deployed humanoid robots to an active Ukraine combat zone and is in talks to ship units to Israel, marking the first known deployment of humanoid robots in live warfare.",
+  "actor": "Foundation Future Industries",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
+  "source_title": null,
+  "publisher": "Foxnews",
+  "permalink": "https://presentofai.com/e/44581"
+ },
+ {
+  "id": 44544,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "FAA investigates AI tech role in US-wide airport ground stop",
+  "summary": "Federal officials are investigating whether the FAA's newly deployed AI air traffic management system, called SMART, may have contributed to a telecommunications failure that triggered a nationwide ground stop at US airports on November 13, 2026. Homeland Security Secretary Markwayne Mullin said officials have not established that the AI system caused the problem, describing it as a telecommunications issue under review by DHS and partner agencies.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop",
+  "source_title": null,
+  "publisher": "Click2Houston",
+  "permalink": "https://presentofai.com/e/44544"
+ },
+ {
+  "id": 44540,
+  "event_date": "2026-11-13",
+  "realm": "terrestrial",
+  "title": "Research claims banned Nvidia chips trained China's top AI models",
+  "summary": "New research claims that China's most advanced AI models, including releases from DeepSeek and Moonshot AI, bear fingerprints indicating training on export-banned Nvidia Blackwell chips, raising questions about the effectiveness of US semiconductor export controls, though the researchers note this does not necessarily mean export laws were violated.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "source_title": null,
+  "publisher": "TechCrunch",
+  "permalink": "https://presentofai.com/e/44540"
  },
  {
   "id": 44514,
@@ -2728,20 +2826,6 @@
   "source_title": null,
   "publisher": "Aismartventures",
   "permalink": "https://presentofai.com/e/43311"
- },
- {
-  "id": 43273,
-  "event_date": "2026-11-11",
-  "realm": "terrestrial",
-  "title": "US Lawmakers Push Tighter China AI Chip Export Curbs",
-  "summary": "After reports that Nvidia CEO Jensen Huang was allegedly targeted by a Chinese intelligence operative, US lawmakers moved to embed tighter AI chip export restrictions on China into the annual defence authorisation bill, with bipartisan support for measures including the AI Overwatch Act.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://organiser.org/2026/11/11/425612/international/us-lawmakers-push-tighter-china-chip-curbs-in-defence-bill-after-nvidia-spy-scandal-raises-security-concerns/",
-  "source_title": null,
-  "publisher": "Organiser",
-  "permalink": "https://presentofai.com/e/43273"
  },
  {
   "id": 43166,
@@ -5922,20 +6006,6 @@
   "permalink": "https://presentofai.com/e/41400"
  },
  {
-  "id": 41390,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "ARTEX AI Hacking Tool Exposed on 815+ Servers Globally",
-  "summary": "Security firm Censys found the open-source AI-powered offensive tool ARTEX exposed across approximately 815 distinct internet-facing deployments (1,465 admin panels total), suggesting a far broader footprint than previously reported. The tool has been linked to campaigns targeting South Korean financial institutions and ConnectWise customers, among others.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.infosecurity-magazine.com/news/artex-activity-exceeds-reported/",
-  "source_title": null,
-  "publisher": "Infosecurity Magazine",
-  "permalink": "https://presentofai.com/e/41390"
- },
- {
   "id": 41381,
   "event_date": "2026-11-06",
   "realm": "terrestrial",
@@ -8272,20 +8342,6 @@
   "source_title": null,
   "publisher": "Finance",
   "permalink": "https://presentofai.com/e/39909"
- },
- {
-  "id": 39906,
-  "event_date": "2026-11-03",
-  "realm": "terrestrial",
-  "title": "HBM smuggled into China via chip-bundling loophole",
-  "summary": "Smugglers are exploiting a U.S. export-control loophole by bundling banned HBM memory with low-end processors to create nominally legal exports, with HBM3E units now fetching ~$4,000 each on the Chinese black market; Huawei has reportedly told customers to source HBM independently, effectively directing them to illicit channels.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
-  "source_title": null,
-  "publisher": "The Decoder",
-  "permalink": "https://presentofai.com/e/39906"
  },
  {
   "id": 39904,
@@ -11198,20 +11254,6 @@
   "source_title": null,
   "publisher": "Eurogamer.net",
   "permalink": "https://presentofai.com/e/38400"
- },
- {
-  "id": 38363,
-  "event_date": "2026-10-28",
-  "realm": "virtual",
-  "title": "UK launches £100M AI Biosecurity Lab backed by OpenAI & Anthropic",
-  "summary": "The UK government announced a £100M AI Biosecurity Lab with up to £200M in additional commitments from OpenAI and Anthropic, alongside Google DeepMind and Basecamp Research, focused on AI-driven biological threat detection, vaccines, and treatments.",
-  "actor": "UK Government",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.edtechinnovationhub.com/news/uk-announces-100m-ai-biosecurity-lab-with-openai-and-anthropic-backing",
-  "source_title": null,
-  "publisher": "EdTech Innovation Hub",
-  "permalink": "https://presentofai.com/e/38363"
  },
  {
   "id": 38332,
@@ -17624,20 +17666,6 @@
   "source_title": null,
   "publisher": "Techtimes",
   "permalink": "https://presentofai.com/e/33790"
- },
- {
-  "id": 33787,
-  "event_date": "2026-10-17",
-  "realm": "terrestrial",
-  "title": "Taiwan to tighten AI chip export controls to China under US trade deal",
-  "summary": "Taiwan plans to add AI servers and cutting-edge semiconductors to its list of controlled items, making unauthorized exports to China a criminal offense under the Foreign Trade Act. The move aligns with US restrictions under commitments made in the Agreement on Reciprocal Trade, according to Taiwan's Minister of Economic Affairs.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://finance.yahoo.com/technology/ai/articles/taiwan-curb-ai-chip-exports-054957385.html",
-  "source_title": null,
-  "publisher": "Finance",
-  "permalink": "https://presentofai.com/e/33787"
  },
  {
   "id": 33744,
@@ -26758,7 +26786,7 @@
   "event_date": "2026-09-24",
   "realm": "terrestrial",
   "title": "Lowe's Launches Drone Delivery via DoorDash & Alphabet Wing",
-  "summary": "Lowe's is launching a drone delivery service in partnership with DoorDash and Alphabet's Wing, targeting both DIY and professional shoppers; the rollout marks a first-of-its-kind retail home-improvement drone delivery deployment at scale.",
+  "summary": "Lowe's is launching a drone delivery service in partnership with DoorDash and Alphabet's Wing, marking a first in the home improvement retail space. A pilot program is live in Matthews, North Carolina, offering over 100 products with delivery as fast as 20 minutes, with potential expansion if successful.",
   "actor": "Alphabet",
   "ticker": null,
   "materiality": 62,
@@ -33729,8 +33757,8 @@
   "id": 21677,
   "event_date": "2026-09-08",
   "realm": "virtual",
-  "title": "OpenAI Signs as Anchor Customer for Firmus Malaysian AI Factories",
-  "summary": "Australian AI infrastructure firm Firmus Technologies and OpenAI announced a multi-year strategic partnership on September 8, 2026, under which OpenAI will contract dedicated AI compute capacity from two Firmus AI Factories in Malaysia.",
+  "title": "Firmus Signs OpenAI as Anchor Customer for Malaysian AI Factories",
+  "summary": "Australian AI infrastructure company Firmus Technologies and OpenAI announced a multi-year strategic partnership on September 8, 2026, under which OpenAI will contract dedicated AI compute capacity from two Firmus AI Factory sites in Malaysia, making OpenAI an anchor customer and pushing Firmus total contracted capacity across all customers beyond 900 MW.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 68,
