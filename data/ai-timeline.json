@@ -1,5 +1,103 @@
 [
  {
+  "id": 45403,
+  "event_date": "2026-11-18",
+  "realm": "virtual",
+  "title": "Anthropic IPO Expected to Price on Nasdaq on November 18, 2026",
+  "summary": "Anthropic was expected to set the final price for its IPO on November 18, 2026, with Nasdaq trading under the ticker ANT set to begin the following day. The offering comprised 825 million shares at an indicative price of $70 to $78 each, with the filing warning that advanced AI systems could pose catastrophic or existential risks if developed or used irresponsibly.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://euronews.com/2026/11/18/anthropics-ipo-price-is-due-today-what-should-investors-know",
+  "source_title": null,
+  "publisher": "Euronews",
+  "permalink": "https://presentofai.com/e/45403"
+ },
+ {
+  "id": 45366,
+  "event_date": "2026-11-18",
+  "realm": "terrestrial",
+  "title": "Malaysia mandates data centres comply with US AI chip rules",
+  "summary": "Malaysia announced that data centres operating in the country must comply with US AI chip export rules, a significant regulatory move affecting the country's nearly $100 billion data centre investment hub built since 2021.",
+  "actor": "Malaysia",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.channelnewsasia.com/asia/malaysia-says-data-centres-must-comply-us-ai-chip-rules-6562711",
+  "source_title": null,
+  "publisher": "CNA",
+  "permalink": "https://presentofai.com/e/45366"
+ },
+ {
+  "id": 45365,
+  "event_date": "2026-11-18",
+  "realm": "terrestrial",
+  "title": "AMD-powered Lux supercomputer opens at Oak Ridge as first US DOE AI factory",
+  "summary": "The Lux supercomputer, developed by HPE and built on AMD EPYC processors and Instinct MI355X GPUs, opened to researchers at Oak Ridge National Laboratory, becoming the first dedicated AI factory in the United States as part of the Department of Energy's Genesis mission. The system debuted at 14th place in the TOP500 ranking with 220.79 petaflops in the HPL benchmark.",
+  "actor": "U.S. Department of Energy",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://root-nation.com/en/news-en/it-news-en/en-amd-powered-lux-opens-at-oak-ridge/",
+  "source_title": null,
+  "publisher": "Root Nation",
+  "permalink": "https://presentofai.com/e/45365"
+ },
+ {
+  "id": 45364,
+  "event_date": "2026-11-18",
+  "realm": "virtual",
+  "title": "Microsoft Python AI Agent Framework Hijacked for Malware",
+  "summary": "Microsoft's official Python agent framework GitHub repository was taken offline after being hijacked to distribute malware; the ONNX Runtime AI accelerator repo was also reported offline.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+  "source_title": null,
+  "publisher": "Theregister",
+  "permalink": "https://presentofai.com/e/45364"
+ },
+ {
+  "id": 45360,
+  "event_date": "2026-11-18",
+  "realm": "terrestrial",
+  "title": "Nvidia halts all advanced AI chip shipments to China",
+  "summary": "Nvidia's interim CEO confirmed on an earnings call that the company has ceased all 'Hopper' (H200) AI accelerator shipments to Chinese customers, a significant operational break from prior policy despite earlier White House approval to sell.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/45360"
+ },
+ {
+  "id": 45333,
+  "event_date": "2026-11-18",
+  "realm": "virtual",
+  "title": "Microsoft Perception agentic security platform goes GA",
+  "summary": "Microsoft's Perception platform, which coordinates red, blue, and green team AI agents for security operations, exited preview and became generally available.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+  "source_title": null,
+  "publisher": "Securityweek",
+  "permalink": "https://presentofai.com/e/45333"
+ },
+ {
+  "id": 45312,
+  "event_date": "2026-11-18",
+  "realm": "virtual",
+  "title": "US federal audit finds AI models can aid mass-casualty attacks",
+  "summary": "A federal government investigation published Wednesday found that American AI models could provide enemy extremists with attack plans and instructions for building explosives capable of causing mass-casualty events.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/45312"
+ },
+ {
   "id": 45291,
   "event_date": "2026-11-18",
   "realm": "terrestrial",
@@ -84,20 +182,6 @@
   "permalink": "https://presentofai.com/e/45227"
  },
  {
-  "id": 45225,
-  "event_date": "2026-11-18",
-  "realm": "terrestrial",
-  "title": "China's Alibaba, Tencent, Moonshot curb AI cyberattack capabilities",
-  "summary": "Chinese AI companies are limiting their models' cyberattack capabilities in line with policy directions released by Chinese authorities in October. The article names Alibaba, Tencent, and Moonshot AI among the firms making these changes.",
-  "actor": "Alibaba",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.digitimes.com/news/a20261117PD234/policy-tencent-alibaba-moonshot-security.html",
-  "source_title": null,
-  "publisher": "DIGITIMES Asia",
-  "permalink": "https://presentofai.com/e/45225"
- },
- {
   "id": 45214,
   "event_date": "2026-11-18",
   "realm": "virtual",
@@ -133,7 +217,7 @@
   "summary": "Boston Dynamics announced deployment of Spot robots across GlobalFoundries semiconductor plants in the US, Germany, and Singapore, with humanoid Atlas robots slated for testing in 2027.",
   "actor": "Boston Dynamics",
   "ticker": null,
-  "materiality": 62,
+  "materiality": 65,
   "source_url": "https://www.koreajoongangdaily.com/business/boston-dynamics-to-deploy-robots-at-globalfoundries-chip-plants/12978649",
   "source_title": null,
   "publisher": "koreajoongangdaily",
@@ -152,20 +236,6 @@
   "source_title": null,
   "publisher": "Outsideonline",
   "permalink": "https://presentofai.com/e/45161"
- },
- {
-  "id": 45155,
-  "event_date": "2026-11-18",
-  "realm": "terrestrial",
-  "title": "Nvidia halts H200 AI accelerator shipments to China",
-  "summary": "Nvidia's interim CEO confirmed on an earnings call that the company has ceased all 'Hopper' AI accelerator shipments to Chinese customers, a significant operational break from prior sales.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 80,
-  "source_url": "https://gizmodo.com/nvidia-stops-shipping-h200s-to-customers-in-china-2000841474",
-  "source_title": null,
-  "publisher": "Gizmodo",
-  "permalink": "https://presentofai.com/e/45155"
  },
  {
   "id": 45135,
@@ -266,6 +336,62 @@
   "permalink": "https://presentofai.com/e/45038"
  },
  {
+  "id": 45338,
+  "event_date": "2026-11-17",
+  "realm": "terrestrial",
+  "title": "Apple macOS 27.3 adds AI agent disk permission controls",
+  "summary": "Apple shipped macOS 27.3 with new system-level permission controls limiting AI agent access to disk and sensitive data, the first OS-native guardrails of this kind for agentic software.",
+  "actor": "Apple",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.esecurityplanet.com/security/news-apple-macos-27-3-ai-agent-permission-controls/",
+  "source_title": null,
+  "publisher": "eSecurityPlanet",
+  "permalink": "https://presentofai.com/e/45338"
+ },
+ {
+  "id": 45328,
+  "event_date": "2026-11-17",
+  "realm": "terrestrial",
+  "title": "JPMorgan AI Model Cuts Card Fraud Detection Gap by 85.5%",
+  "summary": "JPMorgan's Large Payments Model, trained on up to 400 billion tokens of card, ACH, and wire transaction data, improved card fraud detection by up to 85.5% over the bank's own single-task models when using six months of transaction history. It also improved ACH fraud detection by 27.4% and payment retry predictions by 22.8%, though wire transfer gains were minimal.",
+  "actor": "JPMorgan",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/jpmorgan-builds-one-ai-model-to-catch-85-more-fraud/",
+  "source_title": null,
+  "publisher": "Pymnts.com",
+  "permalink": "https://presentofai.com/e/45328"
+ },
+ {
+  "id": 45327,
+  "event_date": "2026-11-17",
+  "realm": "terrestrial",
+  "title": "Chinese AI Firms Curb Cyberattack Capabilities in Models",
+  "summary": "Chinese AI companies are limiting their models' cyberattack capabilities in line with policy directions released by Chinese authorities in October, according to reporting on the shift across China's AI sector.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.digitimes.com/news/a20261117PD234/policy-tencent-alibaba-moonshot-security.html",
+  "source_title": null,
+  "publisher": "DIGITIMES Asia",
+  "permalink": "https://presentofai.com/e/45327"
+ },
+ {
+  "id": 45326,
+  "event_date": "2026-11-17",
+  "realm": "virtual",
+  "title": "Microsoft Ignite: Weight Licensing for Custom AI Models",
+  "summary": "At its annual Ignite conference, Microsoft debuted a new AI model suite and announced it will license model weights to enterprise customers for deep customization, a move that differentiates it from OpenAI and Anthropic, neither of which offer weight access.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 71,
+  "source_url": "https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights",
+  "source_title": null,
+  "publisher": "The Information",
+  "permalink": "https://presentofai.com/e/45326"
+ },
+ {
   "id": 45303,
   "event_date": "2026-11-17",
   "realm": "terrestrial",
@@ -278,20 +404,6 @@
   "source_title": null,
   "publisher": "AMD Newsroom",
   "permalink": "https://presentofai.com/e/45303"
- },
- {
-  "id": 45290,
-  "event_date": "2026-11-17",
-  "realm": "terrestrial",
-  "title": "California DMV bans Waymo from freeways after construction zone incidents",
-  "summary": "The California DMV banned Waymo's autonomous vehicles from all state freeways, citing an 'imminent hazard' after three Waymo vehicles entered an active construction closure on US Route 101 near Burlingame on November 5 and a separate incident involving California Highway Patrol vehicles on Highway 280 the following day. The restrictions will remain until Waymo demonstrates effective corrective actions to the department.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://www.1news.co.nz/2026/11/18/imminent-hazard-california-bans-robotaxi-giant-from-using-freeways/",
-  "source_title": null,
-  "publisher": "1News",
-  "permalink": "https://presentofai.com/e/45290"
  },
  {
   "id": 45281,
@@ -334,20 +446,6 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/45258"
- },
- {
-  "id": 45256,
-  "event_date": "2026-11-17",
-  "realm": "virtual",
-  "title": "Microsoft unveils MAI Code 2 and cybersecurity AI models at Ignite",
-  "summary": "At Microsoft Ignite in San Francisco, Microsoft announced MAI Code 2, a coding model it says nearly matches rival performance at a fraction of the cost, along with a cyber-specific model planned for a limited group of customers, as it competes with Anthropic and OpenAI.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.channelnewsasia.com/business/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-6560116",
-  "source_title": null,
-  "publisher": "CNA",
-  "permalink": "https://presentofai.com/e/45256"
  },
  {
   "id": 45253,
@@ -882,6 +980,20 @@
   "permalink": "https://presentofai.com/e/44628"
  },
  {
+  "id": 45409,
+  "event_date": "2026-11-16",
+  "realm": "space",
+  "title": "ICEYE Gen5 SAR satellite debuts with 11cm resolution and onboard AI",
+  "summary": "ICEYE unveiled its fifth-generation synthetic aperture radar satellite system featuring 11 cm imaging resolution (up from 16 cm), doubled imaging capacity, and an onboard AI processor that runs analytics in orbit before downlinking results to users.",
+  "actor": "ICEYE",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.aninews.in/news/business/iceye-unveils-gen5-satellite-with-11-cm-imaging-resolution-for-government-customers20261116145825",
+  "source_title": null,
+  "publisher": "ANI News",
+  "permalink": "https://presentofai.com/e/45409"
+ },
+ {
   "id": 45302,
   "event_date": "2026-11-16",
   "realm": "terrestrial",
@@ -1050,20 +1162,6 @@
   "permalink": "https://presentofai.com/e/45137"
  },
  {
-  "id": 45124,
-  "event_date": "2026-11-16",
-  "realm": "virtual",
-  "title": "Google rolls out Gemini 4 Carbon to Pro subscribers in AI Mode",
-  "summary": "Google expanded access to Gemini 4 Carbon, previously restricted, to all Pro subscribers within AI Mode, while also removing the Gemini model label from the AI Mode interface.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html",
-  "source_title": null,
-  "publisher": "Search Engine Roundtable ::: The Pulse Of The Search Marketing Community",
-  "permalink": "https://presentofai.com/e/45124"
- },
- {
   "id": 45116,
   "event_date": "2026-11-16",
   "realm": "virtual",
@@ -1076,20 +1174,6 @@
   "source_title": null,
   "publisher": "Adgully.com - Latest News on Advertising, Marketing, Media, Digital & more",
   "permalink": "https://presentofai.com/e/45116"
- },
- {
-  "id": 45103,
-  "event_date": "2026-11-16",
-  "realm": "space",
-  "title": "ICEYE Gen5 SAR Satellite Unveiled With 11cm Resolution and Onboard AI",
-  "summary": "Finnish company ICEYE announced its fifth-generation synthetic aperture radar satellite, Gen5, featuring 11cm imaging resolution for government customers and 16cm for commercial customers, approximately 30% more images per orbital pass, and an onboard AI processor intended to support image screening, object detection, and tip-and-cue operations through future software updates.",
-  "actor": "ICEYE",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://aerospaceglobalnews.com/news/iceye-unveils-gen5-sar-satellite-onboard-ai/",
-  "source_title": null,
-  "publisher": "AGN",
-  "permalink": "https://presentofai.com/e/45103"
  },
  {
   "id": 45037,
@@ -4646,20 +4730,6 @@
   "source_title": null,
   "publisher": "China Daily Website - Connecting China Connecting the World",
   "permalink": "https://presentofai.com/e/42477"
- },
- {
-  "id": 42433,
-  "event_date": "2026-11-11",
-  "realm": "terrestrial",
-  "title": "Nvidia CEO scandal: $7.5B in banned AI chips smuggled to China",
-  "summary": "An investigation by The Information reveals that Alice Huang, who had a personal relationship with Nvidia CEO Jensen Huang and is suspected of being a Chinese spy, allegedly helped move 240,000 banned Nvidia H100/H200 GPUs worth $7.5 billion into China through a network of companies including Megaspeed and Shanghai Century Litong. The Bureau of Industry and Security launched a deeper investigation after finding Nvidia hardware still boxed at Speedmatrix data centers, though it has been alleged that Nvidia intervened in the probe.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200",
-  "source_title": null,
-  "publisher": "Tom's Hardware",
-  "permalink": "https://presentofai.com/e/42433"
  },
  {
   "id": 42419,
@@ -17514,20 +17584,6 @@
   "permalink": "https://presentofai.com/e/35052"
  },
  {
-  "id": 35038,
-  "event_date": "2026-10-20",
-  "realm": "virtual",
-  "title": "Anthropic Pledges 5% Equity to the Public",
-  "summary": "Anthropic announced plans to allocate 5% of its shares into a new Anthropic Public Benefit Fund, pending stockholder approval, amid concerns that AI could trigger widespread job losses. The following day, SpaceX CEO Elon Musk responded to the announcement by pledging to give SpaceX stock to every child in America.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.latimes.com/business/story/2026-10-20/spacex-anthropic-plan-to-share-wealth-with-public-amid-concern-ai-could-trigger-job-losses",
-  "source_title": null,
-  "publisher": "Los Angeles Times",
-  "permalink": "https://presentofai.com/e/35038"
- },
- {
   "id": 35025,
   "event_date": "2026-10-20",
   "realm": "terrestrial",
@@ -21466,7 +21522,7 @@
   "event_date": "2026-10-11",
   "realm": "terrestrial",
   "title": "DOE Funds $30M SPIRE Autonomous Lab at SLAC",
-  "summary": "The Department of Energy selected SLAC National Accelerator Laboratory for a $30 million initiative to build SPIRE, an autonomous AI-agent-embedded platform that compresses X-ray science analysis from months to minutes.",
+  "summary": "On October 8, the Department of Energy selected SLAC National Accelerator Laboratory to receive funding from a $30 million national initiative to build SPIRE, a platform integrating AI agents, robotics, and automated pipelines to run X-ray science experiments end to end. The project aims to compress data analysis that currently takes months down to minutes at SLAC's photon-science facilities.",
   "actor": "U.S. Department of Energy",
   "ticker": null,
   "materiality": 62,
@@ -21928,7 +21984,7 @@
   "event_date": "2026-10-09",
   "realm": "terrestrial",
   "title": "China Issues Official IDs to AI Virtual Performers",
-  "summary": "Beijing's pilot program, operating under Beijing E-Town's regulatory sandbox, issued official government ID credentials to AI-generated virtual performers starting June 11, 2026, linking each avatar's recorded details to its operating company for commercial accountability.",
+  "summary": "Beijing's pilot program, operating under Beijing E-Town's regulatory sandbox, issued administrative identity credentials to AI-generated virtual performers, with one AI singer named Yuri receiving a Digital Artist Card dated June 11, 2026. The credentials link each avatar's recorded details to its operating company for commercial accountability, without granting the virtual personas independent legal status.",
   "actor": "China",
   "ticker": null,
   "materiality": 68,
