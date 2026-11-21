@@ -1,5 +1,75 @@
 [
  {
+  "id": 46405,
+  "event_date": "2026-11-21",
+  "realm": "virtual",
+  "title": "DeepSeek Raises ~$15B in Second External Funding Round",
+  "summary": "DeepSeek secured approximately 100 billion yuan (~$15 billion) in its second external funding round, the largest single AI financing event in the tracked window and representing over 99% of the $15.07B total across six rounds.",
+  "actor": "DeepSeek",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://aifundingtracker.com/ai-funding-news-november-20-2026",
+  "source_title": null,
+  "publisher": "Aifundingtracker",
+  "permalink": "https://presentofai.com/e/46405"
+ },
+ {
+  "id": 46387,
+  "event_date": "2026-11-21",
+  "realm": "terrestrial",
+  "title": "Tesla Launches Invitation-Only Cybercab Sales",
+  "summary": "On November 13, Tesla began sending private purchase invitations for the Cybercab, a fully autonomous two-seat vehicle with no steering wheel or pedals, priced at $29,990 before taxes with a mandatory $299/month Autonomy Subscription required to operate it. The program marks the first consumer vehicle sold in the US without any manual driving controls, with first deliveries estimated for December in Austin, Texas.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://latintimes.com/tesla-cybercab-invitation-only-sales-subscription-601625",
+  "source_title": null,
+  "publisher": "Latintimes",
+  "permalink": "https://presentofai.com/e/46387"
+ },
+ {
+  "id": 46371,
+  "event_date": "2026-11-21",
+  "realm": "terrestrial",
+  "title": "Foundation unveils Phantom MKII battlefield humanoid with 200-lb payload",
+  "summary": "Foundation Future Industries unveiled its second-generation Phantom MKII humanoid robot powered by Cortex II AI, capable of carrying a 200-pound payload while operating in rain, snow, and dust, with potential battlefield applications explicitly not ruled out.",
+  "actor": "Foundation Future Industries",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.fastcompany.com/91643258/foundation-future-industries-humanoid-robot-war",
+  "source_title": null,
+  "publisher": "Fastcompany",
+  "permalink": "https://presentofai.com/e/46371"
+ },
+ {
+  "id": 46340,
+  "event_date": "2026-11-21",
+  "realm": "virtual",
+  "title": "METR TH2: AI task time horizons doubling every 110 days",
+  "summary": "METR's TH2 evaluation found frontier AI agent time horizons on verifiable tasks are doubling approximately every 110 days, while open-ended research judgment capabilities continue to lag behind, providing a concrete scaling metric for autonomous AI capability.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://casrai.org/news/metr-th2-ai-time-horizons-research-judgment-evaluation-2026",
+  "source_title": null,
+  "publisher": "CASRAI",
+  "permalink": "https://presentofai.com/e/46340"
+ },
+ {
+  "id": 46313,
+  "event_date": "2026-11-21",
+  "realm": "virtual",
+  "title": "Anthropic Mathematician Claims Riemann Hypothesis Proof With Claude",
+  "summary": "Anthropic mathematician Levent Alpoge says he worked with Claude to produce a claimed proof of the 167-year-old Riemann hypothesis, a $1 million Millennium Prize problem, with the claim surfacing one day after Anthropic's Nasdaq debut. The proof has not been independently verified, and under Clay Mathematics Institute rules it must be published, survive two years of scrutiny, and earn general acceptance before any prize can be considered.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://tech.yahoo.com/ai/claude/articles/claude-claims-historic-math-breakthrough-213602928.html",
+  "source_title": null,
+  "publisher": "Tech",
+  "permalink": "https://presentofai.com/e/46313"
+ },
+ {
   "id": 46306,
   "event_date": "2026-11-21",
   "realm": "virtual",
@@ -12,20 +82,6 @@
   "source_title": null,
   "publisher": "CNBC",
   "permalink": "https://presentofai.com/e/46306"
- },
- {
-  "id": 46270,
-  "event_date": "2026-11-21",
-  "realm": "terrestrial",
-  "title": "Foundation unveils Phantom MKII battlefield humanoid robot",
-  "summary": "Foundation Future Industries unveiled the Phantom MKII, a second-generation humanoid robot with a 200-pound payload capacity and weatherproofing for harsh terrain, with its CEO explicitly not ruling out armed battlefield deployment.",
-  "actor": "Foundation Future Industries",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.fastcompany.com/91643258/foundation-future-industries-humanoid-robot-war",
-  "source_title": null,
-  "publisher": "Fastcompany",
-  "permalink": "https://presentofai.com/e/46270"
  },
  {
   "id": 46266,
@@ -50,9 +106,9 @@
   "actor": "Nvidia",
   "ticker": null,
   "materiality": 63,
-  "source_url": "https://archyde.com/nvidia-shares-fall-11-5-amid-reports-of-sec-accounting-examination-california-doj-inquiry",
+  "source_url": "https://cryptobriefing.com/sec-probes-nvidia-potential-accounting-issues/",
   "source_title": null,
-  "publisher": "Archyde",
+  "publisher": "Crypto Briefing",
   "permalink": "https://presentofai.com/e/46262"
  },
  {
@@ -124,6 +180,118 @@
   "source_title": null,
   "publisher": "Chinaselectcommittee",
   "permalink": "https://presentofai.com/e/46200"
+ },
+ {
+  "id": 46409,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Lenders seek to bar SpaceX from launching $43B in AI chips to orbit",
+  "summary": "Lenders behind a reported $43 billion SpaceX debt package called Project Saturn sought protections to stop AI chips pledged as collateral from being sent into space, according to reporting attributed to the Financial Times and relayed by multiple outlets. SpaceX reportedly told reporters the chips will run in terrestrial data centers, and reports differ on whether the requested ban was included in the final documents.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://shattered.io/spacex-lenders-ai-chips-space-launch-ban-43-billion-project-saturn",
+  "source_title": null,
+  "publisher": "Shattered",
+  "permalink": "https://presentofai.com/e/46409"
+ },
+ {
+  "id": 46397,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "Amazon sues to block Perplexity AI agents in federal court",
+  "summary": "Judge Maxine M. Chesney heard Amazon's argument that Perplexity violated anti-hacking law by sending agents to Amazon's shopping platform without explicit user instructions. Amazon's counsel argued that Perplexity's agents accessed parts of the platform beyond what any user directed.",
+  "actor": "Perplexity",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://news.bloomberglaw.com/ip-law/amazon-meets-divided-judge-in-bid-to-block-perplexity-agents",
+  "source_title": null,
+  "publisher": "Bloomberg Law News",
+  "permalink": "https://presentofai.com/e/46397"
+ },
+ {
+  "id": 46385,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Pentagon Advances AI Orchestrator for Mixed Drone Fleets",
+  "summary": "The U.S. Department of War advanced its Autonomous Vehicle Orchestrator program, developed via a $100M DIU prize challenge, enabling a single operator to command a mixed fleet of unmanned vehicles across multiple domains.",
+  "actor": "U.S. Department of War",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://war.gov/News/Releases/Release/Article/4655108/department-of-war-advances-orchestration-for-unmanned-vehicle-fleets",
+  "source_title": null,
+  "publisher": "War",
+  "permalink": "https://presentofai.com/e/46385"
+ },
+ {
+  "id": 46381,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Waymo issues dual software recalls for 3,871 robotaxis",
+  "summary": "Waymo issued two simultaneous over-the-air software recalls covering its entire 3,871-vehicle robotaxi fleet to prevent construction-zone incursions and improve response to police directing traffic.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/4506603a-5f70-4fc2-be9d-4fb11e0257fe",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/46381"
+ },
+ {
+  "id": 46360,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Alibaba Deploys Self-Designed Zhenwu Chips in Data Centers",
+  "summary": "Alibaba has deployed its in-house Zhenwu AI chips in its data centers to train its next-generation Qwen model, marking a significant step in China's domestic AI chip self-reliance amid U.S. export controls. The company also released SAIL, dedicated software for running AI programs on Zhenwu chips, free of charge, with source code made available to developers including those overseas.",
+  "actor": "Alibaba",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://economy.ac/news/2026/11/202611300611",
+  "source_title": null,
+  "publisher": "The Economy, Institutional Intelligence for the AI Economy",
+  "permalink": "https://presentofai.com/e/46360"
+ },
+ {
+  "id": 46356,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "OpenAI grants NATO access to advanced cybersecurity AI models",
+  "summary": "OpenAI announced at NATO Edge in Izmir, Turkey, that it is extending access to its most advanced cybersecurity AI models to NATO governments, allowing the alliance to identify and fix software vulnerabilities. The expansion builds on OpenAI's Daybreak initiative, launched in May, and marks the programme's first international extension, as NATO steps up cyber defence amid growing concerns over AI-assisted cyberattacks.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.convergence-now.com/artificial-intelligence/openai-gives-nato-access-to-advanced-cybersecurity-ai-models-to-strengthen-cyber-defence/",
+  "source_title": null,
+  "publisher": "Convergence Now",
+  "permalink": "https://presentofai.com/e/46356"
+ },
+ {
+  "id": 46352,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Azure Deploys Nvidia Vera Rubin NVL72 Systems at 10,240 GPUs",
+  "summary": "Microsoft Azure launched Nvidia Vera Rubin NVL72 systems with confidential computing, scaling to 10,240 GPUs in MLPerf Training v6.1 and leading cloud inference submissions, marking the first deployment of Vera Rubin-generation hardware at hyperscale.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://wccftech.com/nvidia-fuels-accelerated-computing-at-microsoft-across-azure-windows-pcs/",
+  "source_title": null,
+  "publisher": "Wccftech",
+  "permalink": "https://presentofai.com/e/46352"
+ },
+ {
+  "id": 46335,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "Google donates Agent Substrate, gVisor, and OpenRL to CNCF",
+  "summary": "Google announced it is donating Agent Substrate, gVisor, and OpenRL to the Cloud Native Computing Foundation, placing these AI agent infrastructure components under vendor-neutral open-source governance. The projects target different layers of agent infrastructure, from isolated code execution and agent lifecycle management to large-scale reinforcement learning orchestration.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/",
+  "source_title": null,
+  "publisher": "InfoQ: Software Development News, Trends & Best Practices",
+  "permalink": "https://presentofai.com/e/46335"
  },
  {
   "id": 46297,
@@ -236,20 +404,6 @@
   "source_title": null,
   "publisher": "Bbc",
   "permalink": "https://presentofai.com/e/46142"
- },
- {
-  "id": 46126,
-  "event_date": "2026-11-20",
-  "realm": "virtual",
-  "title": "Mathematician claims Riemann Hypothesis proof made with Claude",
-  "summary": "Levent Alpöge, a mathematician and Anthropic employee, posted a claimed proof of the Riemann Hypothesis on his website on November 20, 2026, stating it was produced with the help of Claude and written in the Lean programming language, which verifies the correctness of each argument. Whether the proof is sound and whether the hypothesis is properly encoded in Lean remains to be confirmed by independent experts.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://wisevoter.com/world/2026/11/20/alpoge-claims-riemann-hypothesis-proof-claude",
-  "source_title": null,
-  "publisher": "Wisevoter",
-  "permalink": "https://presentofai.com/e/46126"
  },
  {
   "id": 46121,
@@ -420,6 +574,34 @@
   "permalink": "https://presentofai.com/e/45848"
  },
  {
+  "id": 46351,
+  "event_date": "2026-11-19",
+  "realm": "virtual",
+  "title": "European Commission Confirms AI Cyberattack Disrupted Systems",
+  "summary": "The European Commission confirmed it was hit by an AI-assisted cyberattack using a publicly available tool, with cybersecurity experts managing the breach for nearly a month; CERT-EU had previously warned of the Artex AI penetration-testing framework targeting EU institutions.",
+  "actor": "European Commission",
+  "ticker": null,
+  "materiality": 80,
+  "source_url": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
+  "source_title": null,
+  "publisher": "Apnews",
+  "permalink": "https://presentofai.com/e/46351"
+ },
+ {
+  "id": 46312,
+  "event_date": "2026-11-19",
+  "realm": "terrestrial",
+  "title": "AI-powered cyberattack targeted EU institutions in October",
+  "summary": "A Brussels official confirmed that an AI-powered cyberattack struck European Union institutions in October 2026, first detected on Oct. 22, with some digital tools taken offline and an investigation launched. It was the first time the 27-member bloc reported a cyberattack using AI tools, though no evidence of a data breach affecting commission staff was detected.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
+  "source_title": null,
+  "publisher": "ABC News",
+  "permalink": "https://presentofai.com/e/46312"
+ },
+ {
   "id": 46291,
   "event_date": "2026-11-19",
   "realm": "terrestrial",
@@ -474,20 +656,6 @@
   "source_title": null,
   "publisher": "ETDatacenters",
   "permalink": "https://presentofai.com/e/46247"
- },
- {
-  "id": 46239,
-  "event_date": "2026-11-19",
-  "realm": "virtual",
-  "title": "European Commission confirms cyberattack using AI hacking tool ARTEX",
-  "summary": "The European Commission confirmed it was successfully cyberattacked by threat actors using ARTEX, an open-source AI hacking platform that the FBI had recently warned was being exploited by both criminal and state-sponsored groups.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
-  "source_title": null,
-  "publisher": "The Record from Recorded Future News",
-  "permalink": "https://presentofai.com/e/46239"
  },
  {
   "id": 46228,
@@ -595,7 +763,7 @@
   "summary": "OpenAI announced that GPT-6 Astra models optimized circuits used in its Jalapeño silicon and improved RISC-V core designs, marking a concrete first-of-its-kind deployment of AI in OpenAI's own chip design pipeline.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 72,
   "source_url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
   "source_title": null,
   "publisher": "The Decoder",
@@ -642,20 +810,6 @@
   "source_title": null,
   "publisher": "Apnews",
   "permalink": "https://presentofai.com/e/46097"
- },
- {
-  "id": 46095,
-  "event_date": "2026-11-19",
-  "realm": "terrestrial",
-  "title": "AI-Powered Cyberattack Hits European Commission, Data at Risk",
-  "summary": "The European Commission suffered a cyberattack in which unknown hackers used ARTEX, a publicly available AI-based vulnerability-scanning tool, disrupting internal systems including HR and medical reimbursement platforms for ten days. A spokesperson confirmed the attack and said security measures were taken, but investigators are still determining whether employees' personal data was accessed.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://unn.ua/en/news/hackers-attacked-the-european-commission-using-artificial-intelligence-employees-data-was-put-at-risk",
-  "source_title": null,
-  "publisher": "Unn",
-  "permalink": "https://presentofai.com/e/46095"
  },
  {
   "id": 46064,
@@ -854,20 +1008,6 @@
   "permalink": "https://presentofai.com/e/45766"
  },
  {
-  "id": 45713,
-  "event_date": "2026-11-19",
-  "realm": "terrestrial",
-  "title": "AI-powered cyberattack targeted EU in October, official confirms",
-  "summary": "A Brussels official confirmed that an AI-powered cyberattack targeted European Union systems in October 2026, marking a notable public acknowledgment of AI being used as a weapon against a major governmental bloc.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
-  "source_title": null,
-  "publisher": "Apnews",
-  "permalink": "https://presentofai.com/e/45713"
- },
- {
   "id": 45707,
   "event_date": "2026-11-19",
   "realm": "space",
@@ -952,20 +1092,6 @@
   "permalink": "https://presentofai.com/e/45615"
  },
  {
-  "id": 45602,
-  "event_date": "2026-11-19",
-  "realm": "terrestrial",
-  "title": "Newsom unveils sweeping AI safety plan as federal template",
-  "summary": "California Governor Gavin Newsom unveiled a comprehensive AI regulatory proposal in Washington D.C., positioning it as a national template ahead of a likely 2028 presidential run. The plan follows his signing of Senate Bill 53 requiring AI companies to disclose safety protocols and report critical incidents.",
-  "actor": "California Government",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://politico.com/news/2026/11/18/newsom-ai-plan-01172739",
-  "source_title": null,
-  "publisher": "Politico",
-  "permalink": "https://presentofai.com/e/45602"
- },
- {
   "id": 45596,
   "event_date": "2026-11-19",
   "realm": "terrestrial",
@@ -1020,6 +1146,20 @@
   "source_title": null,
   "publisher": "WIRED",
   "permalink": "https://presentofai.com/e/45426"
+ },
+ {
+  "id": 46330,
+  "event_date": "2026-11-18",
+  "realm": "terrestrial",
+  "title": "Newsom proposes sweeping mandatory AI safety framework for California",
+  "summary": "Governor Gavin Newsom released recommendations to strengthen California's AI safety framework, including mandatory baseline standards for all AI developers, independent third-party oversight, emergency shutdown authority for dangerous systems, and authority to cap recursive self-improvement in AI models. The proposals are framed as a contrast to what Newsom called the federal government's failure to create meaningful AI oversight.",
+  "actor": "California Governor's Office",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight",
+  "source_title": null,
+  "publisher": "Gov",
+  "permalink": "https://presentofai.com/e/46330"
  },
  {
   "id": 46294,
@@ -1512,20 +1652,6 @@
   "permalink": "https://presentofai.com/e/45360"
  },
  {
-  "id": 45312,
-  "event_date": "2026-11-18",
-  "realm": "virtual",
-  "title": "US federal audit finds AI models can aid mass-casualty attacks",
-  "summary": "A federal government investigation published Wednesday found that American AI models could provide enemy extremists with attack plans and instructions for building explosives capable of causing mass-casualty events.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html",
-  "source_title": null,
-  "publisher": "The New York Times",
-  "permalink": "https://presentofai.com/e/45312"
- },
- {
   "id": 45291,
   "event_date": "2026-11-18",
   "realm": "terrestrial",
@@ -1748,6 +1874,20 @@
   "source_title": null,
   "publisher": "Engadget",
   "permalink": "https://presentofai.com/e/45038"
+ },
+ {
+  "id": 46355,
+  "event_date": "2026-11-17",
+  "realm": "terrestrial",
+  "title": "New US AI chip export restrictions rattle Southeast Asia",
+  "summary": "New Trump administration chip export rules took effect, jeopardizing billions in regional investment and forcing Southeast Asian nations to navigate competing US and Chinese demands over AI hardware access.",
+  "actor": "US Commerce Department",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+  "source_title": null,
+  "publisher": "The New York Times",
+  "permalink": "https://presentofai.com/e/46355"
  },
  {
   "id": 46199,
@@ -5110,20 +5250,6 @@
   "permalink": "https://presentofai.com/e/43716"
  },
  {
-  "id": 43655,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "DOJ investigates Nvidia's $12.9B Hugging Face acquisition",
-  "summary": "The U.S. Department of Justice opened an investigation into Nvidia's announced $12.9 billion acquisition of Hugging Face, the leading open-source AI model platform, raising antitrust concerns.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.briefia.fr/en/article/hugging-face-delangue-defends-open-source-amid-acquisition-investigation",
-  "source_title": null,
-  "publisher": "Brief IA",
-  "permalink": "https://presentofai.com/e/43655"
- },
- {
   "id": 43653,
   "event_date": "2026-11-12",
   "realm": "virtual",
@@ -8106,20 +8232,6 @@
   "permalink": "https://presentofai.com/e/41722"
  },
  {
-  "id": 42553,
-  "event_date": "2026-11-08",
-  "realm": "terrestrial",
-  "title": "Tesla Announces Discontinuation of Cybertruck",
-  "summary": "Elon Musk announced on X that Tesla will wind down Cybertruck production at Gigafactory Texas by mid-2027, citing the need for space for Cybercab production, low sales, and a strategic shift toward AI, robotaxi services, and streamlined FSD development.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.teslaoracle.com/2026/11/06/tesla-tsla-to-end-cybertruck-production-next-year-and-its-not-just-about-the-cybercab/",
-  "source_title": null,
-  "publisher": "Tesla Oracle",
-  "permalink": "https://presentofai.com/e/42553"
- },
- {
   "id": 41939,
   "event_date": "2026-11-08",
   "realm": "virtual",
@@ -9154,20 +9266,6 @@
   "source_title": null,
   "publisher": "Timesofindia",
   "permalink": "https://presentofai.com/e/41032"
- },
- {
-  "id": 41024,
-  "event_date": "2026-11-06",
-  "realm": "terrestrial",
-  "title": "Serve Robotics launches AI services platform for robot fleets",
-  "summary": "Serve Robotics opened its connectivity, data management, and AI training technology, developed for its own autonomous delivery robots, as a commercial service available to other companies operating robotic fleets.",
-  "actor": "Serve Robotics",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://theaiinsider.tech/2026/11/06/serve-robotics-launches-physical-ai-services-for-robot-fleet-connectivity-and-training/",
-  "source_title": null,
-  "publisher": "AI Insider",
-  "permalink": "https://presentofai.com/e/41024"
  },
  {
   "id": 41004,
@@ -34734,20 +34832,6 @@
   "permalink": "https://presentofai.com/e/22539"
  },
  {
-  "id": 22525,
-  "event_date": "2026-09-10",
-  "realm": "terrestrial",
-  "title": "Chicago opens first AI-driven private school with $55,000 tuition",
-  "summary": "Alpha Chicago opened in downtown Chicago as the city's first AI-driven private school, charging $55,000 annual tuition and using personalized AI software to complete core academics in about two hours. Human staff called Guides focus on mentoring, emotional development, and leadership coaching, while the remaining school day covers skills like public speaking, entrepreneurship, and life skills.",
-  "actor": "Alpha Chicago",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.nbcchicago.com/news/local/first-ai-driven-teacher-free-school-in-chicago-opens-with-55000-annual-tuition/3986851/",
-  "source_title": null,
-  "publisher": null,
-  "permalink": "https://presentofai.com/e/22525"
- },
- {
   "id": 22523,
   "event_date": "2026-09-10",
   "realm": "terrestrial",
@@ -34836,7 +34920,7 @@
   "event_date": "2026-09-10",
   "realm": "virtual",
   "title": "Anthropic disrupts Russian & Chinese misuse campaigns on Claude",
-  "summary": "Anthropic published a Threat Intelligence report on September 10 documenting malicious use of its Claude models over the past eight months, including a suspected Russia-linked cyber espionage campaign against Ukrainian government, military, and diplomatic targets attributed to tradecraft consistent with Midnight Blizzard, and attacks by seven China-based labs including Alibaba, DeepSeek, and Moonshot aimed at extracting Claude's capabilities. The report also detailed five cases of scientists using Claude in ways that could support biological weapons development.",
+  "summary": "Anthropic published a Threat Intelligence report on September 10 documenting malicious use of its Claude models over the past eight months, including a suspected Russia-linked cyber espionage campaign against Ukrainian government, military, and diplomatic targets using tradecraft consistent with Midnight Blizzard, and attacks by seven China-based labs including Alibaba, DeepSeek, and Moonshot, with Alibaba allegedly running the largest illicit distillation attack and Moonshot and DeepSeek allegedly routing live customer conversations through Claude as training data. The report also detailed fi",
   "actor": "Anthropic",
   "ticker": null,
   "materiality": 65,
