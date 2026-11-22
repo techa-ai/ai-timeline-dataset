@@ -1,5 +1,47 @@
 [
  {
+  "id": 46693,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "Tesla FSD v15 rollout begins with 25x safety improvement",
+  "summary": "Tesla began rolling out Full Self-Driving v15, featuring an upgraded vision encoder shared across FSD, Robotaxi, and Optimus trained on millions of internet videos, achieving a 25x improvement in critical intervention rate.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements",
+  "source_title": null,
+  "publisher": "Teslarati",
+  "permalink": "https://presentofai.com/e/46693"
+ },
+ {
+  "id": 46715,
+  "event_date": "2026-11-21",
+  "realm": "terrestrial",
+  "title": "UN 'killer robots' talks overrun deadline amid AI weapons alarm",
+  "summary": "Five days of UN negotiations on legally binding rules for autonomous weapons systems ran past their deadline into overtime in Geneva, with major arms-producing nations including the US and Russia opposing binding constraints as AI-assisted weapons are already being used in active conflicts.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.trtworld.com/article/1a9fbcaeeb92",
+  "source_title": null,
+  "publisher": "TRT World",
+  "permalink": "https://presentofai.com/e/46715"
+ },
+ {
+  "id": 46625,
+  "event_date": "2026-11-21",
+  "realm": "virtual",
+  "title": "Anthropic Mathematician Claims Claude Solved Riemann Hypothesis",
+  "summary": "Levent Alpöge, a mathematician at Anthropic affiliated with Harvard University, claims to have used Claude to prove the Riemann Hypothesis, widely considered the most important unsolved problem in mathematics. Alpöge shared millions of lines of Lean code he says verify the findings, though no formal written paper has been released and the proof has not yet been independently confirmed.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis",
+  "source_title": null,
+  "publisher": "Futurism",
+  "permalink": "https://presentofai.com/e/46625"
+ },
+ {
   "id": 46566,
   "event_date": "2026-11-21",
   "realm": "virtual",
@@ -40,20 +82,6 @@
   "source_title": null,
   "publisher": "Reutersconnect",
   "permalink": "https://presentofai.com/e/46500"
- },
- {
-  "id": 46454,
-  "event_date": "2026-11-21",
-  "realm": "virtual",
-  "title": "AI Agent Autonomously Finds Zero-Day, Seizes Server Root Access",
-  "summary": "Amazon Threat Intelligence reported that a suspected Chinese-linked threat actor used the open-source Cairn AI agent framework to autonomously discover and exploit a previously unknown path traversal vulnerability in the MONAI Label medical imaging application, gaining root access on a university server in East Asia. The campaign, observed between September 8 and 10, 2026, also included failed attempts against other servers, and Amazon reported the flaw to MONAI Label maintainers, who released a patch on November 18.",
-  "actor": "Amazon",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-  "source_title": null,
-  "publisher": "BleepingComputer",
-  "permalink": "https://presentofai.com/e/46454"
  },
  {
   "id": 46405,
@@ -110,20 +138,6 @@
   "source_title": null,
   "publisher": "CASRAI",
   "permalink": "https://presentofai.com/e/46340"
- },
- {
-  "id": 46313,
-  "event_date": "2026-11-21",
-  "realm": "virtual",
-  "title": "Anthropic Mathematician Claims Riemann Hypothesis Proof With Claude",
-  "summary": "Anthropic mathematician Levent Alpoge says he worked with Claude to produce a claimed proof of the 167-year-old Riemann hypothesis, a $1 million Millennium Prize problem, with the claim surfacing one day after Anthropic's Nasdaq debut. The proof has not been independently verified, and under Clay Mathematics Institute rules it must be published, survive two years of scrutiny, and earn general acceptance before any prize can be considered.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://tech.yahoo.com/ai/claude/articles/claude-claims-historic-math-breakthrough-213602928.html",
-  "source_title": null,
-  "publisher": "Tech",
-  "permalink": "https://presentofai.com/e/46313"
  },
  {
   "id": 46306,
@@ -210,20 +224,6 @@
   "permalink": "https://presentofai.com/e/46250"
  },
  {
-  "id": 46245,
-  "event_date": "2026-11-21",
-  "realm": "terrestrial",
-  "title": "European Commission confirms AI-assisted cyberattack on EU",
-  "summary": "The European Commission confirmed it was targeted by an AI-generated cybercampaign, detected on October 22, which disrupted several systems for approximately 10 days. A spokesperson said no evidence of a data breach affecting Commission staff was found and that necessary steps had been taken in response.",
-  "actor": "European Commission",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016",
-  "source_title": null,
-  "publisher": "www.dw.com",
-  "permalink": "https://presentofai.com/e/46245"
- },
- {
   "id": 46200,
   "event_date": "2026-11-21",
   "realm": "terrestrial",
@@ -238,6 +238,118 @@
   "permalink": "https://presentofai.com/e/46200"
  },
  {
+  "id": 46719,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "SpaceX closes $32B AI chip debt sale at yields above 8%",
+  "summary": "SpaceX sold $32 billion in bonds as part of a ~$40 billion financing package to fund a five-year Nvidia GPU lease for AI compute infrastructure, with the largest $25.2B tranche yielding 8.259%, one of the largest AI infrastructure debt deals on record.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/46719"
+ },
+ {
+  "id": 46697,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Tesla Cybercab Begins Passenger Rides in Dallas",
+  "summary": "Tesla's Cybercab robotaxis began carrying paying passengers in Dallas on November 20, 2026, making it the second U.S. city after Austin to offer fully driverless rides in the two-seat electric vehicles. Riders book trips through the Tesla Robotaxi app, and the Cybercabs operate with no steering wheel, no pedals, and no human driver onboard within an roughly 81-square-mile service area.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.audacy.com/krld/news/local/teslas-cybercab-begins-picking-up-passengers-in-dallas",
+  "source_title": null,
+  "publisher": "www.audacy.com",
+  "permalink": "https://presentofai.com/e/46697"
+ },
+ {
+  "id": 46685,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "OpenAI Performance Factory: Codex auto-fixes ChatGPT slowdowns",
+  "summary": "OpenAI revealed its internal 'Performance Factory' system, built on Codex, which autonomously detects and fixes ChatGPT performance regressions; in three months it ran 1,700+ investigations and identified root causes in 600+ cases.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://gigazine.net/gsc_news/en/20261120-openai-chatgpt-performance-factory/",
+  "source_title": null,
+  "publisher": "GIGAZINE",
+  "permalink": "https://presentofai.com/e/46685"
+ },
+ {
+  "id": 46670,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "European Commission Confirms AI Cyberattack Disrupted Systems",
+  "summary": "The European Commission officially confirmed it was hit by a cyberattack using ARTEX, an LLM-driven penetration-testing framework flagged by CERT-EU and the FBI, disrupting HR and reimbursement systems for more than 10 days. Officials said it was one of the first times a major multilateral institution officially characterized a cyberattack in those terms, and investigators have found no evidence of a staff-wide data breach, though the investigation remains ongoing.",
+  "actor": "European Commission",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://www.latintimes.com/ai-artex-framework-european-commission-cyberattack-601595",
+  "source_title": null,
+  "publisher": "Latin Times",
+  "permalink": "https://presentofai.com/e/46670"
+ },
+ {
+  "id": 46668,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "AI Agents Autonomously Discover and Exploit Zero-Day",
+  "summary": "Amazon's Threat Intelligence team disclosed that China-linked hackers used the open-source AI framework Cairn to allegedly discover a zero-day vulnerability in an open-source medical imaging application and exploit it to gain shell access on university servers in East Asia, with agents planning and executing the attack autonomously over hours without operator direction.",
+  "actor": "Amazon",
+  "ticker": null,
+  "materiality": 85,
+  "source_url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+  "source_title": null,
+  "publisher": "The Record from Recorded Future News",
+  "permalink": "https://presentofai.com/e/46668"
+ },
+ {
+  "id": 46661,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "OpenAI tests Dots proactive personal agents on $20/mo Plus tier",
+  "summary": "OpenAI is testing Dots, proactive always-on AI agents that can work autonomously on tasks, with a small number of ChatGPT Plus subscribers at $20 per month. Dots are also expanding to all ChatGPT Business Standard users starting the same day.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+  "source_title": null,
+  "publisher": "Engadget",
+  "permalink": "https://presentofai.com/e/46661"
+ },
+ {
+  "id": 46652,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "Google Donates Agent Substrate and gVisor to CNCF",
+  "summary": "Google transferred Agent Substrate and gVisor, core components of its AI agent infrastructure, to the Cloud Native Computing Foundation, placing them under vendor-neutral open governance for the first time.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/",
+  "source_title": null,
+  "publisher": "InfoQ: Software Development News, Trends & Best Practices",
+  "permalink": "https://presentofai.com/e/46652"
+ },
+ {
+  "id": 46636,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "Ubisoft founds Motherbrain generative AI game studio",
+  "summary": "Ubisoft announced a new subsidiary called Motherbrain, dedicated to generative AI for gameplay innovation, as part of a new operating model disclosed in its November 19, 2026 earnings report. The studio, whose team also built Ubisoft's first playable generative AI experience called Teammates, aims to develop proprietary AI technologies including smart NPCs and AI game masters.",
+  "actor": "Ubisoft",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+  "source_title": null,
+  "publisher": "Ign",
+  "permalink": "https://presentofai.com/e/46636"
+ },
+ {
   "id": 46595,
   "event_date": "2026-11-20",
   "realm": "terrestrial",
@@ -250,20 +362,6 @@
   "source_title": null,
   "publisher": "Shattered",
   "permalink": "https://presentofai.com/e/46595"
- },
- {
-  "id": 46582,
-  "event_date": "2026-11-20",
-  "realm": "virtual",
-  "title": "OpenAI Performance Factory: 1,700+ ChatGPT auto-fixes in 3 months",
-  "summary": "OpenAI deployed Performance Factory, a Codex-based internal system that automatically detects and resolves ChatGPT performance regressions after code updates; in three months it ran over 1,700 investigations averaging 17/day and identified root causes in 600+ cases.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://dev.ua/en/news/openai-predstavyla-performance-factory-1795178670",
-  "source_title": null,
-  "publisher": "dev.ua",
-  "permalink": "https://presentofai.com/e/46582"
  },
  {
   "id": 46575,
@@ -476,20 +574,6 @@
   "permalink": "https://presentofai.com/e/46352"
  },
  {
-  "id": 46335,
-  "event_date": "2026-11-20",
-  "realm": "virtual",
-  "title": "Google donates Agent Substrate, gVisor, and OpenRL to CNCF",
-  "summary": "Google announced it is donating Agent Substrate, gVisor, and OpenRL to the Cloud Native Computing Foundation, placing these AI agent infrastructure components under vendor-neutral open-source governance. The projects target different layers of agent infrastructure, from isolated code execution and agent lifecycle management to large-scale reinforcement learning orchestration.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/",
-  "source_title": null,
-  "publisher": "InfoQ: Software Development News, Trends & Best Practices",
-  "permalink": "https://presentofai.com/e/46335"
- },
- {
   "id": 46297,
   "event_date": "2026-11-20",
   "realm": "terrestrial",
@@ -644,20 +728,6 @@
   "permalink": "https://presentofai.com/e/45981"
  },
  {
-  "id": 45977,
-  "event_date": "2026-11-20",
-  "realm": "terrestrial",
-  "title": "Tesla Cybercab expands public rides to Dallas",
-  "summary": "Tesla launched public Cybercab robotaxi rides in Dallas, making it the second US city after Austin to receive the steering-wheel-free, fully driverless vehicle for paying passengers.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://teslarati.com/tesla-cybercab-without-steering-wheel-pedals-expands-public-rides-dallas",
-  "source_title": null,
-  "publisher": "Teslarati",
-  "permalink": "https://presentofai.com/e/45977"
- },
- {
   "id": 45969,
   "event_date": "2026-11-20",
   "realm": "terrestrial",
@@ -768,20 +838,6 @@
   "source_title": null,
   "publisher": "TESLARATI",
   "permalink": "https://presentofai.com/e/46598"
- },
- {
-  "id": 46594,
-  "event_date": "2026-11-19",
-  "realm": "terrestrial",
-  "title": "Zoox Begins Passenger Road Tests in Atlanta",
-  "summary": "Amazon-owned Zoox started carrying employees, family members, and friends in its purpose-built four-passenger robotaxi on public Atlanta streets, expanding driverless passenger testing to a new US city.",
-  "actor": "Zoox",
-  "ticker": null,
-  "materiality": 63,
-  "source_url": "https://www.thecooldown.com/green-tech/amazon-zoox-atlanta-robotaxi-road-tests/",
-  "source_title": null,
-  "publisher": "The Cool Down",
-  "permalink": "https://presentofai.com/e/46594"
  },
  {
   "id": 46553,
@@ -1076,20 +1132,6 @@
   "source_title": null,
   "publisher": "The Decoder",
   "permalink": "https://presentofai.com/e/46106"
- },
- {
-  "id": 46103,
-  "event_date": "2026-11-19",
-  "realm": "virtual",
-  "title": "Ubisoft founds Motherbrain, a dedicated generative AI game studio",
-  "summary": "Ubisoft announced the creation of Motherbrain, a new subsidiary studio focused on generative AI for gameplay innovation, as part of a new operating model disclosed in its November 19, 2026 earnings report. Motherbrain, whose team also built the AI experience Teammates, aims to develop smart NPCs, AI game masters, and proprietary gameplay technologies for creators inside and outside Ubisoft.",
-  "actor": "Ubisoft",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
-  "source_title": null,
-  "publisher": "Ign",
-  "permalink": "https://presentofai.com/e/46103"
  },
  {
   "id": 46097,
@@ -1426,6 +1468,20 @@
   "source_title": null,
   "publisher": "WIRED",
   "permalink": "https://presentofai.com/e/45426"
+ },
+ {
+  "id": 46659,
+  "event_date": "2026-11-18",
+  "realm": "virtual",
+  "title": "Microsoft unveils three AI models claiming 96% of Claude Opus performance at 5% cost",
+  "summary": "At Ignite 2026, Microsoft announced three new AI models, including MAI Code 2, which it claims achieves 96% of Claude Opus 5.5 performance at 5% of the cost, based on Microsoft-provided benchmarks. The company said the models will be integrated into GitHub Copilot, Microsoft 365, and Fabric, and could reduce its reliance on outside model providers for routine AI requests.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite",
+  "source_title": null,
+  "publisher": "ZDNET",
+  "permalink": "https://presentofai.com/e/46659"
  },
  {
   "id": 46606,
@@ -4130,20 +4186,6 @@
   "permalink": "https://presentofai.com/e/45166"
  },
  {
-  "id": 45039,
-  "event_date": "2026-11-14",
-  "realm": "virtual",
-  "title": "ChatGPT Wallet lets AI agents autonomously shop and check out",
-  "summary": "OpenAI launched ChatGPT Wallet, enabling its AI agents called dots to help users decide what to buy and complete purchases on their behalf. The feature is initially available to a limited number of U.S. ChatGPT Pro subscribers ages 18 and up, with users approving each transaction via a security check before checkout.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 74,
-  "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-  "source_title": null,
-  "publisher": "TechCrunch",
-  "permalink": "https://presentofai.com/e/45039"
- },
- {
   "id": 44811,
   "event_date": "2026-11-14",
   "realm": "space",
@@ -6074,20 +6116,6 @@
   "source_title": null,
   "publisher": "Casrai",
   "permalink": "https://presentofai.com/e/42870"
- },
- {
-  "id": 42861,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "Tesla Robotaxi goes 24/7 across all cities it serves",
-  "summary": "Tesla announced on November 11, 2026 that its Robotaxi service now operates around the clock in every city where it is available, removing the overnight shutdown. The milestone arrives ahead of the company's year-end target set during its October earnings call.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://teslanorth.com/2026/11/11/tesla-robotaxi-24-7-every-city/",
-  "source_title": null,
-  "publisher": "Teslanorth",
-  "permalink": "https://presentofai.com/e/42861"
  },
  {
   "id": 42852,
@@ -11480,20 +11508,6 @@
   "permalink": "https://presentofai.com/e/40044"
  },
  {
-  "id": 40033,
-  "event_date": "2026-11-03",
-  "realm": "virtual",
-  "title": "Netflix Launches AI Discover Content Recommendation Feature",
-  "summary": "Netflix debuted AI Discover on its TV app on November 3, initially to a limited number of U.S. subscribers, allowing users to explore content via AI-driven preset themes based on their viewing history and preferences. The feature is the first Netflix tool branded as AI-powered for users, with the company hoping it will help drive up total watch time amid a recent drop-off in per-subscriber viewing.",
-  "actor": "Netflix",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://variety.com/2026/tv/news/netflix-launches-ai-discover-content-recommendations-1236937769/",
-  "source_title": null,
-  "publisher": "Variety",
-  "permalink": "https://presentofai.com/e/40033"
- },
- {
   "id": 40016,
   "event_date": "2026-11-03",
   "realm": "terrestrial",
@@ -12346,20 +12360,6 @@
   "source_title": null,
   "publisher": "Huggingnews",
   "permalink": "https://presentofai.com/e/39468"
- },
- {
-  "id": 39418,
-  "event_date": "2026-11-02",
-  "realm": "virtual",
-  "title": "AI proves the Quasi-Riemann Hypothesis",
-  "summary": "An AI model produced a proof of the Quasi-Riemann Hypothesis by identifying a previously overlooked family of mathematical objects, representing a landmark first-of-its-kind AI achievement in pure mathematics.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://columbiacountynewyork.com/article/ai-proves-the-quasi-riemann-hypothesis-unlocking-new-mathematical-horizons",
-  "source_title": null,
-  "publisher": "Columbiacountynewyork",
-  "permalink": "https://presentofai.com/e/39418"
  },
  {
   "id": 39397,
@@ -56266,20 +56266,6 @@
   "permalink": "https://presentofai.com/e/5455"
  },
  {
-  "id": 5125,
-  "event_date": "2026-07-17",
-  "realm": "virtual",
-  "title": "Moonshot AI releases Kimi K3, open-weight model rivaling top US AI systems",
-  "summary": "Chinese startup Moonshot AI launched Kimi K3, an open-weight model that topped Arena's front-end coding leaderboard and appeared to match leading US models from Anthropic and OpenAI, drawing comparisons to the market reaction that followed DeepSeek's release in early 2025.",
-  "actor": "Moonshot AI",
-  "ticker": null,
-  "materiality": 85,
-  "source_url": "https://www.theglobeandmail.com/business/international-business/article-moonshot-kimi-k3-ai-model-closes-in-on-anthropic/",
-  "source_title": null,
-  "publisher": "The Globe and Mail",
-  "permalink": "https://presentofai.com/e/5125"
- },
- {
   "id": 5090,
   "event_date": "2026-07-17",
   "realm": "terrestrial",
@@ -58734,7 +58720,7 @@
   "event_date": "2026-07-09",
   "realm": "terrestrial",
   "title": "Lawsuit alleges Mayo Clinic AI deployment endangered patients",
-  "summary": "A lawsuit alleges that Mayo Clinic cut corners with its AI integration, putting patient care and privacy at risk.",
+  "summary": "A former Mayo Clinic research director and AI compliance lead, Traci Tamiko Eto, sued Mayo Clinic in federal court alleging she was retaliated against and fired after raising concerns that staff bypassed AI compliance rules, mischaracterized outcomes of its MAYA digital assistant, and prioritized speed over accuracy in ways that put patient care and privacy at risk. Mayo Clinic denied commenting on pending litigation but stated its AI development follows applicable laws and regulations.",
   "actor": "",
   "ticker": null,
   "materiality": 58,
