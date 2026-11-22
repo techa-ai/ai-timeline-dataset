@@ -1,5 +1,33 @@
 [
  {
+  "id": 46990,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "Court Blocks Colorado AI Law Enforcement Pending xAI Ruling",
+  "summary": "A court issued a stay blocking enforcement of Colorado's AI law, covering all companies, not just xAI, until 14 days after a final ruling in the xAI case, halting investigations statewide.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://ppc.land/court-blocks-colorado-ai-law-enforcement-until-14-days-after-xai-ruling",
+  "source_title": null,
+  "publisher": "Ppc",
+  "permalink": "https://presentofai.com/e/46990"
+ },
+ {
+  "id": 46985,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "Red Cross Warns UN: Too Late Soon to Regulate AI Weapons",
+  "summary": "The International Committee of the Red Cross warned the United Nations that the window to regulate autonomous weapons, including AI-driven target generation used in Gaza and last-mile AI drone guidance in Ukraine, is closing rapidly.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/46985"
+ },
+ {
   "id": 46900,
   "event_date": "2026-11-22",
   "realm": "terrestrial",
@@ -21,7 +49,7 @@
   "summary": "Microsoft unveiled the Percepcion platform at Ignite, a system that coordinates multiple AI agents for cybersecurity: one scanning for vulnerabilities as an attacker would, one analyzing alerts, and one applying fixes with human oversight. David Weston, vice president of security, emphasized that organizations must control the agents they adopt and reorganize teams around these tools.",
   "actor": "Microsoft",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://foro3d.com/en/2026/noviembre/microsoft-presenta-percepcion-seguridad-con-agentes-de-ia-coordinados.html",
   "source_title": null,
   "publisher": "Foro3D - Noticias y Artículos",
@@ -68,6 +96,20 @@
   "source_title": null,
   "publisher": "Teslarati",
   "permalink": "https://presentofai.com/e/46693"
+ },
+ {
+  "id": 46913,
+  "event_date": "2026-11-21",
+  "realm": "terrestrial",
+  "title": "Huawei launches OSTA AI smartphone sub-brand with O1 Pro",
+  "summary": "Huawei launched smartphone sub-brand OSTA (星芒), an AI-focused line running HarmonyOS, with the O1 Pro priced from 5,499 yuan, marking Huawei's return to a multi-brand smartphone strategy six years after selling Honor.",
+  "actor": "Huawei",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://www.caixinglobal.com/2026-11-21/huawei-launches-ai-focused-smartphone-sub-brand-osta-102507371.html",
+  "source_title": null,
+  "publisher": "Caixin Global - Latest Business and Financial News on China, U.S. Trade War and Negotiations, Breaking News, Headlines and Developments",
+  "permalink": "https://presentofai.com/e/46913"
  },
  {
   "id": 46905,
@@ -378,6 +420,76 @@
   "permalink": "https://presentofai.com/e/46200"
  },
  {
+  "id": 46992,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Signal Restricts Screenshots to Block OS-Level AI Agents",
+  "summary": "Signal announced it will restrict smartphone screenshot functionality to prevent OS-integrated AI agents (Siri, Gemini) from accessing private conversations, and is demanding Apple, Google, and Microsoft provide blocking tools and disclose agent behavior.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.indexbox.io/blog/signal-restricts-screenshots-to-block-ai-agents-from-reading-private-chats/",
+  "source_title": null,
+  "publisher": "IndexBox, Inc.",
+  "permalink": "https://presentofai.com/e/46992"
+ },
+ {
+  "id": 46962,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "OpenAI launches Performance Factory to keep ChatGPT fast via Codex",
+  "summary": "OpenAI published details of its 'Performance Factory,' an AI agent system using Codex to autonomously investigate performance regressions, propose fixes, and deploy them to production for ChatGPT. The system conducted over 1,700 investigations in three months and successfully identified the root cause in more than 600 cases.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://gigazine.net/gsc_news/en/20261120-openai-chatgpt-performance-factory/",
+  "source_title": null,
+  "publisher": "GIGAZINE",
+  "permalink": "https://presentofai.com/e/46962"
+ },
+ {
+  "id": 46944,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Texas Comptroller Proposes to End Sales Tax on AI and Cloud Computing",
+  "summary": "Texas Comptroller Don Huffines announced proposed rule changes that would eliminate sales taxes on streaming services, AI, cloud computing, and other hosted technology services, arguing his office improperly extended decades-old tax laws to technologies the legislature never intended to tax. The proposals, scheduled for publication in the Texas Register on November 20, 2026, remain subject to public comment and face uncertainty given the incoming comptroller's request to halt such rulemaking.",
+  "actor": "Texas Comptroller",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://natlawreview.com/article/texas-comptroller-moves-end-sales-tax-streaming-ai-and-cloud-computing",
+  "source_title": null,
+  "publisher": "Legal News & Business Law News | The National Law Review",
+  "permalink": "https://presentofai.com/e/46944"
+ },
+ {
+  "id": 46923,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "US House Committees Report China Targeting US Firms with Chinese AI Models",
+  "summary": "A joint investigation by the House Select Committee on China and the House Committee on Homeland Security found China is systematically attempting to make US companies dependent on Chinese AI models, with PLA personnel linked to a leading Chinese AI developer and Chinese military procurement records integrating these models into cyber operations. The report recommends launching a national US open-weight AI initiative, extending federal restrictions on Chinese AI models, and examining sales of American training data to Chinese AI laboratories.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://chinaselectcommittee.house.gov/media/press-releases/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+  "source_title": null,
+  "publisher": "Chinaselectcommittee",
+  "permalink": "https://presentofai.com/e/46923"
+ },
+ {
+  "id": 46908,
+  "event_date": "2026-11-20",
+  "realm": "virtual",
+  "title": "Claude claimed to help prove the Riemann Hypothesis",
+  "summary": "Anthropic mathematician Levent Alpöge announced that Claude helped him produce a proof of the 167-year-old Riemann Hypothesis over 41 days; the claim is unverified and awaits independent peer review, but has been called potentially one of the greatest mathematical breakthroughs in two centuries.",
+  "actor": "Anthropic",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
+  "source_title": null,
+  "publisher": "Washingtonpost",
+  "permalink": "https://presentofai.com/e/46908"
+ },
+ {
   "id": 46873,
   "event_date": "2026-11-20",
   "realm": "terrestrial",
@@ -558,20 +670,6 @@
   "source_title": null,
   "publisher": "www.audacy.com",
   "permalink": "https://presentofai.com/e/46697"
- },
- {
-  "id": 46685,
-  "event_date": "2026-11-20",
-  "realm": "virtual",
-  "title": "OpenAI Performance Factory: Codex auto-fixes ChatGPT slowdowns",
-  "summary": "OpenAI revealed its internal 'Performance Factory' system, built on Codex, which autonomously detects and fixes ChatGPT performance regressions; in three months it ran 1,700+ investigations and identified root causes in 600+ cases.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://gigazine.net/gsc_news/en/20261120-openai-chatgpt-performance-factory/",
-  "source_title": null,
-  "publisher": "GIGAZINE",
-  "permalink": "https://presentofai.com/e/46685"
  },
  {
   "id": 46670,
@@ -1078,18 +1176,18 @@
   "permalink": "https://presentofai.com/e/45848"
  },
  {
-  "id": 46841,
+  "id": 46929,
   "event_date": "2026-11-19",
   "realm": "virtual",
-  "title": "Apple Confirms Full-Featured AI Agent in Development",
-  "summary": "Apple posted job listings for a senior engineering manager to build a proactive agentic AI assistant capable of writing code, browsing the web, controlling apps, and navigating devices on a user's behalf, signaling a direct entry into the AI agent market.",
+  "title": "Apple confirms AI agent for device control, coding & browsing",
+  "summary": "Apple posted job listings for a senior engineering manager to build a proactive agentic AI assistant capable of writing code, browsing the web, controlling apps, and navigating devices on a user's behalf, marking Apple's first public commitment to a full computer-use AI agent.",
   "actor": "Apple",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 72,
   "source_url": "https://bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
   "source_title": null,
   "publisher": "Bloomberg",
-  "permalink": "https://presentofai.com/e/46841"
+  "permalink": "https://presentofai.com/e/46929"
  },
  {
   "id": 46598,
@@ -8176,20 +8274,6 @@
   "permalink": "https://presentofai.com/e/41859"
  },
  {
-  "id": 41834,
-  "event_date": "2026-11-10",
-  "realm": "virtual",
-  "title": "Anthropic Releases Claude Fable 5.2 & Mythos 5.2",
-  "summary": "Anthropic launched Claude Fable 5.2 and Mythos 5.2, claiming the models solved two previously unsolved black hole physics problems, designed working electronic devices, and produced a computer-verifiable mathematical proof, marking claimed first-of-kind scientific breakthroughs by an AI system.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/",
-  "source_title": null,
-  "publisher": "TestingCatalog",
-  "permalink": "https://presentofai.com/e/41834"
- },
- {
   "id": 43616,
   "event_date": "2026-11-09",
   "realm": "virtual",
@@ -11968,20 +12052,6 @@
   "source_title": null,
   "publisher": "Startupfortune",
   "permalink": "https://presentofai.com/e/39824"
- },
- {
-  "id": 39820,
-  "event_date": "2026-11-03",
-  "realm": "virtual",
-  "title": "Anthropic Claude Gets EDR Monitoring in Cowork VM",
-  "summary": "Anthropic launched a beta integration allowing businesses to run endpoint detection and response sensors inside Claude Cowork's local virtual machine, closing a security monitoring gap for AI agent shell commands and code execution.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 52,
-  "source_url": "https://cybersecuritynews.com/anthropic-enables-edr-monitoring/",
-  "source_title": null,
-  "publisher": "CybersecurityNews",
-  "permalink": "https://presentofai.com/e/39820"
  },
  {
   "id": 39814,
@@ -16448,20 +16518,6 @@
   "source_title": null,
   "publisher": "Theaiinsider",
   "permalink": "https://presentofai.com/e/38247"
- },
- {
-  "id": 38074,
-  "event_date": "2026-10-24",
-  "realm": "terrestrial",
-  "title": "France Sets 2027 Autonomous Vehicle Regulatory Approval Path",
-  "summary": "France established a formal regulatory approval pathway for autonomous vehicles targeting 2027, with delivery robots already legal on French roads since August 7, 2026, and a public autonomous transit pilot planned for early 2028.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://theaiinsider.tech/2026/10/24/france-sets-2027-autonomous-vehicle-approval-path-as-stellantis-wayve-bolt-and-g7-pitch-pilots",
-  "source_title": null,
-  "publisher": "Theaiinsider",
-  "permalink": "https://presentofai.com/e/38074"
  },
  {
   "id": 37374,
@@ -22614,7 +22670,7 @@
   "event_date": "2026-10-13",
   "realm": "virtual",
   "title": "Epic Games announces major pivot to AI-first strategy",
-  "summary": "Epic Games CEO Tim Sweeney announced a company-wide \"huge pivot\" toward \"maximum AI acceleration,\" retooling the Fortnite maker's operations and product development around AI as a core priority.",
+  "summary": "Epic Games CEO Tim Sweeney announced a company-wide \"huge pivot\" toward \"maximum AI acceleration,\" moving developers around to retool operations and product development around AI. According to Bloomberg reporting by Jason Schreier, part of this shift involves an unannounced Star Wars and Marvel shooter where developers were instructed to implement an \"AI first\" production model using tools such as Anthropic's Claude.",
   "actor": "Epic Games",
   "ticker": null,
   "materiality": 52,
@@ -44128,25 +44184,11 @@
   "permalink": "https://presentofai.com/e/15656"
  },
  {
-  "id": 15642,
-  "event_date": "2026-08-21",
-  "realm": "virtual",
-  "title": "Waymo Unveils Custom 5nm AI Chips for Robotaxi Sensor Processing",
-  "summary": "Waymo revealed proprietary 5nm custom silicon designed to process sensor data onboard its robotaxis, a first-of-its-kind in-house chip deployment for the autonomous vehicle fleet as it scales operations.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.techrepublic.com/article/news-waymo-custom-ai-chips-robotaxis/",
-  "source_title": null,
-  "publisher": "TechRepublic",
-  "permalink": "https://presentofai.com/e/15642"
- },
- {
   "id": 15628,
   "event_date": "2026-08-21",
   "realm": "terrestrial",
   "title": "NSW Commission awards $950K factoring AI job disruption risk",
-  "summary": "The NSW Personal Injury Commission awarded Andrew Duong $950,000 in damages after a 2023 car crash, including $400,000 in future economic loss. In what is described as the first known case of its kind, commission member Philip Carr cited AI-driven job market uncertainty as one of multiple factors when calculating the buffer for future loss of earnings.",
+  "summary": "The NSW Personal Injury Commission awarded Andrew Duong $950,000 in damages after a 2023 car crash, including $400,000 in future economic loss. In what is described as the first known case of its kind, commission member Philip Carr cited AI-driven job market uncertainty as one of multiple factors, alongside injuries and medication, when calculating a buffer for future loss of earnings.",
   "actor": "",
   "ticker": null,
   "materiality": 68,
@@ -44286,7 +44328,7 @@
   "event_date": "2026-08-20",
   "realm": "terrestrial",
   "title": "Nevada Approves Tesla, Waymo and Uber Subsidiary for Paid Las Vegas Robotaxi Service",
-  "summary": "Nevada's Transportation Authority approved Tesla Robotaxi, Waymo, and Aviari Services, an Uber subsidiary, to charge for rides in Clark County including near Harry Reid International Airport. Tesla was permitted a fleet of up to 5,000 autonomous vehicles in its first year while Waymo and Aviari were each capped at 1,000, with all three required to meet conditions including insurance, crash reporting, and accessibility compliance before starting service.",
+  "summary": "Nevada's Transportation Authority approved Tesla Robotaxi, Waymo, and Aviari Services, an Uber subsidiary, to charge for rides in Clark County including near Harry Reid International Airport, subject to conditions. Tesla was permitted a fleet of up to 5,000 autonomous vehicles in its first year while Waymo and Aviari were each capped at 1,000, with all three required to meet conditions including insurance, crash reporting, and accessibility compliance before starting service, and operations must begin within 120 days of permits being issued.",
   "actor": "Nevada Transportation Authority",
   "ticker": null,
   "materiality": 82,
@@ -44300,7 +44342,7 @@
   "event_date": "2026-08-20",
   "realm": "terrestrial",
   "title": "RoboStore pivots to US manufacturing amid government crackdown on foreign robots",
-  "summary": "RoboStore, the leading North American distributor of Unitree Robotics humanoid robots and robot dogs, announced plans to open a 66,000-square-foot manufacturing facility on Long Island, New York by Q1 2027, launching a new company called Robo Inc. The pivot comes amid the US government's growing crackdown on foreign-made robots, as well as the company's own insights into industry-specific robotics needs gained from supporting customer deployments.",
+  "summary": "RoboStore, the main North American distributor of Unitree Robotics humanoid robots and robot dogs, announced plans to open a 66,000-square-foot manufacturing facility on Long Island, New York by Q1 2027, launching a new company called Robo Inc. The pivot comes amid the US government's growing crackdown on foreign-made robots, as well as insights the company gained into industry-specific robotics needs while supporting customer deployments.",
   "actor": "",
   "ticker": null,
   "materiality": 72,
