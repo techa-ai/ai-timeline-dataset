@@ -1,5 +1,117 @@
 [
  {
+  "id": 47339,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "Virginia & Oregon sue SpaceX over Grok CSAM generation",
+  "summary": "Virginia and Oregon filed suit against SpaceX Super Intelligence Corp, alleging its Grok AI model generates child sexual abuse material and nonconsensual sexual images from photographs while failing to put adequate safeguards in place. The lawsuits, filed in state courts, accuse SpaceX of violating consumer protection laws and seek damages, penalties, and court orders to stop the alleged violations.",
+  "actor": "xAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.nbcnews.com/tech/tech-news/virginia-oregon-sue-musks-spacex-grok-ais-creation-child-sexual-abuse-rcna610923",
+  "source_title": null,
+  "publisher": "NBC News",
+  "permalink": "https://presentofai.com/e/47339"
+ },
+ {
+  "id": 47337,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "SpaceX AI Compute Leases to Anthropic and Google Top Half of Revenue",
+  "summary": "SpaceX's AI segment generated $7.56 billion in Q3 2026, about 52% of total revenue, driven primarily by multi-year compute leases for its Colossus data centers. Anthropic's contract, announced May 2026, contributed an estimated $5 billion in the quarter; Google's payments were not yet included as they were scheduled to begin in October 2026.",
+  "actor": "SpaceX",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://cryptobriefing.com/spacex-ai-compute-leases-anthropic-google",
+  "source_title": null,
+  "publisher": "Cryptobriefing",
+  "permalink": "https://presentofai.com/e/47337"
+ },
+ {
+  "id": 47332,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "Amazon acquires Decart AI tech for $7.5 billion",
+  "summary": "Amazon agreed to acquire the technology and team of Israeli AI startup Decart for $7.5 billion, gaining software tools to boost AWS cloud AI infrastructure efficiency and chip capacity.",
+  "actor": "Amazon",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/47332"
+ },
+ {
+  "id": 47310,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "Tesla Releases FSD v15 with Reality View and 25x Safety Gain",
+  "summary": "Tesla launched FSD v15 featuring 'Reality View' (an AI-generated live drone-style road visualization) and claims a 25x improvement in critical intervention rate, powered by an upgraded vision encoder shared across FSD, Robotaxi, and Optimus programs.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout",
+  "source_title": null,
+  "publisher": "The Verge",
+  "permalink": "https://presentofai.com/e/47310"
+ },
+ {
+  "id": 47299,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "Cassava Technologies' Cape Town AI factory reaches full capacity",
+  "summary": "Cassava Technologies' Cape Town AI factory, housing more than 2,000 Nvidia GPUs, reached full operational capacity from November 1, according to the CEO of its Africa Data Centres unit. The milestone reflects growing demand from African businesses adopting AI, as Cassava also plans to deploy 12,000 Nvidia GPUs across five African markets.",
+  "actor": "Cassava Technologies",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.billionaires.africa/2026/11/23/zimbabwean-billionaire-strive-masiyiwas-cassava-fills-ai-factory-with-nvidia-chips/",
+  "source_title": null,
+  "publisher": "Billionaires",
+  "permalink": "https://presentofai.com/e/47299"
+ },
+ {
+  "id": 47280,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "Google kills Google Assistant in smart home, deploys Gemini",
+  "summary": "Google announced it will discontinue the Nest app in January 2027 and replace Google Assistant on speakers and smart displays with Gemini for Home in August 2027, migrating all users to the Home app as the sole platform for controlling Nest devices.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.heise.de/en/news/Google-brings-Nest-devices-into-Home-app-switches-to-Gemini-11533925.html",
+  "source_title": null,
+  "publisher": "heise online",
+  "permalink": "https://presentofai.com/e/47280"
+ },
+ {
+  "id": 47262,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "NHS Launches £10M AI-Assisted Breast Screening Trial",
+  "summary": "The UK government launched a £10 million AI-assisted breast screening trial through the NHS, funded by the National Institute for Health and Care Research and led by the Universities of Warwick and Cambridge and Cambridge University Hospitals NHS Foundation Trust. The trial will test whether AI-assisted tools can reduce the number of specialists needed to review each breast screening image, potentially freeing up hundreds of radiologists across the UK.",
+  "actor": "NHS",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.healthcare-management.uk/nhs-launch-10m-ai-assisted-breast-screening-trial",
+  "source_title": null,
+  "publisher": "Healthcare Management",
+  "permalink": "https://presentofai.com/e/47262"
+ },
+ {
+  "id": 47261,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "Brilliant Deploys 120 AI Agents Live on P vs NP Problem",
+  "summary": "Brilliant launched a live public fleet of 120 AI agents attacking the P vs NP problem at pequalnp.com, with 428 of 811 lemmas verified in Lean and 5 claims formally refuted, the first large-scale public AI assault on a Millennium Prize Problem.",
+  "actor": "Brilliant",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://pasqualepillitteri.it/en/news/36179/pvsnp-brilliant-flotta-agenti-ia-diretta-en",
+  "source_title": null,
+  "publisher": "Pasquale Pillitteri | Ingegnere Informatico Palermo",
+  "permalink": "https://presentofai.com/e/47261"
+ },
+ {
   "id": 47244,
   "event_date": "2026-11-23",
   "realm": "terrestrial",
@@ -70,20 +182,6 @@
   "permalink": "https://presentofai.com/e/47199"
  },
  {
-  "id": 47195,
-  "event_date": "2026-11-23",
-  "realm": "terrestrial",
-  "title": "Google announces Nest app and Assistant replacement with Gemini AI",
-  "summary": "Google announced it will discontinue the Nest app in January 2027 and replace Google Assistant on speakers and smart displays with Gemini for Home in August 2027. All Nest devices will be managed through the Google Home app, which will automatically transfer settings and schedules from the Nest app.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.heise.de/en/news/Google-brings-Nest-devices-into-Home-app-switches-to-Gemini-11533925.html",
-  "source_title": null,
-  "publisher": "heise online",
-  "permalink": "https://presentofai.com/e/47195"
- },
- {
   "id": 47178,
   "event_date": "2026-11-23",
   "realm": "virtual",
@@ -140,20 +238,6 @@
   "permalink": "https://presentofai.com/e/47078"
  },
  {
-  "id": 47072,
-  "event_date": "2026-11-23",
-  "realm": "terrestrial",
-  "title": "German army tests kamikaze drones and AI targeting in Lithuania",
-  "summary": "The Bundeswehr conducted live tests of loitering munitions developed by Helsing and Stark Defence, and evaluated Clarity, an AI-assisted targeting platform, during the multinational Freedom Shield exercise at the Rudninkai training area in Lithuania. The trials, involving approximately 3,800 personnel from eight NATO countries, are part of Germany's broader effort to modernize its military capabilities along NATO's eastern flank.",
-  "actor": "Bundeswehr",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://euronews.com/2026/11/22/germany-tests-kamikaze-drones-and-ai-targeting-technology-in-lithuania",
-  "source_title": null,
-  "publisher": "Euronews",
-  "permalink": "https://presentofai.com/e/47072"
- },
- {
   "id": 47044,
   "event_date": "2026-11-23",
   "realm": "terrestrial",
@@ -180,6 +264,48 @@
   "source_title": null,
   "publisher": "The New York Times",
   "permalink": "https://presentofai.com/e/47037"
+ },
+ {
+  "id": 47328,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "UK MPs Call for Power to Delay or Ban High-Risk AI Models",
+  "summary": "A UK parliamentary committee recommended the government establish a new AI Safety and Security Bill and a separate AI regulator with authority to delay, restrict, or ban deployment of high-risk AI models. The Business, Innovation, Science and Trade Committee also called for mandatory pre-deployment safety assessments and enforceable model access requirements.",
+  "actor": "UK Parliament",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://bankinfosecurity.com/mps-uk-government-should-be-able-to-delay-or-ban-ai-models-a-33432",
+  "source_title": null,
+  "publisher": "Bankinfosecurity",
+  "permalink": "https://presentofai.com/e/47328"
+ },
+ {
+  "id": 47325,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "German Army Tests AI Targeting & Kamikaze Drones in Lithuania",
+  "summary": "Germany's Bundeswehr began testing kamikaze drones and an AI-supported targeting platform called Clarity in Lithuania as part of the multinational Freedom Shield exercise, marking another step in modernizing its capabilities on NATO's eastern flank, where a roughly 5,000-troop armoured brigade is being permanently stationed.",
+  "actor": "Bundeswehr",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.euronews.com/2026/11/22/germany-tests-kamikaze-drones-and-ai-targeting-technology-in-lithuania",
+  "source_title": null,
+  "publisher": "euronews",
+  "permalink": "https://presentofai.com/e/47325"
+ },
+ {
+  "id": 47294,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "Tesla FSD V15 Reality View renders neural video on half an AI4 TRIP accelerator",
+  "summary": "Elon Musk posted on November 21, 2026 that Tesla's FSD V15 introduces Reality View, which replaces wireframe visuals with photorealistic neural network video generated in real time. Tesla AI lead Ashok Elluswamy confirmed the system runs on just half of one AI4 TRIP accelerator and uses less compute than the wireframe method it replaces.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://cryptobriefing.com/tesla-ai4-trip-real-time-ai-video/",
+  "source_title": null,
+  "publisher": "Crypto Briefing",
+  "permalink": "https://presentofai.com/e/47294"
  },
  {
   "id": 47204,
@@ -362,6 +488,20 @@
   "source_title": null,
   "publisher": "Teslarati",
   "permalink": "https://presentofai.com/e/46693"
+ },
+ {
+  "id": 47264,
+  "event_date": "2026-11-21",
+  "realm": "virtual",
+  "title": "Google launches Gemini 4 Neon for engineering & science",
+  "summary": "Google released Gemini 4 Neon, a new frontier model targeting complex software engineering, knowledge work, and science workflows, competing directly with Claude Opus 5.5 and GPT-6.2 Sol.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece",
+  "source_title": null,
+  "publisher": "Thehindu",
+  "permalink": "https://presentofai.com/e/47264"
  },
  {
   "id": 47209,
@@ -770,6 +910,34 @@
   "permalink": "https://presentofai.com/e/46200"
  },
  {
+  "id": 47321,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Waymo recalls self-driving cars over freeway lane incidents",
+  "summary": "Waymo filed two safety recalls with NHTSA on November 19 covering incidents where its vehicles entered closed freeway lanes and failed to properly respond to manual traffic control at intersections. California had already barred Waymo vehicles from freeways following construction zone incidents, and Waymo halted US freeway operations while working on the recall remedy.",
+  "actor": "Waymo",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.straitstimes.com/world/united-states/waymo-recalls-self-driving-cars-over-closed-freeway-lanes-manual-traffic-control",
+  "source_title": null,
+  "publisher": "Straitstimes",
+  "permalink": "https://presentofai.com/e/47321"
+ },
+ {
+  "id": 47286,
+  "event_date": "2026-11-20",
+  "realm": "terrestrial",
+  "title": "Nscale faces US export scrutiny over ByteDance AI chip deal",
+  "summary": "London-based cloud provider Nscale faces scrutiny from the US Bureau of Industry and Security over a contract leasing remote access to 2,304 Nvidia B200 GPUs in Norway to ByteDance subsidiary Spring (SG) Pte. Ltd., under a new BIS interim final rule closing the remote-access loophole in advanced semiconductor export controls. The contract generated approximately $24 million in 2025, about 73 percent of Nscale's total revenue, and the company must obtain a BIS export license within a 90-day window or terminate the service.",
+  "actor": "Nscale",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://casrai.org/news/nscale-bytedance-ai-chip-deal-us-export-control-scrutiny-2026",
+  "source_title": null,
+  "publisher": "Casrai",
+  "permalink": "https://presentofai.com/e/47286"
+ },
+ {
   "id": 47253,
   "event_date": "2026-11-20",
   "realm": "terrestrial",
@@ -992,20 +1160,6 @@
   "source_title": null,
   "publisher": "Gujarat Samachar",
   "permalink": "https://presentofai.com/e/46765"
- },
- {
-  "id": 46756,
-  "event_date": "2026-11-20",
-  "realm": "virtual",
-  "title": "Chinese hackers use AI tool Cairn to find zero-day in university attack",
-  "summary": "Amazon Threat Intelligence documented a China-linked threat actor using the open-source AI penetration testing tool Cairn to breach multiple universities in East Asia, with the AI agents discovering and exploiting a zero-day vulnerability in an open-source medical imaging application to successfully compromise at least two universities.",
-  "actor": "Amazon",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-  "source_title": null,
-  "publisher": "The Record from Recorded Future News",
-  "permalink": "https://presentofai.com/e/46756"
  },
  {
   "id": 46748,
@@ -1540,6 +1694,34 @@
   "permalink": "https://presentofai.com/e/45848"
  },
  {
+  "id": 47304,
+  "event_date": "2026-11-19",
+  "realm": "terrestrial",
+  "title": "GlobalFoundries to Trial Boston Dynamics Atlas Robot in Chip Fabs in Early 2027",
+  "summary": "GlobalFoundries and Boston Dynamics announced on November 17 that on-site trials of the Atlas humanoid robot at GlobalFoundries chip fabs will begin in early 2027, making GlobalFoundries the first chipmaker to test Atlas. No specific tasks, fab locations, or robot counts have been named for the trial.",
+  "actor": "Boston Dynamics",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://techtimes.com/articles/331062/20261119/globalfoundries-test-boston-dynamics-atlas-humanoid-robot-chip-fabs-no-task-named.htm",
+  "source_title": null,
+  "publisher": "Techtimes",
+  "permalink": "https://presentofai.com/e/47304"
+ },
+ {
+  "id": 47285,
+  "event_date": "2026-11-19",
+  "realm": "terrestrial",
+  "title": "Alibaba AI cloud revenue surges 53% to $9.1B in Q3 2026",
+  "summary": "Alibaba's AI Cloud and Compute Services segment posted RMB 60.97 billion (~$9.1 billion) in revenue for the September 2026 quarter, a 53% year-over-year increase, marking a concrete scale threshold for Chinese AI cloud infrastructure.",
+  "actor": "Alibaba",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://cryptobriefing.com/alibaba-ai-cloud-revenue-rises-53-percent",
+  "source_title": null,
+  "publisher": "Cryptobriefing",
+  "permalink": "https://presentofai.com/e/47285"
+ },
+ {
   "id": 47187,
   "event_date": "2026-11-19",
   "realm": "virtual",
@@ -1622,20 +1804,6 @@
   "source_title": null,
   "publisher": "Openai",
   "permalink": "https://presentofai.com/e/46553"
- },
- {
-  "id": 46551,
-  "event_date": "2026-11-19",
-  "realm": "virtual",
-  "title": "Google launches Gemini 4 Neon with 1M-token context window",
-  "summary": "Google released Gemini 4 Neon, a model designed for complex software engineering tasks that the company says is more economical than larger models, with a one-million-token context window and API pricing of $3 per million input tokens and $15 per million output tokens.",
-  "actor": "Google",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://www.infoworld.com/article/4250618/google-launches-gemini-4-neon-touting-lower-costs-for-complex-ai-coding-tasks.html",
-  "source_title": null,
-  "publisher": "InfoWorld",
-  "permalink": "https://presentofai.com/e/46551"
  },
  {
   "id": 46548,
@@ -2770,20 +2938,6 @@
   "source_title": null,
   "publisher": "The Verge",
   "permalink": "https://presentofai.com/e/45360"
- },
- {
-  "id": 45291,
-  "event_date": "2026-11-18",
-  "realm": "terrestrial",
-  "title": "Waymo self-driving cars crash in Phoenix, injuring 3",
-  "summary": "A crash involving Waymo self-driving cars in Phoenix injured three people, according to a news report. Further details about the cause or severity were not provided in the source.",
-  "actor": "Waymo",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.today.com/video/crash-involving-waymo-self-driving-cars-in-phoenix-injures-3-273656901898",
-  "source_title": null,
-  "publisher": "Today",
-  "permalink": "https://presentofai.com/e/45291"
  },
  {
   "id": 45286,
@@ -9114,20 +9268,6 @@
   "permalink": "https://presentofai.com/e/41855"
  },
  {
-  "id": 41815,
-  "event_date": "2026-11-09",
-  "realm": "terrestrial",
-  "title": "WeRide gets robotaxi trial permit in Bratislava",
-  "summary": "Chinese AV operator WeRide received a permit to run trial robotaxi operations on public streets in Bratislava, Slovakia, its first deployment in that country. WeRide now operates 1,000 robotaxis across 12 countries.",
-  "actor": "WeRide",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.symsite.sk/single-post/weride-received-a-permit-for-trial-robotaxi-operations-in-bratislava",
-  "source_title": null,
-  "publisher": "Symsite",
-  "permalink": "https://presentofai.com/e/41815"
- },
- {
   "id": 41806,
   "event_date": "2026-11-09",
   "realm": "terrestrial",
@@ -11130,20 +11270,6 @@
   "permalink": "https://presentofai.com/e/41477"
  },
  {
-  "id": 41424,
-  "event_date": "2026-11-04",
-  "realm": "terrestrial",
-  "title": "Volkswagen gains approval to test Level 3 autonomous driving in China",
-  "summary": "Volkswagen received regulatory approval to test Level 3 autonomous driving in China, while Stellantis advanced plans to trial driverless vehicles in Greater Paris from 2028, marking concrete regulatory milestones for major automakers in key markets.",
-  "actor": "Volkswagen",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://thedriven.io/2026/11/04/volkswagen-and-stellantis-advance-self-driving-car-plans-in-china-and-france/",
-  "source_title": null,
-  "publisher": "Thedriven",
-  "permalink": "https://presentofai.com/e/41424"
- },
- {
   "id": 41337,
   "event_date": "2026-11-04",
   "realm": "terrestrial",
@@ -12758,7 +12884,7 @@
   "event_date": "2026-11-02",
   "realm": "virtual",
   "title": "OpenAI signs four AI deployment deals in Abu Dhabi",
-  "summary": "OpenAI signed four agreements in Abu Dhabi to deploy AI on government permitting and investment workflows, with CEO Sam Altman stating AI will transform the economics of the energy world.",
+  "summary": "OpenAI signed four agreements in Abu Dhabi covering a machine-readable government permitting initiative, an investment analysis deal with Mubadala and Inception42, a five-year agreement to bring OpenAI models to UAE government, businesses and schools, and a deal making ADNOC the first energy company on OpenAI's Frontier platform. Speaking at the Adipec conference, CEO Sam Altman said AI will transform the economics of the energy world.",
   "actor": "OpenAI",
   "ticker": null,
   "materiality": 55,
@@ -17974,20 +18100,6 @@
   "source_title": null,
   "publisher": "36氪_让一部分人先看到未来",
   "permalink": "https://presentofai.com/e/36492"
- },
- {
-  "id": 36463,
-  "event_date": "2026-10-22",
-  "realm": "virtual",
-  "title": "OpenAI Launches Codex Security Agent to Autonomously Find and Fix Vulnerabilities",
-  "summary": "OpenAI announced Codex Security, an application security agent (formerly Aardvark) that autonomously identifies, validates, and remediates vulnerabilities in enterprise and open-source codebases. During its beta, it scanned over 1.2 million commits, found 792 critical vulnerabilities, and assigned 14 CVEs across projects including OpenSSH, GnuTLS, PHP, and Chromium, with free access offered to open-source maintainers via the Codex for OSS program.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://cybersecuritynews.com/openai-launches-codex-security/",
-  "source_title": null,
-  "publisher": "CybersecurityNews",
-  "permalink": "https://presentofai.com/e/36463"
  },
  {
   "id": 36369,
