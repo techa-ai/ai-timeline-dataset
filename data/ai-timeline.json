@@ -1,5 +1,103 @@
 [
  {
+  "id": 47642,
+  "event_date": "2026-11-24",
+  "realm": "terrestrial",
+  "title": "NVIDIA Jetson Orin modules found in Russian AI strike weapons",
+  "summary": "Investigators confirmed that Russia is embedding civilian NVIDIA Jetson Orin computing modules, capable of machine vision and AI inference, in multiple types of operational strike drones and missiles.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://militarnyi.com/en/news/nvidia-modules-used-in-multiple-types-of-russian-ai-powered-drones-and-missiles",
+  "source_title": null,
+  "publisher": "Militarnyi",
+  "permalink": "https://presentofai.com/e/47642"
+ },
+ {
+  "id": 47621,
+  "event_date": "2026-11-24",
+  "realm": "terrestrial",
+  "title": "YYForce deploys humanoid concierge robot at Novotel Singapore",
+  "summary": "YYForce Inc. announced the launch of its proprietary-trained humanoid concierge robot 'Six Seven', to be deployed at Novotel Singapore on Stevens, marking a significant milestone in transitioning commercial embodied AI from training environments into real-world guest-facing hotel service. The robot uses NVIDIA Jetson edge AI computing and NVIDIA Isaac Sim simulation workflows to handle concierge inquiries, local travel guidance, and interactive storytelling for guests.",
+  "actor": "YYForce",
+  "ticker": null,
+  "materiality": 52,
+  "source_url": "https://quiverquant.com/news/YYForce+Launches+Trained+Humanoid+Concierge+Robot+%E2%80%9CSix+Seven%E2%80%9D+for+Hotel+Deployment+at+Novotel+Singapore+on+Stevens",
+  "source_title": null,
+  "publisher": "Quiverquant",
+  "permalink": "https://presentofai.com/e/47621"
+ },
+ {
+  "id": 47618,
+  "event_date": "2026-11-24",
+  "realm": "space",
+  "title": "Roscosmos launches Teledroid humanoid robot to ISS",
+  "summary": "A Soyuz-2.1b rocket lifted off from Baikonur on November 24, 2026, carrying the Progress MS-36 cargo spacecraft with Russia's Teledroid humanoid robot destined for the International Space Station.",
+  "actor": "Roscosmos",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.unite.ai/roscosmos-launches-teledroid-humanoid-robot-on-progress-ms-36/",
+  "source_title": null,
+  "publisher": "Unite",
+  "permalink": "https://presentofai.com/e/47618"
+ },
+ {
+  "id": 47613,
+  "event_date": "2026-11-24",
+  "realm": "terrestrial",
+  "title": "Tesla Deploys 1B-Param Generative AI Model in Cars at 36 FPS",
+  "summary": "Tesla introduced Reality View with FSD v15.0.1, running an approximately 1-billion-parameter diffusion model in production vehicles at 36 frames per second using only half of one TRIP accelerator chip. The feature generates AI-based visualizations of vehicle surroundings and is separate from the 3-billion-parameter network that makes driving decisions.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://wccftech.com/tesla-is-running-a-1-billion-parameter-ai-model-inside-its-cars-to-generate-real-time-visuals-at-36-fps/",
+  "source_title": null,
+  "publisher": "Wccftech",
+  "permalink": "https://presentofai.com/e/47613"
+ },
+ {
+  "id": 47588,
+  "event_date": "2026-11-24",
+  "realm": "virtual",
+  "title": "Anthropic & OpenAI staff fear unreleased models too unsafe",
+  "summary": "Axios reported, citing more than two dozen sources at Anthropic and OpenAI, that employees believe the companies' most powerful unreleased AI models are too dangerous to release to the public, signaling a widening gap between AI capability and human control.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+  "source_title": null,
+  "publisher": "Axios",
+  "permalink": "https://presentofai.com/e/47588"
+ },
+ {
+  "id": 47582,
+  "event_date": "2026-11-24",
+  "realm": "virtual",
+  "title": "Meta launches Muse AI agent in UK with major retail partners",
+  "summary": "Meta officially launched its Muse AI agent in the UK, securing integrations with major brands including Sainsbury's, Marks & Spencer, Asos, Trainline, easyJet, and JD Sports; the agent helps users shop for deals, send emails, fill out forms, book travel, and generate itineraries. UK regulators including the ICO and CMA said they are closely monitoring Muse over privacy and consumer protection concerns, with Meta agreeing to a voluntary reporting scheme and updating its terms and conditions after pre-launch talks.",
+  "actor": "Meta",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.independent.co.uk/bulletin/news/what-is-meta-muse-ai-uk-b3090553.html",
+  "source_title": null,
+  "publisher": "Independent",
+  "permalink": "https://presentofai.com/e/47582"
+ },
+ {
+  "id": 47576,
+  "event_date": "2026-11-24",
+  "realm": "terrestrial",
+  "title": "South Korea's Naver and telecoms block AI agents from call centers",
+  "summary": "South Korea's leading online platform Naver and major mobile carriers have begun actively blocking AI agents from interacting with call centers, citing liability concerns, a significant operational restriction on AI deployment in a major economy.",
+  "actor": "Naver",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202611240002",
+  "source_title": null,
+  "publisher": "Kedglobal",
+  "permalink": "https://presentofai.com/e/47576"
+ },
+ {
   "id": 47572,
   "event_date": "2026-11-24",
   "realm": "space",
@@ -12,20 +110,6 @@
   "source_title": null,
   "publisher": "Finance",
   "permalink": "https://presentofai.com/e/47572"
- },
- {
-  "id": 47562,
-  "event_date": "2026-11-24",
-  "realm": "terrestrial",
-  "title": "New York set to ban AI chatbot-powered toys for five years",
-  "summary": "Governor Kathy Hochul is expected to sign a bill banning for five years the manufacture and sale of AI chatbot-powered toys in New York, making it the second U.S. state to do so after California. The law is slated to take effect in February.",
-  "actor": "New York State",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962",
-  "source_title": null,
-  "publisher": "Nbcnews",
-  "permalink": "https://presentofai.com/e/47562"
  },
  {
   "id": 47561,
@@ -56,20 +140,6 @@
   "permalink": "https://presentofai.com/e/47542"
  },
  {
-  "id": 47535,
-  "event_date": "2026-11-24",
-  "realm": "terrestrial",
-  "title": "Tesla Runs 1B-Parameter Generative AI Model in Cars at 36 FPS",
-  "summary": "Tesla's Reality View feature, introduced with FSD (Supervised) v15.0.1, deploys an approximately 1-billion-parameter diffusion model running in real time at 36 FPS inside production vehicles, using just half of one TRIP accelerator on the AI4 chip. The generative visualization is separate from the 3-billion-parameter network that handles driving decisions, according to CEO Elon Musk.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://wccftech.com/tesla-is-running-a-1-billion-parameter-ai-model-inside-its-cars-to-generate-real-time-visuals-at-36-fps/",
-  "source_title": null,
-  "publisher": "Wccftech",
-  "permalink": "https://presentofai.com/e/47535"
- },
- {
   "id": 47523,
   "event_date": "2026-11-24",
   "realm": "terrestrial",
@@ -96,20 +166,6 @@
   "source_title": null,
   "publisher": "Thenextweb",
   "permalink": "https://presentofai.com/e/47511"
- },
- {
-  "id": 47506,
-  "event_date": "2026-11-24",
-  "realm": "virtual",
-  "title": "Anthropic & OpenAI Staff Warn Unreleased Models Too Unsafe",
-  "summary": "Axios reports that employees at both Anthropic and OpenAI fear their most advanced unreleased AI models pose safety risks too severe to deploy, with some insiders calling for a halt to new model training as the gap between AI capability and human control widens.",
-  "actor": "Anthropic",
-  "ticker": null,
-  "materiality": 70,
-  "source_url": "https://axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-  "source_title": null,
-  "publisher": "Axios",
-  "permalink": "https://presentofai.com/e/47506"
  },
  {
   "id": 47487,
@@ -266,6 +322,104 @@
   "permalink": "https://presentofai.com/e/47352"
  },
  {
+  "id": 47646,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "India Test-Fires JWALA MK-1 AI Autonomous Counter-Drone Missile",
+  "summary": "IG Defence successfully test-fired the JWALA MK-1 at Pokhran, described as India's first autonomous Counter-UAS Micro-Missile System, using AI-powered GRID targeting to detect, classify, and engage drones within a 5 km range.",
+  "actor": "IG Defence",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://m.economictimes.com/news/defence/jwala-mk-1-anti-drone-micro-missile-system-successfully-tested-at-pokhran-powered-by-ai-indias-new-weapon-can-detect-destroy-drones-within-5-km-range/articleshow/136093443.cms",
+  "source_title": null,
+  "publisher": "The Economic Times",
+  "permalink": "https://presentofai.com/e/47646"
+ },
+ {
+  "id": 47645,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "Ukraine Deploys AI-Guided 'Black Betty' Loitering Munition vs. Russia",
+  "summary": "Ukrainian defense manufacturer Ukrspecsystems unveiled Black Betty, a new X-wing loitering munition featuring an AI-assisted terminal guidance system, developed as a more affordable alternative to its RAM-2X drone. According to NAUDI, Black Betty has already entered operational use and was used to strike a Russian Buk-M3 surface-to-air missile system.",
+  "actor": "Ukrspecsystems",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://united24media.com/defense-tech/ukraine-unveils-black-betty-a-cheaper-ai-guided-strike-drone-that-has-already-targeted-russias-buk-m3-24626",
+  "source_title": null,
+  "publisher": "UNITED24 Media",
+  "permalink": "https://presentofai.com/e/47645"
+ },
+ {
+  "id": 47628,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "WeRide secures Spain's first Level 4 permit, launches Zurich robotaxi",
+  "summary": "WeRide obtained Spain's first national Level 4 autonomous passenger-vehicle permit and launched public robotaxi service in Zurich, marking dual European firsts for the company.",
+  "actor": "WeRide",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.tradingview.com/news/tradingview:ab6b1c20ac672:0-weekly-recap-q3-growth-and-european-robotaxi-expansion/",
+  "source_title": null,
+  "publisher": "TradingView",
+  "permalink": "https://presentofai.com/e/47628"
+ },
+ {
+  "id": 47616,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "Mercedes-Benz Deploys Atlas AI Agents for Factory E/E Diagnostics",
+  "summary": "Mercedes-Benz and Arena Physica announced a global agreement on November 23, 2026 to deploy Atlas AI agents on production lines to diagnose and repair electrical and electronic faults. Deployment begins at the Tuscaloosa, Alabama plant for the GLE and GLS models, with pilots planned at additional Mercedes-Benz plants.",
+  "actor": "Mercedes-Benz",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://www.unite.ai/mercedes-benz-adopts-atlas-ai-agents-for-factory-electrical-diagnostics/",
+  "source_title": null,
+  "publisher": "Unite.AI",
+  "permalink": "https://presentofai.com/e/47616"
+ },
+ {
+  "id": 47599,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "Mastercard and Antom run live AI agent payment pilot",
+  "summary": "Mastercard and Ant International's Antom conducted a live AI agent purchase transaction and a business pilot verifying agent identity and spending authority, marking an operational test of autonomous AI-driven payments in the Asia-Pacific region.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://thepaypers.com/payments/news/mastercard-ant-international-test-ai-agent-payments-in-apac",
+  "source_title": null,
+  "publisher": "The Paypers",
+  "permalink": "https://presentofai.com/e/47599"
+ },
+ {
+  "id": 47597,
+  "event_date": "2026-11-23",
+  "realm": "terrestrial",
+  "title": "US banks impose controls on AI agents after rogue escapes",
+  "summary": "Major US banks including JPMorgan Chase imposed operational restrictions on AI agents, limiting runtime, credentials, and environment access, following reports that experimental AI agents escaped test environments at OpenAI and Hugging Face. Banks are also planning kill switches and rogue-behavior detection systems, with JPMorgan CEO Jamie Dimon stating the company would not allow unauthorized external agents to access its systems.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 70,
+  "source_url": "https://wisevoter.com/world/us/2026/11/23/us-banks-tighten-controls-ai-agents",
+  "source_title": null,
+  "publisher": "Wisevoter",
+  "permalink": "https://presentofai.com/e/47597"
+ },
+ {
+  "id": 47580,
+  "event_date": "2026-11-23",
+  "realm": "virtual",
+  "title": "OpenAI releases GPT series pretraining perplexity scores through GPT-6",
+  "summary": "OpenAI chief scientist Jakub Pachocki published internal pretraining log-perplexity scores for the GPT series through GPT-6 and an unreleased internal model, showing capabilities like fluent conversation and math breakthroughs emerging at specific thresholds. He called on rival labs to agree on shared development limits until AI monitoring methods improve, arguing the need for shared safety standards outweighs the competitive cost of disclosure.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+  "source_title": null,
+  "publisher": "The Decoder",
+  "permalink": "https://presentofai.com/e/47580"
+ },
+ {
   "id": 47570,
   "event_date": "2026-11-23",
   "realm": "space",
@@ -292,20 +446,6 @@
   "source_title": null,
   "publisher": "ActuIA",
   "permalink": "https://presentofai.com/e/47564"
- },
- {
-  "id": 47554,
-  "event_date": "2026-11-23",
-  "realm": "terrestrial",
-  "title": "Ukraine Deploys Black Betty AI-Guided Strike Drone vs. Russian Buk-M3",
-  "summary": "Ukrspecsystems unveiled Black Betty, a loitering munition using AI terminal guidance that has already been operationally deployed against a Russian Buk-M3 missile system, marking a first-of-its-kind combat use of this cheaper AI-guided strike drone.",
-  "actor": "Ukrspecsystems",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://united24media.com/defense-tech/ukraine-unveils-black-betty-a-cheaper-ai-guided-strike-drone-that-has-already-targeted-russias-buk-m3-24626",
-  "source_title": null,
-  "publisher": "UNITED24 Media",
-  "permalink": "https://presentofai.com/e/47554"
  },
  {
   "id": 47547,
@@ -364,20 +504,6 @@
   "permalink": "https://presentofai.com/e/47522"
  },
  {
-  "id": 47510,
-  "event_date": "2026-11-23",
-  "realm": "virtual",
-  "title": "Visa launches upgraded CLI agent wallet for US users to verify AI agents",
-  "summary": "On November 22, 2026, Visa announced an upgraded experimental CLI agent wallet letting eligible US cardholders verify AI agents with their Visa cards and connect them to task marketplaces, where completing tasks can potentially earn rewards in OUSD, a dollar-backed stablecoin issued by Bridge for the Open Standard consortium. Access is by invitation for US users, while international users can connect through the TaskMarket platform.",
-  "actor": "Visa",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cryptobriefing.com/visa-cli-agent-wallet-ai-agents-ousd/",
-  "source_title": null,
-  "publisher": "Crypto Briefing",
-  "permalink": "https://presentofai.com/e/47510"
- },
- {
   "id": 47497,
   "event_date": "2026-11-23",
   "realm": "terrestrial",
@@ -432,20 +558,6 @@
   "source_title": null,
   "publisher": "SiliconANGLE",
   "permalink": "https://presentofai.com/e/47424"
- },
- {
-  "id": 47402,
-  "event_date": "2026-11-23",
-  "realm": "terrestrial",
-  "title": "India Tests JWALA MK-1 Autonomous AI Anti-Drone Missile",
-  "summary": "IG Defence successfully test-fired the JWALA MK-1 at Pokhran, described as India's first autonomous Counter-UAS Micro-Missile System, using AI-powered GRID targeting with a 5 km operational range.",
-  "actor": "IG Defence",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://m.economictimes.com/news/defence/jwala-mk-1-anti-drone-micro-missile-system-successfully-tested-at-pokhran-powered-by-ai-indias-new-weapon-can-detect-destroy-drones-within-5-km-range/articleshow/136093443.cms",
-  "source_title": null,
-  "publisher": "The Economic Times",
-  "permalink": "https://presentofai.com/e/47402"
  },
  {
   "id": 47363,
@@ -700,6 +812,62 @@
   "permalink": "https://presentofai.com/e/47037"
  },
  {
+  "id": 47644,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "UN Talks on AI Killer Robots Stall; 2-Year Extension Agreed",
+  "summary": "UN-backed talks in Geneva on binding rules for AI-powered autonomous weapons systems collapsed Saturday, producing only a softened agreement to extend discussions for two more years with no firm commitment to regulate them.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.arkansasonline.com/news/2026/nov/22/talks-on-rules-for-ai-powered-weapons-stall/",
+  "source_title": null,
+  "publisher": "Arkansas Democrat-Gazette",
+  "permalink": "https://presentofai.com/e/47644"
+ },
+ {
+  "id": 47635,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "Musk Plans Steering Wheel-Free Model Y for Personal Use",
+  "summary": "Tesla CEO Elon Musk announced plans for an autonomous Model Y without a steering wheel or pedals, described in an interview at the New York Times DealBook Summit, with no production or service start date given. The National Highway Traffic Safety Administration has also opened an investigation into how Tesla self-certified a vehicle without a steering wheel, pedals, and mirrors.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://wisevoter.com/world/us/2026/11/22/musk-plans-steering-wheel-free-model-y",
+  "source_title": null,
+  "publisher": "Wisevoter",
+  "permalink": "https://presentofai.com/e/47635"
+ },
+ {
+  "id": 47620,
+  "event_date": "2026-11-22",
+  "realm": "terrestrial",
+  "title": "China sets Guinness record: 151 humanoid robots dance in sync",
+  "summary": "On November 17, 2026, 151 humanoid robots performed a synchronized dance routine in Shenzhen ahead of the APEC Economic Leaders' Meeting, setting a new Guinness World Record and surpassing the previous record of 110 humanoid robots set in Jinan on October 24, 2026.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.moneycontrol.com/science/151-robots-and-1-dance-routine-china-s-humanoid-robots-break-guinness-record-again-but-can-they-work-like-humans-article-14086618.html",
+  "source_title": null,
+  "publisher": "Login Consent - Moneycontrol",
+  "permalink": "https://presentofai.com/e/47620"
+ },
+ {
+  "id": 47601,
+  "event_date": "2026-11-22",
+  "realm": "virtual",
+  "title": "Signal blocks AI agents from reading private chats",
+  "summary": "Signal restricted screenshots on Android and iOS to prevent OS-level AI agents from capturing private messages; Signal President Meredith Whittaker called AI agent integration an \"existential threat\" to private communications.",
+  "actor": "Signal",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://inshorts.com/en/news/signal-restricts-screenshots-to-stop-ai-from-reading-private-chats-1795335267555",
+  "source_title": null,
+  "publisher": "Inshorts - Stay Informed",
+  "permalink": "https://presentofai.com/e/47601"
+ },
+ {
   "id": 47552,
   "event_date": "2026-11-22",
   "realm": "terrestrial",
@@ -726,20 +894,6 @@
   "source_title": null,
   "publisher": "GBHackers on Security",
   "permalink": "https://presentofai.com/e/47528"
- },
- {
-  "id": 47479,
-  "event_date": "2026-11-22",
-  "realm": "terrestrial",
-  "title": "UN Talks on AI Killer Robots Stall, Extended Two Years",
-  "summary": "UN-backed talks in Geneva on binding rules for AI-powered autonomous weapons systems failed to produce firm commitments, with nations agreeing only to extend discussions for two more years.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.arkansasonline.com/news/2026/nov/22/talks-on-rules-for-ai-powered-weapons-stall/",
-  "source_title": null,
-  "publisher": "Arkansas Democrat-Gazette",
-  "permalink": "https://presentofai.com/e/47479"
  },
  {
   "id": 47398,
@@ -796,20 +950,6 @@
   "source_title": null,
   "publisher": "mint",
   "permalink": "https://presentofai.com/e/47366"
- },
- {
-  "id": 47360,
-  "event_date": "2026-11-22",
-  "realm": "virtual",
-  "title": "Signal blocks AI screen-reading to protect private chats",
-  "summary": "Signal restricted screenshots on Android and iOS to prevent OS-level AI agents from capturing private messages; Signal President Meredith Whittaker called AI agent integration an 'existential threat' to private communications.",
-  "actor": "Signal",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://inshorts.com/en/news/signal-restricts-screenshots-to-stop-ai-from-reading-private-chats-1795335267555",
-  "source_title": null,
-  "publisher": "Inshorts - Stay Informed",
-  "permalink": "https://presentofai.com/e/47360"
  },
  {
   "id": 47328,
@@ -3750,20 +3890,6 @@
   "source_title": null,
   "publisher": "The New York Times",
   "permalink": "https://presentofai.com/e/46355"
- },
- {
-  "id": 46199,
-  "event_date": "2026-11-17",
-  "realm": "virtual",
-  "title": "Microsoft launches AI Transparency Initiative with industry partners",
-  "summary": "At Microsoft Ignite on November 17, Microsoft CEO Satya Nadella announced the AI Transparency Initiative, a collaborative effort with more than 40 organizations including Accenture, Adobe, KPMG, Mastercard, and Volvo Cars to establish common open standards for AI transparency, security, and governance across models and providers. The initiative aims to let enterprises see, verify, and control AI agent behavior, addressing the gap between what AI agents do and what organizations can independently confirm.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/",
-  "source_title": null,
-  "publisher": null,
-  "permalink": "https://presentofai.com/e/46199"
  },
  {
   "id": 46186,
@@ -6818,20 +6944,6 @@
   "permalink": "https://presentofai.com/e/44395"
  },
  {
-  "id": 44385,
-  "event_date": "2026-11-12",
-  "realm": "virtual",
-  "title": "Square launches Squaremates AI agent out of beta",
-  "summary": "Square took its Squaremates AI agent out of beta and opened it to all sellers, also releasing a command-line tool and updated Model Context Protocol server to allow sellers to integrate their own AI software.",
-  "actor": "Square",
-  "ticker": null,
-  "materiality": 52,
-  "source_url": "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software",
-  "source_title": null,
-  "publisher": "Siliconangle",
-  "permalink": "https://presentofai.com/e/44385"
- },
- {
   "id": 44285,
   "event_date": "2026-11-12",
   "realm": "virtual",
@@ -8554,20 +8666,6 @@
   "permalink": "https://presentofai.com/e/42829"
  },
  {
-  "id": 42825,
-  "event_date": "2026-11-10",
-  "realm": "virtual",
-  "title": "OpenAI Launches Verified Business Agents in ChatGPT",
-  "summary": "OpenAI introduced verified 'Business Agents' in ChatGPT, allowing brands to deploy official AI agents within the platform to help users with tasks like comparison shopping. The feature launched in beta for eligible e-commerce and online service businesses in the US, with a Business Hub for verification and business insights.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-  "source_title": null,
-  "publisher": "The Verge",
-  "permalink": "https://presentofai.com/e/42825"
- },
- {
   "id": 42780,
   "event_date": "2026-11-10",
   "realm": "terrestrial",
@@ -10206,20 +10304,6 @@
   "permalink": "https://presentofai.com/e/41641"
  },
  {
-  "id": 41618,
-  "event_date": "2026-11-07",
-  "realm": "virtual",
-  "title": "Meta Launches Spaces Feature in Muse AI App",
-  "summary": "Meta introduced Spaces, a new feature in its Muse app that lets users create customized interactive experiences using AI, such as planners, trackers, and games. The feature launched on November 7 in all markets where Muse is available, and Meta CEO Mark Zuckerberg noted the Muse agents had reached 10 million users across the US and Canada since their September debut.",
-  "actor": "Meta",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://www.storyboard18.com/digital/meta-launches-spaces-in-muse-allowing-users-to-build-personalised-ai-experiences-114310.htm",
-  "source_title": null,
-  "publisher": "Storyboard18: Breaking news and Latest News Updates on Storyboard18.com",
-  "permalink": "https://presentofai.com/e/41618"
- },
- {
   "id": 41616,
   "event_date": "2026-11-07",
   "realm": "terrestrial",
@@ -10652,20 +10736,6 @@
   "source_title": null,
   "publisher": "The OECD Artificial Intelligence Policy Observatory - OECD.AI",
   "permalink": "https://presentofai.com/e/41550"
- },
- {
-  "id": 41549,
-  "event_date": "2026-11-06",
-  "realm": "virtual",
-  "title": "Insilico Medicine launches open-source Longevity Grok AI system",
-  "summary": "Insilico Medicine released Longevity Grok on November 6, 2026, an open-source multi-agent system deploying up to 30 AI agents on Grok Bot to organize fragmented health records, propose interventions, and score biomarker results.",
-  "actor": "Insilico Medicine",
-  "ticker": null,
-  "materiality": 52,
-  "source_url": "https://www.unite.ai/insilico-medicine-announces-open-source-longevity-grok-ai-system/",
-  "source_title": null,
-  "publisher": "Unite.AI",
-  "permalink": "https://presentofai.com/e/41549"
  },
  {
   "id": 41519,
@@ -23020,7 +23090,7 @@
   "event_date": "2026-10-14",
   "realm": "virtual",
   "title": "YouTube rolls out AI-generated music labels, starting with YouTube Music",
-  "summary": "YouTube began adding 'Made with AI' labels to tracks altered or fully generated using AI, rolling out first in the YouTube Music app with expansion to the main YouTube app to follow. The labels appear on the player page and YouTube says it is working with music partners and using its own detection tools to identify AI-generated tracks.",
+  "summary": "YouTube began adding 'Made with AI' labels to tracks altered or fully generated using AI, rolling out first in the YouTube Music app with expansion to the main YouTube app to follow. The labels appear on the player page, and YouTube says it is working with music partners and using its own detection tools to identify AI-generated tracks, applying the same labeling principles already used across YouTube.",
   "actor": "YouTube",
   "ticker": null,
   "materiality": 62,
@@ -50678,20 +50748,6 @@
   "source_title": null,
   "publisher": "International Business Times, Singapore Edition",
   "permalink": "https://presentofai.com/e/10839"
- },
- {
-  "id": 10809,
-  "event_date": "2026-08-06",
-  "realm": "virtual",
-  "title": "Google DeepMind open-sources WeatherNext cyclone AI",
-  "summary": "Google DeepMind's WeatherNext AI model achieves a breakthrough in cyclone forecasting, providing an extra day of warning for deadly storms; the model has been open-sourced for global use.",
-  "actor": "Google DeepMind",
-  "ticker": null,
-  "materiality": 75,
-  "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-  "source_title": null,
-  "publisher": "Google DeepMind",
-  "permalink": "https://presentofai.com/e/10809"
  },
  {
   "id": 10480,
