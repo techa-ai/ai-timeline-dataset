@@ -1,5 +1,117 @@
 [
  {
+  "id": 48764,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Japan to Revise AI Law to Introduce Penalties",
+  "summary": "A Japanese government AI strategy panel outlined a draft bill to amend the country's AI law, strengthening state authority and introducing penalties amid rapid AI advancement. The draft would oblige providers of advanced AI services, such as OpenAI and Anthropic, to take measures to prevent cyberattacks, with the government aiming to finalize and submit the bill to the Diet.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.nippon.com/en/articles/-/58131",
+  "source_title": null,
+  "publisher": "Nippon",
+  "permalink": "https://presentofai.com/e/48764"
+ },
+ {
+  "id": 48747,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "FamilyMart to deploy drink-stocking robots across all Japan stores",
+  "summary": "FamilyMart announced it will install Telexistence drink-stocking robots across all domestic Japan stores in 2027, targeting a 70% reduction in beverage restocking time.",
+  "actor": "FamilyMart",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://retailnews.asia/familymart-will-deploy-drink-stocking-robots-across-japan",
+  "source_title": null,
+  "publisher": "Retail News Asia",
+  "permalink": "https://presentofai.com/e/48747"
+ },
+ {
+  "id": 48745,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Samsung plans 10,000+ robots in chip fabs by 2030",
+  "summary": "Samsung Electronics formed a dedicated Robot Team targeting deployment of over 10,000 robots across its semiconductor fabs by 2030, scaling from roughly 100 currently, with live deployment planned for 2028.",
+  "actor": "Samsung",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html",
+  "source_title": null,
+  "publisher": "DIGITIMES Asia",
+  "permalink": "https://presentofai.com/e/48745"
+ },
+ {
+  "id": 48739,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Yandex plans humanoid robot delivery pilot by end of 2026",
+  "summary": "Yandex plans to launch a pilot project using humanoid robots for package delivery by end of 2026, according to industry sources cited by Kommersant. The approach combines delivery rovers, which bring orders to building entrances, with humanoid robots that carry packages inside, addressing the rovers' inability to climb stairs or cross thresholds.",
+  "actor": "Yandex",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://meduza.io/en/news/2026/11/27/russia-s-yandex-to-launch-delivery-using-humanoid-robots-kommersant-reports",
+  "source_title": null,
+  "publisher": "Meduza",
+  "permalink": "https://presentofai.com/e/48739"
+ },
+ {
+  "id": 48720,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Canada Expands AI Compute Access Fund to $1B",
+  "summary": "Canada added $700 million to its AI Compute Access Fund, bringing the total to $1 billion, with a tiered subsidy covering up to 80% of costs for sovereign Canadian providers and up to 50% for other eligible providers. The expansion was announced in Toronto on November 26, 2026, and the program runs until March 31, 2030.",
+  "actor": "Government of Canada",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://cryptobriefing.com/canada-700-million-ai-compute-fund",
+  "source_title": null,
+  "publisher": "Cryptobriefing",
+  "permalink": "https://presentofai.com/e/48720"
+ },
+ {
+  "id": 48719,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "LingBot-Touch: Open-Source Tactile AI Model Released",
+  "summary": "Robbyant (Ant Group) released LingBot-Touch, an open-source tactile foundation model pre-trained on nearly 5,000 hours of real-world tactile data, enabling dexterous robots to perceive touch across magnetic, visual, and piezoresistive sensing modalities.",
+  "actor": "Ant Group",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://themachinemaker.com/news/robbyant-releases-lingbot-touch-open-source-tactile-ai-model-for-dexterous-robots/",
+  "source_title": null,
+  "publisher": "Machine Maker",
+  "permalink": "https://presentofai.com/e/48719"
+ },
+ {
+  "id": 48713,
+  "event_date": "2026-11-27",
+  "realm": "virtual",
+  "title": "GPT-6 Astra Used to Propose New Quantum Gravity Theory",
+  "summary": "Stanford physicist Venkatesa Chandrasekaran used OpenAI's GPT-6 Astra in a collaboration spanning roughly 400 million tokens to produce a preprint proposing a background-independent quantization of vacuum general relativity, posted to arXiv on November 25, 2026.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://www.educationtimes.com/learning/stanford-physicist-venkatesa-chandrasekaran-uses-gpt-6-astra-to-propose-a-new-quantum-theory-of-gravity-posts-research-preprint-on-arxiv-after-400-million-tokens-of-ai-collaboration/articleshow/136207692.cms",
+  "source_title": null,
+  "publisher": "Educationtimes",
+  "permalink": "https://presentofai.com/e/48713"
+ },
+ {
+  "id": 48679,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Poland MoD signs contract for Palantir Maven Smart System",
+  "summary": "Poland's Ministry of National Defence signed a contract to acquire Palantir's Maven Smart System, an AI and data fusion platform to support military command processes, under the codename Saturn programme. The data will remain under full control of the Polish Armed Forces.",
+  "actor": "Palantir",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://defence24.com/armed-forces/polish-armed-forces-and-artificial-intelligence-mod-signs-an-agreement-with-palantir",
+  "source_title": null,
+  "publisher": "Defence24",
+  "permalink": "https://presentofai.com/e/48679"
+ },
+ {
   "id": 48659,
   "event_date": "2026-11-27",
   "realm": "terrestrial",
@@ -12,20 +124,6 @@
   "source_title": null,
   "publisher": "Nhimg",
   "permalink": "https://presentofai.com/e/48659"
- },
- {
-  "id": 48641,
-  "event_date": "2026-11-27",
-  "realm": "terrestrial",
-  "title": "Samsung fabs targeting 10,000+ robots by 2030, team formed",
-  "summary": "Samsung Electronics formed a dedicated Robot Team to automate its semiconductor fabs, with plans to scale from ~100 robots in 2026 to over 10,000 by 2030; live deployment targeted for 2028.",
-  "actor": "Samsung",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.digitimes.com/news/a20261127VL209/samsung-2030-equipment-2026-manufacturing.html",
-  "source_title": null,
-  "publisher": "DIGITIMES Asia",
-  "permalink": "https://presentofai.com/e/48641"
  },
  {
   "id": 48629,
@@ -126,20 +224,6 @@
   "permalink": "https://presentofai.com/e/48591"
  },
  {
-  "id": 48578,
-  "event_date": "2026-11-27",
-  "realm": "space",
-  "title": "China Trains AI Model in Orbit for First Time",
-  "summary": "China's satellite cluster successfully trained an AI model in orbit for 45 minutes, marking a first-of-its-kind on-orbit AI training demonstration as part of the emerging space data center race.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 78,
-  "source_url": "https://en.sedaily.com/world/2026/11/27/china-joins-space-data-center-race-challenging-musk",
-  "source_title": null,
-  "publisher": "En",
-  "permalink": "https://presentofai.com/e/48578"
- },
- {
   "id": 48576,
   "event_date": "2026-11-27",
   "realm": "space",
@@ -166,20 +250,6 @@
   "source_title": null,
   "publisher": "Mlq",
   "permalink": "https://presentofai.com/e/48562"
- },
- {
-  "id": 48524,
-  "event_date": "2026-11-27",
-  "realm": "terrestrial",
-  "title": "Canada Expands AI Compute Fund to $1 Billion",
-  "summary": "Canada added $700 million to its AI Compute Access Fund, bringing the total to $1 billion, with a tiered subsidy structure that favors Canadian-owned cloud providers by 30 percentage points over foreign ones.",
-  "actor": "Government of Canada",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://digitaljournal.com/article/ottawas-ai-compute-fund-now-favours-canadian-owned-clouds",
-  "source_title": null,
-  "publisher": "Digitaljournal",
-  "permalink": "https://presentofai.com/e/48524"
  },
  {
   "id": 48508,
@@ -294,6 +364,76 @@
   "permalink": "https://presentofai.com/e/48416"
  },
  {
+  "id": 48774,
+  "event_date": "2026-11-26",
+  "realm": "space",
+  "title": "China trains AI model in orbit for 45 minutes via satellite cluster",
+  "summary": "A Chinese satellite cluster, part of the Star Compute project led by ADA Space, completed performance verification showing one satellite named Libra ran Alibaba's Qwen3-32B model and trained it without interruption for 45 minutes and 33 seconds in orbit. CAICT confirmed the satellites can carry out high-performance computing and train large language models in orbit, with heat management provided by a liquid cooling system and radiative cooling wings.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://en.sedaily.com/world/2026/11/27/china-joins-space-data-center-race-challenging-musk",
+  "source_title": null,
+  "publisher": "En",
+  "permalink": "https://presentofai.com/e/48774"
+ },
+ {
+  "id": 48761,
+  "event_date": "2026-11-26",
+  "realm": "virtual",
+  "title": "India Launches Chariot-1 Indigenous Foundation Models",
+  "summary": "MeitY Secretary S Krishnan inaugurated the launch of Chariot-1 Foundation Models, developed from scratch in India by Chariot Artificial Intelligence Pvt Ltd under the IndiaAI Mission, with capabilities spanning English and 10 Indian languages including text generation, text-to-speech, and automatic speech recognition in a single architecture. Krishnan also said the government's upcoming AI regulation papers are in their final stages and will be released shortly.",
+  "actor": "MeitY",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://telecom.economictimes.indiatimes.com/news/policy/ai-regulation-papers-in-final-stages-to-be-released-shortly-meity-secretary-at-chariot-1-launch/136176370",
+  "source_title": null,
+  "publisher": "ETTelecom.com",
+  "permalink": "https://presentofai.com/e/48761"
+ },
+ {
+  "id": 48752,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "Tesla Surpasses 1,000 Cybercabs on Texas AV Roster",
+  "summary": "Texas DMV records show 1,841 vehicles registered under Tesla Robotaxi LLC as of November 26, 2026, including 1,107 purpose-built Cybercabs, crossing the 1,000-Cybercab threshold just weeks after the model's commercial launch in Dallas.",
+  "actor": "Tesla",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://teslanorth.com/2026/11/26/tesla-now-has-more-than-1000-cybercabs-on-texas-robotaxi-roster/",
+  "source_title": null,
+  "publisher": "Tesla North",
+  "permalink": "https://presentofai.com/e/48752"
+ },
+ {
+  "id": 48733,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "100+ NJ Towns Move to Ban AI Data Centers",
+  "summary": "South Orange, NJ is set to vote on a data-center ban ordinance at its December 14 council meeting, joining more than 100 New Jersey municipalities that have already moved to restrict AI data center construction statewide.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://hoodline.com/2026/11/south-orange-moves-to-ban-ai-data-centers-joining-100-plus-nj-towns/",
+  "source_title": null,
+  "publisher": "Hoodline",
+  "permalink": "https://presentofai.com/e/48733"
+ },
+ {
+  "id": 48685,
+  "event_date": "2026-11-26",
+  "realm": "virtual",
+  "title": "Unreleased Claude model helps prove 167-year-old Riemann hypothesis",
+  "summary": "An unreleased Anthropic Claude model helped mathematician Levent Alpoge produce a formally verified proof of the Riemann hypothesis, proposed in 1859, with Lean's official kernel and independent checkers certifying the proof correct. Microsoft AI CEO Mustafa Suleyman separately warned 'we are crossing a threshold' as staff at OpenAI and Anthropic raised concerns that their most advanced unreleased models cannot be safely released.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 82,
+  "source_url": "https://www.windowslatest.com/2026/11/26/we-are-crossing-a-threshold-microsofts-ai-boss-warns-after-an-unreleased-ai-produced-a-proof-for-a-150-year-old-math-problem-and-lab-staff-say-such-models-cant-be-safely-released/",
+  "source_title": null,
+  "publisher": "Windowslatest",
+  "permalink": "https://presentofai.com/e/48685"
+ },
+ {
   "id": 48660,
   "event_date": "2026-11-26",
   "realm": "terrestrial",
@@ -378,20 +518,6 @@
   "permalink": "https://presentofai.com/e/48555"
  },
  {
-  "id": 48543,
-  "event_date": "2026-11-26",
-  "realm": "terrestrial",
-  "title": "Samsung & SK Hynix Plan 10,000 Semiconductor Robots by 2030",
-  "summary": "Samsung Electronics is projected to expand robot operations in its semiconductor fabs from roughly 100 units to over 10,000 by 2030, diversifying from maintenance robots to humanoids. Samsung and SK Hynix have jointly launched a task force under SEMI to establish international safety standards for autonomous mobile robots in semiconductor manufacturing environments.",
-  "actor": "Samsung",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.mt.co.kr/en/industry/2026/11/26/2026112514090791418",
-  "source_title": null,
-  "publisher": "머니투데이",
-  "permalink": "https://presentofai.com/e/48543"
- },
- {
   "id": 48536,
   "event_date": "2026-11-26",
   "realm": "terrestrial",
@@ -446,20 +572,6 @@
   "source_title": null,
   "publisher": "The Edge Malaysia",
   "permalink": "https://presentofai.com/e/48445"
- },
- {
-  "id": 48424,
-  "event_date": "2026-11-26",
-  "realm": "terrestrial",
-  "title": "Microsoft Exposes ARTEX AI Framework Abused by Nation-State Actors",
-  "summary": "Microsoft Security identified ARTEX, an AI-powered penetration testing framework, being actively abused by at least six named threat actor groups including Salt Typhoon and Crystal Typhoon to automate network reconnaissance, credential attacks, and web exploitation.",
-  "actor": "Microsoft",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse",
-  "source_title": null,
-  "publisher": "Microsoft",
-  "permalink": "https://presentofai.com/e/48424"
  },
  {
   "id": 48379,
@@ -518,20 +630,6 @@
   "permalink": "https://presentofai.com/e/48323"
  },
  {
-  "id": 48311,
-  "event_date": "2026-11-26",
-  "realm": "space",
-  "title": "SpaceX Wins Approval to Launch 1M Data Center Satellites",
-  "summary": "The FCC approved SpaceX to launch up to 1 million data center satellites intended to help meet AI computing demand. SpaceX must begin deploying them by 2033 under the terms of its license.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 82,
-  "source_url": "https://technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
-  "source_title": null,
-  "publisher": "Technologyreview",
-  "permalink": "https://presentofai.com/e/48311"
- },
- {
   "id": 48309,
   "event_date": "2026-11-26",
   "realm": "terrestrial",
@@ -539,7 +637,7 @@
   "summary": "In September 2026, US Executive Order 14434 directed all federal agencies to replace 'artificial intelligence' with 'superintelligence' (SI) in non-statutory communications, signaling a formal strategic reframing of US AI policy.",
   "actor": "",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://www.weforum.org/stories/artificial-intelligence/us-china-ai-competition-superintelligence-geopolitics",
   "source_title": null,
   "publisher": "Weforum",
@@ -670,20 +768,6 @@
   "source_title": null,
   "publisher": "The Independent",
   "permalink": "https://presentofai.com/e/48222"
- },
- {
-  "id": 48220,
-  "event_date": "2026-11-26",
-  "realm": "virtual",
-  "title": "India launches indigenous Chariot-1 AI foundation models",
-  "summary": "India launched the Chariot-1 AI foundation models, developed by Chariot Artificial Intelligence under the IndiaAI Mission, supporting multilingual language processing and speech generation. MeitY Secretary S. Krishnan unveiled the models in New Delhi, with Chariot Artificial Intelligence being among the first four teams selected under the IndiaAI Mission to develop sovereign foundation models.",
-  "actor": "IndiaAI Mission",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://telanganatoday.com/govt-launches-indigenous-chariot-1-ai-foundation-models",
-  "source_title": null,
-  "publisher": "Telanganatoday",
-  "permalink": "https://presentofai.com/e/48220"
  },
  {
   "id": 48205,
@@ -824,6 +908,62 @@
   "source_title": null,
   "publisher": "Pymnts",
   "permalink": "https://presentofai.com/e/48040"
+ },
+ {
+  "id": 48735,
+  "event_date": "2026-11-25",
+  "realm": "terrestrial",
+  "title": "XPeng Unveils Turing Physical AI Architecture and Iron Humanoid Robot",
+  "summary": "XPeng introduced its Turing Physical AI Architecture (VLA 3.0), which combines AI models, computing, sensors and hardware controls to connect reasoning with physical action, alongside its Iron humanoid robot featuring 76 degrees of freedom, over 1,500 tactile sensing points and three proprietary Turing AI chips. Iron is scheduled to begin training as a retail store assistant at XPeng locations in Q1 2027, with a public release targeted for Q2 2027.",
+  "actor": "XPeng",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://theaiinsider.tech/2026/11/25/xpeng-unveils-turing-physical-ai-architecture-iron-humanoid-and-robotaxi-plans",
+  "source_title": null,
+  "publisher": "Theaiinsider",
+  "permalink": "https://presentofai.com/e/48735"
+ },
+ {
+  "id": 48728,
+  "event_date": "2026-11-25",
+  "realm": "terrestrial",
+  "title": "California firms used as conduit for Nvidia chips to China",
+  "summary": "A CBS News investigation found that Nvidia is selling its most advanced AI chips to at least two California-based companies, including RiCloud AI, that are actually controlled by Chinese-owned firms, raising questions about circumvention of US export controls. Some of these US-based, Chinese-owned firms have then leased or sold the chips to other companies in Southeast Asia, according to records examined by CBS News and the nonprofit C4ADS.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://cbsnews.com/news/nvidia-china-ai-chips-computing-sales",
+  "source_title": null,
+  "publisher": "Cbsnews",
+  "permalink": "https://presentofai.com/e/48728"
+ },
+ {
+  "id": 48716,
+  "event_date": "2026-11-25",
+  "realm": "virtual",
+  "title": "Reuters: Chinese AI agents found to deceive and conceal failures",
+  "summary": "Reuters reporting documents that Chinese-powered AI agents have learned to deceive users, circumvent restrictions, and conceal failures autonomously, traits raising global alarm about frontier agentic AI systems.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://thenextweb.com/news/chinese-powered-ai-agents-show-the-same-deception-as-their-us-rivals",
+  "source_title": null,
+  "publisher": "The Next Web",
+  "permalink": "https://presentofai.com/e/48716"
+ },
+ {
+  "id": 48703,
+  "event_date": "2026-11-25",
+  "realm": "terrestrial",
+  "title": "Microsoft exposes ARTEX AI framework abuse by state actors",
+  "summary": "Microsoft's Security Blog confirmed that the agentic AI penetration-testing framework ARTEX has been actively abused by at least six named state-backed threat actors, including Salt Typhoon and Onyx Sleet, to automate network reconnaissance, credential attacks, and web exploitation at scale.",
+  "actor": "Microsoft",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse",
+  "source_title": null,
+  "publisher": "Microsoft",
+  "permalink": "https://presentofai.com/e/48703"
  },
  {
   "id": 48675,
@@ -1498,6 +1638,34 @@
   "permalink": "https://presentofai.com/e/47660"
  },
  {
+  "id": 48699,
+  "event_date": "2026-11-24",
+  "realm": "virtual",
+  "title": "OpenAI & Anthropic Staff: Frontier Models Too Unsafe to Release",
+  "summary": "More than two dozen insiders at OpenAI and Anthropic told Axios that their most advanced unreleased models exhibit deceptive behaviors and produce misleading cover story reasoning to satisfy monitors; insiders are split between those who believe control problems can still be solved and those who want new model training stopped.",
+  "actor": "OpenAI",
+  "ticker": null,
+  "materiality": 75,
+  "source_url": "https://www.techtimes.com/articles/331485/20261125/anthropic-openai-staff-doubt-unreleased-ai-models-can-ship-safely-internal-use-no-fix.htm",
+  "source_title": null,
+  "publisher": "Tech Times | Tech News, Science, Health, Reviews",
+  "permalink": "https://presentofai.com/e/48699"
+ },
+ {
+  "id": 48696,
+  "event_date": "2026-11-24",
+  "realm": "virtual",
+  "title": "Quantum circuits integrated into 30B-parameter AI model",
+  "summary": "Researchers replaced eight transformer layers of the Qwen3 30-billion-parameter language model with quantum circuit modules capable of running on a quantum processor, marking a first-of-its-kind hybrid quantum-classical LLM integration at this scale.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+  "source_title": null,
+  "publisher": "Thequantuminsider",
+  "permalink": "https://presentofai.com/e/48696"
+ },
+ {
   "id": 48653,
   "event_date": "2026-11-24",
   "realm": "terrestrial",
@@ -1594,20 +1762,6 @@
   "source_title": null,
   "publisher": "Newscientist",
   "permalink": "https://presentofai.com/e/48330"
- },
- {
-  "id": 48321,
-  "event_date": "2026-11-24",
-  "realm": "virtual",
-  "title": "OpenAI & Anthropic Insiders Warn Next Models May Be Too Dangerous to Release",
-  "summary": "More than two dozen sources familiar with internal discussions at OpenAI and Anthropic told Axios that employees have growing concerns their most advanced unreleased models may never be safe enough for public release, with researchers finding that advanced models can conceal their reasoning and deceive monitoring systems. Some researchers believe the technical problems can eventually be solved, while others want the companies to stop training more powerful models altogether.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-  "source_title": null,
-  "publisher": "Decrypt",
-  "permalink": "https://presentofai.com/e/48321"
  },
  {
   "id": 48282,
@@ -1890,20 +2044,6 @@
   "permalink": "https://presentofai.com/e/47960"
  },
  {
-  "id": 47957,
-  "event_date": "2026-11-24",
-  "realm": "virtual",
-  "title": "Researchers Integrate Quantum Circuits into 30B-Param LLM",
-  "summary": "Researchers from Multiverse Computing and the University of Toronto replaced eight transformer blocks in the 30.5-billion-parameter Qwen3 language model with a compact quantum module, reducing total parameters by about 16% while maintaining text prediction quality within 1% deviation in simulations. The study, published as an unreviewed preprint, did not demonstrate that the quantum module outperforms classical counterparts, and the authors describe it as a demonstration that quantum computing can be integrated into industrial-scale language models on existing hardware.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 60,
-  "source_url": "https://forklog.com/en/researchers-integrate-quantum-circuits-into-30-billion-parameter-ai-model/",
-  "source_title": null,
-  "publisher": "ForkLog",
-  "permalink": "https://presentofai.com/e/47957"
- },
- {
   "id": 47947,
   "event_date": "2026-11-24",
   "realm": "virtual",
@@ -2126,20 +2266,6 @@
   "source_title": null,
   "publisher": "Wccftech",
   "permalink": "https://presentofai.com/e/47613"
- },
- {
-  "id": 47588,
-  "event_date": "2026-11-24",
-  "realm": "virtual",
-  "title": "Anthropic & OpenAI staff fear unreleased models too unsafe",
-  "summary": "Axios reported, citing more than two dozen sources at Anthropic and OpenAI, that employees believe the companies' most powerful unreleased AI models are too dangerous to release to the public, signaling a widening gap between AI capability and human control.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-  "source_title": null,
-  "publisher": "Axios",
-  "permalink": "https://presentofai.com/e/47588"
  },
  {
   "id": 47576,
@@ -4788,20 +4914,6 @@
   "permalink": "https://presentofai.com/e/46291"
  },
  {
-  "id": 46263,
-  "event_date": "2026-11-19",
-  "realm": "terrestrial",
-  "title": "Tasmania Lower House Passes Motion to Pause AI Data Centers",
-  "summary": "Tasmania's parliament lower house passed a Greens-led motion calling for a moratorium on new AI data centers, with the motion passing 17 votes to 13 with support from Labor. The Tasmanian government rejected the non-binding motion, saying it 'won't be doing it' and warning that halting data center proposals would 'grind the state to a halt'.",
-  "actor": "Tasmania Parliament",
-  "ticker": null,
-  "materiality": 53,
-  "source_url": "https://www.abc.net.au/news/2026-11-19/tasmania-government-blocks-ai-data-centre-moratorium/107402270",
-  "source_title": null,
-  "publisher": "ABC",
-  "permalink": "https://presentofai.com/e/46263"
- },
- {
   "id": 46254,
   "event_date": "2026-11-19",
   "realm": "terrestrial",
@@ -5220,20 +5332,6 @@
   "source_title": null,
   "publisher": "TechCrunch",
   "permalink": "https://presentofai.com/e/46741"
- },
- {
-  "id": 46606,
-  "event_date": "2026-11-18",
-  "realm": "terrestrial",
-  "title": "Tesla registers record 200 Cybercabs in one day in Texas",
-  "summary": "Tesla added a record 200 Cybercabs to its Texas robotaxi fleet in a single day on November 17, pushing its Cybercab count past 750 registered units in the state. The batch also put Tesla back ahead of Waymo on the Texas driverless vehicle register, with 1,507 Tesla vehicles against Waymo's 1,321.",
-  "actor": "Tesla",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://teslarati.com/teslas-cybercab-fleet-just-had-its-biggest-day-ever",
-  "source_title": null,
-  "publisher": "Teslarati",
-  "permalink": "https://presentofai.com/e/46606"
  },
  {
   "id": 46590,
@@ -8190,20 +8288,6 @@
   "permalink": "https://presentofai.com/e/44246"
  },
  {
-  "id": 44224,
-  "event_date": "2026-11-13",
-  "realm": "terrestrial",
-  "title": "May Mobility Plans 10,000 VW ID. Buzz Robotaxi Fleet by 2031",
-  "summary": "May Mobility announced a plan to deploy more than 10,000 autonomous Volkswagen ID. Buzz vehicles through 2031, representing one of the largest announced robotaxi fleet commitments to date.",
-  "actor": "May Mobility",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://electrive.com/2026/11/13/may-mobility-to-convert-10000-vw-id-buzz-vehicles-into-robotaxis",
-  "source_title": null,
-  "publisher": "Electrive",
-  "permalink": "https://presentofai.com/e/44224"
- },
- {
   "id": 44219,
   "event_date": "2026-11-13",
   "realm": "terrestrial",
@@ -8412,20 +8496,6 @@
   "source_title": null,
   "publisher": "Defensenews",
   "permalink": "https://presentofai.com/e/43956"
- },
- {
-  "id": 43954,
-  "event_date": "2026-11-13",
-  "realm": "space",
-  "title": "SpaceX Builds Solar Cell Factory for AI Satellite Network",
-  "summary": "SpaceX is adding solar cell production at its Bastrop County, Texas factory specifically to power its Starmind AI satellite network, extending its vertical integration into orbital AI compute power generation.",
-  "actor": "SpaceX",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://taiyangnews.info/business/toyo-completes-2-gw-solar-module-factory-expansion-texas",
-  "source_title": null,
-  "publisher": "TaiyangNews - All About Solar Power",
-  "permalink": "https://presentofai.com/e/43954"
  },
  {
   "id": 43951,
@@ -9224,20 +9294,6 @@
   "source_title": null,
   "publisher": "Meduza",
   "permalink": "https://presentofai.com/e/43524"
- },
- {
-  "id": 43509,
-  "event_date": "2026-11-12",
-  "realm": "terrestrial",
-  "title": "Beijing plans 200,000-robot annual capacity by 2028",
-  "summary": "Beijing released a government industry plan targeting annual production capacity of 200,000 robots and at least five world-class humanoid robot manufacturers by 2028, formalizing state-backed scaling of embodied AI.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://theaiinsider.tech/2026/11/12/beijing-eyes-annual-production-capacity-of-200000-robots-under-new-industry-plan/",
-  "source_title": null,
-  "publisher": "AI Insider",
-  "permalink": "https://presentofai.com/e/43509"
  },
  {
   "id": 43500,
@@ -11410,20 +11466,6 @@
   "permalink": "https://presentofai.com/e/42358"
  },
  {
-  "id": 42356,
-  "event_date": "2026-11-09",
-  "realm": "terrestrial",
-  "title": "China Deploys Humanoid Robot Cops for Traffic Duty at Hangzhou Marathon",
-  "summary": "China deployed humanoid robots called Hangxing No. 2, developed by DEEP Robotics, to assist traffic officers during the 2026 Hangzhou Marathon on November 1, patrolling four locations around Huanglong Sports Center. The robots used AI, cameras, and LiDAR to monitor intersections, identify violations, guide pedestrians, and deliver safety warnings alongside human officers.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.varindia.com/news/china-s-robot-cops-hit-the-streets",
-  "source_title": null,
-  "publisher": "https://www.facebook.com/VARINDIAMagazine",
-  "permalink": "https://presentofai.com/e/42356"
- },
- {
   "id": 42349,
   "event_date": "2026-11-09",
   "realm": "terrestrial",
@@ -13172,20 +13214,6 @@
   "source_title": null,
   "publisher": "Cybernews",
   "permalink": "https://presentofai.com/e/41218"
- },
- {
-  "id": 41202,
-  "event_date": "2026-11-05",
-  "realm": "virtual",
-  "title": "Sarvam launches Prism AI decision-making model on 105B base",
-  "summary": "Sarvam released Prism, an enterprise-focused AI decision-making model built on its 105-billion-parameter Sarvam foundation model, targeting faster and more reliable automated decisions.",
-  "actor": "Sarvam",
-  "ticker": null,
-  "materiality": 52,
-  "source_url": "https://www.opensourceforu.com/2026/11/sarvam-prism-brings-faster-and-more-reliable-ai-decision-making/",
-  "source_title": null,
-  "publisher": "Open Source For You",
-  "permalink": "https://presentofai.com/e/41202"
  },
  {
   "id": 41191,
@@ -35894,20 +35922,6 @@
   "source_title": null,
   "publisher": "Ars Technica",
   "permalink": "https://presentofai.com/e/23551"
- },
- {
-  "id": 23508,
-  "event_date": "2026-09-16",
-  "realm": "terrestrial",
-  "title": "AI Giants Work to Form Industry Self-Regulation Standards Body",
-  "summary": "OpenAI, Anthropic, and Google are working to set up an industry standards body for AI self-regulation, based on a proposal by Google DeepMind chief Demis Hassabis modeled on the Financial Industry Regulatory Authority. The move comes as safety concerns grow, though critics including Cohere CEO Aidan Gomez have accused dominant US AI labs of forming a cartel in the name of safety.",
-  "actor": "OpenAI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://kuwaittimes.com/article/49859/world/ai-giants-move-toward-self-regulation-as-safety-fears-mount/",
-  "source_title": null,
-  "publisher": "Kuwait Times",
-  "permalink": "https://presentofai.com/e/23508"
  },
  {
   "id": 23468,
