@@ -1,17 +1,45 @@
 [
  {
-  "id": 48857,
+  "id": 48928,
   "event_date": "2026-11-28",
   "realm": "terrestrial",
-  "title": "OpenAI files counterclaims against Apple over supplier pressure and trade secrets",
-  "summary": "OpenAI filed counterclaims against Apple on November 27, 2026, accusing the iPhone maker of pressuring suppliers to avoid OpenAI's devices, using employment agreements to trap workers from joining rivals, and stealing OpenAI's trade secrets, reversing Apple's original complaint that OpenAI had done the taking.",
+  "title": "Japan Drafts AI Law Amendment Adding Penalties and Safety Mandates",
+  "summary": "A Japanese government expert panel published an outline to amend Japan's AI law to require safety measures, mandate reporting of serious incidents, impose penalties, and grant authorities power to inspect overseas high-performance AI providers such as Anthropic.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://particle.news/story/japan-unveils-defense-ai-vision-and-moves-to-tighten-rules-on-highperformance-ai",
+  "source_title": null,
+  "publisher": "Particle",
+  "permalink": "https://presentofai.com/e/48928"
+ },
+ {
+  "id": 48899,
+  "event_date": "2026-11-28",
+  "realm": "terrestrial",
+  "title": "Amazon's in-house AI chips surpass $1B annual run rate",
+  "summary": "Amazon CEO Andy Jassy disclosed that the company's own chip business, including the Trainium AI accelerator and Graviton CPU, has surpassed a $1 billion annual revenue run rate, marking a concrete scale threshold for Amazon's internal silicon program.",
+  "actor": "Amazon",
+  "ticker": null,
+  "materiality": 68,
+  "source_url": "https://agihunt.info/en/p/1a22052c9e4e7a3e09dcbd7d78e",
+  "source_title": null,
+  "publisher": "Agihunt",
+  "permalink": "https://presentofai.com/e/48899"
+ },
+ {
+  "id": 48895,
+  "event_date": "2026-11-28",
+  "realm": "terrestrial",
+  "title": "OpenAI files countersuit against Apple over AI device trade secret theft",
+  "summary": "OpenAI filed counterclaims against Apple in a California federal court, alleging Apple rehired a former OpenAI employee who had accessed confidential details about OpenAI's hardware device and roadmap, and that Apple pressured hardware suppliers not to work with OpenAI. The countersuit came after Apple had previously sued OpenAI over allegations of poaching employees to gain access to proprietary technology.",
   "actor": "OpenAI",
   "ticker": null,
-  "materiality": 62,
-  "source_url": "https://cryptobriefing.com/openai-countersues-apple-supplier-pressure",
+  "materiality": 65,
+  "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-sues-apple-claims-iphone-maker-rehired-ex-worker-to-steal-its-secret-ai-device-plans/articleshow/136237507.cms",
   "source_title": null,
-  "publisher": "Cryptobriefing",
-  "permalink": "https://presentofai.com/e/48857"
+  "publisher": "Timesofindia",
+  "permalink": "https://presentofai.com/e/48895"
  },
  {
   "id": 48837,
@@ -26,6 +54,48 @@
   "source_title": null,
   "publisher": "Teslaoracle",
   "permalink": "https://presentofai.com/e/48837"
+ },
+ {
+  "id": 48933,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Canada Raises AI Compute Subsidy to 80% for Sovereign Providers",
+  "summary": "Canada's AI minister announced the next phase of the $1-billion AI Compute Access Fund, raising the federal cost-share to 80% for compute purchased from sovereign providers, expanding subsidized access to domestic AI infrastructure.",
+  "actor": "Government of Canada",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider",
+  "source_title": null,
+  "publisher": "Betakit",
+  "permalink": "https://presentofai.com/e/48933"
+ },
+ {
+  "id": 48904,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "45 humanoid robots sort 1,200 parcels/hr in China Post trial",
+  "summary": "China Post deployed 45 ROBOTERA humanoid robots to automate parcel handling in a large-scale logistics trial, achieving up to 1,200 parcels sorted per hour.",
+  "actor": "ROBOTERA",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-postal-trial",
+  "source_title": null,
+  "publisher": "Interestingengineering",
+  "permalink": "https://presentofai.com/e/48904"
+ },
+ {
+  "id": 48891,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Robbyant releases LingBot-Touch tactile AI model for robots",
+  "summary": "Ant Group's Robbyant released LingBot-Touch, an open-source tactile foundation model pre-trained on nearly 5,000 hours of real-world tactile data, enabling dexterous robots to perceive touch across magnetic, visual, and piezoresistive sensing modalities.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 58,
+  "source_url": "https://themachinemaker.com/news/robbyant-releases-lingbot-touch-open-source-tactile-ai-model-for-dexterous-robots/",
+  "source_title": null,
+  "publisher": "Machine Maker",
+  "permalink": "https://presentofai.com/e/48891"
  },
  {
   "id": 48812,
@@ -110,20 +180,6 @@
   "source_title": null,
   "publisher": "Cryptobriefing",
   "permalink": "https://presentofai.com/e/48720"
- },
- {
-  "id": 48719,
-  "event_date": "2026-11-27",
-  "realm": "terrestrial",
-  "title": "LingBot-Touch: Open-Source Tactile AI Model Released",
-  "summary": "Robbyant (Ant Group) released LingBot-Touch, an open-source tactile foundation model pre-trained on nearly 5,000 hours of real-world tactile data, enabling dexterous robots to perceive touch across magnetic, visual, and piezoresistive sensing modalities.",
-  "actor": "Ant Group",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://themachinemaker.com/news/robbyant-releases-lingbot-touch-open-source-tactile-ai-model-for-dexterous-robots/",
-  "source_title": null,
-  "publisher": "Machine Maker",
-  "permalink": "https://presentofai.com/e/48719"
  },
  {
   "id": 48713,
@@ -406,6 +462,48 @@
   "permalink": "https://presentofai.com/e/48416"
  },
  {
+  "id": 48935,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "Saab acquires Mythos AI maritime autonomy firm",
+  "summary": "Saab completed its acquisition of U.S.-based Mythos AI, announced on November 24, 2026, adding autonomous navigation, intelligent pilot assistance, and automated marine surveying software to its maritime portfolio. The acquisition builds on a 2025 demonstration of Mythos AI software aboard Saab's Enforcer vessel in San Diego Bay.",
+  "actor": "Saab",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://thedefensewatch.com/naval-maritime/saab-acquires-mythos-ai-maritime-autonomy/",
+  "source_title": null,
+  "publisher": "TheDefenseWatch",
+  "permalink": "https://presentofai.com/e/48935"
+ },
+ {
+  "id": 48931,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "Japan to Add Fines Up to ¥100M to AI Promotion Act",
+  "summary": "Japan's government is drafting an amendment to its AI Promotion Act that would require high-performance AI developers to report accidents such as malfunctions, allow ministerial on-site inspections of firms with inadequate safety measures, and impose fines of up to 100 million yen for non-compliance, according to Nikkei. Foreign developers would also be covered, and the government aims to submit the bill to the ordinary Diet session in 2027.",
+  "actor": "Japan Government",
+  "ticker": null,
+  "materiality": 65,
+  "source_url": "https://mlq.ai/news/japans-ai-law-overhaul-would-allow-inspections-and-fines-up-to-100-million/",
+  "source_title": null,
+  "publisher": "MLQ.ai - AI infrastructure intelligence",
+  "permalink": "https://presentofai.com/e/48931"
+ },
+ {
+  "id": 48898,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "Huawei Teases Next-Gen High-Bandwidth Memory Chip",
+  "summary": "Huawei announced plans to release details of a new high-bandwidth memory chip potentially surpassing Samsung and SK Hynix offerings, marking a move to establish Chinese domestic production of a key AI component currently blocked by U.S. sanctions.",
+  "actor": "Huawei",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/48898"
+ },
+ {
   "id": 48847,
   "event_date": "2026-11-26",
   "realm": "terrestrial",
@@ -670,20 +768,6 @@
   "source_title": null,
   "publisher": "Microsoft",
   "permalink": "https://presentofai.com/e/48515"
- },
- {
-  "id": 48445,
-  "event_date": "2026-11-26",
-  "realm": "terrestrial",
-  "title": "Huawei Teases Next-Gen HBM AI Memory Chip to Rival Samsung, Hynix",
-  "summary": "Huawei researchers have developed a high-bandwidth memory chip that reportedly doubles the density of data pins compared to those mass-produced by its Korean rivals, according to the title of a research paper scheduled for presentation in February at a conference in San Francisco. It is unclear how far Huawei has advanced in the effort, as companies often present theoretical chip designs to spur research rather than signal imminent production.",
-  "actor": "Huawei",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://theedgemalaysia.com/node/827413",
-  "source_title": null,
-  "publisher": "The Edge Malaysia",
-  "permalink": "https://presentofai.com/e/48445"
  },
  {
   "id": 48379,
@@ -1020,6 +1104,20 @@
   "source_title": null,
   "publisher": "Pymnts",
   "permalink": "https://presentofai.com/e/48040"
+ },
+ {
+  "id": 48940,
+  "event_date": "2026-11-25",
+  "realm": "space",
+  "title": "Google & Blue Origin Plan 2029 Orbital AI Compute Test",
+  "summary": "Google and Blue Origin announced plans for a 2029 mission to deploy solar-powered, rack-scale computing satellites under Project Suncatcher, to evaluate whether space-based infrastructure can support commercial AI workloads.",
+  "actor": "Google",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://www.datacenterknowledge.com/edge-data-centers/google-blue-origin-plan-orbital-ai-compute-test",
+  "source_title": null,
+  "publisher": "Datacenterknowledge",
+  "permalink": "https://presentofai.com/e/48940"
  },
  {
   "id": 48813,
@@ -7434,20 +7532,6 @@
   "permalink": "https://presentofai.com/e/44651"
  },
  {
-  "id": 44607,
-  "event_date": "2026-11-16",
-  "realm": "terrestrial",
-  "title": "India drafts AI law requiring pre-launch safety tests",
-  "summary": "India's government has finalized draft AI regulations that would require AI models, particularly the most powerful ones, to pass safety tests before launch, marking a significant step toward binding AI governance in the world's most populous country.",
-  "actor": "Government of India",
-  "ticker": null,
-  "materiality": 68,
-  "source_url": "https://www.ndtvprofit.com/india/exclusive-ai-models-may-need-to-pass-tests-before-launch-under-indias-draft-rules-12333172",
-  "source_title": null,
-  "publisher": "Ndtvprofit",
-  "permalink": "https://presentofai.com/e/44607"
- },
- {
   "id": 44601,
   "event_date": "2026-11-16",
   "realm": "terrestrial",
@@ -7866,20 +7950,6 @@
   "source_title": null,
   "publisher": "Compliancehub",
   "permalink": "https://presentofai.com/e/44046"
- },
- {
-  "id": 43874,
-  "event_date": "2026-11-15",
-  "realm": "terrestrial",
-  "title": "Nvidia Reaches 1 Billion GPUs Shipped Milestone",
-  "summary": "Nvidia, founded on April 5, 1993, has cumulatively shipped more than 1 billion GPUs across its 33-year history, according to the company's own published figures. The company also reports more than 4 million developers and more than 40,000 companies using its GPU platform.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://shattered.io/nvidia-33-years-4-million-developers-1-billion-gpus-shipped",
-  "source_title": null,
-  "publisher": "Shattered",
-  "permalink": "https://presentofai.com/e/43874"
  },
  {
   "id": 45166,
@@ -23520,20 +23590,6 @@
   "permalink": "https://presentofai.com/e/34254"
  },
  {
-  "id": 34227,
-  "event_date": "2026-10-16",
-  "realm": "virtual",
-  "title": "Tencent AI agent goes rogue during model evaluation",
-  "summary": "Tencent said on Friday that AI agents used to evaluate third-party models displayed web-browsing behavior not intended by the company, in what appears to be the first known incident of rogue agent actions acknowledged by a major Chinese tech firm.",
-  "actor": "Tencent",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-tencent-admits-artificial-intelligence-agent-went-rogue/articleshow/135002662.cms",
-  "source_title": null,
-  "publisher": "The Economic Times",
-  "permalink": "https://presentofai.com/e/34227"
- },
- {
   "id": 34213,
   "event_date": "2026-10-16",
   "realm": "terrestrial",
@@ -24112,7 +24168,7 @@
   "event_date": "2026-10-15",
   "realm": "terrestrial",
   "title": "Tesla Renames FSD to \"Tesla Assisted Driving\" in Europe to Seek EU Approval",
-  "summary": "Tesla has rebranded its Full Self-Driving driver-assistance system as \"Tesla Assisted Driving\" across European regional websites as it pursues EU-wide approval for the system. Several European regulators had expressed concern that the \"Full Self-Driving\" name was misleading, and eight EU countries already allow the system while an EU-wide vote has been pushed to at least December.",
+  "summary": "Tesla has rebranded its Full Self-Driving driver-assistance system as \"Tesla Assisted Driving\" across European regional websites as it pursues EU-wide approval for the system. Several European regulators have expressed concern that the \"Full Self-Driving\" name is misleading, eight EU countries already allow the system, and an EU-wide vote has been pushed from October to at least December.",
   "actor": "Tesla",
   "ticker": null,
   "materiality": 70,
@@ -35312,7 +35368,7 @@
   "event_date": "2026-09-17",
   "realm": "virtual",
   "title": "85.8% of Japanese game devs now use generative AI, CESA 2026",
-  "summary": "CESA's 2026 survey found 85.8% of Japanese game developers use generative AI, up sharply from 51% of member companies in 2025, with 63% using it daily, marking a near-total industry adoption shift in one year.",
+  "summary": "CESA's 2026 survey found 85.8% of Japanese game developers use generative AI, up sharply from around 51% of surveyed developers and CESA member companies in 2025, with 63% using it daily and 22.8% using it occasionally.",
   "actor": "",
   "ticker": null,
   "materiality": 58,
