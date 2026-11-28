@@ -1,5 +1,47 @@
 [
  {
+  "id": 49010,
+  "event_date": "2026-11-28",
+  "realm": "terrestrial",
+  "title": "Ohio bill introduced to authorize statewide driverless car rules",
+  "summary": "Ohio House Bill 1034, introduced by Rep. Adam Holmes, would establish the first statewide regulatory framework for autonomous vehicles in Ohio, covering safety requirements, insurance, and legal liability for traffic violations.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 55,
+  "source_url": "https://nbc4i.com/news/politics/ohio-bill-would-authorize-operation-of-driverless-cars-on-public-roads-set-guardrails",
+  "source_title": null,
+  "publisher": "Nbc4I",
+  "permalink": "https://presentofai.com/e/49010"
+ },
+ {
+  "id": 48996,
+  "event_date": "2026-11-28",
+  "realm": "terrestrial",
+  "title": "Toyota Plans 400,000-Robot Deployment Across Group Companies",
+  "summary": "Toyota unveiled a robot deployment plan worth trillions of yen targeting a cumulative 400,000 robots across its group companies, representing one of the largest announced commitments to embodied AI in manufacturing.",
+  "actor": "Toyota",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://finance.biggo.com/news/1cfc1d69-b7ba-4e85-a81c-225047b339ae",
+  "source_title": null,
+  "publisher": "Finance",
+  "permalink": "https://presentofai.com/e/48996"
+ },
+ {
+  "id": 48944,
+  "event_date": "2026-11-28",
+  "realm": "virtual",
+  "title": "AI Models Reported to Crack Encryption-Related Math Problems",
+  "summary": "The Guardian reports well-attested rumours, confirmed by theoretical computer scientist Scott Aaronson, that powerful AI models have made breakthroughs on decades-old mathematics problems underpinning global encryption. Experts warn that banks, governments, and spy agencies may need to rapidly update their encryption foundations, though no concrete announcements have come from AI companies.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 88,
+  "source_url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+  "source_title": null,
+  "publisher": "The Guardian",
+  "permalink": "https://presentofai.com/e/48944"
+ },
+ {
   "id": 48928,
   "event_date": "2026-11-28",
   "realm": "terrestrial",
@@ -54,6 +96,34 @@
   "source_title": null,
   "publisher": "Teslaoracle",
   "permalink": "https://presentofai.com/e/48837"
+ },
+ {
+  "id": 48981,
+  "event_date": "2026-11-27",
+  "realm": "terrestrial",
+  "title": "Singapore in talks with US to retain advanced AI chip access",
+  "summary": "Singapore's Deputy Prime Minister Gan Kim Yong confirmed the country is in active negotiations with Washington to retain access to advanced AI semiconductors after the US tightened chip export restrictions to Southeast Asia, including halting Nvidia shipments to Malaysia, Singapore, Thailand, and Indonesia.",
+  "actor": "US Government",
+  "ticker": null,
+  "materiality": 62,
+  "source_url": "https://bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+  "source_title": null,
+  "publisher": "Bloomberg",
+  "permalink": "https://presentofai.com/e/48981"
+ },
+ {
+  "id": 48956,
+  "event_date": "2026-11-27",
+  "realm": "virtual",
+  "title": "NVIDIA releases open-weight autoregressive image-gen model 30B",
+  "summary": "NVIDIA released Nemotron-Labs-Image-30B-A3B as a free open-weight autoregressive image-generation model, departing from the diffusion-model paradigm and integrating with its Nemotron-Labs-VisualCreation system.",
+  "actor": "NVIDIA",
+  "ticker": null,
+  "materiality": 63,
+  "source_url": "https://finance.biggo.com/news/5b81bf48-0b95-4f94-878e-1510fa82a572",
+  "source_title": null,
+  "publisher": "BigGo Finance",
+  "permalink": "https://presentofai.com/e/48956"
  },
  {
   "id": 48933,
@@ -133,7 +203,7 @@
   "summary": "FamilyMart announced it will install Telexistence drink-stocking robots across all domestic Japan stores in 2027, targeting a 70% reduction in beverage restocking time.",
   "actor": "FamilyMart",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 68,
   "source_url": "https://retailnews.asia/familymart-will-deploy-drink-stocking-robots-across-japan",
   "source_title": null,
   "publisher": "Retail News Asia",
@@ -252,34 +322,6 @@
   "permalink": "https://presentofai.com/e/48628"
  },
  {
-  "id": 48624,
-  "event_date": "2026-11-27",
-  "realm": "terrestrial",
-  "title": "Singapore enters talks with US to retain advanced AI chip access",
-  "summary": "Singapore's Deputy Prime Minister Gan Kim Yong confirmed the city-state is in active negotiations with Washington to maintain access to advanced semiconductors following the latest round of US AI chip export restrictions.",
-  "actor": "Singapore Government",
-  "ticker": null,
-  "materiality": 58,
-  "source_url": "https://www.theinformation.com/briefings/singapore-talks-u-s-keep-ai-chip-access",
-  "source_title": null,
-  "publisher": "The Information",
-  "permalink": "https://presentofai.com/e/48624"
- },
- {
-  "id": 48615,
-  "event_date": "2026-11-27",
-  "realm": "terrestrial",
-  "title": "Nvidia pauses AI server shipments to SE Asia over US export controls",
-  "summary": "Nvidia instructed partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia following tighter US export controls aimed at keeping sensitive AI technologies out of Chinese hands. Taiwan-based chip packaging and testing firms ASE and KYEC reported no order cancellations and said Nvidia GPU production remained on schedule.",
-  "actor": "Nvidia",
-  "ticker": null,
-  "materiality": 72,
-  "source_url": "https://cryptobriefing.com/ase-no-order-cancellations-nvidia-leap-target/",
-  "source_title": null,
-  "publisher": "Crypto Briefing",
-  "permalink": "https://presentofai.com/e/48615"
- },
- {
   "id": 48603,
   "event_date": "2026-11-27",
   "realm": "terrestrial",
@@ -348,20 +390,6 @@
   "source_title": null,
   "publisher": "Mlq",
   "permalink": "https://presentofai.com/e/48562"
- },
- {
-  "id": 48508,
-  "event_date": "2026-11-27",
-  "realm": "virtual",
-  "title": "NVIDIA releases open-weight image model Nemotron-Labs-Image-30B-A3B",
-  "summary": "NVIDIA released Nemotron-Labs-Image-30B-A3B, a 30-billion-parameter open-weight image generation model using an autoregressive architecture rather than diffusion, claiming it surpasses GPT-Image-2 in benchmark performance.",
-  "actor": "NVIDIA",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://wccftech.com/nvidia-quietly-releases-open-weights-for-nemotron-labs-image-30b-a3b/",
-  "source_title": null,
-  "publisher": "Wccftech",
-  "permalink": "https://presentofai.com/e/48508"
  },
  {
   "id": 48504,
@@ -460,6 +488,34 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/48416"
+ },
+ {
+  "id": 48975,
+  "event_date": "2026-11-26",
+  "realm": "terrestrial",
+  "title": "Nvidia halts AI server shipments to SE Asia amid new US export rules",
+  "summary": "Following new US Department of Commerce export rules, Nvidia instructed manufacturing partners including Dell and Supermicro to suspend AI server shipments to Malaysia, Singapore, Thailand, and Indonesia; cloud providers must obtain licenses within 90 days to prove end users are not restricted parties.",
+  "actor": "Nvidia",
+  "ticker": null,
+  "materiality": 78,
+  "source_url": "https://see.news/nvidia-halts-ai-server-shipments-to-4-southeast-asian-countries",
+  "source_title": null,
+  "publisher": "Sada Elbalad english",
+  "permalink": "https://presentofai.com/e/48975"
+ },
+ {
+  "id": 48966,
+  "event_date": "2026-11-26",
+  "realm": "virtual",
+  "title": "Chariot AI launches 11B-parameter LLM for Indian languages",
+  "summary": "Chariot AI, backed by India's government-run IndiaAI Mission, released Chariot-1: an 11 billion parameter mixture-of-experts LLM and a text-to-speech model supporting 10 Indian languages, marking a first-of-its-kind sovereign AI model suite under the IndiaAI Mission.",
+  "actor": "Chariot AI",
+  "ticker": null,
+  "materiality": 60,
+  "source_url": "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models/",
+  "source_title": null,
+  "publisher": "Inc42 Media",
+  "permalink": "https://presentofai.com/e/48966"
  },
  {
   "id": 48935,
@@ -672,20 +728,6 @@
   "permalink": "https://presentofai.com/e/48660"
  },
  {
-  "id": 48599,
-  "event_date": "2026-11-26",
-  "realm": "virtual",
-  "title": "India's Chariot AI launches 11B-parameter multilingual LLM",
-  "summary": "Chariot AI, backed by India's MeitY under the IndiaAI Mission, unveiled an 11 billion parameter mixture-of-experts LLM and a text-to-speech model supporting 10 Indian languages.",
-  "actor": "Chariot AI",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://inc42.com/buzz/indiaai-mission-backed-chariot-ai-unveils-11-bn-parameter-llm-speech-models/",
-  "source_title": null,
-  "publisher": "Inc42 Media",
-  "permalink": "https://presentofai.com/e/48599"
- },
- {
   "id": 48581,
   "event_date": "2026-11-26",
   "realm": "terrestrial",
@@ -852,20 +894,6 @@
   "source_title": null,
   "publisher": "The Guardian",
   "permalink": "https://presentofai.com/e/48293"
- },
- {
-  "id": 48292,
-  "event_date": "2026-11-26",
-  "realm": "terrestrial",
-  "title": "Japan Drafts Law Requiring ID Checks for Cyber-Capable AI",
-  "summary": "Japan's draft AI legislation would require frontier AI providers to verify the identities of users accessing cyber-capable models, refuse attack-related queries, and report safety defects, with penalties for firms that defy corrective orders.",
-  "actor": "",
-  "ticker": null,
-  "materiality": 65,
-  "source_url": "https://www.techtimes.com/articles/331574/20261126/japan-ai-law-draft-would-make-providers-verify-identities-cyber-capable-ai-users.htm",
-  "source_title": null,
-  "publisher": "Techtimes",
-  "permalink": "https://presentofai.com/e/48292"
  },
  {
   "id": 48272,
@@ -1048,20 +1076,6 @@
   "source_title": null,
   "publisher": "The Decoder",
   "permalink": "https://presentofai.com/e/48058"
- },
- {
-  "id": 48053,
-  "event_date": "2026-11-26",
-  "realm": "virtual",
-  "title": "Baidu releases open-weight ERNIE 5.5 Flash Preview reasoning model",
-  "summary": "Baidu released ERNIE 5.5 Flash Preview, a 280-billion-parameter mixture-of-experts reasoning model, under the Apache 2.0 license for free commercial use, modification, and redistribution. The model activates only 14 billion parameters per token and generates more than 200 tokens per second, according to Baidu.",
-  "actor": "Baidu",
-  "ticker": null,
-  "materiality": 62,
-  "source_url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-  "source_title": null,
-  "publisher": "Decrypt",
-  "permalink": "https://presentofai.com/e/48053"
  },
  {
   "id": 48051,
@@ -1834,6 +1848,20 @@
   "permalink": "https://presentofai.com/e/47660"
  },
  {
+  "id": 48976,
+  "event_date": "2026-11-24",
+  "realm": "virtual",
+  "title": "ARTEX AI agent tool linked to US spy agency breach",
+  "summary": "A cybersecurity breach exposed unclassified information at the CIA, NGA, and ODNI, targeting an open-source intelligence analysis system. Investigators suspect the intrusion involved Artex, an AI-powered hacking tool developed by a Chinese engineer and publicly released in July 2026, though no one has been identified as responsible.",
+  "actor": "",
+  "ticker": null,
+  "materiality": 72,
+  "source_url": "https://www.outlookindia.com/international/us-cyberattack-2026-cia-hacked-us-intelligence-agencies-data-breach-nga-odni-artex-ai-hacking-tool-china-cyber-threat",
+  "source_title": null,
+  "publisher": "Outlook India",
+  "permalink": "https://presentofai.com/e/48976"
+ },
+ {
   "id": 48699,
   "event_date": "2026-11-24",
   "realm": "virtual",
@@ -2009,7 +2037,7 @@
   "summary": "Meta launched its Muse personal AI agent in Britain. The Financial Conduct Authority said it was supportive of the safe adoption of agentic AI but would set out specific expectations for developers, and sought broad stakeholder engagement to identify regulatory requirements for AI agent services.",
   "actor": "Meta",
   "ticker": null,
-  "materiality": 65,
+  "materiality": 72,
   "source_url": "https://m.economictimes.com/tech/artificial-intelligence/uk-financial-regulator-seeks-to-set-expectations-for-agentic-ai/articleshow/136124958.cms",
   "source_title": null,
   "publisher": "The Economic Times",
@@ -2784,20 +2812,6 @@
   "source_title": null,
   "publisher": "Wisevoter",
   "permalink": "https://presentofai.com/e/47870"
- },
- {
-  "id": 47868,
-  "event_date": "2026-11-23",
-  "realm": "virtual",
-  "title": "Sarvam AI Launches Open-Source 105B Indian-Language Model",
-  "summary": "Bengaluru-based Sarvam AI released Sarvam-105B-1711 on November 22, an open-source 105-billion-parameter mixture-of-experts model with improvements to reasoning, tool-calling, and Indian-language support. Co-founder Pratyush Kumar said the model is priced at Rs. 25 per million output tokens, and the weights along with inference and training recipes are publicly available.",
-  "actor": "Sarvam AI",
-  "ticker": null,
-  "materiality": 55,
-  "source_url": "https://www.freepressjournal.in/tech/indias-sarvam-ai-launches-upgraded-105b-model-claims-google-level-performance-at-lower-cost",
-  "source_title": null,
-  "publisher": "Free Press Journal",
-  "permalink": "https://presentofai.com/e/47868"
  },
  {
   "id": 47860,
@@ -12897,14 +12911,14 @@
   "id": 41184,
   "event_date": "2026-11-06",
   "realm": "space",
-  "title": "AMD Samples Space-Grade Versal AI Core SoC",
-  "summary": "AMD began sampling the XQRVC1902 Versal AI Core adaptive SoC in a space-grade lidless organic package, targeting 15-year GEO, cislunar, and deep-space onboard AI missions, a first-of-kind Class Y-targeted AI chip for space.",
+  "title": "AMD Samples Versal AI Core XQRVC1902 SoC in Enhanced Space-Grade Package",
+  "summary": "AMD announced it is sampling the Versal AI Core XQRVC1902 adaptive SoC in an enhanced space-grade organic lidless package with early access customers. The package is designed for space missions lasting up to 15 years, with Class Y flight-qualified units expected in the second half of 2027.",
   "actor": "AMD",
   "ticker": null,
   "materiality": 68,
-  "source_url": "https://www.eetasia.com/embeddedblog-amd-sampling-versal-ai-core-adaptive-soc-in-enhanced-space-grade-package-for-the-most-demanding-missions/",
+  "source_url": "https://newsroom.amd.com/news/amd-sampling-versal-ai-core-adaptive-soc/",
   "source_title": null,
-  "publisher": "EETimes Asia",
+  "publisher": "AMD Newsroom",
   "permalink": "https://presentofai.com/e/41184"
  },
  {
@@ -35340,7 +35354,7 @@
   "event_date": "2026-09-17",
   "realm": "terrestrial",
   "title": "Connecticut CART Act takes effect Oct 1, regulating AI chatbots for children",
-  "summary": "Connecticut's CART Act, effective October 1, requires AI chatbot providers serving children to implement self-harm detection protocols and parental controls, and prohibits romantic or sexual interactions with minors. The act also requires employers to provide written notice when AI is used in employment decisions and bans AI-based employment discrimination.",
+  "summary": "Connecticut's CART Act, effective October 1, requires AI chatbot providers serving children to implement self-harm detection protocols and parental controls, and prohibits romantic or sexual interactions with minors. The act also requires employers to provide written notice when AI is used in employment decisions and bans companies from using AI to discriminate against employees.",
   "actor": "Connecticut",
   "ticker": null,
   "materiality": 63,
@@ -58944,7 +58958,7 @@
   "event_date": "2026-07-18",
   "realm": "terrestrial",
   "title": "MLB bans AI-assisted in-game strategy via dugout iPads",
-  "summary": "Major League Baseball officially restricted iPad usage in dugouts to prevent teams from running AI tools for real-time in-game strategy decisions, marking the first formal AI-use ban in a major U.S. professional sports league.",
+  "summary": "Major League Baseball restricted iPad usage in dugouts starting July 18, 2026, making custom tabs inaccessible to prevent teams from using AI tools for real-time strategy decisions such as pitch calling and substitutions. Former reliever Adam Ottavino said the New York Mets' use of an expensive AI program was a key factor that prompted the move.",
   "actor": "",
   "ticker": null,
   "materiality": 55,
